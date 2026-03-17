@@ -5,10 +5,10 @@
 ## Team name
 
 ## Pillar
-Thriving Families
+Thriving Economy
 
 ## User
-Who is the primary user (teen, employer, maternal health researcher, nonprofit staff)?
+Who is the primary user (contractor, entrepreneur, jobseeker, staff)?
 
 ## Problem
 What exact problem are you solving?
@@ -17,7 +17,7 @@ What exact problem are you solving?
 Why does this matter in Richmond?
 
 ## Alignment
-Which Thriving Families theme does this align to (youth employment pathways, job readiness, employer friction, maternal health data coordination, family economic stability)?
+Which Thriving Economy theme does this align to (contracting access, small business navigation, workforce pathways, etc.)?
 
 ## Proposed solution
 What are you building?
@@ -36,20 +36,18 @@ What are you building?
 What will actually work by demo day?
 
 ## What this project does not do
--
--
--
+- 
+- 
+- 
 
 ## Risks and limitations
--
--
--
-
-## Privacy note
-How does this project protect privacy, especially for minor users?
+- 
+- 
+- 
 
 ## Demo plan
 What will you show in the live demo?
 
 ## Longer-term potential
 What could this become after the hackathon?
+

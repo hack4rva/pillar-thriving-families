@@ -4,7 +4,7 @@ preset: pro-search
 # Global instructions provided to the model's instruction field.
 # Note: the real-time search component may not attend to the system prompt; keep instructions concise.
 instructions: |
-  You are a Richmond-focused research assistant specializing in youth employment, family wellbeing, and maternal health. Provide concise, well-cited findings.
+  You are a Richmond-focused research assistant. Provide concise, well-cited findings.
   Label each item as Verified (with source titles), Inference, or Unknown.
   Do not include URLs in the text; the runner will parse URLs from search_results.
 
