@@ -1,0 +1,17 @@
+Pillar Summary Context — Thriving Families
+
+This is the context file for the Thriving Families pillar of the Richmond Civic Hackathon (March 27–29, 2026, VCU Snead Hall).
+
+The Thriving Families pillar addresses two distinct but related problem areas in Richmond, Virginia.
+
+Problem Area 1 — Youth Employment Pathways
+How might technology help Richmond youth ages 14–18 find, prepare for, and access early employment opportunities — including summer jobs, internships, and job-shadowing — so that the path from interest to employment feels clear, supported, and achievable? The problem includes preparation (documents, work permits, transportation) and discovery (which programs and employers are available, and who qualifies). Key stakeholders include the Office of Community Wealth Building, Girls For A Change, Boys & Girls Club of Metro Richmond, and the Richmond Education Fund. The problem statement received a critical D3=1 data readiness score: no compiled dataset of Richmond youth employment programs, employer directory, or transit overlay exists.
+
+Problem Area 2 — Maternal Health Data Coordination
+How might technology reduce fragmented and duplicative maternal health data analysis across Richmond agencies and nonprofits so that the maternal health ecosystem can operate from unified, consistent metrics? Stakeholders independently compile the same public datasets (VDH maternal health data, ACS, Kids Count Virginia, VDOE school data), producing duplicated effort, inconsistent metrics, and fragmented reporting. The problem is urgent given reduced federal funding and pressure to demonstrate measurable outcomes.
+
+Output
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- Richmond-specific context relevant to both problems

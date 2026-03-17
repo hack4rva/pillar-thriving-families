@@ -1,0 +1,15 @@
+MVP Feasibility H1 — 48-Hour Build Framework for Thriving Families
+
+Develop a practical 48-hour build framework for civic-tech teams working on the Thriving Families pillar. The framework should cover both problem areas and help teams scope to what is actually achievable.
+
+Cover: how to allocate time across content curation, data access, UI development, and testing; what the minimum credible demo looks like for each MVP shape; which decisions must be made before Saturday morning to avoid mid-build scope pivots; and how to handle the D3=1 data problem for youth employment (build with curated content, not live data).
+
+Include a sample 48-hour schedule for a team of 3 working on a youth employment pathway guide.
+
+Output
+- 48-hour build framework with time allocation guidance
+- Minimum credible demo definition per MVP shape
+- Pre-hackathon decisions that must be locked
+- Sample schedule for a 3-person team
+- Inferences (clearly labeled)
+- Unknowns

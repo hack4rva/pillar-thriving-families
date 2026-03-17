@@ -1,0 +1,14 @@
+Data Inventory D1 — Virginia Youth Labor Laws and Work Permit Requirements
+
+Research the complete Virginia youth labor law framework for employment of minors. Focus on what a teen ages 14–18 and their employer need to know to comply with state law.
+
+Cover: minimum age for employment by job type, work permit requirements (who issues them, what form is used, what parental consent process applies), hour restrictions by age (school year vs. summer), prohibited occupations for minors, and any Richmond-specific additions.
+
+Cite the specific Virginia Code sections (DOLI), official forms, and agency guidance documents. This information will be used to build a plain-language guide for teens — so accuracy is critical.
+
+Output
+- Verified facts with Virginia Code citations and DOLI source titles
+- Plain-language summary of key requirements by age group
+- Work permit process step-by-step (from official sources)
+- Inferences (clearly labeled)
+- Unknowns (where official guidance is ambiguous)

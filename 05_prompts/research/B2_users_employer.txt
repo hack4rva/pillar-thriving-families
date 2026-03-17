@@ -1,0 +1,13 @@
+User & Stakeholder B2 — Personas: Richmond Employer Considering Hiring Youth
+
+Identify the likely employer personas for a Richmond youth employment connector tool. Focus on small and medium Richmond employers who might hire teens for entry-level positions: retail, food service, trades, office support, community organizations, and nonprofits.
+
+Describe: what each employer wants from a youth hire, what they are uncertain or confused about (Virginia youth labor laws, work permit verification, hour restrictions), what experience they have had (or not had) hiring teens before, and what would increase their confidence in hiring a young person.
+
+Include at least one employer with no prior youth hiring experience and one who has hired youth before.
+
+Output
+- 3–5 employer personas with goals, knowledge gaps, and friction points
+- Key questions each employer would ask before posting a youth position
+- Inferences (clearly labeled)
+- Unknowns

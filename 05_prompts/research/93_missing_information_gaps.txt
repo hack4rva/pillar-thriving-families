@@ -1,0 +1,20 @@
+Cross-Cutting — Missing Information Gaps
+
+Identify the most critical information gaps blocking high-quality MVP development in the Thriving Families pillar for Richmond, Virginia.
+
+Cover both problem areas: youth employment pathways and maternal health data coordination. For each gap, assess whether it is bridgeable in 48 hours, who could provide the missing information, and what the consequence is of building without it.
+
+Key known gaps to analyze:
+- No compiled list of Richmond youth employment programs (D3=1)
+- No employer directory for youth-friendly businesses
+- Virginia youth labor law plain-language summary not published
+- GRTC transit overlay for employer/program locations not compiled
+- VDH maternal health data URL and format unconfirmed
+- ACS table codes for Richmond maternal indicators not documented in this repo
+- Tools currently used by Richmond maternal health organizations unknown
+
+Output
+- Gap inventory with severity rating
+- Workaround strategy for each gap (what to do in 48 hours without the missing information)
+- Inferences (clearly labeled)
+- Unknowns

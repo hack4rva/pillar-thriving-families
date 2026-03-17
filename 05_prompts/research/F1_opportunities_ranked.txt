@@ -1,0 +1,14 @@
+Opportunities F1 — Ranked Opportunity Spaces for Thriving Families
+
+Synthesize research from across the Thriving Families problem landscape to produce a ranked list of opportunity spaces for civic tech teams. Rank by: clarity of user need, data tractability in 48 hours, demo credibility, realistic impact, and safety (low harm potential).
+
+Include opportunities in both youth employment and maternal health. For each opportunity: describe the user, the unmet need, the simplest technology approach, the data required, and the risk level.
+
+Rank from most to least recommended for a weekend hackathon team.
+
+Output
+- Ranked opportunity list (1 = most recommended) with rationale
+- Data and skill requirements per opportunity
+- Risk assessment per opportunity
+- Inferences (clearly labeled)
+- Unknowns

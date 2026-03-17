@@ -1,0 +1,13 @@
+Problem Landscape A1 — Youth Employment Access in Richmond
+
+Investigate the real-world shape of the youth employment access problem in Richmond, Virginia. Using only verifiable public information and clearly labeled inferences, explain where the difficulty actually occurs for a Richmond teen seeking their first job: discovering available opportunities, understanding eligibility, completing required preparation (documents, work permits, parental consent), navigating transportation, and successfully applying.
+
+Focus on: what programs exist and who operates them, what the Virginia work permit process requires for teens under 18, what transportation barriers affect access, and what role (if any) technology currently plays in connecting youth to opportunities.
+
+Cite any Richmond-specific organizations, programs, or policies you can verify.
+
+Output
+- Facts (with source titles)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- Assessment of primary friction points in the teen-to-first-job pathway

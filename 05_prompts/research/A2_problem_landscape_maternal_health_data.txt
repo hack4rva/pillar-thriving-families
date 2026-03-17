@@ -1,0 +1,13 @@
+Problem Landscape A2 — Maternal Health Data Fragmentation in Richmond
+
+Investigate the real-world shape of the maternal health data coordination problem in Richmond, Virginia. Using only verifiable public information and clearly labeled inferences, explain: which organizations independently compile maternal health data, what datasets they typically use, why inconsistencies arise, and what the concrete harms are of fragmented and duplicated analysis.
+
+Focus on: documented maternal health disparities in Richmond (especially racial disparities), which public data sources cover maternal health in Virginia, how Richmond compares to state and national benchmarks, and what the specific pain is for a nonprofit researcher or agency analyst doing this work.
+
+Cite verifiable Virginia-specific or Richmond-specific sources wherever possible.
+
+Output
+- Facts (with source titles)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- Assessment of primary friction points in the maternal health data workflow

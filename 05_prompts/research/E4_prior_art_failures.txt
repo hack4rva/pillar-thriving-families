@@ -1,0 +1,14 @@
+Prior Art E4 — Failures and Cautionary Tales in Youth Employment and Health Tech
+
+Research documented failures, abandoned projects, or cautionary cases in civic technology for youth employment and public health data tools. Focus on cases where tools were built but not adopted, caused unintended harm, or failed due to data quality issues, sustainability problems, or scope mismatch.
+
+Cover: youth employment apps that failed to gain adoption, health data tools that became outdated or misleading, civic-tech projects that overclaimed impact, and cases where privacy or safety issues emerged in youth-facing tools.
+
+Assess: what failure modes are most relevant to the Thriving Families pillar, and what design decisions could prevent them in a Richmond hackathon prototype.
+
+Output
+- Failure case inventory with failure type and lesson
+- Most relevant failure modes for Thriving Families
+- Design decisions that reduce failure risk
+- Inferences (clearly labeled)
+- Unknowns

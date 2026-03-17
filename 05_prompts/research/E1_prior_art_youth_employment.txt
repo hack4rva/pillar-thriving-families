@@ -1,0 +1,15 @@
+Prior Art E1 — National Youth Employment Technology Tools
+
+Research the landscape of technology tools designed to help urban youth ages 14–18 find, prepare for, and access employment. Focus on tools that have been deployed in US cities (not just concept projects) and that serve teens without strong adult support networks.
+
+Cover: YouthWorks Boston, NYC Summer Youth Employment Program tools, Pathways to Prosperity, CareerOneStop youth tools, and any other notable examples. For each: describe what the tool does, who built it, what data it uses, and what the user experience is.
+
+Assess: what makes each tool succeed or fail, what design patterns appear across successful tools, and what Richmond-specific adaptations would be needed.
+
+Output
+- Tool inventory with description, builder, data source, and user experience notes
+- Success/failure assessment
+- Design patterns worth borrowing
+- What Richmond specifically lacks that these tools have
+- Inferences (clearly labeled)
+- Unknowns

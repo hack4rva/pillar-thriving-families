@@ -1,0 +1,13 @@
+MVP Feasibility H5 — Scope Boundary Decisions for Thriving Families
+
+Generate a set of specific, binary scope boundary decisions that Thriving Families hackathon teams must make before building. For each decision: state the two options, which is recommended, and why.
+
+Cover decisions across both problem areas:
+- Youth employment: should the tool show program listings or only document preparation guidance? Should it include transit directions or only program locations? Should it have any user account or saved state? Should it serve employers or only teens?
+- Maternal health: should the tool show live data or use cached/curated data? Should it cover all Richmond health issues or only maternal health? Should it produce downloadable reports or only a dashboard view? Should it be for public audiences or only for researchers?
+
+Output
+- Decision inventory with recommended choice and rationale
+- Risk of choosing the wrong option for each decision
+- Inferences (clearly labeled)
+- Unknowns

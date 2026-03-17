@@ -1,0 +1,15 @@
+Risks G5 — Guardrail Design for Thriving Families Tools
+
+Synthesize the risk landscape across both Thriving Families problem areas and produce a practical guardrail specification for hackathon teams.
+
+Cover: what language guardrails should be applied to all user-facing copy (disclaimers, source citations, "verify with the program" language), what features should never be built (no eligibility determination, no PII storage for minors, no clinical guidance), what partners should be consulted before public deployment, and what a responsible demo presentation looks like.
+
+Format guardrails as actionable checklist items that a team can review before their demo.
+
+Output
+- Guardrail checklist (actionable items)
+- Required disclaimer language by context (youth employment vs. maternal health)
+- Features requiring legal or expert review before deployment
+- What makes a demo responsible and credible
+- Inferences (clearly labeled)
+- Unknowns

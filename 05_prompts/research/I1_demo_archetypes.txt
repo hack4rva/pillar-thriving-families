@@ -1,0 +1,14 @@
+Demo Strategy I1 — Civic Tech Demo Archetypes
+
+Research the most effective demo archetypes for civic-tech hackathon presentations. Focus on demos that score well with judges evaluating real-world impact, technical credibility, and ethical responsibility.
+
+Cover: the problem-first narrative structure, the user journey walkthrough, the data credibility demonstration, the "what we deliberately did not build" framing, and the continuation pathway pitch. For each archetype: describe when to use it, what makes it effective, and what pitfalls to avoid.
+
+Assess which archetype works best for youth employment tools (guiding a specific user through a believable scenario) versus maternal health data tools (showing a researcher saving hours of work).
+
+Output
+- Demo archetype inventory with strengths and use cases
+- Script structure for each archetype
+- Specific recommendations for Thriving Families problem types
+- Inferences (clearly labeled)
+- Unknowns

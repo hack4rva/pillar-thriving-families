@@ -1,0 +1,14 @@
+Problem Landscape A4 — Teen-to-Employment Pathway: Where It Breaks Down
+
+Map the complete pathway a Richmond teen must navigate from "I want a job" to "I have started working." Identify each step, what is required, and where the pathway most commonly breaks down for teens without strong adult support networks.
+
+Steps to investigate: discovering programs and opportunities, determining eligibility, obtaining a work permit, gathering required documents (ID, Social Security card, parental consent), preparing a resume, attending an interview, navigating transportation to the job site, and completing first-day paperwork.
+
+Identify which steps are most opaque, most burdensome, and most likely to cause a motivated teen to give up.
+
+Output
+- Pathway map (step-by-step)
+- Friction points with severity rating (high / medium / low)
+- What adult support typically provides at each step (and what happens without it)
+- Inferences (clearly labeled)
+- Unknowns

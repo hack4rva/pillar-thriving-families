@@ -1,0 +1,15 @@
+MVP Feasibility H4 — Strategies for D3=1 Problems (No Pre-Existing Structured Data)
+
+Research strategies for building useful civic-tech MVPs when no structured dataset exists — specifically applicable to the Youth Employment problem in Richmond (D3=1 data readiness). This is a common challenge in civic hackathons.
+
+Cover: the content-curation approach (building a dataset from scratch using public web sources), how to scope the content asset to be credible without being exhaustive, how to design a UI that is valuable with 10–15 data points rather than hundreds, how to communicate data limitations honestly, and how to create a maintenance pathway so the curated content doesn't go stale immediately.
+
+Also cover: the tradeoffs between curated content (static, reliable for demo, requires maintenance) versus scraped data (potentially more complete, fragile, may violate terms of service).
+
+Output
+- Strategy guide for D3=1 problems
+- Content curation workflow and scope guidance
+- UI design principles for limited data sets
+- Maintenance pathway options
+- Inferences (clearly labeled)
+- Unknowns

@@ -1,0 +1,13 @@
+User & Stakeholder B1 — Personas: Richmond Teen Job Seeker (Ages 14–18)
+
+Identify the likely primary user personas for a Richmond youth employment pathway tool. Focus on teens ages 14–18 in Richmond, Virginia. Include variation by age (14–15 vs. 16–17 vs. 18), by support network strength (strong adult guidance vs. limited adult support), and by prior work experience.
+
+Describe: what each persona is trying to accomplish, what they likely already know, what they are confused about, what barriers they face (document preparation, transportation, digital access), and what questions they are asking at each stage of the job search process.
+
+Include at least one persona with a transportation barrier and one persona with limited adult guidance.
+
+Output
+- 3–5 personas with goals, knowledge, gaps, and barriers
+- Example first-step questions each persona would ask
+- Inferences (clearly labeled)
+- Unknowns

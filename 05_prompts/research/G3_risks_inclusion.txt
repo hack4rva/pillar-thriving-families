@@ -1,0 +1,14 @@
+Risks G3 — Inclusion and Equity Risks in Youth Employment Tools
+
+Research the inclusion and equity risks specific to a youth employment navigation tool targeting Richmond teens. Focus on risk of inadvertently excluding or underserving the teens who need the tool most.
+
+Cover: teens without smartphones or reliable home internet, teens with limited English proficiency, teens with disabilities or accessibility needs, teens in neighborhoods with poor transit access, and teens whose school or community context is not represented in a tool designed primarily for connected users.
+
+Assess: what the real population distribution of Richmond teens looks like across these dimensions, what design decisions reduce inclusion risk, and what the cost of ignoring these risks is.
+
+Output
+- Inclusion risk inventory with population affected and severity
+- Design mitigations for each risk
+- What is not solvable by design alone (and requires partnerships)
+- Inferences (clearly labeled)
+- Unknowns

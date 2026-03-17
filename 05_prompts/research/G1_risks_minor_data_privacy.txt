@@ -1,0 +1,14 @@
+Risks G1 — Minor Privacy and Data Protection (COPPA, FERPA)
+
+Research the privacy and data protection requirements most relevant to a youth-facing employment tool targeting Richmond teens ages 14–18.
+
+Cover: COPPA (Children's Online Privacy Protection Act) requirements for users under 13 and how they affect tools serving ages 13–18, FERPA (Family Educational Rights and Privacy Act) implications for tools connected to school programs, Virginia state privacy law requirements for minor users, and best practices for civic-tech tools that serve youth without collecting personal data.
+
+Assess: what specific features (checklists, progress tracking, account creation, form submissions) would trigger compliance requirements, and how to design around them.
+
+Output
+- Privacy requirement inventory with applicability to youth employment tools
+- Specific design guidance to avoid compliance triggers
+- Features that are safe vs. features that require legal review
+- Inferences (clearly labeled)
+- Unknowns (where legal guidance is unclear)

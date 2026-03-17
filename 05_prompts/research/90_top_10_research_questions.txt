@@ -1,0 +1,11 @@
+Cross-Cutting — Top 10 Research Questions
+
+Identify the 10 most important open research questions facing a civic hackathon team working on the Thriving Families pillar in Richmond, Virginia. Prioritize questions that: (a) are currently unanswered in the public record, (b) would most affect MVP design decisions, and (c) could be partially answered through weekend research.
+
+Include questions spanning both problem areas: youth employment pathways and maternal health data coordination.
+
+Output
+- 10 numbered questions
+- For each: why it matters for MVP design, what source might answer it, and whether it is answerable in 48 hours
+- Inferences (clearly labeled)
+- Unknowns

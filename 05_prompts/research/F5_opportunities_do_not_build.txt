@@ -1,0 +1,13 @@
+Opportunities F5 — What Not to Build (Thriving Families)
+
+Generate a clear, specific list of things a Thriving Families hackathon team should NOT build — with explanation of why each is dangerous, infeasible, or counterproductive.
+
+Cover: youth employment tools that would require legal compliance decisions, tools that store personal data about minors, employer certification or vetting systems, tools that imply official City endorsement, maternal health tools that make clinical recommendations, tools that claim to determine health eligibility, and tools that depend on unavailable private data.
+
+For each item: state what the harm or failure mode is, and propose a safer alternative that addresses the underlying need without the risk.
+
+Output
+- Do-not-build list with harm/failure mode explanation
+- Safer alternative for each
+- Inferences (clearly labeled)
+- Unknowns

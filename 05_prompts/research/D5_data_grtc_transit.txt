@@ -1,0 +1,17 @@
+Data Inventory D5 — GRTC Transit Data and Youth Employment Access
+
+Research the Greater Richmond Transit Company (GRTC) transit data that is publicly available. Focus on GTFS (General Transit Feed Specification) data: routes, stops, and schedules.
+
+Cover: where the GRTC GTFS feed is available for download, what the feed contains (routes, stops, lat/lon, schedules, frequencies), how current the data is, and what tools or libraries can be used to parse GTFS data in a 48-hour hackathon.
+
+Also assess: how a team could overlay youth employment program locations with GRTC stop proximity to produce "nearest bus stop" information for a program directory. What are the practical steps and time estimate for this analysis?
+
+Note any GRTC developer resources, API access, or open data portal listing.
+
+Output
+- GRTC GTFS access method and download location (source titles; runner will extract URLs)
+- GTFS schema overview (key files and fields)
+- Implementation guide for overlaying program addresses with GRTC stops
+- Time estimate for a team with basic Python/Pandas skills
+- Inferences (clearly labeled)
+- Unknowns
