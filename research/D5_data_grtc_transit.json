@@ -1,0 +1,143 @@
+{
+  "run_id": "trun_3cad0ebea15c480eaf39b5b7f412b975",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "GTFS feed: Greater Richmond Transit Company (GRTC)",
+      "url": "https://www.transit.land/feeds/f-grtc~va"
+    },
+    {
+      "title": "Transparency",
+      "url": "https://www.ridegrtc.com/community/transparency/"
+    },
+    {
+      "title": "f-grtc~va \u2022 65485d4bf43e85cadb6705eeb8a31e72ad581893",
+      "url": "https://www.transit.land/feeds/f-grtc~va/versions/65485d4bf43e85cadb6705eeb8a31e72ad581893"
+    },
+    {
+      "title": "f-grtc~va \u2022 1a99c130b5a4496258877bdb3fd99121cf78ccdb",
+      "url": "https://www.transit.land/feeds/f-grtc~va/versions/1a99c130b5a4496258877bdb3fd99121cf78ccdb"
+    },
+    {
+      "title": "Bus Tracking -GRTC",
+      "url": "https://www.ridegrtc.com/maps-and-schedules/bus-tracking/"
+    },
+    {
+      "title": "Bus Routes - Richmond",
+      "url": "https://www.ridegrtc.com/maps-and-schedules/system-map/"
+    },
+    {
+      "title": "Mobile Apps -GRTC",
+      "url": "https://www.ridegrtc.com/rider-guide/mobile-apps/"
+    },
+    {
+      "title": "Agency GRTC GTFS - Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/agency-grtc-gtfs"
+    },
+    {
+      "title": "Open Data Portal | City of Richmond, Virginia | Open Data Portal | City of Richmond, Virginia",
+      "url": "https://data.richmondgov.com/"
+    },
+    {
+      "title": "Shapes  GRTC GTFS - Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/shapes-grtc-gtfs"
+    },
+    {
+      "title": "GRTC: Home",
+      "url": "https://www.ridegrtc.com/"
+    },
+    {
+      "title": "Stops  GRTC GTFS - Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/stops-grtc-gtfs"
+    },
+    {
+      "title": "Routes  GRTC GTFS - Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/routes-grtc-gtfs"
+    },
+    {
+      "title": "Trips  GRTC GTFS - Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/trips-grtc-gtfs"
+    },
+    {
+      "title": "Open Data Portal | Richmond",
+      "url": "https://www.rva.gov/information-technology/open-data-portal"
+    },
+    {
+      "title": "GRTC route system maps - Datathon23 - Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/grtc-route-system-maps-datathon23"
+    },
+    {
+      "title": "Dataset - Virginia Open Data Portal",
+      "url": "https://odgavaprod.ogopendata.com/dataset/?res_format=HTML&groups=transportation"
+    },
+    {
+      "title": "Page not found - GRTCGRTC",
+      "url": "http://ridegrtc.com/gtfs-files-developer-license-agreement-and-terms-of-use"
+    },
+    {
+      "title": "Reference - General Transit Feed Specification",
+      "url": "https://gtfs.org/documentation/schedule/reference/"
+    },
+    {
+      "title": "Overview - General Transit Feed Specification",
+      "url": "https://gtfs.org/documentation/overview/"
+    },
+    {
+      "title": "Best Practices - General Transit Feed Specification",
+      "url": "https://gtfs.org/documentation/schedule/schedule-best-practices/"
+    },
+    {
+      "title": "Google Transit GTFS Schedule Reference and Differences \u00a0|\u00a0 Static Transit \u00a0|\u00a0 Google for Developers",
+      "url": "https://developers.google.com/transit/gtfs/reference"
+    },
+    {
+      "title": "Creating a GTFS dataset",
+      "url": "https://gtfs.org/getting-started/create/"
+    },
+    {
+      "title": "Producing Data - General Transit Feed Specification",
+      "url": "https://gtfs.org/resources/producing-data/"
+    },
+    {
+      "title": "The hitchhiker\u2019s guide to GTFS with python | by Guilherme M. Iablonovski | Analytics Vidhya | Medium",
+      "url": "https://medium.com/analytics-vidhya/the-hitchhikers-guide-to-gtfs-with-python-e9790090952a"
+    },
+    {
+      "title": "GitHub - araichev/gtfs_kit: A Python library for analyzing GTFS feeds. \u00b7 GitHub",
+      "url": "https://github.com/araichev/gtfs_kit"
+    },
+    {
+      "title": "Partridge \u2014 partridge 1.1.1 documentation",
+      "url": "https://partridge.readthedocs.io/en/stable/readme.html"
+    },
+    {
+      "title": "How to process GTFS data using pandas & geopandas | by Maksym Kozlenko \ud83c\uddfa\ud83c\udde6 | Medium",
+      "url": "https://max-coding.medium.com/how-to-process-gtfs-data-using-pandas-geopandas-4b34f2ad3273"
+    },
+    {
+      "title": "GTFS Feed Clearinghouse - DRPT",
+      "url": "https://drpt.virginia.gov/data/gtfs-feed-clearinghouse/"
+    },
+    {
+      "title": "geopandas.sjoin_nearest \u2014 GeoPandas 1.1.2.dev77+g16040f07c.d20260308 documentation",
+      "url": "https://geopandas.org/en/latest/docs/reference/api/geopandas.sjoin_nearest.html"
+    },
+    {
+      "title": "Merging data \u2014 GeoPandas 1.1.2.dev76+g4b19d4790.d20260228 documentation",
+      "url": "https://geopandas.org/en/latest/docs/user_guide/mergingdata.html"
+    },
+    {
+      "title": "BallTree \u2014 scikit-learn 1.8.0 documentation",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html"
+    },
+    {
+      "title": "The Shapely User Manual \u2014 Shapely 2.1.1 documentation",
+      "url": "https://shapely.readthedocs.io/en/latest/manual.html"
+    },
+    {
+      "title": "Using Scikit-learn's Binary Trees to Efficiently Find Latitude and Longitude Neighbors | Towards Data Science",
+      "url": "https://towardsdatascience.com/using-scikit-learns-binary-trees-to-efficiently-find-latitude-and-longitude-neighbors-909979bd929b/"
+    }
+  ]
+}

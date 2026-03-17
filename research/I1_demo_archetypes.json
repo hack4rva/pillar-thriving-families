@@ -1,0 +1,223 @@
+{
+  "run_id": "trun_3cad0ebea15c480ebfd8ef4025ddbb3a",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Technical.ly Civic Hackathon Judging Guidelines \u00b7 GitHub",
+      "url": "https://gist.github.com/4195641"
+    },
+    {
+      "title": "CIVIC TECH INITIATIVES:",
+      "url": "http://ncoc.org/wp-content/uploads/2016/09/KidsCountToolkit_FINAL.pdf"
+    },
+    {
+      "title": "Civic Tech Hackathon 2025: Where technology can create an equitable future through the hands of students. - Devpost",
+      "url": "https://civic-hacks.devpost.com/"
+    },
+    {
+      "title": "Local Governments Are Doing IT for Themselves, With Help",
+      "url": "https://www.govtech.com/podcasts/local-governments-are-doing-it-for-themselves-with-help"
+    },
+    {
+      "title": "Civic Hacks 2026: Build technology that strengthens communities, advances justice, and serves the public good. - Devpost",
+      "url": "https://civic-hacks-2026.devpost.com/"
+    },
+    {
+      "title": "How to Master the Three Minute Pitch and Avoid its Pitfalls - Frankie Kemp",
+      "url": "https://frankiekemp.com/how-to-master-the-three-minute-pitch-and-avoid-its-pitfalls"
+    },
+    {
+      "title": "How to Make a Presentation for a Hackathon \u2013 Easy Guide | Slidestack",
+      "url": "https://slidestack.com/blog/how-to-make-a-presentation-for-a-hackathon-easy-guide"
+    },
+    {
+      "title": "Starting with \u201cnow\u201d: a user problem-solving approach | by Chiara Scarabotti | Bootcamp | Medium",
+      "url": "https://medium.com/design-bootcamp/starting-with-now-a-user-problem-solving-approach-bbbc279579e8"
+    },
+    {
+      "title": "How to Build a Narrative That Works Before the Demo Starts | by Eric Jan Huizer | SaaS Storytelling System | Medium",
+      "url": "https://medium.com/saas-storytelling-system/how-narrative-clarity-shortens-sales-cycles-and-builds-trust-faster-than-features-ever-will-da8631519e0c"
+    },
+    {
+      "title": "\n        A Beginner\u2019s Guide To User Journey\u00a0Mapping | Marvel Blog - Marvel Blog    ",
+      "url": "https://marvelapp.com/blog/beginners-guide-user-journey-mapping"
+    },
+    {
+      "title": "Youth Employment Toolkit - Youth Futures Foundation",
+      "url": "https://youthfuturesfoundation.org/tools/youth-employment-toolkit/"
+    },
+    {
+      "title": "From Pain Points to Possibilities: Mapping the User Journey in Government Services | by Tabitha Foster | THINKING/BIG | Medium",
+      "url": "https://medium.com/thinkingbig/from-pain-points-to-possibilities-mapping-the-user-journey-in-government-services-8bfe719f5bc4"
+    },
+    {
+      "title": "Opportunities Youth Demonstration and Evaluation Implementation Evaluation: Findings from Pilot Sites in Baltimore and Boston Report | U.S. Department of Labor",
+      "url": "https://www.dol.gov/resource-library/opportunities-youth-demonstration-and-evaluation-implementation-evaluation"
+    },
+    {
+      "title": "Hackathon judging: 6 criteria to pick winning projects - TAIKAI",
+      "url": "https://taikai.network/en/blog/hackathon-judging"
+    },
+    {
+      "title": "Crafting Effective Hackathon Judging Criteria: A Step-by-Step Guide",
+      "url": "https://eventflare.io/journal/crafting-effective-hackathon-judging-criteria-a-step-by-step-guide"
+    },
+    {
+      "title": "HackAmerica: America's Largest Hackathon for High School Students - Devpost",
+      "url": "https://hackamerica.devpost.com/rules"
+    },
+    {
+      "title": "JUDGING RUBRIC - Ethical AI Hackathon",
+      "url": "https://research.cgu.edu/hackathon/home/judging-rubric/"
+    },
+    {
+      "title": "Hackathon Judging Criteria Guide | PDF",
+      "url": "https://www.scribd.com/document/891870051/HACKATHON-CONCEPT-JUDGING-GUIDE-FINAL"
+    },
+    {
+      "title": "Assurance, trust, confidence \u2013 what does it all mean for data? | The ODI",
+      "url": "https://theodi.org/news-and-events/blog/assurance-trust-confidence-what-does-it-all-mean-for-data/"
+    },
+    {
+      "title": "Data assurance: Building trust in data - Open Data Institute (ODI)",
+      "url": "https://theodi.org/insights/projects/data-assurance-building-trust-in-data/"
+    },
+    {
+      "title": "Data assurance: what is it and why do we need it? | The ODI",
+      "url": "https://theodi.org/insights/reports/data-assurance-white-paper/"
+    },
+    {
+      "title": "Data assurance",
+      "url": "https://theodi.hacdn.io/media/documents/ODI_Data-assurance_-what-is-it-and-why-do-we-need-it__White-paper.pdf"
+    },
+    {
+      "title": "Data Practices Maturity Model | The ODI",
+      "url": "https://theodi.org/insights/tools/data-practices-maturity-model/"
+    },
+    {
+      "title": "R&D: Trustworthy data institutions - The ODI",
+      "url": "https://theodi.org/project/rd-trustworthy-data-institutions/"
+    },
+    {
+      "title": "How does data assurance increase confidence in data? | The ODI",
+      "url": "https://theodi.org/insights/explainers/how-does-data-assurance-increase-confidence-in-data/"
+    },
+    {
+      "title": "Foundations for an open, trustworthy data ecosystem.",
+      "url": "https://theodi.cdn.ngo/media/documents/MASTER_Guide_to_data_practices___20231103___The_ODI___Open_Data_Institute.pdf"
+    },
+    {
+      "title": "Supply and Quality of Data - Open Government Data Toolkit",
+      "url": "https://opendatatoolkit.worldbank.org/en/data/opendatatoolkit/supply"
+    },
+    {
+      "title": "Data Quality and Effectiveness \u2013 World Bank Data Help Desk",
+      "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906534-data-quality-and-effectiveness"
+    },
+    {
+      "title": "90847",
+      "url": "https://documents1.worldbank.org/curated/en/142991468338434907/pdf/908470WP0ICP0R060Box0385325B0PUBLIC.pdf"
+    },
+    {
+      "title": "A Guide to Indicator Selection",
+      "url": "https://datatopics.worldbank.org/world-development-indicators/release-note/publications/WDI_Indicator_Selection_Criteria.pdf"
+    },
+    {
+      "title": "Datasheets for Datasets",
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/1803.09010.pdf"
+    },
+    {
+      "title": "Datasheets for Datasets",
+      "url": "https://arxiv.org/pdf/1803.09010"
+    },
+    {
+      "title": "Datasheets for Datasets - MDSD4Health",
+      "url": "https://www.mdsd4health.com/modules/module-3-mdsd-methods-mediums-pt-i/datasheets-for-datasets"
+    },
+    {
+      "title": "Datasheets for Datasets",
+      "url": "https://www.researchgate.net/publication/386668632_Datasheets_for_Datasets"
+    },
+    {
+      "title": "Datasheet for dataset \u201cadd dataset name here\u201d - mlr3fairness",
+      "url": "https://mlr3fairness.mlr-org.com/articles/datasheet/datasheet.html"
+    },
+    {
+      "title": "[1810.03993] Model Cards for Model Reporting",
+      "url": "https://arxiv.org/abs/1810.03993"
+    },
+    {
+      "title": "Model Cards for Model Reporting",
+      "url": "https://arxiv.org/pdf/1810.03993"
+    },
+    {
+      "title": "Implementing ML Model Cards for Better Decision Making",
+      "url": "https://www.trail-ml.com/blog/ml-model-cards"
+    },
+    {
+      "title": "Introducing the Model Card Toolkit for Easier Model Transparency Reporting",
+      "url": "https://research.google/blog/introducing-the-model-card-toolkit-for-easier-model-transparency-reporting/"
+    },
+    {
+      "title": "Model Cards \u00b7 Hugging Face",
+      "url": "https://huggingface.co/docs/hub/model-cards"
+    },
+    {
+      "title": "AI Risk Management Framework | NIST",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+    },
+    {
+      "title": "NIST AI Risk Management Framework: A simple guide to smarter AI governance",
+      "url": "https://www.diligent.com/resources/blog/nist-ai-risk-management-framework"
+    },
+    {
+      "title": "\n\n      \n  Playbook\n\n\n      \n  \n  - AIRC\n\n\n    ",
+      "url": "https://airc.nist.gov/airmf-resources/playbook"
+    },
+    {
+      "title": "NIST AI RMF in Plain English: Govern, Map, Measure, Manage\u2014Done Right \u2013 Dawgen Global",
+      "url": "https://www.dawgen.global/nist-ai-rmf-in-plain-english-govern-map-measure-manage-done-right"
+    },
+    {
+      "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf"
+    },
+    {
+      "title": "Navigating the NIST AI Risk Management Framework",
+      "url": "https://hyperproof.io/navigating-the-nist-ai-risk-management-framework/"
+    },
+    {
+      "title": "\n\n      \n  AI RMF Core\n\n\n      \n  \n  - AIRC\n\n\n    ",
+      "url": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core"
+    },
+    {
+      "title": "AI RMF - AIRC",
+      "url": "https://airc.nist.gov/airmf-resources/airmf"
+    },
+    {
+      "title": "CISO Perspectives:  A Practical Guide to Implementing the NIST AI Risk Management Framework (AI RMF) | ateam",
+      "url": "https://www.ateam-oracle.com/ciso-perspectives-a-practical-guide-to-implementing-the-nist-ai-risk-management-framework-ai-rmf"
+    },
+    {
+      "title": "How we keep integrated data safe | Stats NZ",
+      "url": "https://www.stats.govt.nz/integrated-data/how-we-keep-integrated-data-safe/"
+    },
+    {
+      "title": "The 5 Safes Framework & Tikanga",
+      "url": "https://static1.squarespace.com/static/58e9b10f9de4bb8d1fb5ebbc/t/5b884980032be4a36066e8f0/1535658381150/Stats+NZ_IDI+5+Safes+%26+Tikanga_Final.pdf"
+    },
+    {
+      "title": "The 'Five Safes': a framework for planning, designing and ...",
+      "url": "https://uwe-repository.worktribe.com/index.php/preview/880718/99_Ritchie.pdf"
+    },
+    {
+      "title": "Five Safes: designing data access for research",
+      "url": "https://www.popdata.bc.ca/sites/default/files/documents/data%20access/COPAFS-Five-Safes-designing-data-access-for-research-Desai-Ritchie-Welpion.pdf"
+    },
+    {
+      "title": "\n\t\n\t\tData confidentiality principles and methods report\n\t - data.govt.nz\n",
+      "url": "https://www.data.govt.nz/toolkit/privacy-and-security/understanding-data-confidentiality/data-confidentiality-principles-and-methods-report/"
+    }
+  ]
+}

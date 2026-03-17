@@ -1,0 +1,199 @@
+{
+  "run_id": "trun_3cad0ebea15c480eb5afd3ca4122f9df",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "DURHAM COUNTY 2025 SCHEDULE OF VALUES",
+      "url": "https://dconc.gov/Tax-Administration1/Documents/2025-Schedule-of-Values.pdf"
+    },
+    {
+      "title": "Character\u2011BERT",
+      "url": "https://huggingface.co/helboukkouri/character-bert/resolve/main/mlm_vocab.txt?download=true"
+    },
+    {
+      "title": "Report of the Marine Board of Investigation - dco.uscg.mil",
+      "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/SCANDIES%20ROSE%20ROI%20-%2030DEC21_Final%20-%20Redacted.pdf"
+    },
+    {
+      "title": "City of New Bedford - Multi-Hazard Mitigation Plan",
+      "url": "https://newbedford-ma.s3.amazonaws.com/wp-content/uploads/sites/28/20260310105652/City-of-New-Bedford-Multi-Hazard-Mitigation-Plan-2025_Final.pdf"
+    },
+    {
+      "title": "[1705.02245] Data Readiness Levels",
+      "url": "https://arxiv.org/abs/1705.02245"
+    },
+    {
+      "title": "Data Readiness Levels",
+      "url": "http://inverseprobability.com/publications/data-readiness-levels.html"
+    },
+    {
+      "title": "Getting Your Data Ready for AI",
+      "url": "https://codeforamerica.org/news/getting-your-data-ready-for-ai/"
+    },
+    {
+      "title": "Data Readiness Levels \u2014 nlp-data-readiness  documentation",
+      "url": "https://nlp-data-readiness.readthedocs.io/en/latest/data-readiness-levels.html"
+    },
+    {
+      "title": "Data Readiness Levels (DRL)",
+      "url": "https://www.datamaturitymatters.tech/standardsframeworks/datareadinessleves"
+    },
+    {
+      "title": "Youth Engagement Services | Richmond",
+      "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services"
+    },
+    {
+      "title": "Youth Works RVA Application 26' | Richmond",
+      "url": "https://www.rva.gov/form/youth-works-rva-application-26"
+    },
+    {
+      "title": "Youth Works RVA: Summer 2026 Applications Now Open! | Richmond Redevelopment & Housing Authority",
+      "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/"
+    },
+    {
+      "title": "Mayor's Youth Academy - Summer Work-Based Learning - ChamberRVA",
+      "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/"
+    },
+    {
+      "title": "The Office of Community Wealth Building",
+      "url": "https://www.rva.gov/community-wealth-building/about-us"
+    },
+    {
+      "title": "Human Services Data Specification (HSDS) \u2014 Open Referral Data Specifications 3.0.1 documentation",
+      "url": "https://docs.openreferral.org/en/latest/hsds/overview.html"
+    },
+    {
+      "title": "Specification Governance \u2014 Open Referral Data Specifications 3.0.1 documentation",
+      "url": "http://docs.openreferral.org/en/latest/about/specification-governance.html"
+    },
+    {
+      "title": "Open Referral Data Specifications 1.1 documentation",
+      "url": "https://opencommunitystandard.github.io/specification/"
+    },
+    {
+      "title": "United Way Worldwide\u2019s National 211 Data Platform:  Bringing People and Services together \u2013 Open Referral",
+      "url": "https://openreferral.org/united-way-worldwides-national-211-data-platform-bringing-people-and-services-together/"
+    },
+    {
+      "title": "About \u2014 Open Referral Data Specifications 3.0.1 documentation",
+      "url": "http://docs.openreferral.org/"
+    },
+    {
+      "title": "Empty State UX Examples & Best Practices - Pencil & Paper",
+      "url": "https://www.pencilandpaper.io/articles/empty-states"
+    },
+    {
+      "title": "Design Systems 101 - NN/G",
+      "url": "https://www.nngroup.com/articles/design-systems-101"
+    },
+    {
+      "title": "UX Guidelines for Recommended Content - NN/G",
+      "url": "https://www.nngroup.com/articles/recommendation-guidelines/"
+    },
+    {
+      "title": "Designing Empty States in Complex Applications: 3 Guidelines - NN/G",
+      "url": "https://www.nngroup.com/articles/empty-state-interface-design/"
+    },
+    {
+      "title": "Visual Hierarchy in UX: Definition - NN/G",
+      "url": "https://www.nngroup.com/articles/visual-hierarchy-ux-definition"
+    },
+    {
+      "title": "Home \u2013 GOV.UK Design System",
+      "url": "https://design-system.service.gov.uk/"
+    },
+    {
+      "title": "Patterns - Home Office User-Centred Design Manual",
+      "url": "https://design.homeoffice.gov.uk/design-system/patterns"
+    },
+    {
+      "title": "Writing for user interfaces - Service Manual - GOV.UK",
+      "url": "https://www.gov.uk/service-manual/design/writing-for-user-interfaces"
+    },
+    {
+      "title": "Using, adapting and creating patterns - Service Manual - GOV.UK",
+      "url": "https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns"
+    },
+    {
+      "title": "Averting-Tragedy-of-the-Resource-Directory-Anti- ...",
+      "url": "https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Inside-MDHHS/Policy-and-Planning/Social-Determinants-of-Health-Strategy/CIE/Resources/Averting-Tragedy-of-the-Resource-Directory-Anti-Commons.pdf?rev=7cb04cea6f93474fadb1dcd11cd3502d&hash=2693B5DD7282CAB0759EEE680513E65B"
+    },
+    {
+      "title": "Producing resource directory information as a public good",
+      "url": "https://openreferral.org/wp-content/uploads/2023/12/Open_Referral_Data_Production_Strategies_Whitepaper.pdf"
+    },
+    {
+      "title": "Benetech Service Net: When Technology Helps Social Good - SolDevelo Foundation",
+      "url": "https://soldevelofoundation.org/benetech-service-net-when-technology-works-for-social-good/"
+    },
+    {
+      "title": "Benetech Unveils New Service Net Features and Funding",
+      "url": "https://benetech.org/news/press/benetech-unveils-new-service-net-features/"
+    },
+    {
+      "title": "Introducing the Qualitative Data Repository's Curation ...",
+      "url": "https://publishing.escholarship.umassmed.edu/jeslib/article/455/galley/753/download/"
+    },
+    {
+      "title": "hiQ v. LinkedIn | Electronic Frontier Foundation",
+      "url": "https://www.eff.org/cases/hiq-v-linkedin"
+    },
+    {
+      "title": "19-783 Van Buren v. United States (06/03/2021)",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf"
+    },
+    {
+      "title": "Sandvig v. Barr \u2014 Challenge to CFAA Prohibition on Uncovering Racial Discrimination Online | American Civil Liberties Union",
+      "url": "https://www.aclu.org/cases/sandvig-v-barr-challenge-cfaa-prohibition-uncovering-racial-discrimination-online?document=summary-judgment-opinion-0"
+    },
+    {
+      "title": "                HIQ LABS, INC. V. LINKEDIN CORPORATION, No. 17-16783 (9th Cir. 2022) :: Justia    ",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/17-16783/17-16783-2022-04-18.html"
+    },
+    {
+      "title": "Global Freedom of Expression | HiQ Labs v. LinkedIn Corp. - Global Freedom of Expression",
+      "url": "https://globalfreedomofexpression.columbia.edu/cases/hiq-labs-v-linkedin/"
+    },
+    {
+      "title": "Youth Programs - Virginia Career Works",
+      "url": "https://virginiacareerworks.com/youth-programs/"
+    },
+    {
+      "title": "Programs by Virginia Career Works - Capital Region serving Beaumont, VA | findhelp.org",
+      "url": "https://www.findhelp.org/provider/virginia-career-works---capital-region--richmond-va/5370694754500608?postal=23014"
+    },
+    {
+      "title": "Virginia Career Works - Capital Region | Richmond VA | Facebook",
+      "url": "https://www.facebook.com/VACareerWorksCR/"
+    },
+    {
+      "title": "Attachment C WIOA Youth Eligibility",
+      "url": "https://virginiacareerworks.com/wp-content/uploads/postVWL-15-02-WIOA-Youth-Eligibility-Attachment-C-UPDATED-10-27-2015.docx.pdf"
+    },
+    {
+      "title": "WIOA Programs - 27 results",
+      "url": "https://search.211virginia.org/search?query=ND-6500.9600&query_label=WIOA%20Programs&query_type=taxonomy"
+    },
+    {
+      "title": "15 High School Internships in Richmond, VA",
+      "url": "https://www.lumiere-education.com/post/high-school-internships-in-richmond-va"
+    },
+    {
+      "title": "NextUp - Find Afterschool and Summer Programs in Richmond",
+      "url": "https://nextuprva.org/"
+    },
+    {
+      "title": "YP - Richmond",
+      "url": "https://www.ulgryp.org/"
+    },
+    {
+      "title": "VDH Internship Academy - Human Resources",
+      "url": "https://www.vdh.virginia.gov/human-resources/internships/vdh-internship-academy"
+    },
+    {
+      "title": "Careers and Job Openings - NextUp RVA",
+      "url": "https://nextuprva.org/careers"
+    }
+  ]
+}

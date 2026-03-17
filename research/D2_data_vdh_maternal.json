@@ -1,0 +1,95 @@
+{
+  "run_id": "trun_3cad0ebea15c480e9ddb6684bca136b4",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Maternal & Child Health - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/"
+    },
+    {
+      "title": "Maternal & Child Health Indicators - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/mch-indicators/"
+    },
+    {
+      "title": "Virginia Department of Health - Data Portal",
+      "url": "https://www.vdh.virginia.gov/data/"
+    },
+    {
+      "title": "Maternal Mortality - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/maternal-mortality/"
+    },
+    {
+      "title": "Annual-Report - Vital Event Statistics Program",
+      "url": "https://www.vdh.virginia.gov/vital-event-statistics-program/vital-events-statistics-progam/annual-report/"
+    },
+    {
+      "title": "Virginia Maternal Mortality Review Team Reports",
+      "url": "https://www.vdh.virginia.gov/medical-examiner/virginia-maternal-mortality-review-team-reports/"
+    },
+    {
+      "title": "Maternal Health Data Sources - Maternal Health",
+      "url": "https://www.vdh.virginia.gov/maternal-health/maternal-health-data-sources/"
+    },
+    {
+      "title": "Infant and Child Mortality Surveillance System",
+      "url": "https://www.vdh.virginia.gov/medical-examiner/division-of-death-prevention/infant-and-child-mortality-surveillance-system/"
+    },
+    {
+      "title": "2024 Virginia Maternal Mortality Review Team Annual Report",
+      "url": "https://www.vdh.virginia.gov/content/uploads/sites/233/2024-Virginia-Maternal-Mortality-Review-Team-Annual-Report.pdf"
+    },
+    {
+      "title": "Fetched web page",
+      "url": "https://apps.vdh.virginia.gov/HealthStats/stats.htm"
+    },
+    {
+      "title": "Data Dashboards - PRAMS",
+      "url": "https://www.vdh.virginia.gov/prams/data-dashboards/"
+    },
+    {
+      "title": "CDC WONDER: Mortality - Infant Deaths - Query Tool  - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/cdc-wonder-mortality-infant-deaths/resource/9dbb26d0-89ea-4744-984b-8862dbf8f380?view_id=4a172843-f2da-4636-8990-35362c8ec760"
+    },
+    {
+      "title": "Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/?_res_format_limit=0&organization=healthdata-gov&res_format=CSV&res_format=xsl&sort=views_recent+desc"
+    },
+    {
+      "title": "Pregnancy-Associated Deaths - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/pregnancy-associated-deaths/"
+    },
+    {
+      "title": "Severe Maternal Morbidity - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/smm/"
+    },
+    {
+      "title": "Maternal & Child Health Indicators - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/mch-indicators"
+    },
+    {
+      "title": "Maternal & Child Health - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health"
+    },
+    {
+      "title": "Data Dashboards - PRAMS",
+      "url": "https://www.vdh.virginia.gov/prams/data-dashboards"
+    },
+    {
+      "title": "Vital Events Statistics Progam",
+      "url": "https://www.vdh.virginia.gov/vital-event-statistics-program/"
+    },
+    {
+      "title": "TABLE 10 RESIDENT LOW WEIGHT LIVE BIRTHS AND ...",
+      "url": "https://apps.vdh.virginia.gov/HealthStats/documents/pdf/birth_1-10_2019.pdf"
+    },
+    {
+      "title": "VDH, Division of Health Statistics",
+      "url": "https://apps.vdh.virginia.gov/HealthStats/"
+    },
+    {
+      "title": "Annual-Report - Vital Event Statistics Program",
+      "url": "https://www.vdh.virginia.gov/vital-event-statistics-program/vital-events-statistics-progam/annual-report"
+    }
+  ]
+}

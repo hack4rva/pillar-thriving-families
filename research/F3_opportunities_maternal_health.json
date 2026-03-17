@@ -1,0 +1,195 @@
+{
+  "run_id": "trun_3cad0ebea15c480eac0a6d0c3cd1c571",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Maternal & Child Health Indicators - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/mch-indicators/"
+    },
+    {
+      "title": "Maternal & Child Health - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/"
+    },
+    {
+      "title": "Maternal and Child Health (MCH) Epidemiology - Population Health Data",
+      "url": "https://www.vdh.virginia.gov/population-health-data/mch-epidemiology/"
+    },
+    {
+      "title": "Kids Count | Voices for Virginia's Children",
+      "url": "https://vakids.org/kids-count"
+    },
+    {
+      "title": "III.B. Overview of the State - Virginia - 2022",
+      "url": "https://mchb.tvisdata.hrsa.gov/Narratives/Overview/706ff985-5ce2-4b2a-a341-face99a435c8"
+    },
+    {
+      "title": "2024 Community Health Assessment",
+      "url": "https://www.vdh.virginia.gov/content/uploads/sites/119/2025/04/2024-Richmond-and-Henrico-CHA.pdf"
+    },
+    {
+      "title": "KIDS COUNT Data Center from the Annie E. Casey Foundation",
+      "url": "https://datacenter.aecf.org/"
+    },
+    {
+      "title": "Maternal & Child Health Map - Datathon23 - Maternal & Child Health Map - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/maternal-child-health-map-datathon23/resource/949ce852-2a8d-4243-90cf-04c5f968c1ba"
+    },
+    {
+      "title": "Virginia Child and Family Well-Being - Kids Count",
+      "url": "https://datacenter.aecf.org/data?location=VA"
+    },
+    {
+      "title": "Health Equity in Richmond, Virginia",
+      "url": "https://societyhealth.vcu.edu/media/society-health/pdf/RVAHealthEquityFINAL.pdf"
+    },
+    {
+      "title": "Maternal Mortality - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/maternal-mortality"
+    },
+    {
+      "title": "Maternal & Child Health Indicators - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/mch-indicators"
+    },
+    {
+      "title": "Maternal & Child Health - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health"
+    },
+    {
+      "title": "Virginia Maternal & Infant Health Data",
+      "url": "https://www.kff.org/interactive/womens-health-profiles/virginia/maternal-infant-health/"
+    },
+    {
+      "title": "Maternal Health Data Sources - Maternal Health",
+      "url": "https://www.vdh.virginia.gov/maternal-health/maternal-health-data-sources/"
+    },
+    {
+      "title": "Fetal and Infant Mortality Review Team (FIMRT) HB1950 of 2021",
+      "url": "https://rga.lis.virginia.gov/Published/2022/RD138/PDF"
+    },
+    {
+      "title": "Virginia's new data dashboards aim to boost mother and ...",
+      "url": "https://statescoop.com/virginias-new-data-dashboards-aim-to-boost-mother-and-child-health/"
+    },
+    {
+      "title": "American Community Survey 5-Year Data (2009-2024)",
+      "url": "https://www.census.gov/data/developers/data-sets/acs-5year.html"
+    },
+    {
+      "title": "DP05ACS Demographic and Housing Estimates - Census Data",
+      "url": "https://data.census.gov/table/ACSDP5Y2024.DP05?g=060XX00US5115991571"
+    },
+    {
+      "title": "\n\t\n    School Climate Reports | Virginia Department of Education\n\n",
+      "url": "https://www.doe.virginia.gov/data-policy-funding/data-reports/data-collection/special-education"
+    },
+    {
+      "title": "\n\t\n    Enrollment & Demographics | Virginia Department of Education\n\n",
+      "url": "https://www.doe.virginia.gov/data-policy-funding/data-reports/statistics-reports/enrollment-demographics"
+    },
+    {
+      "title": "Download Data - Virginia School Quality Profiles",
+      "url": "https://schoolquality.virginia.gov/download-data"
+    },
+    {
+      "title": "Chronic Absenteeism in VA schools for year 2021 - 2022",
+      "url": "https://data.virginia.gov/dataset/chronic-absenteeism-in-va-schools-for-year-2022-2023"
+    },
+    {
+      "title": "Teen birth rate per 1,000 by age group | KIDS COUNT Data Center",
+      "url": "https://datacenter.aecf.org/data/tables/3235-teen-birth-rate-per-1000-by-age-group"
+    },
+    {
+      "title": "Teen Birth rate per 1000 by age group",
+      "url": "https://datacenter.aecf.org/data/tables/11245-teen-birth-rate-per-1000-by-age-group"
+    },
+    {
+      "title": "Help - KIDS COUNT Data Center",
+      "url": "https://datacenter.aecf.org/help"
+    },
+    {
+      "title": "KIDS COUNT Data Center Frequently Asked Questions (FAQs)",
+      "url": "https://datacenter.aecf.org/help/faqs"
+    },
+    {
+      "title": "COMMONWEALTH of VIRGINIA",
+      "url": "https://www.vdh.virginia.gov/content/uploads/sites/19/2023/04/Syndromic-Surveillance-MOA-2022.pdf"
+    },
+    {
+      "title": "CONFIDENTIALITY",
+      "url": "https://www.loudoun.gov/DocumentCenter/View/70147/VDH-Confidentiality-Policy?bidId="
+    },
+    {
+      "title": "Data and Reports - Disease Prevention",
+      "url": "https://www.vdh.virginia.gov/disease-prevention/disease-prevention/hiv-aids-sexually-transmitted-disease-std-hepatitis-reports/"
+    },
+    {
+      "title": "HUD USPS ZIP Code Crosswalk Files | HUD USER",
+      "url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html"
+    },
+    {
+      "title": "Health Opportunity Index - Virginia - Health Opportunity Index (CSV) - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/health-opportunity-index/resource/89114d14-fccc-4833-8f3b-ca08ff8c81de"
+    },
+    {
+      "title": "Tract List - Census and Demographic Data",
+      "url": "http://www.ffiec.gov/data/census/tract-list"
+    },
+    {
+      "title": "Health Opportunity Index - Virginia - Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/health-opportunity-index"
+    },
+    {
+      "title": "Virginia Department of Health Data Commons",
+      "url": "https://uva-bi-sdad.github.io/vdh_rural_health_site/?selected_county=51790&selected_variable=perc_no_vehicle"
+    },
+    {
+      "title": "Richmond City Health District - Richmond City Health Department",
+      "url": "https://www.vdh.virginia.gov/richmond-city"
+    },
+    {
+      "title": "Community Health Assessment (CHA) - Richmond City Health Department",
+      "url": "https://www.vdh.virginia.gov/richmond-city/cha/"
+    },
+    {
+      "title": "Healthy Childbirth and Infancy - Richmond City Health Department",
+      "url": "https://www.vdh.virginia.gov/richmond-city/healthy-childbirth-and-infancy"
+    },
+    {
+      "title": "Childhood immunizations - Richmond City Health ...",
+      "url": "https://www.vdh.virginia.gov/richmond-city/childhood-immunization/"
+    },
+    {
+      "title": "Severe Maternal Morbidity - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/smm/"
+    },
+    {
+      "title": "Data Dashboards - PRAMS",
+      "url": "https://www.vdh.virginia.gov/prams/data-dashboards/"
+    },
+    {
+      "title": "VDH Geography Locator Tool - Data",
+      "url": "https://www.vdh.virginia.gov/data/vdh-geography-locator-tool/"
+    },
+    {
+      "title": "Virginia launches new dashboards to track maternal ...",
+      "url": "https://www.whro.org/health/2025-04-21/virginia-launches-new-dashboards-to-track-maternal-deaths-improve-pregnancy-outcomes"
+    },
+    {
+      "title": "Low birthweight babies | KIDS COUNT Data Center",
+      "url": "https://datacenter.aecf.org/data/tables/3252-low-birthweight-babies"
+    },
+    {
+      "title": "Infant mortality | KIDS COUNT Data Center",
+      "url": "https://datacenter.aecf.org/data/tables/6051-infant-mortality"
+    },
+    {
+      "title": "Mothers who Received Early Prenatal Care",
+      "url": "https://data.hi.virginia.gov/dataset/fairfax-mothers-who-received-early-prenatal-care-datathon23/resource/258a56d8-9cb1-4e58-b2d2-cb4f07a483cf/view/227a09b0-a562-439d-ad3b-0511ec5cf849"
+    },
+    {
+      "title": "Births to women receiving late or no prenatal care | KIDS COUNT Data Center",
+      "url": "https://datacenter.aecf.org/data/map/10-births-to-women-receiving-late-or-no-prenatal-care?loc=50&loct=2"
+    }
+  ]
+}

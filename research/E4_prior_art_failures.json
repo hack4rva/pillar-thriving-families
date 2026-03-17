@@ -1,0 +1,231 @@
+{
+  "run_id": "trun_3cad0ebea15c480e9ea3751cbd6034e8",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Examining Inequities in Summer Youth Employment ...",
+      "url": "https://www.aeaweb.org/conference/2025/program/paper/NeZ8r4Bb"
+    },
+    {
+      "title": "LESSONS LEARNED",
+      "url": "https://www.cgap.org/sites/default/files/publications/2019_05_Case_Study_Fintech_and_Financial_Inclusion.pdf"
+    },
+    {
+      "title": "America's Youth Employment is Lacking\u2014Here's How to Turn it Around - EPIC for America",
+      "url": "https://epicforamerica.org/education-workforce-retirement/americas-youth-employment-lacking/"
+    },
+    {
+      "title": "It Pays to Be Patient with Fintech Innovation | Blog | CGAP",
+      "url": "https://www.cgap.org/blog/it-pays-to-be-patient-with-fintech-innovation"
+    },
+    {
+      "title": "GTAP Resources: Resource Display: On the success and failure factors of Youth Employ...",
+      "url": "https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=7613"
+    },
+    {
+      "title": "What really caused the Excel error in NHS Test and Trace COVID-19 system? An in-depth technical analysis. \u2013 City St George's Short Courses",
+      "url": "https://blogs.city.ac.uk/cityshortcourses/2020/10/13/what-really-caused-the-excel-error-in-nhs-test-and-trace-covid-19-system-an-in-depth-technical-analysis/"
+    },
+    {
+      "title": "The Parable of Google Flu: Traps in Big Data Analysis | GARY KING",
+      "url": "https://gking.harvard.edu/publications/parable-google-flu%C2%A0traps-big-data-analysis"
+    },
+    {
+      "title": "Google Flu Trends is no longer good at predicting flu, scientists find | Google | The Guardian",
+      "url": "https://www.theguardian.com/technology/2014/mar/27/google-flu-trends-predicting-flu"
+    },
+    {
+      "title": "Excel: Why using Microsoft's tool caused Covid-19 results to be lost",
+      "url": "https://www.bbc.com/news/technology-54423988"
+    },
+    {
+      "title": "\n            \u201cYou hoped we would sleep walk into accepting the collection of our data\u201d: controversies surrounding the UK care.data scheme and their wider relevance for biomedical research - PMC\n        ",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4880636/"
+    },
+    {
+      "title": "Ten Years of Failed Civic Tech in Germany",
+      "url": "https://discontinued-civictech.github.io/files/abstracts/10_RainerRehak_DiscontinuedCivicTech.pdf"
+    },
+    {
+      "title": "Transparency is Insufficient: Lessons From Civic Technology for Anticorruption \u2013 Ash Center",
+      "url": "https://ash.harvard.edu/articles/transparency-is-insufficient-lessons-from-civic-technology-for-anticorruption/"
+    },
+    {
+      "title": "(PDF) What Makes Civic Tech Initiatives To Last Over Time? Dissecting Two Global Cases",
+      "url": "https://www.researchgate.net/publication/351419780_What_Makes_Civic_Tech_Initiatives_To_Last_Over_Time_Dissecting_Two_Global_Cases"
+    },
+    {
+      "title": "Improving Monitoring and Evaluation in the Civic Tech ...",
+      "url": "https://jedem.org/index.php/jedem/article/view/598/504"
+    },
+    {
+      "title": "Tackling Civic Participation Challenges with Emerging ...",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/tackling-civic-participation-challenges-with-emerging-technologies_bbe2a7f5/ec2ca9a2-en.pdf"
+    },
+    {
+      "title": "Popular Ed-Tech Platform Edmodo Hacked, Faulted for Ad-Tracking",
+      "url": "https://www.edweek.org/technology/popular-ed-tech-platform-edmodo-hacked-faulted-for-ad-tracking/2017/05"
+    },
+    {
+      "title": "Hacker Steals 77 Million Edmodo User Accounts | EdSurge News",
+      "url": "https://www.edsurge.com/news/2017-05-11-hacker-steals-77-million-edmodo-user-accounts"
+    },
+    {
+      "title": "Edmodo Data Breach May 2017: Details, Impact & Exposed Data",
+      "url": "https://dehashed.com/insights/edmodo-data-breach-2017-may"
+    },
+    {
+      "title": "77 Million Edmodo Users Are Hacked as Widespread Cyberattacks Hit the Ed Tech World \u2013 The 74",
+      "url": "https://www.the74million.org/article/77-million-edmodo-users-are-hacked-as-widespread-cyber-attacks-hit-the-ed-tech-world/"
+    },
+    {
+      "title": "FTC Says Ed Tech Provider Edmodo Unlawfully Used Children\u2019s Personal Information for Advertising and Outsourced Compliance to School Districts | Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ed-tech-provider-edmodo-unlawfully-used-childrens-personal-information-advertising"
+    },
+    {
+      "title": "Deep dive into the Edmodo data breach | by Alberto | @4iQ | Medium",
+      "url": "https://medium.com/4iqdelvedeep/deep-dive-into-the-edmodo-data-breach-f1207c415ffb"
+    },
+    {
+      "title": "Have I Been Pwned: Edmodo Data Breach",
+      "url": "https://haveibeenpwned.com/breach/Edmodo"
+    },
+    {
+      "title": "What happened in the Edmodo data breach?",
+      "url": "https://www.twingate.com/blog/tips/edmodo-data-breach"
+    },
+    {
+      "title": "7 million accounts stolen from the Edmodo educational ...",
+      "url": "https://www.incibe.es/en/incibe-cert/publications/cybersecurity-highlights/7-million-accounts-stolen-edmodo-educational-platform"
+    },
+    {
+      "title": " Office of Public Affairs |  Permanent Injunction Imposed on Online Education Platform Company Edmodo, LLC for Alleged Violations of Children\u2019s Privacy Law | United States Department of Justice",
+      "url": "https://www.justice.gov/archives/opa/pr/permanent-injunction-imposed-online-education-platform-company-edmodo-llc-alleged-violations"
+    },
+    {
+      "title": "\n            \n    \n    \n    \n        Are mental health apps better or worse for privacy in 2023?\n    \n    \n\n        ",
+      "url": "https://www.mozillafoundation.org/en/privacynotincluded/articles/are-mental-health-apps-better-or-worse-at-privacy-in-2023/"
+    },
+    {
+      "title": "Mental Health App Privacy Risks: What You Should Know",
+      "url": "https://namiiowa.org/mental-health-app-privacy-risks/"
+    },
+    {
+      "title": "Discover who can access your medical records | Privacy and access",
+      "url": "https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record/manage-your-record/privacy-and-access"
+    },
+    {
+      "title": "Mental health apps are leaking your private thoughts. How do you protect yourself? | Kaspersky official blog",
+      "url": "https://www.kaspersky.com/blog/mental-health-apps-issues-2026/55395/"
+    },
+    {
+      "title": "Impact of Social Media on Youth Mental Health (Discussion Paper) | AAFP",
+      "url": "https://www.aafp.org/about/policies/all/youth-mental-health.html"
+    },
+    {
+      "title": "FTC to Ban BetterHelp from Revealing Consumers\u2019 Data, Including Sensitive Mental Health Information, to Facebook and Others for Targeted Advertising | Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook"
+    },
+    {
+      "title": "BetterHelp Refunds | Federal Trade Commission",
+      "url": "https://www.ftc.gov/enforcement/refunds/betterhelp-refunds"
+    },
+    {
+      "title": "FTC Gives Final Approval to Order Banning BetterHelp from Sharing Sensitive Health Data for Advertising, Requiring It to Pay $7.8 Million | Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising"
+    },
+    {
+      "title": "BetterHelp, Inc., In the Matter of | Federal Trade Commission",
+      "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter"
+    },
+    {
+      "title": "BetterHelp Customers Will Begin Receiving Notices About ...",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc"
+    },
+    {
+      "title": "NHS data-sharing project scrapped - BBC News",
+      "url": "https://www.bbc.com/news/health-36723486"
+    },
+    {
+      "title": "A viable shot at a better NHS has been killed off by privacy paranoia | Polly Toynbee | The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2016/jul/07/better-nhs-killed-privacy-paranoia-care-data"
+    },
+    {
+      "title": "NHS to scrap single database of patients' medical details | Data protection | The Guardian",
+      "url": "https://www.theguardian.com/technology/2016/jul/06/nhs-to-scrap-single-database-of-patients-medical-details"
+    },
+    {
+      "title": "NHS care.data scheme closed after years of controversy",
+      "url": "https://www.wired.com/story/care-data-nhs-england-closed/"
+    },
+    {
+      "title": "Care.data: How did it go so wrong? - BBC News",
+      "url": "https://www.bbc.com/news/health-26259101"
+    },
+    {
+      "title": "What actually happened with care.data? (2013 \u2013 2016, in brief) | medConfidential",
+      "url": "https://medconfidential.org/whats-the-story/care-data-2013-2016/"
+    },
+    {
+      "title": "Seesaw, Digital Platform Used by Schools, Compromised With \u2018Inappropriate Image\u2019",
+      "url": "https://www.edweek.org/technology/seesaw-digital-platform-used-by-schools-compromised-with-inappropriate-image/2022/09"
+    },
+    {
+      "title": "Popular school messaging app hacked to send explicit image to parents ",
+      "url": "https://www.nbcnews.com/tech/security/popular-school-messaging-app-hacked-send-explicit-image-parents-rcna47687"
+    },
+    {
+      "title": "School messaging app apologizes for \u2018inappropriate image\u2019 sent after cyberattack | The Record from Recorded Future News",
+      "url": "https://therecord.media/school-messaging-app-apologizes-for-inappropriate-image-sent-after-cyberattack"
+    },
+    {
+      "title": "Parents, educators received explicit image in Seesaw hacking | K-12 Dive",
+      "url": "https://www.k12dive.com/news/parents-educators-received-explicit-image-in-seesaw-hacking/631951/"
+    },
+    {
+      "title": "Here\u2019s the Goatse Image Hackers Sent on the Seesaw Parent-Teacher Messaging App at Schools Around the Country",
+      "url": "https://www.vice.com/en/article/seesaw-hacked-porn-images/"
+    },
+    {
+      "title": "How socio-spatial disparities in 311 complaint behavior ...",
+      "url": "https://www.sciencedirect.com/science/article/am/pii/S2210670720307216"
+    },
+    {
+      "title": "Using small data to interpret big data: 311 reports as individual contributions to informal social control in urban neighborhoods - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27480373/"
+    },
+    {
+      "title": "(PDF) Potholes, 311 reports, and a theory of heterogeneous resident demand for city services",
+      "url": "https://www.researchgate.net/publication/381263401_Potholes_311_reports_and_a_theory_of_heterogeneous_resident_demand_for_city_services"
+    },
+    {
+      "title": "Impact of online participatory forums on neighborhood eq",
+      "url": "https://www.sciencedirect.com/science/article/am/pii/S0264275125000162"
+    },
+    {
+      "title": "Does collective citizen input impact government service ...",
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/puar.13747"
+    },
+    {
+      "title": "Pillars | Richmond",
+      "url": "https://www.rva.gov/mayors-office/pillars"
+    },
+    {
+      "title": "Thriving Families - HumanKind.org",
+      "url": "https://www.humankind.org/erc-richmond/thrivingfamilies/"
+    },
+    {
+      "title": "Mayor Avula Introduces FY27 Balanced Budget Focused on Strong City Operations, Thriving Neighborhoods, and Opportunity for Richmond\u2019s Children and Families | Richmond",
+      "url": "https://www.rva.gov/press-releases-and-announcements/news/mayor-avula-introduces-fy27-balanced-budget-focused-strong"
+    },
+    {
+      "title": "Mayoral Action Plan | 2025",
+      "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf"
+    },
+    {
+      "title": "Avula lays out his plan for a \u2018thriving\u2019 Richmond | WRIC ABC 8News",
+      "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/"
+    }
+  ]
+}

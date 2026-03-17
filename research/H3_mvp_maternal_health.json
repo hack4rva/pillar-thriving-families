@@ -1,0 +1,167 @@
+{
+  "run_id": "trun_3cad0ebea15c480ebf11e2f3e117c82e",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Census Data API User Guide",
+      "url": "https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html"
+    },
+    {
+      "title": "Request a US Census Data API Key",
+      "url": "https://api.census.gov/data/key_signup.html"
+    },
+    {
+      "title": "Help & Contact Us",
+      "url": "https://www.census.gov/data/developers/guidance/api-user-guide/help.html"
+    },
+    {
+      "title": "Census Data API User Guide",
+      "url": "https://www2.census.gov/data/api-documentation/api-user-guide.pdf"
+    },
+    {
+      "title": "Guide to the ACS API Updates to Character and Numeric ...",
+      "url": "https://www.census.gov/data/developers/data-sets/acs-1year/ACS-examples-guide.html"
+    },
+    {
+      "title": "Intermittent \"invalid or inactive API key\" Error \u00b7 Issue #160 \u00b7 walkerke/tidycensus \u00b7 GitHub",
+      "url": "https://github.com/walkerke/tidycensus/issues/160"
+    },
+    {
+      "title": "https://www.censusreporter.org/topics/table-codes/",
+      "url": "https://www.censusreporter.org/topics/table-codes/"
+    },
+    {
+      "title": "Subject Tables | American Community Survey | U.S. Census Bureau",
+      "url": "https://www.census.gov/acs/www/data/data-tables-and-tools/subject-tables/"
+    },
+    {
+      "title": "Table IDs Explained",
+      "url": "https://www.census.gov/programs-surveys/acs/data/data-tables/table-ids-explained.html"
+    },
+    {
+      "title": "Richmond city | Virginia",
+      "url": "https://www.geocod.io/geoids/virginia/richmond-city-51760/"
+    },
+    {
+      "title": "American Community Survey Data Tables",
+      "url": "https://www.census.gov/programs-surveys/acs/data/data-tables.html"
+    },
+    {
+      "title": "Maternal & Child Health Indicators - Data",
+      "url": "https://www.vdh.virginia.gov/data/maternal-child-health/mch-indicators/"
+    },
+    {
+      "title": "Virginia Child and Family Well-Being - Kids Count",
+      "url": "https://datacenter.aecf.org/data?location=VA"
+    },
+    {
+      "title": "Kids Count | Voices for Virginia's Children",
+      "url": "https://vakids.org/kids-count"
+    },
+    {
+      "title": "KIDS COUNT Data Center from the Annie E. Casey Foundation",
+      "url": "https://datacenter.aecf.org/"
+    },
+    {
+      "title": "Total teen births | KIDS COUNT Data Center",
+      "url": "https://datacenter.aecf.org/data/tables/6053-total-teen-births"
+    },
+    {
+      "title": "Virginia Data | Voices for Virginia's Children",
+      "url": "https://vakids.org/kids-count/virginia-data"
+    },
+    {
+      "title": "Streamlit documentation",
+      "url": "https://docs.streamlit.io/"
+    },
+    {
+      "title": "Streamlit \u2022 A faster way to build and share data apps",
+      "url": "https://streamlit.io/"
+    },
+    {
+      "title": "st.cache_data - Streamlit Docs",
+      "url": "https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_data"
+    },
+    {
+      "title": "Install Streamlit - Streamlit Docs",
+      "url": "https://docs.streamlit.io/get-started/installation"
+    },
+    {
+      "title": "st.error - Streamlit Docs",
+      "url": "https://docs.streamlit.io/develop/api-reference/status/st.error"
+    },
+    {
+      "title": "Secrets management - Streamlit Docs",
+      "url": "https://docs.streamlit.io/develop/concepts/connections/secrets-management"
+    },
+    {
+      "title": "Caching overview - Streamlit Docs",
+      "url": "https://docs.streamlit.io/develop/concepts/architecture/caching"
+    },
+    {
+      "title": "Install Streamlit using command line - Streamlit Docs",
+      "url": "https://docs.streamlit.io/get-started/installation/command-line"
+    },
+    {
+      "title": "st.cache_resource - Streamlit Docs",
+      "url": "https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_resource"
+    },
+    {
+      "title": "Capturing and Displaying Error Messages to Users",
+      "url": "https://discuss.streamlit.io/t/handling-server-errors-in-streamlit-capturing-and-displaying-error-messages-to-users/45142"
+    },
+    {
+      "title": "Getting Started | Chart.js",
+      "url": "https://www.chartjs.org/docs/latest/getting-started/"
+    },
+    {
+      "title": "Notebooks | Observable documentation",
+      "url": "https://observablehq.com/documentation/notebooks/"
+    },
+    {
+      "title": "Step 3: Data loading / Holger Stitz | Observable",
+      "url": "https://observablehq.com/@thinkh/step-3-loading-json-data"
+    },
+    {
+      "title": "Three ways to ingest json / CSV data via Observable file attachments / Joe Murphy | Observable",
+      "url": "https://observablehq.com/@freejoe76/three-ways-to-ingest-json-csv-data-via-observable-file-attac"
+    },
+    {
+      "title": "Project structure | Observable Framework",
+      "url": "https://observablehq.observablehq.cloud/framework/project-structure"
+    },
+    {
+      "title": "pandas.read_csv \u2014 pandas documentation - PyData |",
+      "url": "https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html"
+    },
+    {
+      "title": "IO tools (text, CSV, HDF5, \u2026) \u2014 pandas 3.0.1 documentation",
+      "url": "https://pandas.pydata.org/docs/user_guide/io.html"
+    },
+    {
+      "title": "Pulling data from an inconsistent csv file : r/learnpython",
+      "url": "https://www.reddit.com/r/learnpython/comments/vuve0m/pulling_data_from_an_inconsistent_csv_file/"
+    },
+    {
+      "title": "python - Pandas to understand inconsistent seperator for csv files - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/65666812/pandas-to-understand-inconsistent-seperator-for-csv-files"
+    },
+    {
+      "title": "python - Pandas dataframe read_csv on bad data - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/33440805/pandas-dataframe-read-csv-on-bad-data"
+    },
+    {
+      "title": "Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/?_res_format_limit=0&groups=family-health&license_id=ocd-by&sort=views_recent+desc&page=2"
+    },
+    {
+      "title": "Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/?license_id=ocd-by"
+    },
+    {
+      "title": "Dataset - Virginia Open Data Portal",
+      "url": "https://data.virginia.gov/dataset/?license_id=ocd-by&organization=other&res_format=HTML&groups=family-health"
+    }
+  ]
+}

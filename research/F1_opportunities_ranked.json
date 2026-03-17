@@ -1,0 +1,251 @@
+{
+  "run_id": "trun_3cad0ebea15c480eafe45101f16cda29",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Thriving Families - New America",
+      "url": "https://www.newamerica.org/issues/thriving-families/"
+    },
+    {
+      "title": "Office of Thriving Families (OTF) | cfsa - DC.gov",
+      "url": "https://cfsa.dc.gov/page/office-thriving-families-otf"
+    },
+    {
+      "title": "Equitable Compensation Taskforce Report | Thriving Families",
+      "url": "https://thrivingfamiliessaferchildren.org/wp-content/uploads/2023/12/TFSC-Equitable-Compensation-Taskforce-Report-vF_06.20.23.pdf"
+    },
+    {
+      "title": "From Stability to Thriving: Redefining Work and Family Supports - Ascend at the Aspen Institute",
+      "url": "https://ascend.aspeninstitute.org/from-stability-to-thriving-redefining-work-and-family-supports/"
+    },
+    {
+      "title": "\n\tList All Youth Programs Web API | CareerOneStop\n",
+      "url": "https://www.careeronestop.org/Developers/WebAPI/YouthPrograms/list-all-youth-programs.aspx"
+    },
+    {
+      "title": "Training Datasets | Lightcast Skills Taxonomy",
+      "url": "https://lightcast.io/open-skills/skills/ESB4D949EDD72D99F66B/training-datasets"
+    },
+    {
+      "title": "937 datasets found for \"youth\" - Dataset - Catalog",
+      "url": "https://catalog.data.gov/dataset?q=youth&page=3"
+    },
+    {
+      "title": "Top 21 Jobs APIs For Developers - Public APIs",
+      "url": "https://publicapis.dev/category/jobs"
+    },
+    {
+      "title": "Maternal Health - Hospital | Provider Data Catalog",
+      "url": "https://data.cms.gov/provider-data/dataset/nrdb-3fcy"
+    },
+    {
+      "title": "Pregnancy-Related Deaths: Data from Maternal Mortality ...",
+      "url": "https://www.cdc.gov/maternal-mortality/php/data-research/mmrc/index.html"
+    },
+    {
+      "title": "NVSS - Maternal Mortality - Data Files and Resources",
+      "url": "https://www.cdc.gov/nchs/maternal-mortality/data.htm"
+    },
+    {
+      "title": "maternal-health - Dataset - Catalog - Data.gov",
+      "url": "https://catalog.data.gov/dataset/?tags=maternal-health"
+    },
+    {
+      "title": "Pregnancy Risk Assessment Monitoring System (PRAMS) - Catalog",
+      "url": "https://catalog.data.gov/dataset/pregnancy-risk-assessment-monitoring-system-prams"
+    },
+    {
+      "title": "Neighborhoods Matter",
+      "url": "https://opportunityinsights.org/neighborhoods/"
+    },
+    {
+      "title": "Civic tech | Emerging Technology Policy Careers",
+      "url": "https://emergingtechpolicy.org/areas/civic-tech/"
+    },
+    {
+      "title": "Getting Into Civic Tech \u00bb Community | GovLoop",
+      "url": "https://www.govloop.com/community/blog/getting-into-civic-tech/"
+    },
+    {
+      "title": "Career Prospects for Civic Tech Professionals",
+      "url": "https://medium.com/learning-data/career-prospects-for-civic-tech-professionals-7497583e738f"
+    },
+    {
+      "title": "NATIONAL OPPORTUNITY ZONES RANKING REPORT",
+      "url": "https://www.sparcchub.org/wp-content/uploads/2018/12/LOCUS_opportunity-zones-FINAL.pdf"
+    },
+    {
+      "title": "Working With Opportunity Youth to Find Policy Solutions",
+      "url": "https://skilledwork.org/working-with-opportunity-youth-to-find-policy-solutions-using-design-thinking/"
+    },
+    {
+      "title": "maternal health on the Civic Tech Field Guide",
+      "url": "https://app.civictech.guide/issue?recordId=recuu8kBfpO3dUIee"
+    },
+    {
+      "title": "The Opportunity Project 2019 Workforce Problem Statements",
+      "url": "https://opportunity.census.gov/assets/files/2019_workforce_problem_statements.pdf"
+    },
+    {
+      "title": "A five-year sprint to cut U.S. maternal mortality in half | Northwest Arkansas Democrat-Gazette",
+      "url": "https://www.nwaonline.com/news/2026/mar/13/a-five-year-sprint-to-cut-us-maternal-mortality/"
+    },
+    {
+      "title": "Sprint for Women's Health | ARPA-H",
+      "url": "https://arpa-h.gov/explore-funding/initiatives-and-sprints/sprint-for-womens-health"
+    },
+    {
+      "title": "Data API :  U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/bls/api_features.htm"
+    },
+    {
+      "title": "Apprenticeship Finder | Apprenticeship.gov",
+      "url": "https://www.apprenticeship.gov/apprenticeship-job-finder"
+    },
+    {
+      "title": "Reference Manual (API Version 2.0) - Overview",
+      "url": "https://services.onetcenter.org/reference/"
+    },
+    {
+      "title": "O*NET Web Services",
+      "url": "https://services.onetcenter.org/"
+    },
+    {
+      "title": "Getting Started : U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/developers/home.htm"
+    },
+    {
+      "title": "HPSA Find",
+      "url": "https://data.hrsa.gov/tools/shortage-area/hpsa-find"
+    },
+    {
+      "title": "Find Shortage Areas by Address",
+      "url": "https://data.hrsa.gov/topics/health-workforce/shortage-areas/by-address"
+    },
+    {
+      "title": "Health Workforce Shortage Areas",
+      "url": "https://data.hrsa.gov/topics/health-workforce/shortage-areas/dashboard"
+    },
+    {
+      "title": "Web Services/APIs",
+      "url": "https://data.hrsa.gov/tools/web-services"
+    },
+    {
+      "title": "Health Centers",
+      "url": "https://data.hrsa.gov/topics/health-centers"
+    },
+    {
+      "title": "https://data.HRSA.gov Web Services Developer Guide",
+      "url": "https://data.hrsa.gov/Content/Documents/data-services/DeveloperGuide.pdf"
+    },
+    {
+      "title": "data.hrsa.gov Home Page",
+      "url": "https://data.hrsa.gov/"
+    },
+    {
+      "title": "Health Workforce Shortage Areas",
+      "url": "https://data.hrsa.gov/topics/health-workforce/shortage-areas"
+    },
+    {
+      "title": "Social Vulnerability Index | Place and Health - Geospatial Research, Analysis, and Services Program (GRASP) | ATSDR",
+      "url": "https://www.atsdr.cdc.gov/place-health/php/svi/index.html"
+    },
+    {
+      "title": "SVI Data & Documentation Download | Place and Health - Geospatial Research, Analysis, and Services Program (GRASP) | ATSDR",
+      "url": "https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html"
+    },
+    {
+      "title": "CDC Social Vulnerability Index (CDCSVI) - Data Catalog",
+      "url": "https://catalog.data.gov/dataset/cdc-social-vulnerability-index-cdcsvi"
+    },
+    {
+      "title": "Social Vulnerability Index | Data | Centers for Disease Control and Prevention",
+      "url": "https://data.cdc.gov/Vaccinations/Social-Vulnerability-Index/ypqf-r5qs"
+    },
+    {
+      "title": "\n\tMaternal mortality ratio (per 100 000 live births)\n",
+      "url": "https://www.who.int/data/gho/indicator-metadata-registry/imr-details/26"
+    },
+    {
+      "title": "WHO Global Health Observatory (GHO) Data | GHDx",
+      "url": "https://ghdx.healthdata.org/series/who-global-health-observatory-gho-data"
+    },
+    {
+      "title": "\n\tGHO OData API\n",
+      "url": "https://www.who.int/data/gho/info/gho-odata-api"
+    },
+    {
+      "title": "\n\tMaternal mortality ratio (per 100 000 live births)\n",
+      "url": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/maternal-mortality-ratio-(per-100-000-live-births)"
+    },
+    {
+      "title": "\n\tAntenatal care coverage - at least four visits (%)\n",
+      "url": "https://www.who.int/data/gho/indicator-metadata-registry/imr-details/80"
+    },
+    {
+      "title": "USAJOBS - API Reference",
+      "url": "https://developer.usajobs.gov/api-reference/"
+    },
+    {
+      "title": "USAJOBS - Authentication",
+      "url": "https://developer.usajobs.gov/Guides/Authentication"
+    },
+    {
+      "title": "USAJOBS - Guides",
+      "url": "https://developer.usajobs.gov/guides/"
+    },
+    {
+      "title": "USAJOBS - Tutorials",
+      "url": "https://developer.usajobs.gov/tutorials/"
+    },
+    {
+      "title": "Tutorials - Search Jobs",
+      "url": "https://developer.usajobs.gov/Tutorials/Search-Jobs"
+    },
+    {
+      "title": "USAJOBS - Developer Portal",
+      "url": "https://developer.usajobs.gov/"
+    },
+    {
+      "title": "Adzuna API",
+      "url": "https://developer.adzuna.com/"
+    },
+    {
+      "title": "Overview",
+      "url": "https://developer.adzuna.com/overview"
+    },
+    {
+      "title": "Interactive Endpoint Documentation",
+      "url": "https://developer.adzuna.com/activedocs"
+    },
+    {
+      "title": "Terms of Service",
+      "url": "https://developer.adzuna.com/docs/terms_of_service"
+    },
+    {
+      "title": "Search ads",
+      "url": "https://developer.adzuna.com/docs/search"
+    },
+    {
+      "title": "openrouteservice API",
+      "url": "https://api.openrouteservice.org/"
+    },
+    {
+      "title": "API interactive examples | ORS",
+      "url": "https://openrouteservice.org/dev/"
+    },
+    {
+      "title": "Isochrones Endpoint | openrouteservice backend documentation",
+      "url": "https://giscience.github.io/openrouteservice/api-reference/endpoints/isochrones/"
+    },
+    {
+      "title": "Quickstart \u2014 openrouteservice-py 0.4 documentation",
+      "url": "https://openrouteservice-py.readthedocs.io/en/latest/"
+    },
+    {
+      "title": "API Restrictions | openrouteservice",
+      "url": "https://openrouteservice.org/restrictions/"
+    }
+  ]
+}
