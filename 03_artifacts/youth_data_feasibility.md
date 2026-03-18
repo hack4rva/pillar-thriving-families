@@ -29,7 +29,7 @@ Specifically, the rubric evaluation identified these missing datasets:
 | OCWB rva.gov | Program descriptions (text, unstructured) | Web | Medium |
 | Girls For A Change | Program pages | Web | Medium |
 | Boys & Girls Club | Program pages | Web | Medium |
-| GRTC | GTFS route and stop data | GTFS (zip) | High |
+| GRTC | GTFS route and stop data | GTFS (zip) | High — direct download (no auth): https://www.ridegrtc.com/wp-content/uploads/2025/02/gtfs.zip (corrected 2026-03-18) |
 | Virginia Career Works | State workforce program descriptions | Web | High |
 
 ---
@@ -61,7 +61,7 @@ If your team chooses Youth Employment, you will need to **create** most of your 
 
 ### 4. Transit Context (optional but high-value)
 - **What:** For each program location, note which GRTC bus lines are nearby
-- **How:** Download GRTC GTFS; map program addresses to nearest stops; identify relevant routes
+- **How:** Download GRTC GTFS; map program addresses to nearest stops; identify relevant routes. Direct download URL (no authentication required): https://www.ridegrtc.com/wp-content/uploads/2025/02/gtfs.zip (corrected 2026-03-18)
 - **Time estimate:** 2–4 hours depending on team data skills
 - **Output format:** Add "nearest bus stop" and "routes" fields to program directory
 - **Risk:** GTFS data requires parsing skills; this is a stretch goal, not a core requirement

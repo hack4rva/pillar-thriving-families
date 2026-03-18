@@ -24,8 +24,7 @@ These 18 ACS tables cover insurance, poverty, education, employment, and demogra
 | Insurance | C27001A–I | Coverage status by age (race/ethnicity iterations) | Race/ethnicity equity cuts for ages incl. 15–44 bins | Place, County, Tract | 2020–2024 | API: /2024/acs/acs5?group=C27001A; data.census.gov |
 | Insurance | S2701 | Selected Characteristics of Health Insurance | Quick city/county uninsured rates, by race/age | Place, County | 2020–2024 | API: /2024/acs/acs5/subject?table=S2701; data.census.gov |
 | Poverty | S1701 | Poverty Status in the Past 12 Months | Topline poverty % by age, sex, race | Place, County | 2020–2024 | API: /2024/acs/acs5/subject?table=S1701; data.census.gov |
-| Poverty | B17001 | Poverty Status by Sex by Age | Deep poverty counts by sex/age | Place, County, Tract | 2020–2024 | API: /2024/acs/acs5?group=B17001; data.census.gov |
-| Poverty | C17001 | Poverty Status | Counts above/below poverty | Place, County, Tract, Block Group | 2020–2024 | API: /2024/acs/acs5?group=C17001 |
+| Poverty | B17001 | Poverty Status in the Past 12 Months by Sex by Age | Deep poverty counts by sex/age (corrected 2026-03-18: this is the correct table for poverty by age; C17001 does not exist in ACS 5-year data) | Place, County, Tract | 2020–2024 | API: /2024/acs/acs5?group=B17001; data.census.gov |
 | Poverty | C17002 | Ratio of Income to Poverty Level | Depth-of-poverty bands (e.g., <50%) | Place, County, Tract | 2020–2024 | API: /2024/acs/acs5?group=C17002 |
 | Education | S1501 | Educational Attainment | HS+/BA+ for adults 25+ by sex/race | Place, County | 2020–2024 | API: /2024/acs/acs5/subject?table=S1501 |
 | Education | B15002 | Sex by Educational Attainment (25+) | Attainment distribution for women 25+ | Place, County, Tract | 2020–2024 | API: /2024/acs/acs5?group=B15002 |
@@ -45,7 +44,7 @@ Acquiring the data is straightforward, with options for both automated pipelines
 
 * **API Access**: The Census API is the most efficient method for building a reproducible dashboard. 
  * **API Key**: A free API key is required for high-volume requests. You can request one at `api.census.gov/data/key_signup.html`. Typical turnaround is within minutes, though it can take up to 24 hours.
- * **Without a Key**: Small numbers of API calls generally work without a key, but they are subject to stricter rate limiting.
+ * **Without a Key**: Small numbers of API calls generally work without a key, but they are subject to stricter rate limiting. The unauthenticated rate limit is 500 queries/day per IP address (corrected 2026-03-18). For dashboard builds making repeated pulls, request a free key to avoid hitting this ceiling.
  * **Endpoints**: Detailed tables use `/data/2024/acs/acs5`, while subject tables use `/data/2024/acs/acs5/subject`.
 * **Direct Download**: Data is available without an API key via direct download from data.census.gov. Users can search for table IDs (e.g., B27010), select geographies, and export to CSV/XLSX [1]. This method includes Margin of Error (MOE) fields by default.
 

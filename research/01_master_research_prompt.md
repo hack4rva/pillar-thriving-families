@@ -41,12 +41,13 @@ Richmond has unusually strong local maternal survey data via PRAMS oversampling;
 
 ### What's Publicly Available Now
 
-Multiple official sources cover overlapping indicators across different geographies and years. VDH HealthStats provides infant deaths by city/county from 2006 to 2020 [10]. CDC WONDER provides infant death counts and rates by county of mother's residence with rich stratifiers (race, age, birth weight) dating back to 1995 [11]. 
+Multiple official sources cover overlapping indicators across different geographies and years. The primary current source for maternal/child health indicators is the VDH Maternal & Child Health (MCH) Indicators Dashboard (updated October 2025, 2023 indicators) — corrected 2026-03-18. VDH HealthStats (apps.vdh.virginia.gov/HealthStats) data ceiling is 2020 and should be used for historical backfill only. CDC WONDER provides infant death counts and rates by county of mother's residence with rich stratifiers (race, age, birth weight) dating back to 1995 [11].
 
 | Source | Geography | Years | Key indicators/fields | Access method |
 | :--- | :--- | :--- | :--- | :--- |
+| **VDH MCH Indicators Dashboard** | City/County | 2023 (updated Oct 2025) | Infant mortality, prenatal care, low birthweight, preterm birth | CSV download, online dashboard |
 | **VDH PRAMS Dashboards** | State, RCHD, BRHD | Updated Mar 2025 | Pregnancy intention, breastfeeding | Online Dashboards |
-| **VDH HealthStats** | City/County | 2006-2020 | Infant deaths by race | Statistical Tables |
+| **VDH HealthStats** | City/County | 2006-2020 (ceiling 2020 — historical only; corrected 2026-03-18) | Infant deaths by race | Static tables (legacy) |
 | **CDC WONDER** | County of residence | 1995-Present | Infant deaths, birth weight, maternal demographics | Online Database |
 | **Virginia Open Data** | State/Locality | Varies | Low birthweight live births | Data Portal |
 
