@@ -1,3 +1,26 @@
+---
+title: "Breaking the First-Job Bottleneck: How Richmond Teens Actually Reach Work (or Don't)"
+pillar: thriving-families
+section: A
+problem_statement: youth-employment
+tags:
+  - youth employment
+  - first job
+  - DOLI work permit
+  - Youth Works RVA
+  - GRTC
+  - program discovery
+summary: "Root cause analysis of youth employment barriers in Richmond: fragmented program discovery, DOLI work permit sequencing, document barriers, GRTC transit dependency, and lack of a unified job marketplace for teens ages 14–24."
+geography: Richmond, VA
+source: parallel-ai
+status: raw
+related_reports:
+  - A4_problem_landscape_workforce_pathways
+  - D1_data_youth_labor
+  - D5_data_grtc_transit
+  - H2_mvp_youth_employment
+---
+
 # Breaking the First-Job Bottleneck: How Richmond Teens Actually Reach Work (or Don't)
 
 ## Executive Summary

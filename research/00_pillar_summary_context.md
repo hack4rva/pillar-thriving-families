@@ -1,3 +1,24 @@
+---
+title: "Closing Richmond’s Data Gaps: Tech Paths to Youth Jobs & Maternal Health Wins"
+pillar: thriving-families
+section: context
+problem_statement: general
+tags:
+  - youth employment
+  - maternal health
+  - data gaps
+  - Youth Works RVA
+  - GRTC
+  - VDH
+summary: "Executive summary of Richmond’s Thriving Families problem space covering fragmented youth employment ecosystem and siloed maternal health data. Covers Youth Works RVA, DOLI work permits, GRTC Zero Fare transit, and VDH/KIDS COUNT data coordination opportunities."
+geography: Richmond, VA
+source: parallel-ai
+status: raw
+related_reports:
+  - A1_problem_landscape_youth_employment
+  - A2_problem_landscape_maternal_health_data
+---
+
 # Closing Richmond’s Data Gaps: Tech Paths to Youth Jobs & Maternal Health Wins
 
 ## Executive Summary

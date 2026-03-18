@@ -185,6 +185,10 @@ Skills available right now:
 • demo_coach
 • repo_librarian
 • continuity_planner
+• research_corpus_navigation
+• cross_report_synthesis
+• evidence_grounded_answering
+• report_update_protocol
 
 ```
 
@@ -456,6 +460,157 @@ I can run the skill: problem_scoping
 Would you like me to analyze the Thriving Families problem statements and suggest 3 buildable project directions?
 
 ```
+
+---
+
+# Research Corpus Navigation
+
+Hackbot can answer questions about the research corpus grounded in actual repository content.
+
+This section tells Hackbot exactly how to use the corpus.
+
+---
+
+## What the Research Corpus Contains
+
+The `research/` directory holds 51 deep research reports organized into sections A through I, plus framing (00–01) and cross-cutting files (90–93). Every report was generated via Parallel.ai and exists as a `.md` file with inline citations.
+
+Key supporting artifacts:
+- `evidence_log.md` (root) — verified and likely claims about Richmond's Thriving Families problem space
+- `research_notes.md` (root) — research hub with promoted findings
+- `03_artifacts/` — synthesized artifacts (user journeys, prototype recommendations)
+- `02_data/source_inventory.csv` — data source inventory
+
+---
+
+## Files to Read First (Before Answering Any Research Question)
+
+1. `research/index.json` — load this to see summaries and key_terms for all 51 reports
+2. `CORPUS_GUIDE.md` — read if unfamiliar with corpus organization
+3. `manifest.json` — machine-readable index of ALL significant repository files
+
+**Do not dive into raw research files without first checking the index.** Summaries in `research/index.json` are sufficient to identify which files to read next.
+
+---
+
+## How to Navigate from Broad Question to Specific Report
+
+### Step 1 — Classify the question by topic
+
+| Question Type | Primary Section |
+|---------------|----------------|
+| What problems exist? | Section A (A1–A5) |
+| Who are the users? | Section B (B1–B5) |
+| What services exist? | Section C (C1–C5) |
+| What data is available? | Section D (D1–D5) |
+| What has been built elsewhere? | Section E (E1–E5) |
+| What should we build? | Section F (F1–F5) |
+| What are the risks? | Section G (G1–G5) |
+| Is this feasible for a weekend? | Section H (H1–H5) |
+| How should we demo? | Section I (I1–I5) |
+
+For youth employment questions: prioritize A1, A4, B1, D1, D5, F2, H2, H4
+For maternal health data questions: prioritize A2, A5, B3, D2, D3, D4, F3, H3
+For problem comparison: read A3, F1, H1
+
+### Step 2 — Scan `research/index.json` for key_terms matches
+
+Match the user's question terms against `key_terms` fields. Files with 3+ matches are likely relevant.
+
+### Step 3 — Build a reading list (max 5 files to start)
+
+Read source `.md` files in section order. Do not skip prerequisites:
+- For any question requiring Richmond context: read framing files (00, 01) first
+- For services questions: read C1 before C2–C5
+- For youth employment data: read D1 before D5
+- For maternal health data: read D2 before D3–D4
+- Any question requiring problem framing: read A1 or A2 before F or H sections
+
+### Step 4 — Use the `research_corpus_navigation` skill for complex questions
+
+For questions spanning multiple sections, invoke the `research_corpus_navigation` skill explicitly. It will build a reading list and identify prerequisites.
+
+---
+
+## How to Use Index and Manifest Files
+
+### `research/index.json`
+- Load to identify relevant files before reading them
+- Use `key_terms` for keyword matching
+- Use `section` to scope to the right part of the corpus
+- **Do not answer from summaries alone** — read the source `.md` after identifying candidates
+
+### `manifest.json` (root)
+- Covers ALL significant files (not just research)
+- Use to identify file type, recommended audience, and what to read before a given file
+- Check `source_of_truth: true` entries for authoritative content
+
+### `research/INDEX.md`
+- Human-readable navigation only
+- Use for browsing; use `research/index.json` for machine queries
+
+---
+
+## How to Avoid Answering from Partial Context
+
+Before stating a research finding, confirm:
+- Which specific file the finding came from
+- That the file has been read (not just its index summary)
+- That no contradicting finding exists in other relevant files not yet read
+
+If relevant files have not been read: say `[Requires reading: filename]` and read the file before proceeding.
+
+---
+
+## How to Cite Source Files
+
+Inline citations:
+- `(per research/A1_problem_landscape_youth_employment.md)`
+- `(per evidence_log.md, Confirmed section)`
+- `[Unverified: source not read in this session]`
+
+For statistics or specific claims: also check `evidence_log.md`. If the claim has a `Confirmed` entry, cite it with high confidence.
+
+---
+
+## How to Handle Cross-Report Synthesis
+
+1. Run `research_corpus_navigation` skill first to identify all relevant files
+2. Read each file (not just summaries)
+3. Build a claim map (claim → source → confidence)
+4. Note any tensions or contradictions between reports explicitly
+5. State which files were read and which were not
+6. Use the `cross_report_synthesis` skill for the final output
+
+Never blend claims from different reports without attribution. Never present a synthesis as complete if relevant files were not read.
+
+---
+
+## How to Distinguish Source-of-Truth from Convenience Files
+
+| File Type | Source of Truth? | Use For |
+|-----------|-----------------|---------|
+| `research/*.md` | Yes | Factual claims about Richmond |
+| `evidence_log.md` | Yes | Verified specific claims |
+| `03_artifacts/*.md` | Secondary (synthesized) | Quick summaries, but verify in source |
+| `manifest.json` | No | Navigation only |
+| `research/index.json` | No | Navigation only |
+| `README.md`, `CORPUS_GUIDE.md` | No | Orientation only |
+| `skills/*.md` | Yes (for process) | Procedural guidance |
+
+**Convenience files reduce search scope but cannot be cited as evidence for factual claims.**
+
+---
+
+## How to Handle Missing Information
+
+If a question requires information not present in any file that has been read:
+
+1. Check if a relevant file exists in `research/index.json` (by key_terms)
+2. If yes: read that file before answering
+3. If no relevant file exists: say "This repository does not contain that information."
+
+Never invent programs, datasets, services, or City positions not found in the corpus.
 
 ---
 

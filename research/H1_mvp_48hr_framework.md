@@ -1,3 +1,26 @@
+---
+title: "48-Hour Civic Build Playbook: Minimum-Credible MVPs for Thriving Families (Youth Employment Edition)"
+pillar: thriving-families
+section: H
+problem_statement: youth-employment
+tags:
+  - MVP framework
+  - 48-hour
+  - minimum-credible
+  - demo-ready
+  - scope
+  - youth employment
+summary: "Framework for determining MVP credibility within 48 hours: what a minimum-credible prototype requires, how to scope features against data availability, and the demo-ready definition of done for youth employment tools."
+geography: Richmond, VA
+source: parallel-ai
+status: raw
+related_reports:
+  - H2_mvp_youth_employment
+  - H4_mvp_data_constraints
+  - H5_mvp_scope_boundaries
+  - F1_opportunities_ranked
+---
+
 # 48-Hour Civic Build Playbook: Minimum-Credible MVPs for Thriving Families (Youth Employment Edition)
 
 ## Executive Summary

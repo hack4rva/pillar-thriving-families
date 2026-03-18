@@ -1,3 +1,25 @@
+---
+title: "Virginia Teen Work Compliance 2026: Permits, Hours, Hazards, and Curfew—Ages 14–18"
+pillar: thriving-families
+section: D
+problem_statement: youth-employment
+tags:
+  - DOLI
+  - work permit
+  - child labor law
+  - Virginia
+  - employment certificate
+  - teen compliance
+summary: "Detailed reference on Virginia DOLI work permit requirements for teens ages 14–18: permit process sequencing (offer-before-permit-before-work), hour restrictions by age, prohibited occupations, and I-9 documentation requirements."
+geography: Richmond, VA
+source: parallel-ai
+status: raw
+related_reports:
+  - A1_problem_landscape_youth_employment
+  - H2_mvp_youth_employment
+  - G1_risks_minor_data_privacy
+---
+
 # Virginia Teen Work Compliance 2026: Permits, Hours, Hazards, and Curfew—Ages 14–18
 
 ## Executive Summary

@@ -1,3 +1,25 @@
+---
+title: "Building Safe-by-Design Thriving Families Tools: Guardrails That Ship"
+pillar: thriving-families
+section: G
+problem_statement: general
+tags:
+  - guardrails
+  - safe-by-design
+  - content limits
+  - AI constraints
+  - regulatory compliance
+  - hackathon checklist
+summary: "Comprehensive guardrails checklist for Thriving Families tools covering content limits, user flow constraints, AI behavior limits, data display rules, and review checkpoints implementable within a hackathon timeline."
+geography: Richmond, VA
+source: parallel-ai
+status: raw
+related_reports:
+  - G1_risks_minor_data_privacy
+  - G2_risks_health_claims
+  - F5_opportunities_do_not_build
+---
+
 # Building Safe-by-Design Thriving Families Tools: Guardrails That Ship
 
 ## Executive Summary

@@ -1,3 +1,26 @@
+---
+title: "48-Hour Civic Tech Wins: Ranked, Low-Risk Opportunity Spaces in Youth Employment and Maternal Health"
+pillar: thriving-families
+section: F
+problem_statement: general
+tags:
+  - opportunities ranked
+  - solution spaces
+  - data readiness
+  - demo feasibility
+  - risk level
+  - 48-hour
+summary: "Ranked list of solution opportunities across both Thriving Families domains, scored on data readiness, user clarity, demo feasibility, and risk level. Primary reference for team opportunity selection."
+geography: Richmond, VA
+source: parallel-ai
+status: raw
+related_reports:
+  - F2_opportunities_youth_employment
+  - F3_opportunities_maternal_health
+  - H1_mvp_48hr_framework
+  - A3_problem_landscape_compare_statements
+---
+
 # 48-Hour Civic Tech Wins: Ranked, Low-Risk Opportunity Spaces in Youth Employment and Maternal Health
 
 ## Executive Summary

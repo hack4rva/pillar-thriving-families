@@ -57,6 +57,7 @@ Do these first 15–30 minutes to get moving:
 - Evidence tracker: `evidence_log.md`
 - Data index: `02_data/00_index.md`
 - Source inventory (CSV): `02_data/source_inventory.csv`
+- **Research corpus** (51 reports): `research/` — see `research/INDEX.md` for table of contents
 - Artifacts: `03_artifacts/`
   - Journeys: `03_artifacts/user_journeys.md`
   - Youth data feasibility: `03_artifacts/youth_data_feasibility.md`
@@ -66,6 +67,16 @@ Do these first 15–30 minutes to get moving:
 - Build guides: `04_build_guides/`
 - Prompts + runners: `05_prompts/`
 - Templates: `99_templates/`
+
+### Navigation files
+
+| File | Purpose |
+|------|---------|
+| `CORPUS_GUIDE.md` | How to navigate and use the research corpus (humans and agents) |
+| `manifest.json` | Machine-readable index of all significant files |
+| `research/index.json` | Machine-readable index of all 51 research reports |
+| `research/INDEX.md` | Human-readable table of contents for research directory |
+| `MAINTENANCE.md` | How to add, update, and synchronize reports and metadata |
 
 ---
 
@@ -255,8 +266,22 @@ Demo:
 You can use Hackbot to reconstruct context, run research, and shape an MVP.
 
 - Boot prompt: `HACKBOT_BOOT_PROMPT.md`
-- Skills: `skills/**/SKILL.md` (repo_memory, problem_scoping, research_runner, dataset_mapper, opportunity_mapper, mvp_designer, risk_review, demo_coach, repo_librarian, continuity_planner)
 - Team profile (recommended): `99_templates/team_profile_template.md`
+
+**Team skills** (for project work):
+`repo_memory`, `problem_scoping`, `research_runner`, `dataset_mapper`, `opportunity_mapper`, `mvp_designer`, `risk_review`, `demo_coach`, `repo_librarian`, `continuity_planner`
+
+**Research corpus skills** (for navigating the 51-report corpus):
+`research_corpus_navigation`, `cross_report_synthesis`, `evidence_grounded_answering`, `report_update_protocol`
+
+**Hackbot resources:**
+
+| Resource | Purpose |
+|----------|---------|
+| `HACKBOT_BOOT_PROMPT.md` | Initialize a Hackbot session |
+| `AGENTS.md` | Full agent specification with corpus navigation instructions |
+| `CORPUS_GUIDE.md` | How to use the research corpus |
+| `manifest.json` | Full file manifest for all repository content |
 
 Notes:
 - Hackbot never invents government programs, legal eligibility, or medical guidance. It cites official sources and encourages verification.

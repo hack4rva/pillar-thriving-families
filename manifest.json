@@ -1,0 +1,574 @@
+{
+  "corpus": {
+    "pillar": "thriving-families",
+    "title": "Thriving Families Pillar — Richmond Civic Hackathon",
+    "description": "Research corpus on Richmond's Thriving Families problem space: youth employment pathways and maternal health data coordination.",
+    "research_index": "research/index.json",
+    "corpus_guide": "CORPUS_GUIDE.md",
+    "agents_spec": "AGENTS.md",
+    "maintenance_guide": "MAINTENANCE.md",
+    "generated": "2026-03-18"
+  },
+  "files": [
+
+    {
+      "id": "root/README",
+      "path": "README.md",
+      "type": "nav_file",
+      "title": "Thriving Families Pillar — Main Entry Point",
+      "pillar": "thriving-families",
+      "summary": "Primary entry point for hackathon teams. Covers the three core questions, decision phases (0–9), guardrails, repo map, and Hackbot introduction. Read first for orientation.",
+      "tags": ["entry-point", "decision-phases", "guardrails", "orientation", "hackathon"],
+      "recommended_audience": ["all teams", "first-time visitors", "AI agents starting a session"],
+      "read_after": [],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/QUICKSTART",
+      "path": "QUICKSTART.md",
+      "type": "nav_file",
+      "title": "Quick Start — Minimal Path to MVP",
+      "pillar": "thriving-families",
+      "summary": "Minimal path from landing to MVP scope for teams with limited time. Prioritized for the first 15–30 minutes.",
+      "tags": ["quickstart", "minimal-path", "mvp", "orientation"],
+      "recommended_audience": ["teams with limited time", "teams that need a clear starting point"],
+      "read_after": ["README.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/AGENTS",
+      "path": "AGENTS.md",
+      "type": "agent_spec",
+      "title": "Hackbot Agent Specification",
+      "pillar": "thriving-families",
+      "summary": "Full specification for Hackbot: personality, boot sequence, skill system, research corpus navigation instructions, guardrails, and decision logic. AI agents should read this before acting.",
+      "tags": ["hackbot", "agent-spec", "skills", "boot-sequence", "research-corpus-navigation"],
+      "recommended_audience": ["AI agents", "developers building on Hackbot"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "root/CLAUDE_MD",
+      "path": "CLAUDE.md",
+      "type": "agent_spec",
+      "title": "Claude Role Definition",
+      "pillar": "thriving-families",
+      "summary": "Role and operating rules for Claude AI in this repository: civic research guide, Socratic coach, MVP advisor. Defines what Claude should and should not do, preferred and weak solution patterns, and the default task sequence.",
+      "tags": ["claude", "role-definition", "operating-rules", "guardrails"],
+      "recommended_audience": ["Claude AI agents"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "root/CORPUS_GUIDE",
+      "path": "CORPUS_GUIDE.md",
+      "type": "nav_file",
+      "title": "Research Corpus Guide",
+      "pillar": "thriving-families",
+      "summary": "Self-describing guide for humans and AI agents on how to navigate and use the research corpus. Covers canonical source of truth hierarchy, section structure, navigation decision tree, and agent behavior requirements.",
+      "tags": ["corpus-guide", "navigation", "agent-behavior", "retrieval", "architecture"],
+      "recommended_audience": ["AI agents", "researchers", "hackathon participants unfamiliar with the corpus"],
+      "read_after": ["README.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/MAINTENANCE",
+      "path": "MAINTENANCE.md",
+      "type": "maintenance_guide",
+      "title": "Maintenance Guide",
+      "pillar": "thriving-families",
+      "summary": "Instructions for adding, updating, and synchronizing research reports, metadata, indexes, and navigation files. Required reading before modifying the corpus structure.",
+      "tags": ["maintenance", "adding-reports", "metadata", "synchronization"],
+      "recommended_audience": ["corpus maintainers", "pillar coordinators", "AI agents tasked with corpus updates"],
+      "read_after": ["CORPUS_GUIDE.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "root/HACKBOT_BOOT_PROMPT",
+      "path": "HACKBOT_BOOT_PROMPT.md",
+      "type": "agent_spec",
+      "title": "Hackbot Boot Prompt",
+      "pillar": "thriving-families",
+      "summary": "Initialization prompt for Hackbot. Contains the condensed boot sequence and initial framing for AI agent sessions.",
+      "tags": ["hackbot", "boot-prompt", "agent-initialization"],
+      "recommended_audience": ["AI agents initializing a session"],
+      "read_after": ["AGENTS.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "root/evidence_log",
+      "path": "evidence_log.md",
+      "type": "evidence_log",
+      "title": "Evidence Log",
+      "pillar": "thriving-families",
+      "summary": "Tracker for verified, likely, and missing factual claims about Richmond's Thriving Families problem space. Organizes claims by verification status with official source references.",
+      "tags": ["evidence", "verified-claims", "sources", "fact-checking"],
+      "recommended_audience": ["researchers verifying claims", "AI agents checking facts", "corpus maintainers"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "root/research_notes",
+      "path": "research_notes.md",
+      "type": "synthesized_artifact",
+      "title": "Research Notes (Research Hub)",
+      "pillar": "thriving-families",
+      "summary": "Research hub and executive brief for the Thriving Families pillar. Contains promoted findings from verified evidence across both problem domains.",
+      "tags": ["research-hub", "executive-brief", "findings", "synthesis"],
+      "recommended_audience": ["all teams", "orientation phase", "teams needing quick summary"],
+      "read_after": ["README.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "core/pillar_overview",
+      "path": "00_core/00_pillar_overview.md",
+      "type": "core_doc",
+      "title": "Pillar Overview",
+      "pillar": "thriving-families",
+      "summary": "Overview of the Thriving Families pillar problem space: youth employment pathways and maternal health data coordination. Foundational context for all research.",
+      "tags": ["pillar-overview", "problem-space", "youth-employment", "maternal-health", "orientation"],
+      "recommended_audience": ["all teams", "orientation phase"],
+      "read_after": ["README.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "core/map_alignment",
+      "path": "00_core/01_map_alignment.md",
+      "type": "core_doc",
+      "title": "MAP Alignment",
+      "pillar": "thriving-families",
+      "summary": "Alignment of this pillar with the Mayor's Action Plan (MAP). Explains the civic and strategic context for hackathon solutions in youth employment and family health.",
+      "tags": ["map", "mayors-action-plan", "strategic-alignment", "civic-context"],
+      "recommended_audience": ["teams needing policy context", "demo presentations"],
+      "read_after": ["00_core/00_pillar_overview.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "problem_space/bluesky",
+      "path": "01_problem_space/01_bluesky_problem_statements.md",
+      "type": "problem_statement",
+      "title": "Blue-Sky Problem Statements",
+      "pillar": "thriving-families",
+      "summary": "Broad, unconstrained problem statements for exploratory ideation around Thriving Families themes. Use for teams still in orientation and wanting a wide problem canvas before narrowing.",
+      "tags": ["problem-statements", "bluesky", "ideation", "exploration"],
+      "recommended_audience": ["teams in orientation phase", "teams still choosing a problem"],
+      "read_after": ["00_core/00_pillar_overview.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "problem_space/targeted",
+      "path": "01_problem_space/02_targeted_problem_statements.md",
+      "type": "problem_statement",
+      "title": "Targeted Problem Statements (Scored)",
+      "pillar": "thriving-families",
+      "summary": "Two scored, rubric-evaluated problem statements ready for hackathon selection: Youth Employment Pathways (23/32, D3=1) and Maternal Health Data Coordination (23/32). Includes rubric dimension scores and critical gaps.",
+      "tags": ["problem-statements", "scored", "youth-employment", "maternal-health", "rubric"],
+      "recommended_audience": ["all teams choosing a problem", "Phase 2"],
+      "read_after": ["01_problem_space/01_bluesky_problem_statements.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "data/index",
+      "path": "02_data/00_index.md",
+      "type": "data_file",
+      "title": "Data Index",
+      "pillar": "thriving-families",
+      "summary": "Index of available data sources for the Thriving Families pillar. Points to the source inventory CSV and explains data categories.",
+      "tags": ["data-index", "data-sources", "inventory"],
+      "recommended_audience": ["teams identifying data sources", "Phase 3"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "data/source_inventory",
+      "path": "02_data/source_inventory.csv",
+      "type": "data_file",
+      "title": "Source Inventory (CSV)",
+      "pillar": "thriving-families",
+      "summary": "Structured inventory of public data sources for Thriving Families: VDH, ACS, KIDS COUNT, GRTC GTFS, DOLI. Includes access mode, key fields, and notes.",
+      "tags": ["data-sources", "csv", "VDH", "ACS", "KIDS-COUNT", "GRTC"],
+      "recommended_audience": ["developers", "data researchers", "teams building data-dependent MVPs"],
+      "read_after": ["02_data/00_index.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "artifacts/user_journeys",
+      "path": "03_artifacts/user_journeys.md",
+      "type": "synthesized_artifact",
+      "title": "User Journeys",
+      "pillar": "thriving-families",
+      "summary": "Synthesized user journey maps for key Thriving Families personas: teen jobseeker, employer, and maternal health researcher. Derived from research reports.",
+      "tags": ["user-journeys", "personas", "youth-employment", "maternal-health"],
+      "recommended_audience": ["teams in MVP design phase", "UX-focused team members"],
+      "read_after": ["research/B1_users_youth_jobseeker.md", "research/B3_users_maternal_health_researcher.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/youth_data_feasibility",
+      "path": "03_artifacts/youth_data_feasibility.md",
+      "type": "synthesized_artifact",
+      "title": "Youth Data Feasibility Assessment",
+      "pillar": "thriving-families",
+      "summary": "Assessment of data feasibility for youth employment MVP: what data exists, what must be manually curated, and what gaps must be acknowledged in the demo.",
+      "tags": ["data-feasibility", "youth-employment", "manual-curation", "data-gaps"],
+      "recommended_audience": ["teams building youth employment tools", "data researchers"],
+      "read_after": ["research/D1_data_youth_labor.md", "research/H4_mvp_data_constraints.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/benchmark_scan",
+      "path": "03_artifacts/benchmark_scan.md",
+      "type": "synthesized_artifact",
+      "title": "Benchmark Scan",
+      "pillar": "thriving-families",
+      "summary": "Scan of comparable civic tech tools in youth employment and maternal health data nationally. Synthesized from prior art research (Section E).",
+      "tags": ["benchmarks", "comparable-tools", "prior-art", "youth-employment", "maternal-health"],
+      "recommended_audience": ["teams in opportunity framing phase", "teams doing competitive analysis"],
+      "read_after": ["research/E1_prior_art_youth_employment.md", "research/E2_prior_art_health_dashboards.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/prototype_recommendations",
+      "path": "03_artifacts/prototype_recommendations.md",
+      "type": "synthesized_artifact",
+      "title": "Prototype Recommendations",
+      "pillar": "thriving-families",
+      "summary": "Synthesized prototype recommendations for both Thriving Families problem domains. Provides concrete MVP direction with data source assignments and risk ratings.",
+      "tags": ["prototype", "recommendations", "MVP", "youth-employment", "maternal-health"],
+      "recommended_audience": ["teams ready to lock MVP scope", "Phase 5"],
+      "read_after": ["research/F1_opportunities_ranked.md", "research/H1_mvp_48hr_framework.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "artifacts/continuation_plan",
+      "path": "03_artifacts/continuation_plan.md",
+      "type": "synthesized_artifact",
+      "title": "Continuation Plan",
+      "pillar": "thriving-families",
+      "summary": "Post-hackathon continuation opportunities for Thriving Families prototypes: potential partners, grants, and next steps for teams that want to continue beyond the hackathon.",
+      "tags": ["continuation", "post-hackathon", "partners", "sustainability"],
+      "recommended_audience": ["teams thinking about post-hackathon impact"],
+      "read_after": ["03_artifacts/prototype_recommendations.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "build_guides/mvp_shapes",
+      "path": "04_build_guides/01_mvp_shapes.md",
+      "type": "build_guide",
+      "title": "MVP Shapes",
+      "pillar": "thriving-families",
+      "summary": "Catalog of viable MVP shapes for Thriving Families: youth jobs navigator, compliance wizard, maternal health dashboard, transit overlay tool. Includes scope and risk rating for each.",
+      "tags": ["mvp-shapes", "build-guide", "scope", "youth-employment", "maternal-health"],
+      "recommended_audience": ["teams in opportunity framing phase", "Phase 4"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "build_guides/recommended_architectures",
+      "path": "04_build_guides/02_recommended_architectures.md",
+      "type": "build_guide",
+      "title": "Recommended Architectures",
+      "pillar": "thriving-families",
+      "summary": "Technical architecture recommendations for Thriving Families MVPs: stack choices, data pipeline patterns, and deployment options suited to a 48-hour hackathon build.",
+      "tags": ["architecture", "technical", "stack", "data-pipeline", "48-hour"],
+      "recommended_audience": ["developers", "technical leads"],
+      "read_after": ["04_build_guides/01_mvp_shapes.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "build_guides/demo_advice",
+      "path": "04_build_guides/05_demo_advice.md",
+      "type": "build_guide",
+      "title": "Demo Advice",
+      "pillar": "thriving-families",
+      "summary": "Practical advice for preparing and delivering a Thriving Families hackathon demo: what judges look for, how to handle live demo risks, and how to present limitations honestly.",
+      "tags": ["demo", "presentation", "judges", "demo-prep"],
+      "recommended_audience": ["all teams in demo preparation phase", "Phase 7–9"],
+      "read_after": ["research/I1_demo_archetypes.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "skill/repo_memory",
+      "path": "skills/repo_memory",
+      "type": "skill",
+      "title": "Skill: repo_memory",
+      "pillar": "thriving-families",
+      "summary": "Skill for reconstructing repository state: reads project artifacts, detects stage of work, and summarizes progress for a new Hackbot session.",
+      "tags": ["skill", "repo-memory", "context-reconstruction"],
+      "recommended_audience": ["AI agents starting a session"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/problem_scoping",
+      "path": "skills/problem_scoping",
+      "type": "skill",
+      "title": "Skill: problem_scoping",
+      "pillar": "thriving-families",
+      "summary": "Skill for helping teams choose a strong problem: analyzes problem statements, ranks opportunities, and identifies realistic weekend-buildable directions.",
+      "tags": ["skill", "problem-scoping", "opportunity-ranking"],
+      "recommended_audience": ["AI agents in orientation phase", "teams choosing a problem"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/research_runner",
+      "path": "skills/research_runner",
+      "type": "skill",
+      "title": "Skill: research_runner",
+      "pillar": "thriving-families",
+      "summary": "Skill for executing research prompts and collecting findings: runs prompts, extracts sources, and summarizes evidence for team use.",
+      "tags": ["skill", "research-runner", "prompts", "evidence"],
+      "recommended_audience": ["AI agents in research phase"],
+      "read_after": [],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/dataset_mapper",
+      "path": "skills/dataset_mapper",
+      "type": "skill",
+      "title": "Skill: dataset_mapper",
+      "pillar": "thriving-families",
+      "summary": "Skill for identifying usable datasets: scans data directory, identifies schemas, and highlights gaps relevant to the team's chosen problem.",
+      "tags": ["skill", "dataset-mapper", "data-sources"],
+      "recommended_audience": ["AI agents in data research phase"],
+      "read_after": ["02_data/00_index.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/opportunity_mapper",
+      "path": "skills/opportunity_mapper",
+      "type": "skill",
+      "title": "Skill: opportunity_mapper",
+      "pillar": "thriving-families",
+      "summary": "Skill for translating research into buildable solution opportunities: matches problems to solution patterns and suggests MVP directions.",
+      "tags": ["skill", "opportunity-mapper", "solution-patterns"],
+      "recommended_audience": ["AI agents in opportunity framing phase"],
+      "read_after": ["research/F1_opportunities_ranked.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/mvp_designer",
+      "path": "skills/mvp_designer",
+      "type": "skill",
+      "title": "Skill: mvp_designer",
+      "pillar": "thriving-families",
+      "summary": "Skill for turning an opportunity into a concrete MVP: produces user flow, architecture, and scope boundaries.",
+      "tags": ["skill", "mvp-designer", "user-flow", "scope"],
+      "recommended_audience": ["AI agents in scope lock phase"],
+      "read_after": ["research/H1_mvp_48hr_framework.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/risk_review",
+      "path": "skills/risk_review",
+      "type": "skill",
+      "title": "Skill: risk_review",
+      "pillar": "thriving-families",
+      "summary": "Skill for preventing civic-tech mistakes: checks for hallucinated services, legal claims, incorrect eligibility logic, and misleading language.",
+      "tags": ["skill", "risk-review", "guardrails", "civic-tech"],
+      "recommended_audience": ["AI agents before demo", "all teams"],
+      "read_after": ["research/G5_risks_guardrails.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/demo_coach",
+      "path": "skills/demo_coach",
+      "type": "skill",
+      "title": "Skill: demo_coach",
+      "pillar": "thriving-families",
+      "summary": "Skill for helping teams present effectively: produces demo script, narrative structure, and judge-facing explanation.",
+      "tags": ["skill", "demo-coach", "presentation", "judges"],
+      "recommended_audience": ["AI agents in demo preparation phase"],
+      "read_after": ["research/I1_demo_archetypes.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/repo_librarian",
+      "path": "skills/repo_librarian",
+      "type": "skill",
+      "title": "Skill: repo_librarian",
+      "pillar": "thriving-families",
+      "summary": "Skill for helping users navigate repository knowledge: answers queries about where content lives and what files to read for a given purpose.",
+      "tags": ["skill", "repo-librarian", "navigation"],
+      "recommended_audience": ["AI agents answering navigation questions"],
+      "read_after": ["CORPUS_GUIDE.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/continuity_planner",
+      "path": "skills/continuity_planner",
+      "type": "skill",
+      "title": "Skill: continuity_planner",
+      "pillar": "thriving-families",
+      "summary": "Skill for identifying post-hackathon continuation opportunities: identifies potential partners, artifacts worth continuing, and next steps.",
+      "tags": ["skill", "continuity", "post-hackathon", "partners"],
+      "recommended_audience": ["AI agents near end of hackathon"],
+      "read_after": ["03_artifacts/continuation_plan.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/research_search",
+      "path": "skills/research_search",
+      "type": "skill",
+      "title": "Skill: research_search",
+      "pillar": "thriving-families",
+      "summary": "Skill for searching the research corpus: queries research/index.json and returns relevant file recommendations based on user question.",
+      "tags": ["skill", "research-search", "corpus-search", "index"],
+      "recommended_audience": ["AI agents answering research questions"],
+      "read_after": ["research/index.json"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/research_corpus_navigation",
+      "path": "skills/research_corpus_navigation",
+      "type": "skill",
+      "title": "Skill: research_corpus_navigation",
+      "pillar": "thriving-families",
+      "summary": "Skill for mapping a user question to the correct section and specific research reports before attempting to answer. Builds a reading list and identifies prerequisites.",
+      "tags": ["skill", "corpus-navigation", "reading-list", "section-mapping"],
+      "recommended_audience": ["AI agents answering research questions", "any agent before reading research files"],
+      "read_after": ["research/index.json", "CORPUS_GUIDE.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/cross_report_synthesis",
+      "path": "skills/cross_report_synthesis",
+      "type": "skill",
+      "title": "Skill: cross_report_synthesis",
+      "pillar": "thriving-families",
+      "summary": "Skill for synthesizing findings across multiple research reports with source traceability, tension identification, gap documentation, and confidence classification.",
+      "tags": ["skill", "synthesis", "cross-report", "source-traceability"],
+      "recommended_audience": ["AI agents answering multi-section questions"],
+      "read_after": ["skills/research_corpus_navigation"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/evidence_grounded_answering",
+      "path": "skills/evidence_grounded_answering",
+      "type": "skill",
+      "title": "Skill: evidence_grounded_answering",
+      "pillar": "thriving-families",
+      "summary": "Skill for answering only from corpus content: applies 4-level claim classification (confirmed/stated/uncertain/not found), anti-fabrication checks, and required language for missing information.",
+      "tags": ["skill", "evidence-grounded", "claim-classification", "anti-fabrication"],
+      "recommended_audience": ["AI agents making factual claims about Richmond"],
+      "read_after": ["evidence_log.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "skill/report_update_protocol",
+      "path": "skills/report_update_protocol",
+      "type": "skill",
+      "title": "Skill: report_update_protocol",
+      "pillar": "thriving-families",
+      "summary": "Skill for safely adding or updating reports and keeping indexes in sync: 7-step process with validation checklist.",
+      "tags": ["skill", "report-update", "maintenance", "index-sync"],
+      "recommended_audience": ["AI agents tasked with corpus maintenance", "corpus maintainers"],
+      "read_after": ["MAINTENANCE.md"],
+      "source_of_truth": true
+    },
+
+    {
+      "id": "templates/working_direction",
+      "path": "99_templates/working_direction_note.md",
+      "type": "template",
+      "title": "Working Direction Note Template",
+      "pillar": "thriving-families",
+      "summary": "Template for capturing a team's working direction during Phase 1 orientation: candidate problem, likely user, rationale, buildability, and biggest uncertainty.",
+      "tags": ["template", "working-direction", "orientation", "team-alignment"],
+      "recommended_audience": ["all teams in Phase 1"],
+      "read_after": ["README.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "templates/decision_memo",
+      "path": "99_templates/decision_memo.md",
+      "type": "template",
+      "title": "Decision Memo Template",
+      "pillar": "thriving-families",
+      "summary": "Template for capturing the team's problem selection decision: chosen problem, user, rationale, rejected alternatives, and risks.",
+      "tags": ["template", "decision-memo", "problem-selection"],
+      "recommended_audience": ["all teams in Phase 2"],
+      "read_after": ["01_problem_space/02_targeted_problem_statements.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "templates/project_one_pager",
+      "path": "99_templates/project_one_pager_template.md",
+      "type": "template",
+      "title": "Project One-Pager Template",
+      "pillar": "thriving-families",
+      "summary": "Template for a one-page project brief: problem, user, solution, data sources, AI role, limits, and demo path. Complete at scope lock.",
+      "tags": ["template", "project-brief", "scope-lock", "one-pager"],
+      "recommended_audience": ["all teams in Phase 5 scope lock"],
+      "read_after": ["04_build_guides/01_mvp_shapes.md"],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "templates/team_profile",
+      "path": "99_templates/team_profile_template.md",
+      "type": "template",
+      "title": "Team Profile Template",
+      "pillar": "thriving-families",
+      "summary": "Template for the team profile file required by Hackbot: team name, decision maker, members, communication preferences, and constraints.",
+      "tags": ["template", "team-profile", "hackbot", "onboarding"],
+      "recommended_audience": ["all teams at hackathon start"],
+      "read_after": [],
+      "source_of_truth": false
+    },
+
+    {
+      "id": "research/corpus_reference",
+      "path": "research/index.json",
+      "type": "research_index",
+      "title": "Research Corpus Index (JSON)",
+      "pillar": "thriving-families",
+      "summary": "Machine-readable index of all 51 research reports in the Thriving Families corpus. Each entry includes id, section, title, 1-2 sentence summary, and 6 key terms. Read this before opening individual research files.",
+      "tags": ["research-index", "corpus", "navigation", "machine-readable"],
+      "recommended_audience": ["AI agents", "all teams beginning research phase"],
+      "read_after": ["CORPUS_GUIDE.md"],
+      "source_of_truth": false
+    }
+
+  ]
+}
