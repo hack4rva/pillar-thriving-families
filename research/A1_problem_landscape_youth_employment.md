@@ -1,4 +1,5 @@
-# Global Youth Employment Outlook 2024-25: Unequal Recovery, Rising NEET Risks, and Policy Levers
+
+# Global Youth Employment Outlook 2024-2025: Unequal Recovery, Rising NEET Risks, and Policy Levers
 
 ## Executive Summary
 
@@ -14,7 +15,7 @@ This report synthesizes the latest authoritative labor market data, primarily dr
 
 The post-pandemic recovery has brought the global youth unemployment rate down to 13% in 2023, a 15-year low, leaving 64.9 million youth unemployed [1]. Despite this positive macroeconomic signal, the underlying dynamics reveal persistent fragility.
 
-### Unemployment Rate Trends (2000-2023)
+### Unemployment Rate Trends (2000 to 2023)
 
 The 2023 unemployment rate of 13% is 0.8 percentage points below the pre-pandemic rate of 13.8% in 2019, and significantly lower than the crisis peak of 15.6% in 2020 [2]. However, the recovery has been unequal across genders. The youth unemployment rate dropped more sharply for young men than for young women during the recovery period, shifting the gender dynamics of employment transitions and placing a greater degree of disadvantage on young women [2]. The global youth unemployment rate is projected to decrease slightly to 12.8% by 2025 [2].
 
@@ -66,7 +67,7 @@ Educational attainment is increasingly failing to guarantee secure employment. T
 
 ### Informal & Insecure Employment
 
-The lack of decent jobs remains a pervasive issue. In low-income countries, only 1 in 5 young adult workers (aged 25-29) are in a regular paid job, compared to 4 in 5 in high-income countries [5]. In Sub-Saharan Africa, 3 in 4 youth lack secure work [5]. This reliance on informal, temporary, or own-account work leaves youth highly vulnerable to economic shocks.
+The lack of decent jobs remains a pervasive issue. In low-income countries, only 1 in 5 young adult workers (aged 25 to 29) are in a regular paid job, compared to 4 in 5 in high-income countries [5]. In Sub-Saharan Africa, 3 in 4 youth lack secure work [5]. This reliance on informal, temporary, or own-account work leaves youth highly vulnerable to economic shocks.
 
 ### Data Limitations & Monitoring Needs
 
@@ -98,7 +99,7 @@ Governments and international donors must invest in robust, high-frequency labor
 
 The projected "soft landing" of the global economy [2] remains vulnerable to geopolitical shocks and inflation. If global growth stalls, the fragile gains in youth employment will evaporate, as youth are typically the first to be laid off. Furthermore, rising youth anxiety is palpable: 2 in 3 young people are worried about losing their jobs [5]. Failure to provide secure employment pathways risks severe social unrest, particularly in regions like Sub-Saharan Africa where the youth population is surging.
 
-| Subregion | Projected Labor Force Change (2023-2050) | Strategic Implication |
+| Subregion | Projected Labor Force Change (2023 to 2050) | Strategic Implication |
 | :--- | :--- | :--- |
 | **Sub-Saharan Africa** | +72.6 million | Urgent need for mass formal job creation to absorb demographic boom. |
 | **North Africa** | +3.3 million | Focus on integrating high numbers of NEET youth, particularly women. |
@@ -107,11 +108,11 @@ The projected "soft landing" of the global economy [2] remains vulnerable to geo
 
 *Takeaway: Demographic divergence requires tailored regional strategies; Africa must focus on volume job creation, while Asia must focus on productivity and skill alignment.*
 
-## Implementation Roadmap (2024-2026)
+## Implementation Roadmap (2024 to 2026)
 
-1. **Q3 2024 - Q4 2024 (Assessment & Targeting):** National labor ministries must conduct localized NEET audits, identifying specific geographic and demographic concentrations of excluded youth.
-2. **Q1 2025 - Q2 2025 (Policy Deployment):** Roll out targeted Active Labor Market Policies (ALMPs), including wage subsidies for hiring youth in green/digital sectors and expanding vocational training access for young women.
-3. **Q3 2025 - Q4 2025 (Education Integration):** Launch public-private partnerships to overhaul secondary and tertiary curricula, ensuring alignment with 2030 industry skill requirements.
+1. **Q3 2024 to Q4 2024 (Assessment & Targeting):** National labor ministries must conduct localized NEET audits, identifying specific geographic and demographic concentrations of excluded youth.
+2. **Q1 2025 to Q2 2025 (Policy Deployment):** Roll out targeted Active Labor Market Policies (ALMPs), including wage subsidies for hiring youth in green/digital sectors and expanding vocational training access for young women.
+3. **Q3 2025 to Q4 2025 (Education Integration):** Launch public-private partnerships to overhaul secondary and tertiary curricula, ensuring alignment with 2030 industry skill requirements.
 4. **2026 (Review & Scale):** Evaluate the impact of ALMPs on the 2025 projected NEET rate of 261.9 million [2]. Scale successful regional pilot programs nationally, with a strict mandate on reducing the 13.1 percentage point gender gap in the employment-to-population ratio.
 
 ## References
@@ -119,5 +120,5 @@ The projected "soft landing" of the global economy [2] remains vulnerable to geo
 1. *Global Employment Trends for Youth 2024*. https://www.ilo.org/publications/major-publications/global-employment-trends-youth-2024
 2. *Global Employment Trends for Youth 2024*. https://www.ilo.org/sites/default/files/2024-09/GET_2024_EN%20web.pdf
 3. *Measuring what matters: NEET vs youth unemployment*. https://www.ilo.org/resource/article/measuring-what-matters-neet-vs-youth-unemployment
-4. *Unemployment, youth total (% of total labor force ages 15-24 ...*. https://data.worldbank.org/indicator/SL.UEM.1524.ZS
+4. *Unemployment, youth total (% of total labor force ages 15-24...*. https://data.worldbank.org/indicator/SL.UEM.1524.ZS
 5. *Global Employment Trends for Youth 2024: In figures*. https://www.ilo.org/resource/article/global-employment-trends-youth-2024-figures

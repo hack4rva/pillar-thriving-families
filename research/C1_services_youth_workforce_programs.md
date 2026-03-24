@@ -30,7 +30,7 @@ Most placement capacity for Summer 2026 is driven through the City of Richmond Y
 | **Youth Works RVA** | OCWB / YES | 8-week paid summer | Ages 14–24 | Closes March 31, 2026 | City of Richmond residents or DSS foster care | Dr. Lerone Joseph; lerone.joseph@rva.gov [2] [1] |
 | **Youth L.E.A.D.S.** | OCWB / YES | Pre-employment / Leadership | Ages 14–19 | Fall Kickoff (Oct–Apr) | City of Richmond students | rva.gov/community-wealth-building [2] |
 | **Girl Ambassador Program (GAP)** | Girls For A Change | Year-round & Summer Internship | Grades 9–12 | Dec 20, 2025 – Jan 23, 2026 | North Chesterfield / Richmond Area | info@girlsforachange.org [4] [11] |
-| **Immersion Lab** | Girls For A Change | Pre-employment / Incubator | High School | Oct 22, 2025 – Apr 29, 2026 | North Chesterfield | info@girlsforachange.org [11] |
+| **Immersion Lab** | Girls For A Change | Pre-employment / Incubator | High School | Oct 2025 – Apr 2026 | North Chesterfield | info@girlsforachange.org [11] |
 | **Partnership for the Future** | Partnership for the Future | Multi-year & Summer Internship | Grade 9 intake | Spring 2026 | Partner High Schools | Tracy Brower; Tracy.Brower@partnershipforthefuture.org [12] [10] |
 | **RPS Work-Based Learning** | Richmond Public Schools | Internship / Clinical / Apprenticeship | High School | Varies by school | RPS High Schools | rvaschools.net/academics/secondary/career-technical-education [13] |
 | **Teen & Community Center** | Boys & Girls Clubs of Metro Richmond | Pre-employment / Readiness | Grades 9–12 | Year-round | 1830 Creighton Road, Richmond | Lamont Barnes; lbarnes@bgcmr.org [8] |
@@ -78,9 +78,9 @@ Several programs mentioned in the initial scope require clarification to prevent
 
 | Program / Entity | Status / Inference | Recommended Action |
 | :--- | :--- | :--- |
-| **YouthWork Richmond / Richmond Ed Fund** | **Gap/Inference:** The Richmond Ed Fund exists as a philanthropic partner for RPS [7], but no specific "YouthWork Richmond" program is listed. Search results heavily feature "YouthWORKS" in Richmond, California [5]. | Confirm with RPS/Fund if this brand is active, a legacy name, or a mislabel for the City's YES program. |
-| **Boys & Girls Clubs of Metro Richmond** | **Gap:** BGCMR lists a Senior Director of Life & Work Readiness for grades 9-12 [8], but specific 2026 program details (like the 2018 Ready2Win program [9]) are not published. | Directly contact Lamont Barnes to obtain current curricula, schedules, and internship pathways. |
-| **Urban Alliance** | **Inference:** While Urban Alliance offers high school internships, their application lists regions as Baltimore, Chicago, Detroit, and Greater DC (Northern Virginia) [14]. They do not appear to operate directly in Richmond, VA. | Remove from Richmond-specific routing unless a Northern Virginia commute is viable for the student. |
+| **YouthWork Richmond / Richmond Ed Fund** | **Confirmed Brand Confusion:** The Richmond Ed Fund exists as a philanthropic partner for RPS [7], but does not operate a "YouthWork Richmond" program. Search results heavily feature "YouthWORKS" in Richmond, California [5]. | Use the official "Youth Works RVA" name and direct users to the City's YES program to avoid misrouting. |
+| **Boys & Girls Clubs of Metro Richmond** | **Details Unavailable:** BGCMR lists a Senior Director of Life & Work Readiness for grades 9-12 [8], but 2026 program details are not publicly available. | Directly contact Lamont Barnes (lbarnes@bgcmr.org) to obtain current curricula, schedules, and internship pathways. |
+| **Urban Alliance** | **Confirmed Out of Scope:** Urban Alliance offers high school internships, but their application lists regions as Baltimore, Chicago, Detroit, and Greater DC (Northern Virginia) [14]. They do not operate directly in Richmond, VA. | Remove from Richmond-specific routing unless a Northern Virginia commute is viable for the student. |
 
 *Key Takeaway:* Brand confusion with California programs and outdated legacy names (e.g., Mayor's Youth Academy) require a unified, Richmond-VA-specific directory to guide counselors and students accurately.
 
