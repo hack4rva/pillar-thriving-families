@@ -18,8 +18,56 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ---
 
+## The Challenge
+
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, and exactly how judges will score your solution.
+
+### Problem 1: Expanding Youth Employment Pathways — 23/32 — Needs work
+
+> How might we use technology to improve how Richmond youth find, prepare for, and access early employment opportunities so that the path from interest to employment feels clear, supported, and achievable?
+
+Build toward: Youth employment pathway guide (step-by-step content + guided flow) · Job readiness checklist and document prep helper · Employer-youth discovery tool · Transportation-aware program finder
+
+🚨 **D3=1 — lowest data readiness score across all 12 targeted statements.** No datasets are linked. No program directory, no employer list, no labor law summary, no transit overlay exists. Teams must curate content manually or scope to guidance-only.
+
+---
+
+### Problem 2: Maternal Health Data Coordination — 23/32 — Needs work
+
+> How might we use technology to reduce fragmented and duplicative maternal health data analysis so that Richmond's maternal health ecosystem can operate from unified, consistent metrics?
+
+Build toward: Shared indicator dashboard · Data source navigator · Grant application data kit (standardized, pre-compiled, downloadable) · Maternal health data aggregator
+
+⚠ URLs for the four named data sources (VDH, ACS, Kids Count, VDOE) have not been verified. Confirm access before building a pipeline that depends on them.
+
+---
+
+### Top Blue Sky: Connecting Youth and Employers Across the City — 21/27 — Strong ★ Recommended
+
+> How might we use technology to make it easier for Richmond youth to discover employment opportunities and for local employers to find prepared teen candidates?
+
+Scope to discovery and guidance — not formal hiring. Build one side of the match (youth-facing or employer-facing), not both. Partner with the Office of Community Wealth Building if possible.
+
+---
+
+### Pillar Award Rubric
+
+| Category | Weight | Dominant question |
+|----------|--------|-------------------|
+| **Impact** | **5** | Does this directly address one of the two problems above? |
+| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
+| Feasibility | 3 | Could this be piloted by a workforce org or health coalition within a year? |
+| Innovation | 3 | Fresh thinking on youth employment or health data coordination? |
+| Execution | 3 | Does a working demo exist? Is the flow coherent? |
+| Equity | 3 | Does it reach youth without strong adult support networks, or under-resourced health orgs? |
+
+Full rubric with scoring anchors and judge instructions: [`../RUBRIC.md`](../RUBRIC.md)
+
+---
+
 ## Table of Contents
 
+0. [The Challenge](#the-challenge)
 1. Quick Start
 2. Repo Map
 3. Guardrails
@@ -41,7 +89,8 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 Do these first 15–30 minutes to get moving:
 
-1) Read: `QUICKSTART.md`
+1) Read: `CHALLENGE.md` — the two problems, top blue sky, and rubric (start here, not QUICKSTART.md)
+2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5‑bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:
