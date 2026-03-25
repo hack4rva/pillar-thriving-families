@@ -1,9 +1,7 @@
-
 # H4 MVP Data Constraints
 
 *Document version: 1.2 | Last updated: **2023-02** (all dates follow ISO 8601 YYYY-MM)* 
-*Prepared by: H4 CONSULTING LIMITED (Company No. 03223954, est. 1996) – Data-Governance Team* 
-*Specialising in public sector consulting [7].*
+*Prepared by: H4 Consulting – Data-Governance Team* 
 
 --- 
 
@@ -24,7 +22,7 @@ This file defines the data-management constraints that apply to the **Minimum Vi
 | **Device Telemetry** | Anonymous usage metrics (session-id, event-type) | NDJSON | Engineering | 15 min streaming |
 | **Public API** | Reference tables (country codes, currency list) | JSON | Product | Weekly pull |
 
-*All sources have been vetted for **minimum-data-principle** compliance (GDPR Art. 5(1)(c)) [2].* 
+*All sources have been vetted for **minimum-data-principle** compliance (GDPR Art. 5(1c)) [2].* 
 
 --- 
 
@@ -34,7 +32,7 @@ This file defines the data-management constraints that apply to the **Minimum Vi
 |------------|-------------|-----------|-----------------------|
 | **Maximum Record Size** | ≤ 256 KB per record | Prevents out-of-memory failures in the MVP container runtime | Validation middleware (schema-first) |
 | **Field Cardinality** | No multi-valued fields in the MVP schema (arrays not allowed) | Keeps data model simple for rapid iteration | OpenAPI v3.0 definition – `type: string` only |
-| **PII Limitation** | Only *email* and *user-id* may be stored; all other personal identifiers must be hashed or omitted | Aligns with GDPR data-minimisation [2] and NIST SP 800-53 Rev. 5 SI-19 (De-Identification) | Pre-processor that hashes `first_name`, `last_name`, `phone` |
+| **PII Limitation** | Only *email* and *user-id* may be stored; all other personal identifiers must be hashed or omitted | Aligns with GDPR data-minimisation [2] and NIST SP 800-53 SI-04 | Pre-processor that hashes `first_name`, `last_name`, `phone` |
 | **Retention** | 90 days for telemetry; 12 months for financial records | Balances audit needs vs storage cost | Automated TTL jobs (MongoDB `expireAfterSeconds`) |
 | **Versioning** | Every schema change must bump the **semver** major version | Guarantees backward compatibility for early adopters | CI/CD gate that blocks PRs without version bump |
 
@@ -55,15 +53,15 @@ The previously-listed date **"6783-20"** was an entry error; it has been correct
 | Regulation | Affected Data | Control | Reference |
 |------------|---------------|---------|-----------|
 | **GDPR Art. 5** (Data Minimisation) | All PII fields | Store only email + user-id; hash others | [2] |
-| **HIPAA** (if applicable) | Health-related telemetry (none in MVP) | **Not applicable** – telemetry lacks "individually identifiable health information" (PHI) per 45 CFR 160.103 | — |
-| **PCI-DSS** (v4.0) | Payment-gateway receipts | No Sensitive Authentication Data (SAD) or full PAN stored post-authorization; only irreversible tokenised IDs (PCI SSC FAQ #1533) | — |
+| **HIPAA** (if applicable) | Health-related telemetry (none in MVP) | **Not applicable** – documented as "No PHI stored" | — |
+| **PCI-DSS** (v4.0) | Payment-gateway receipts | Card numbers never stored; only tokenised IDs | — |
 | **NIST SP 800-53 Rev 5** – *SC-7* (Boundary Protection) | All inbound data streams | TLS 1.3 enforced, API gateway OWASP-top-10 hardening | [5] |
 
 --- 
 
 ## 6. Data-Quality Controls
 
-1. **Schema Validation** – Every inbound payload is validated against the OpenAPI v3.0 contract using **AJV** (strict mode, rejecting unknown formats/keywords) to prevent injection flaws [6]. 
+1. **Schema Validation** – Every inbound payload is validated against the OpenAPI v3.0 contract using **AJV** (strict mode) to prevent injection flaws [6]. 
 2. **Uniqueness Checks** – `user_id` must be globally unique; duplicate attempts are logged and rejected (HTTP 409). 
 3. **Range Checks** – Monetary fields must be within `0 ≤ amount ≤ 10 000`; out-of-range values trigger a **validation error**. 
 4. **Sanity Audits** – Daily job runs a **data-profile** scan (null-rate, type-mismatch) and raises an alert if any metric exceeds **1 %**. 
@@ -93,10 +91,18 @@ All accesses are logged to **Elastic Security** and retained for 180 days (per S
 
 ## 9. References
 
-1. Internet Engineering Task Force, **RFC 4180: Common Format and MIME Type for Comma-Separated Values (CSV) Files**, 2005. https://www.rfc-editor.org/rfc/rfc4180
-2. European Union, **GDPR Art. 5 – Principles relating to processing of personal data**. https://gdpr-info.eu/art-5-gdpr/
-3. International Organization for Standardization, **ISO 8601 — Date and time format**. https://www.iso.org/iso-8601-date-and-time-format.html
-4. Internet Engineering Task Force, **RFC 3339: Date and Time on the Internet: Timestamps**, 2002. https://www.rfc-editor.org/rfc/rfc3339
-5. National Institute of Standards and Technology, **SP 800-53 Rev. 5 – Security and Privacy Controls**, 2020. https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
-6. OWASP Foundation, **Top 10 2021 – A03:2021-Injection**, 2021. https://owasp.org/Top10/2021/A03_2021-Injection/
-7. UK Companies House, **H4 CONSULTING LIMITED (03223954)**. https://find-and-update.company-information.service.gov.uk/company/03223954
+1. International Organization for Standardization, **ISO 8601 — Date and time format**. https://www.iso.org/iso-8601-date-and-time-format.html [3]
+2. European Union, **GDPR Art. 5 – Principles relating to processing of personal data**. https://gdpr-info.eu/art-5-gdpr/ [2]
+3. National Institute of Standards and Technology, **SP 800-53 Rev. 5 – Security and Privacy Controls**, 2020. https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final [5]
+4. OWASP Foundation, **Top 10 2021 – Injection**, 2021. https://owasp.org/Top10/A03_2021-Injection/ [6]
+5. Internet Engineering Task Force, **RFC 3339: Date and Time on the Internet: Timestamps**, 2002. https://www.rfc-editor.org/rfc/rfc3339 [4]
+6. W3C, **Model for Tabular Data and Metadata on the Web**, 2015. https://www.w3.org/TR/tabular-data-model/ [1]
+
+## References
+
+1. *Model for Tabular Data and Metadata on the Web*. https://www.w3.org/TR/tabular-data-model/
+2. *Art. 5 GDPR – Principles relating to processing of personal data - General Data Protection Regulation (GDPR)*. https://gdpr-info.eu/art-5-gdpr/
+3. *ISO - ISO 8601 — Date and time format*. https://www.iso.org/iso-8601-date-and-time-format.html
+4. *RFC 3339:  Date and Time on the Internet: Timestamps *. https://www.rfc-editor.org/rfc/rfc3339
+5. *SP 800-53 Rev. 5, Security and Privacy Controls for Information Systems and Organizations | CSRC*. https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+6. *A03 Injection - OWASP Top 10:2021*. https://owasp.org/Top10/A03_2021-Injection/

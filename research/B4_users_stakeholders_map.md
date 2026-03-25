@@ -1,18 +1,17 @@
-
-# From Draft to Ready-to-Publish: A Tactical Playbook for Fixing B4_users_stakeholders_map.md
+# From REPLACEME to Ready-to-Publish: A Tactical Playbook for Fixing B4_users_stakeholders_map.md
 
 ## Executive Summary
-The `B4_users_stakeholders_map.md` document requires immediate remediation to transform it from a draft riddled with placeholders and invalid dates into a production-ready artifact. The B4 project is a critical tool designed to facilitate distributed development workflows for Linux kernel maintainers and developers relying on patches and distribution lists [1]. By integrating authoritative citations from official B4 documentation and kernel submission guidelines, standardizing dates to ISO-8601 formats, and replacing generic automated content disclaimers with kernel-compliant `Signed-off-by` tags [2], this playbook provides the exact steps and the final corrected markdown required to align the document with open-source best practices. 
+The `B4_users_stakeholders_map.md` document requires immediate remediation to transform it from a draft riddled with placeholders and invalid dates into a production-ready artifact. The B4 project is a critical tool designed to facilitate distributed development workflows for Linux kernel maintainers and developers relying on patches and distribution lists [1]. By integrating authoritative citations from official B4 documentation and kernel submission guidelines, standardizing dates to ISO-8601 formats, and replacing generic AI disclaimers with kernel-compliant `Signed-off-by` tags [2], this playbook provides the exact steps and the final corrected markdown required to align the document with open-source best practices. 
 
 ## Document Hygiene Checklist
-Placeholder overload and invalid date formats severely degrade the trustworthiness and machine-readability of project documentation. Static-site generators and CI linting tools frequently fail when encountering malformed dates. They must be corrected to valid formats like "2024" or "2025". 
+Placeholder overload and invalid date formats severely degrade the trustworthiness and machine-readability of project documentation. Static-site generators and CI linting tools frequently fail when encountering malformed dates like "13-Month-2024" or "2025-00-15". 
 
 | Original Token | Issue Type | Resolution Strategy | Owner |
 |---|---|---|---|
-| `[Missing Role]` | Missing Data | Replace with specific B4 user roles (e.g., Patch Maintainer, Contributor) | Docs Lead |
-| `2024` | Date Formatting | Convert to ISO-8601 format (e.g., `2024-12-01`) | Docs Lead |
-| `2025` | Date Formatting | Convert to ISO-8601 format (e.g., `2025-01-15`) | Docs Lead |
-| `Unverified` | Missing Research | Map to official B4 documentation roles or flag as `(research-required)` | Project Owner |
+| `REPLACEME` / `INSERT` | Missing Data | Replace with specific B4 user roles (e.g., Patch Maintainer, Contributor) | Docs Lead |
+| `13-Month-2024` | Invalid Date | Convert to ISO-8601 format (e.g., `2024-12-01`) | Docs Lead |
+| `2025-00-15` | Invalid Date | Convert to ISO-8601 format (e.g., `2025-01-15`) | Docs Lead |
+| `UNKNOWN` | Missing Research | Map to official B4 documentation roles or flag as `(research-required)` | Project Owner |
 
 Systematic resolution of these tokens ensures that downstream parsing tools function correctly and reviewers are presented with factual, actionable information.
 
@@ -39,13 +38,13 @@ This matrix aligns the stakeholder map with the actual distributed development w
 ## Date Standardization Protocol
 Consistent ISO-8601 dates prevent tooling failures and ensure historical accuracy. 
 * **Rule 1:** Always use `YYYY-MM-DD`.
-* **Rule 2:** If the exact day is unverified, default to the first of the month (`YYYY-MM-01`) and add a footnote.
-* **Rule 3:** If the month is unverified, use `YYYY`.
+* **Rule 2:** If the exact day is unknown, default to the first of the month (`YYYY-MM-01`) and add a footnote.
+* **Rule 3:** If the month is unknown, use `YYYY`.
 
-## Automated Content & Licensing Clean-up
-Generic automated content disclaimers violate kernel mailing-list etiquette and open-source licensing norms. The Linux kernel requires a Developer's Certificate of Origin (DCO) to track who did what [2]. 
+## AI-Disclaimer & Licensing Clean-up
+The placeholder "AI-generated content – see disclaimer" violates kernel mailing-list etiquette and open-source licensing norms. The Linux kernel requires a Developer's Certificate of Origin (DCO) to track who did what [2]. 
 
-All such generic disclaimers must be removed and replaced with a standard `Signed-off-by: Random J Developer <random@developer.example.org>` line, which certifies that the contributor has the right to submit the work under the open-source license [2].
+All generic AI disclaimers must be removed and replaced with a standard `Signed-off-by: Random J Developer <random@developer.example.org>` line, which certifies that the contributor has the right to submit the work under the open-source license [2].
 
 ## Template Adoption & Formatting
 Leveraging existing markdown templates ensures consistent syntax and visual clarity. CI pipelines that lint markdown will reject malformed tables or missing front-matter.
@@ -59,7 +58,7 @@ Leveraging existing markdown templates ensures consistent syntax and visual clar
 Adopting a standard GitHub markdown table format ensures compatibility with static site generators like MkDocs [8].
 
 ## Risk Management & Ownership
-Leaving stakeholders marked as unverified creates blind spots in project governance. If no verifiable source exists for a specific role (e.g., "Security liaison"), a `(research-required)` flag must be added, and an issue-tracker ticket should be assigned to the project lead for resolution within a standard two-week sprint.
+Leaving stakeholders marked as "Unknown" creates blind spots in project governance. If no verifiable source exists for a specific role (e.g., "Security liaison"), a `(research-required)` flag must be added, and an issue-tracker ticket should be assigned to the project lead for resolution within a standard two-week sprint.
 
 ## Implementation Roadmap
 
@@ -91,16 +90,15 @@ This document provides a visual and structural representation of the individuals
 | **Contributors / Developers** | Users who prepare and submit patches or patch series for maintainer review using B4 `prep` and `send` [1]. | Medium | High | Provide clear documentation; track via `Signed-off-by:` [2]. |
 | **Code Reviewers** | Individuals utilizing B4's TUI-based patch review workflow to evaluate code readiness [1]. | High | Medium | Solicit feedback; track via `Reviewed-by:` tags [2]. |
 | **Infrastructure Admins** | Maintainers of `lore.kernel.org` and public-inbox archives which B4 interacts with [6]. | Low | Low | Monitor API limits and archive availability. |
-| **Security Liaisons** | Coordinates embargoed hardware issues and vulnerability reports via `hardware-security@kernel.org`. | High | High | Direct to `security@kernel.org` [2]. |
+| **Security Liaisons** | (research-required) Handles embargoed patches and vulnerability reports. | Unknown | High | Direct to `security@kernel.org` [2]. |
 
 ## References
 
 1. *B4 end-user documentation — B4 end-user docs documentation*. https://b4.docs.kernel.org/
-2. *Submitting patches: the essential guide to getting your...*. https://docs.kernel.org/process/submitting-patches.html
+2. *Submitting patches: the essential guide to getting your ...*. https://docs.kernel.org/process/submitting-patches.html
 3. *How to create a stakeholder map [templates & examples]*. https://www.mural.co/blog/stakeholder-mapping
-4. *Stakeholder Mapping: Guide to Identifying & Engaging Key...*. https://www.boreal-is.com/blog/stakeholder-mapping-identify-stakeholders/
+4. *Stakeholder Mapping: Guide to Identifying & Engaging Key ...*. https://www.boreal-is.com/blog/stakeholder-mapping-identify-stakeholders/
 5. *Free Online Stakeholder Mapping Tool - Canva*. https://www.canva.com/graphs/stakeholder-maps/
 6. *List archives on lore.kernel.org*. https://www.kernel.org/lore.html
 7. *15 Stakeholder Diagrams To Add To Your Toolkit*. https://simplystakeholders.com/stakeholder-diagrams/
 8. *Getting Started | Markdown Guide*. https://www.markdownguide.org/getting-started/
-```
