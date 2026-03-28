@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Global Youth Employment Outlook 2024-25: Unequal Recovery, Rising NEET Risks, and Policy Levers
 
 ## Executive Summary

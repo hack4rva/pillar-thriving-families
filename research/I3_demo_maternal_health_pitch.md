@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Grant-Ready Richmond Maternal Health: Credible Data, 5-Step Demo
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Youth Employment: Who Serves Whom, How They Coordinate, and Where to Build Next
 
 ## Executive Summary

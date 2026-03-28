@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # I1 Demo Archetypes – Markdown Reference Guide
 
 *(Prepared 2024-11-12 – all dates are ISO 8601; unknown components omitted)* 

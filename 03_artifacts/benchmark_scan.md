@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Benchmark Scan — National Comparables
 
 This file documents national models relevant to both Thriving Families problem areas. Use these for inspiration, not as proof of Richmond applicability. Verify any cited features against the actual tools before claiming comparability.

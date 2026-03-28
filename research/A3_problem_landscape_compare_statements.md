@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Two Paths to Thriving Families—Which Ships by Sunday, Which Scales by Policy
 
 ## Executive Summary

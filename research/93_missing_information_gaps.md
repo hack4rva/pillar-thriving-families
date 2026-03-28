@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # Unblocking Richmond's Thriving Families MVP: High-impact data gaps, 48-hour bridges, and risk-proof choices
 

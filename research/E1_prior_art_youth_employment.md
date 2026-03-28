@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Urban Youth Employment Tech — What Works and What Richmond Needs Now
 
 ## Executive Summary

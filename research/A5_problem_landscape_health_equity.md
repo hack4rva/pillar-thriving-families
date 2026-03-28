@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # A5 Problem Landscape — Health Equity (2026)
 
 *Prepared on 2026-03-24*

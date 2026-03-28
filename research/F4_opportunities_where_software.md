@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Software That Actually Moves the Needle: A hard-nosed map of where code helps (and doesn’t) in youth jobs and maternal health data
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Top 10 Research Questions Guiding AI-Generated Content (2025-2026)
 
 *Prepared 2026-03-22 – All dates expressed in YYYY-MM format when the exact day is unavailable.*

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # Richmond Teen Workforce Programs 2026 — Where to Place, When to Apply, What to Fix
 

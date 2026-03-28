@@ -21,6 +21,8 @@ related_reports:
   - F1_opportunities_ranked
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # 48-Hour Civic Build Playbook: Minimum-Credible MVPs for Thriving Families (Youth Employment Edition)
 
 ## Executive Summary

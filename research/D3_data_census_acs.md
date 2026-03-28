@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # ACS building blocks for a Richmond maternal health equity dashboard
 
 ## Executive Summary

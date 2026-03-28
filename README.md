@@ -1,8 +1,10 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 <div align="center">
 
-# Thriving Families — Decision Funnel
+# Thriving Families: Decision Funnel
 
-Richmond Civic Hackathon • March 27–29, 2026
+Richmond Civic Hackathon • March 27-29, 2026
 
 [![Pillar](https://img.shields.io/badge/Pillar-Thriving_Families-e05c00)](#)
 [![Stage](https://img.shields.io/badge/Stage-Decision_Funnel-00a38f)](#)
@@ -10,7 +12,7 @@ Richmond Civic Hackathon • March 27–29, 2026
 
 </div>
 
-This is a guided decision environment for teams working on the Thriving Families pillar. It is designed to help you quickly choose a credible, source‑linked, weekend‑buildable MVP — and avoid fantasy software.
+This is a guided decision environment for teams working on the Thriving Families pillar. It is designed to help you quickly choose a credible, source‑linked, weekend‑buildable MVP and avoid fantasy software.
 
 Journey stages: Land → Orient → Choose → Research → Compare MVPs → Lock Scope → Build → Validate → Demo → Hand‑off
 
@@ -20,19 +22,19 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ## The Challenge
 
-**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, how Pillar Award weights use the shared rubric, and optional per-problem prompts to help your team think about the categories (not a second judge rubric).
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else. It covers the two problems, the top blue sky vision, data constraints, and optional per-problem prompts that relate to [`RUBRIC.md`](../RUBRIC.md) for teams preparing their pitch (those prompts are not judge instructions).
 
-### Problem 1: Expanding Youth Employment Pathways — 23/32 — Needs work
+### Problem 1: Expanding Youth Employment Pathways
 
 > How might we use technology to improve how Richmond youth find, prepare for, and access early employment opportunities so that the path from interest to employment feels clear, supported, and achievable?
 
 Build toward: Youth employment pathway guide (step-by-step content + guided flow) · Job readiness checklist and document prep helper · Employer-youth discovery tool · Transportation-aware program finder
 
-🚨 **D3=1 — lowest data readiness score across all 12 targeted statements.** No datasets are linked. No program directory, no employer list, no labor law summary, no transit overlay exists. Teams must curate content manually or scope to guidance-only.
+**Critical data gap:** No datasets are linked. No program directory, no employer list, no labor law summary, no transit overlay exists. Teams must curate content manually or scope to guidance-only.
 
 ---
 
-### Problem 2: Maternal Health Data Coordination — 23/32 — Needs work
+### Problem 2: Maternal Health Data Coordination
 
 > How might we use technology to reduce fragmented and duplicative maternal health data analysis so that Richmond's maternal health ecosystem can operate from unified, consistent metrics?
 
@@ -42,26 +44,19 @@ Build toward: Shared indicator dashboard · Data source navigator · Grant appli
 
 ---
 
-### Top Blue Sky: Connecting Youth and Employers Across the City — 21/27 — Strong ★ Recommended
+### Top Blue Sky: Connecting Youth and Employers Across the City
 
 > How might we use technology to make it easier for Richmond youth to discover employment opportunities and for local employers to find prepared teen candidates?
 
-Scope to discovery and guidance — not formal hiring. Build one side of the match (youth-facing or employer-facing), not both. Partner with the Office of Community Wealth Building if possible.
+Scope to discovery and guidance, not formal hiring. Build one side of the match (youth-facing or employer-facing), not both. Partner with the Office of Community Wealth Building if possible.
 
 ---
 
-### Pillar Award Rubric
+### Rubric reference
 
-| Category | Weight | Dominant question |
-|----------|--------|-------------------|
-| **Impact** | **5** | Does this directly address one of the two problems above? |
-| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
-| Feasibility | 3 | Could this be piloted by a workforce org or health coalition within a year? |
-| Innovation | 3 | Fresh thinking on youth employment or health data coordination? |
-| Execution | 3 | Does a working demo exist? Is the flow coherent? |
-| Equity | 3 | Does it reach youth without strong adult support networks, or under-resourced health orgs? |
+Hackathon judges use the category framework in [`../RUBRIC.md`](../RUBRIC.md). Optional prompts in [`CHALLENGE.md`](CHALLENGE.md) help teams prepare their story; they are not instructions to judges.
 
-Official rubric — category definitions, scoring anchors, and judge-facing guidance: [`../RUBRIC.md`](../RUBRIC.md)
+A single-file Markdown handout (same content as `CHALLENGE.md` plus a short cover note) is at [`docs/PARTICIPANT_HANDOUT.md`](docs/PARTICIPANT_HANDOUT.md).
 
 ---
 
@@ -78,7 +73,7 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
    - Phase 3: Research Spin‑Up
    - Phase 4: Opportunity Framing
    - Phase 5: Scope Lock
-   - Phases 6–9: Build → Validate → Demo
+   - Phases 6-9: Build → Validate → Demo
 5. Verification Workflow
 6. Hackbot Helper
 7. Appendix: Pillar Context & Rubric
@@ -87,16 +82,16 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
 
 ## Quick Start
 
-Do these first 15–30 minutes to get moving:
+Do these first 15-30 minutes to get moving:
 
-1) Read: `CHALLENGE.md` — the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
+1) Read: `CHALLENGE.md`  -  the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
 2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5‑bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:
-   - Path A — youth employment: jump to Phase 2 with that problem
-   - Path B — maternal health data: jump to Phase 2 with that problem
-   - Path C — need help choosing: start at Phase 1 and proceed in order
+   - Path A  -  youth employment: jump to Phase 2 with that problem
+   - Path B  -  maternal health data: jump to Phase 2 with that problem
+   - Path C  -  need help choosing: start at Phase 1 and proceed in order
 
 ---
 
@@ -106,7 +101,7 @@ Do these first 15–30 minutes to get moving:
 - Evidence tracker: `evidence_log.md`
 - Data index: `02_data/00_index.md`
 - Source inventory (CSV): `02_data/source_inventory.csv`
-- **Research corpus** (51 reports): `research/` — see `research/INDEX.md` for table of contents
+- **Research corpus** (51 reports): `research/`  -  see `research/INDEX.md` for table of contents
 - Artifacts: `03_artifacts/`
   - Journeys: `03_artifacts/user_journeys.md`
   - Youth data feasibility: `03_artifacts/youth_data_feasibility.md`
@@ -142,7 +137,7 @@ Do these first 15–30 minutes to get moving:
 ## Decision Phases
 
 <details open>
-<summary><strong>Phase 0 — Landing & Framing</strong></summary>
+<summary><strong>Phase 0  -  Landing & Framing</strong></summary>
 
 Goal: understand what this repo is and how to use it without "exploring" for two hours.
 
@@ -166,7 +161,7 @@ Call to action: choose Path A, B, or C.
 </details>
 
 <details open>
-<summary><strong>Phase 1 — Rapid Orientation (20–30 min)</strong></summary>
+<summary><strong>Phase 1  -  Rapid Orientation (20-30 min)</strong></summary>
 
 Read just enough to build a shared mental model:
 - `QUICKSTART.md`
@@ -178,7 +173,7 @@ Filter for:
 - user groups; pain points; what the City actually cares about
 - problems that are software‑shaped vs policy‑shaped
 
-Team checkpoint — Working Direction (use `99_templates/working_direction_note.md`):
+Team checkpoint  -  Working Direction (use `99_templates/working_direction_note.md`):
 
 ```
 ## Working Direction
@@ -193,16 +188,16 @@ Team checkpoint — Working Direction (use `99_templates/working_direction_note.
 </details>
 
 <details>
-<summary><strong>Phase 2 — Problem Selection (30–45 min)</strong></summary>
+<summary><strong>Phase 2  -  Problem Selection (30-45 min)</strong></summary>
 
 Files:
 - `01_problem_space/01_bluesky_problem_statements.md`
 - `01_problem_space/02_targeted_problem_statements.md`
 - `05_prompts/01_problem_selection_prompt.md`
 
-Decision rule — choose only if the problem has:
+Decision rule  -  choose only if the problem has:
 - a real user and understandable workflow
-- a plausible public data/document base (critical: see D3=1 note for Youth Employment)
+- a plausible public data/document base (critical: see the youth employment data-gap note in `CHALLENGE.md`)
 - a demoable artifact by Sunday
 
 Output: Decision Memo (`99_templates/decision_memo.md`)
@@ -218,7 +213,7 @@ Output: Decision Memo (`99_templates/decision_memo.md`)
 </details>
 
 <details>
-<summary><strong>Phase 3 — Research Spin‑Up (60–90 min)</strong></summary>
+<summary><strong>Phase 3  -  Research Spin‑Up (60-90 min)</strong></summary>
 
 Goal: gather just enough evidence to avoid fantasy software.
 
@@ -245,7 +240,7 @@ Tip: parse URLs from API metadata; don't ask for URLs in prompt text.
 </details>
 
 <details>
-<summary><strong>Phase 4 — Opportunity Framing (45–60 min)</strong></summary>
+<summary><strong>Phase 4  -  Opportunity Framing (45-60 min)</strong></summary>
 
 Compare at least two MVP shapes before choosing.
 
@@ -270,7 +265,7 @@ Output:
 </details>
 
 <details>
-<summary><strong>Phase 5 — Scope Lock (45–60 min)</strong></summary>
+<summary><strong>Phase 5  -  Scope Lock (45-60 min)</strong></summary>
 
 Pin down must‑haves, mockables, data, AI role, limits, and demo path.
 
@@ -284,7 +279,7 @@ Key sentence:
 </details>
 
 <details>
-<summary><strong>Phases 6–9 — Build → Validate → Demo</strong></summary>
+<summary><strong>Phases 6-9  -  Build → Validate → Demo</strong></summary>
 
 Build:
 - Break work into FE/BE/data/content; assign source verification and demo owner.
@@ -346,23 +341,17 @@ Notes:
 Prepared by: Amy Popovich, Eva Colen, Jacque Hale (March 3, 2026)
 
 Pillar Working Session
-- Session: March 3, 2026, 12:00 PM – 2:00 PM
+- Session: March 3, 2026, 12:00 PM - 2:00 PM
 
-Rubric Score Summary
-| Statement                          | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | Total | Band       |
-|------------------------------------|----|----|----|----|----|----|----|----|-------|------------|
-| Youth Employment Pathways          | 3  | 3  | 1  | 3  | 4  | 3  | 4  | 2  | 23    | Needs work |
-| Maternal Health Data Coordination  | 3  | 3  | 3  | 3  | 4  | 3  | 3  | 3  | 23    | Needs work |
+**Workshop comparison (internal):** Committee notes referenced dimensions such as clarity, scope, data readiness, champions, population impact, operating environment, success criteria, and accessibility. See `CHALLENGE.md` and `01_problem_space/` for wording teams should use.
 
-Dimension key: D1 Clarity | D2 Scope | D3 Data readiness | D4 Champion | D5 Population & impact | D6 Operating environment | D7 Success criteria | D8 Accessibility
+Quick-kill flags: Check data readiness in `CHALLENGE.md` before locking a problem.
 
-Quick‑kill flags: Both statements lack a continuation pathway. Youth Employment triggers "data not ready" — D3=1, the lowest data score across all 12 targeted statements this cycle.
-
-Targeted Statement 1: Expanding Youth Employment Pathways (Score 23/32 — Needs work)
+Targeted Statement 1: Expanding Youth Employment Pathways
 - Problem, context, constraints, success, and gaps are in `01_problem_space/02_targeted_problem_statements.md`.
 - Critical gap: No compiled dataset of Richmond youth employment programs, employer directory, labor law summary, or GRTC transit overlay exists.
 
-Targeted Statement 2: Maternal Health Data Coordination (Score 23/32 — Needs work)
+Targeted Statement 2: Maternal Health Data Coordination
 - Problem, context, constraints, success, and gaps are in `01_problem_space/02_targeted_problem_statements.md`.
 - Gap: URLs for four named data sources not yet linked; access method unspecified.
 

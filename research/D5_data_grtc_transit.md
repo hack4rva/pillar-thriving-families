@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # GRTC GTFS, Fast: From Open Feeds to "Nearest Bus Stop" in 48 Hours
 
 ## Executive Summary

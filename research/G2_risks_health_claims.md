@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Designing Truth: Preventing Harm from Maternal Health Data Misuse in Richmond's Civic-Tech Tools
 
 ## Executive Summary

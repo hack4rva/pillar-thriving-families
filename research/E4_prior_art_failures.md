@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Build What Sticks: Avoiding Civic-Tech Pitfalls for Thriving Families
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Who Uses Richmond's Maternal Data—and What a Trusted Tool Must Do
 
 ## Executive Summary

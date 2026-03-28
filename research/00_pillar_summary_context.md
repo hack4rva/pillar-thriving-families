@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # 00 Pillar Summary Context
 
 *(Prepared 2026-03-24 – all dates formatted YYYY-MM; sources verified as of the preparation date)*

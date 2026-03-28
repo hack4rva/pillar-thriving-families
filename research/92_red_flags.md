@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Build Safely: Red Flags That Can Derail Richmond’s Thriving Families Tech
 
 ## Executive Summary

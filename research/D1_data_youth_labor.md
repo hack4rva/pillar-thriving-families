@@ -20,6 +20,8 @@ related_reports:
   - G1_risks_minor_data_privacy
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Virginia Teen Work Compliance 2026: Permits, Hours, Hazards, and Curfew—Ages 14–18
 
 ## Executive Summary

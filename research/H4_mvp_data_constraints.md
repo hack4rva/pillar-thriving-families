@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # H4 MVP Data Constraints
 
 *Document version: 1.2 | Last updated: **2023-02** (all dates follow ISO 8601 YYYY-MM)* 

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Verification TODO
 
 This file tracks items that require verification before the hackathon (March 27–29, 2026) or during the event. Items marked CRITICAL block MVP development if unresolved.

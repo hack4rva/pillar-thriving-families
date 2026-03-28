@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # From Weekend Hack to Civic Impact: What Actually Works
 
 ## Executive Summary

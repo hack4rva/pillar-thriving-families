@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Validation Report
 
 Repo: pillar-thriving-families — prompts: 51 outputs: 53 files_with_issues: 27 general_issues: 0

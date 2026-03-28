@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Problem Landscape – Maternal Health Data (2023 & 2024)
 
 *An evidence-based overview of the current state of maternal-health data, the gaps that hinder measurement, and the strategic levers needed to improve visibility and actionability.*

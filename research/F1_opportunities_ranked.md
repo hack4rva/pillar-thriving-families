@@ -21,6 +21,8 @@ related_reports:
  - A3_problem_landscape_compare_statements
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # 48-Hour Civic Tech Wins: Ranked, Low-Risk Opportunity Spaces in Youth Employment and Maternal Health
 
 ## Executive Summary

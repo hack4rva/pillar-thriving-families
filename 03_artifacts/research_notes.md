@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Research Notes — Thriving Families Pillar
 
 Richmond Civic Hackathon | March 27–29, 2026

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # F5 Strategic Opportunities: Partner and Buy vs. Build (2025-2026)
 
 ## Executive Summary

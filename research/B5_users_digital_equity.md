@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Teens, Real Access: Designing a Mobile-First, Offline-Safe MVP
 
 ## Executive Summary

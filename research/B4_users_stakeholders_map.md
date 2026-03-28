@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # From REPLACEME to Ready-to-Publish: A Tactical Playbook for Fixing B4_users_stakeholders_map.md
 
 ## Executive Summary

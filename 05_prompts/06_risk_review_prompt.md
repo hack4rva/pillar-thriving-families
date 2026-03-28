@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Risk Review Prompt
 
 Use this prompt before demoing. Run it against your prototype copy, UI text, README claims, and demo script.

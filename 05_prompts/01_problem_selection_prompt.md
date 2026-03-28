@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Problem Selection Prompt
 
 Use this prompt to help your team choose between the two Thriving Families problem statements.
