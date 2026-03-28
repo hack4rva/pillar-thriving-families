@@ -37,6 +37,23 @@ Early work experience helps Richmond youth build skills and long-term workforce 
 - No GRTC transit data is linked for transportation overlay
 - Teams choosing this problem must curate content manually or scope to guidance-only (no live data layer)
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+The bullets below are **optional prompts for your team** — ways you might explain your project against the six categories in [`RUBRIC.md`](../../RUBRIC.md). **Judges use `RUBRIC.md`**, not this list; they may interpret categories differently during scoring.
+
+- **Impact:** You can show how the prototype makes the path from interest to first job clearer for Richmond youth (or employers), without overclaiming coverage you did not build.
+- **User Value:** Name a concrete user (e.g. a teen without a strong adult network, a program navigator) and what becomes easier in one weekend demo.
+- **Feasibility:** Stay within youth labor law, consent, and **no storage of minors’ personal information**; label curated or mock data honestly.
+- **Innovation:** Go beyond a generic job board — e.g. guided steps, document prep, transit-aware discovery, or employer-facing clarity.
+- **Execution:** A judge can follow a flow (even with curated content) and understand the next step for the user.
+- **Equity and inclusion:** Call out how you account for transportation barriers and teens without strong adult support.
+
+**What often works well for this problem:** A pathway or checklist with real-ish program content, document-prep guidance, lightweight employer–youth discovery, or a transit-aware finder using real GRTC data when you have it.
+
+**What to avoid for this problem:** Employment or eligibility determinations, collecting/storing personal information about minors without a clear, compliant approach, or presenting unverified listings as complete official data.
+
+*Try asking yourself:* Could a 16-year-old in Southside Richmond use this to see what to do next toward a summer job or internship?
+
 ---
 
 ### Problem 2: Maternal Health Data Coordination
@@ -69,6 +86,23 @@ Maternal health stakeholders across Richmond independently compile the same data
 - VDOE data — URL and access method not confirmed
 - Teams must verify each source exists and is accessible before building a pipeline that depends on it
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+The bullets below are **optional prompts for your team** — ways you might explain your project against the six categories in [`RUBRIC.md`](../../RUBRIC.md). **Judges use `RUBRIC.md`**, not this list.
+
+- **Impact:** Show how the tool reduces duplicated analysis or aligns metrics for **organizations** working on maternal health — not clinical care for individuals.
+- **User Value:** Name a concrete role (e.g. coalition analyst, grant writer) and a task your demo shortens (e.g. finding a metric, exporting a table).
+- **Feasibility:** Build only on **verified** public sources; avoid pipelines that depend on URLs or APIs you have not confirmed.
+- **Innovation:** A navigator, shared indicator view, or reusable “data kit” can be more compelling than another one-off spreadsheet.
+- **Execution:** Someone can pull or compare at least one real metric or see a credible static mock with a clear path to real data.
+- **Equity and inclusion:** Tie metrics or narrative to disparities affecting Black mothers and under-resourced organizations when relevant.
+
+**What often works well for this problem:** A data source navigator, a small dashboard from confirmed public data, or a downloadable package of standardized indicators for grants.
+
+**What to avoid for this problem:** Clinical recommendations, patient-level claims, or live dashboards that depend on sources you have not verified.
+
+*Try asking yourself:* Could a maternal health nonprofit analyst open this and reuse a metric instead of rebuilding the same spreadsheet again?
+
 ---
 
 ## The Blue Sky Vision
@@ -88,25 +122,29 @@ Scope to discovery and matching guidance — not formal hiring. A weekend team c
 
 Both sides require content curation. Partner with the Office of Community Wealth Building or a workforce nonprofit if possible — they have the relationships that make this real.
 
+**Rubric connection (blue sky):** This vision is closest to **Problem 1 (youth employment pathways)**. Use the Problem 1 participant guide for reflection prompts. If your demo spans youth and another theme, be explicit about which problem statement you are primarily addressing and use the relevant guide(s).
+
 ---
 
-## How Your Solution Will Be Judged (Pillar Award)
+## Pillar Award: official scoring mechanics
 
-The Pillar Award uses the following weights. For full category definitions and scoring anchors, see [`/RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
+**Authoritative rubric:** Judges score using the six categories and 1–5 scale defined in [`RUBRIC.md`](../../RUBRIC.md) at the hackathon root. That file states what each category means and what judges are asked to consider.
 
-| Category | Weight | What judges are asking |
-|----------|--------|------------------------|
-| **Impact** | **5** | Does this directly address one of the two problem statements above? |
-| **User Value** | 4 | Is there a specific, real user? Does the prototype improve their experience? |
-| **Feasibility** | 3 | Could this be piloted by a workforce org or health coalition within a year? |
-| **Innovation** | 3 | Does the team bring fresh thinking to youth employment or health data coordination? |
-| **Execution** | 3 | Does a working demo exist? Is the flow coherent? |
-| **Equity** | 3 | Does the solution reach youth without strong adult support networks, or under-resourced health orgs? |
+**Participant guides in this document:** The optional **“Participant guide: connecting to the rubric”** sections under each problem are **examples** for your team — not a second rubric and **not** binding on judges.
+
+| Category | Weight |
+|----------|--------|
+| **Impact** (targeted civic problem) | **5** |
+| **User Value** | 4 |
+| **Feasibility** / implementability | 3 |
+| **Innovation** / originality | 3 |
+| **Execution** / prototype quality | 3 |
+| **Equity and inclusion** | 3 |
+
+Read **`RUBRIC.md`** for full category definitions, scoring anchors, and judge-facing guidance.
 
 **Score formula:** Sum of (category score 1–5 × weight). Maximum 105.
 
 **Tiebreaker:** User Value score.
 
-**What wins here:** A prototype that makes the path to first employment clearer for Richmond youth, or that reduces duplicated data work for maternal health organizations, with real content and a working demo.
-
-**What loses here:** Tools making employment or clinical determinations, solutions storing personal information about minors, or projects building on data sources that have not been confirmed as accessible.
+**General tips** (full detail in `RUBRIC.md`): Prefer civic usefulness over technical complexity; polish is not the same as impact; flag fragile assumptions (missing data, unrealistic integrations); if the demo is mostly slides, expect low Execution; requiring internal City or agency access you do not have should hurt Feasibility.
