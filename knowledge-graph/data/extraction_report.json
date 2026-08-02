@@ -1,9 +1,26 @@
 {
- "generatedAt": "2026-08-02T10:52:36.663Z",
+ "generatedAt": "2026-08-02T14:50:47.215Z",
  "repo": "pillar-thriving-families",
  "filesExamined": [
+  "/goto?url=CAEShAEBO6uMpcPk9qfu5_Y4zFN3mUFNNJ6ni819ZB3detCM4HxCW330m2bswy9Wj-BIVQWFu-AD7NXLMMhmYDWPxAiIsnw7FOBWPevNEEiWsMn_7J--pcgO7zL9tiXAr57lLF-DnhSzSG3Fd-5gG9RDcQhG8CoWW14Od0hiUo80wXpwgyS1Ndc=",
+  "/goto?url=CAESngEBO6uMpaO1txT7tNBq5rw_IbFZZxIwXxJ5BWoTZjVjNy3HNDyocMvfUkZeMvcx5M2VAE3ikIY_GKhPZjTEnySyIdr89fbeSOgqBpv7rNDUxdqCJvlw9yklgbNtp9ugKfK7TVF9nbLvX3E2N_tE-XfEvxVJsd9UZ539k5brVoCRq12j-lBxhYdk_cIYlf2eQn5Rl1svmVIGWkKirsPF0w==",
   "admin/evidence_log.md",
-  "data/source_inventory.csv"
+  "data/source_inventory.csv",
+  "post-event-research/first-job-sms-kit/jtbd_analysis.md",
+  "post-event-research/first-job-sms-kit/pain_points.md",
+  "post-event-research/grant-pack-builder/jtbd_analysis.md",
+  "post-event-research/grant-pack-builder/pain_points.md",
+  "post-event-research/multi-pillar-ai/jtbd_analysis.md",
+  "post-event-research/multi-pillar-ai/pain_points.md",
+  "post-event-research/richmond-youth-hub/jtbd_analysis.md",
+  "post-event-research/rva-people-data/jtbd_analysis.md",
+  "post-event-research/rva-people-data/pain_points.md",
+  "post-event-research/rva-works/jtbd_analysis.md",
+  "post-event-research/stepwise/jtbd_analysis.md",
+  "post-event-research/stepwise/pain_points.md",
+  "post-event-research/unboxed-rva/jtbd_analysis.md",
+  "post-event-research/unboxed-rva/pain_points.md",
+  "post-event-research/unknown-corrupted/jtbd_analysis.md"
  ],
  "provenanceVerification": {
   "exact": 0,
