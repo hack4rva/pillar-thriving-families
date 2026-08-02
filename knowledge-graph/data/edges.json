@@ -1,0 +1,542 @@
+[
+ {
+  "id": "e:00df314c357b",
+  "source": "n:evidence:e-002",
+  "target": "n:dataset:grtc-transit-gtfs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites ridegrtc.com, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "GRTC website lists GTFS download link in footer"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:011deb103690",
+  "source": "n:evidence:e-009",
+  "target": "n:dataset:girls-for-a-change-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites girlsforachange.org, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 25-25",
+    "excerpt": "Girls For A Change Girl Ambassador Program (GAP) serves grades 9–12"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:1577febc75a2",
+  "source": "n:org:virginia-doh",
+  "target": "n:dataset:vdh-maternal-health-data",
+  "type": "PUBLISHES",
+  "description": "Virginia DOH owns/publishes \"VDH Maternal Health Data\" (Download)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D08",
+    "excerpt": "VDH Maternal Health Data"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:20830d005444",
+  "source": "n:evidence:e-001",
+  "target": "n:dataset:grtc-transit-gtfs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites ridegrtc.com, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "GRTC GTFS feed is publicly downloadable as a ZIP file"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:2b2b6d57ebf2",
+  "source": "n:org:annie-e-casey-foundation",
+  "target": "n:dataset:kids-count-virginia",
+  "type": "PUBLISHES",
+  "description": "Annie E. Casey Foundation owns/publishes \"Kids Count Virginia\" (Download)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D10",
+    "excerpt": "Kids Count Virginia"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:2fa31cb1f784",
+  "source": "n:evidence:e-013",
+  "target": "n:dataset:girls-for-a-change-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites girlsforachange.org, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 29-29",
+    "excerpt": "Girls For A Change after-school programs serve grades 1–8 with STEAM and tutoring"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:33aa790831cb",
+  "source": "n:evidence:e-026",
+  "target": "n:dataset:vdh-maternal-health-data",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites vdh.virginia.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 42-42",
+    "excerpt": "VDH Maternal & Child Health Dashboard provides 2023 maternal/child indicators for Virginia"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:3d3de67b540f",
+  "source": "n:evidence:e-014",
+  "target": "n:dataset:boys-girls-club-metro-richmond",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites bgcmr.org, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 30-30",
+    "excerpt": "Boys & Girls Clubs of Metro Richmond serves youth ages 11–24"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:4aa051e9e8c2",
+  "source": "n:evidence:e-007",
+  "target": "n:dataset:ocwb-youth-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 23-23",
+    "excerpt": "OCWB Youth Empowerment Council serves ages 14–19, runs October–April"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:4b821b2055ef",
+  "source": "n:evidence:e-011",
+  "target": "n:dataset:girls-for-a-change-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites girlsforachange.org, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 27-27",
+    "excerpt": "Girls For A Change Camp Diva Leadership Academy serves grades 6–8"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:4cd67d7adf30",
+  "source": "n:evidence:e-004",
+  "target": "n:dataset:ocwb-youth-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 20-20",
+    "excerpt": "Youth Works RVA serves ages 14–24 across five tracks"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:522178731654",
+  "source": "n:org:us-census-bureau",
+  "target": "n:dataset:acs-american-community-survey",
+  "type": "PUBLISHES",
+  "description": "US Census Bureau owns/publishes \"ACS (American Community Survey)\" (Census API (free key))",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D09",
+    "excerpt": "ACS (American Community Survey)"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:68d00116214f",
+  "source": "n:org:richmond-education-fund",
+  "target": "n:dataset:youthwork-richmond-richmond-education-fund",
+  "type": "PUBLISHES",
+  "description": "Richmond Education Fund owns/publishes \"YouthWork Richmond / Richmond Education Fund\" (Manual)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D04",
+    "excerpt": "YouthWork Richmond / Richmond Education Fund"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:7b1228071353",
+  "source": "n:org:doli",
+  "target": "n:dataset:virginia-youth-labor-laws",
+  "type": "PUBLISHES",
+  "description": "DOLI owns/publishes \"Virginia Youth Labor Laws\" (Manual scrape)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D01",
+    "excerpt": "Virginia Youth Labor Laws"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:7cf3c8871527",
+  "source": "n:evidence:e-010",
+  "target": "n:dataset:girls-for-a-change-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites girlsforachange.org, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 26-26",
+    "excerpt": "Girls For A Change Immersion Lab serves grades 9–12"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:8c9d28038450",
+  "source": "n:evidence:e-003",
+  "target": "n:dataset:ocwb-youth-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "OCWB YES program Youth Works RVA is open for FY26 applications"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:8d5c66d8e242",
+  "source": "n:org:city-of-richmond",
+  "target": "n:dataset:ocwb-youth-programs",
+  "type": "PUBLISHES",
+  "description": "City of Richmond owns/publishes \"OCWB Youth Programs\" (Manual curation)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D02",
+    "excerpt": "OCWB Youth Programs"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:8e31200322d8",
+  "source": "n:org:bgc-metro-richmond",
+  "target": "n:dataset:boys-girls-club-metro-richmond",
+  "type": "PUBLISHES",
+  "description": "BGC Metro Richmond owns/publishes \"Boys & Girls Club Metro Richmond\" (Manual)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D05",
+    "excerpt": "Boys & Girls Club Metro Richmond"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:8ed0a80152a6",
+  "source": "n:org:city-of-richmond",
+  "target": "n:dataset:richmond-open-data-portal",
+  "type": "PUBLISHES",
+  "description": "City of Richmond owns/publishes \"Richmond Open Data Portal\" (Socrata API)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D07",
+    "excerpt": "Richmond Open Data Portal"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:92889c35cb8f",
+  "source": "n:evidence:e-012",
+  "target": "n:dataset:girls-for-a-change-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites girlsforachange.org, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 28-28",
+    "excerpt": "Girls For A Change Peer Advisor program serves grades 9–12 with monthly stipend"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:9566494bb48c",
+  "source": "n:org:girls-for-a-change",
+  "target": "n:dataset:girls-for-a-change-programs",
+  "type": "PUBLISHES",
+  "description": "Girls For A Change owns/publishes \"Girls For A Change Programs\" (Manual)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D03",
+    "excerpt": "Girls For A Change Programs"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:9e3d6b79b291",
+  "source": "n:evidence:e-006",
+  "target": "n:dataset:ocwb-youth-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 22-22",
+    "excerpt": "OCWB Youth L.E.A.D.S. program serves ages 14–19, runs October–April"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:b50c3b4484bf",
+  "source": "n:evidence:e-016",
+  "target": "n:dataset:virginia-youth-labor-laws",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites doli.virginia.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 32-32",
+    "excerpt": "Virginia Employment Certificate available via electronic system reviewed within 24 hours"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:d43c0cdf80de",
+  "source": "n:evidence:e-027",
+  "target": "n:dataset:vdoe-school-data",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites doe.virginia.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 43-43",
+    "excerpt": "VDOE School Climate Reports provide chronic absenteeism XLSX data from 2015–16 through 2024–25"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:e158406e8c52",
+  "source": "n:evidence:e-015",
+  "target": "n:dataset:virginia-youth-labor-laws",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites doli.virginia.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 31-31",
+    "excerpt": "Virginia work permit (Employment Certificate) required only for ages 14–15"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:eabb70164713",
+  "source": "n:org:grtc",
+  "target": "n:dataset:grtc-transit-gtfs",
+  "type": "PUBLISHES",
+  "description": "GRTC owns/publishes \"GRTC Transit GTFS\" (Download)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D06",
+    "excerpt": "GRTC Transit GTFS"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:f0dd0ec10c24",
+  "source": "n:evidence:e-017",
+  "target": "n:dataset:virginia-youth-labor-laws",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites doli.virginia.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 33-33",
+    "excerpt": "Manual work permit process requires two forms: Permission to Employ and Employer Intent to Employ"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:f20269ed20f7",
+  "source": "n:evidence:e-008",
+  "target": "n:dataset:girls-for-a-change-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites girlsforachange.org, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 24-24",
+    "excerpt": "Girls For A Change Girl Action Teams serves grades 6–12"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:f771a3717d20",
+  "source": "n:evidence:e-005",
+  "target": "n:dataset:ocwb-youth-programs",
+  "type": "ASSOCIATED_WITH",
+  "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "confidence": "low",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 21-21",
+    "excerpt": "OCWB YES Forward program serves ages 18–24"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "e:fd3daf3f4ff1",
+  "source": "n:org:virginia-doe",
+  "target": "n:dataset:vdoe-school-data",
+  "type": "PUBLISHES",
+  "description": "Virginia DOE owns/publishes \"VDOE School Data\" (Download)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D11",
+    "excerpt": "VDOE School Data"
+   }
+  ],
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ }
+]

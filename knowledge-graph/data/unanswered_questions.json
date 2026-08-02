@@ -1,0 +1,66 @@
+[
+ {
+  "id": "q:gap-1",
+  "question": "Youth Works RVA Summer 2026 application closing date (page says open but no close date listed; contact ocwb-yes@rva.gov to confirm before March 27)",
+  "category": "missing-data",
+  "repo": "pillar-thriving-families",
+  "relatedNodeIds": [
+   "n:question:gap-1"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 73-73",
+    "excerpt": "Youth Works RVA Summer 2026 application closing date (page says open but no close date listed; contact ocwb-yes@rva.gov to confirm before March 27)"
+   }
+  ]
+ },
+ {
+  "id": "q:gap-2",
+  "question": "VDH maternal mortality rate for City of Richmond (current year) — VDH MCH Dashboard (E-026) reports statewide 34.5 per 100,000 for 2019–2023; Richmond-city-specific maternal mortality not confirmed",
+  "category": "missing-data",
+  "repo": "pillar-thriving-families",
+  "relatedNodeIds": [
+   "n:question:gap-2"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 74-74",
+    "excerpt": "VDH maternal mortality rate for City of Richmond (current year) — VDH MCH Dashboard (E-026) reports statewide 34.5 per 100,000 for 2019–2023; Richmond-city-specific maternal mortality not confirmed"
+   }
+  ]
+ },
+ {
+  "id": "q:gap-3",
+  "question": "Exact column structure of VDH HealthStats Excel files and VDH MCH Dashboard CSV exports (requires manual download and inspection)",
+  "category": "missing-data",
+  "repo": "pillar-thriving-families",
+  "relatedNodeIds": [
+   "n:question:gap-3"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 75-75",
+    "excerpt": "Exact column structure of VDH HealthStats Excel files and VDH MCH Dashboard CSV exports (requires manual download and inspection)"
+   }
+  ]
+ },
+ {
+  "id": "q:gap-4",
+  "question": "Kids Count Virginia: whether Richmond city (independent city) is separately filterable from metro area — requires manual testing",
+  "category": "missing-data",
+  "repo": "pillar-thriving-families",
+  "relatedNodeIds": [
+   "n:question:gap-4"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 76-76",
+    "excerpt": "Kids Count Virginia: whether Richmond city (independent city) is separately filterable from metro area — requires manual testing"
+   }
+  ]
+ }
+]

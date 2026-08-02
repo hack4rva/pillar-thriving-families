@@ -1,0 +1,1133 @@
+[
+ {
+  "id": "n:dataset:acs-american-community-survey",
+  "type": "Dataset",
+  "label": "ACS (American Community Survey)",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D09",
+    "excerpt": "ACS (American Community Survey)"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D09",
+   "owner": "US Census Bureau",
+   "url": "https://data.census.gov/",
+   "urlRaw": "https://data.census.gov/",
+   "accessMode": "Census API (free key)",
+   "verificationStatus": "No",
+   "keyFields": "population; income; insurance; poverty; demographics",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:boys-girls-club-metro-richmond",
+  "type": "Dataset",
+  "label": "Boys & Girls Club Metro Richmond",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D05",
+    "excerpt": "Boys & Girls Club Metro Richmond"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D05",
+   "owner": "BGC Metro Richmond",
+   "url": "https://bgcmr.org/",
+   "urlRaw": "https://bgcmr.org/",
+   "accessMode": "Manual",
+   "verificationStatus": "No",
+   "keyFields": "program name; age eligibility; location",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:girls-for-a-change-programs",
+  "type": "Dataset",
+  "label": "Girls For A Change Programs",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D03",
+    "excerpt": "Girls For A Change Programs"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D03",
+   "owner": "Girls For A Change",
+   "url": "https://girlsforachange.org/",
+   "urlRaw": "https://girlsforachange.org/",
+   "accessMode": "Manual",
+   "verificationStatus": "No",
+   "keyFields": "program name; age range; application info; contact",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:grtc-transit-gtfs",
+  "type": "Dataset",
+  "label": "GRTC Transit GTFS",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D06",
+    "excerpt": "GRTC Transit GTFS"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D06",
+   "owner": "GRTC",
+   "url": "https://ridegrtc.com/",
+   "urlRaw": "https://ridegrtc.com/",
+   "accessMode": "Download",
+   "verificationStatus": "No",
+   "keyFields": "route; stop; schedule; lat/lon",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:kids-count-virginia",
+  "type": "Dataset",
+  "label": "Kids Count Virginia",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D10",
+    "excerpt": "Kids Count Virginia"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D10",
+   "owner": "Annie E. Casey Foundation",
+   "url": "https://datacenter.kidscount.org/",
+   "urlRaw": "https://datacenter.kidscount.org/",
+   "accessMode": "Download",
+   "verificationStatus": "No",
+   "keyFields": "child wellbeing indicators; health; education; economic",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:ocwb-youth-programs",
+  "type": "Dataset",
+  "label": "OCWB Youth Programs",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D02",
+    "excerpt": "OCWB Youth Programs"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D02",
+   "owner": "City of Richmond",
+   "url": "https://www.rva.gov/community-wealth-building",
+   "urlRaw": "https://www.rva.gov/community-wealth-building",
+   "accessMode": "Manual curation",
+   "verificationStatus": "No",
+   "keyFields": "program name; org; age eligibility; application window; location",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:richmond-open-data-portal",
+  "type": "Dataset",
+  "label": "Richmond Open Data Portal",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D07",
+    "excerpt": "Richmond Open Data Portal"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D07",
+   "owner": "City of Richmond",
+   "url": "https://rvaopendata.org/",
+   "urlRaw": "https://rvaopendata.org/",
+   "accessMode": "Socrata API",
+   "verificationStatus": "No",
+   "keyFields": "varies",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:vdh-maternal-health-data",
+  "type": "Dataset",
+  "label": "VDH Maternal Health Data",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D08",
+    "excerpt": "VDH Maternal Health Data"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D08",
+   "owner": "Virginia DOH",
+   "url": "https://www.vdh.virginia.gov/data/",
+   "urlRaw": "https://www.vdh.virginia.gov/data/",
+   "accessMode": "Download",
+   "verificationStatus": "No",
+   "keyFields": "birth outcomes; maternal mortality; prenatal care; race; geography",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:vdoe-school-data",
+  "type": "Dataset",
+  "label": "VDOE School Data",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D11",
+    "excerpt": "VDOE School Data"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D11",
+   "owner": "Virginia DOE",
+   "url": "https://www.doe.virginia.gov/data-policy-funding/data-reporting",
+   "urlRaw": "https://www.doe.virginia.gov/data-policy-funding/data-reporting",
+   "accessMode": "Download",
+   "verificationStatus": "No",
+   "keyFields": "enrollment; FRL eligibility; demographics",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:virginia-youth-labor-laws",
+  "type": "Dataset",
+  "label": "Virginia Youth Labor Laws",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D01",
+    "excerpt": "Virginia Youth Labor Laws"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D01",
+   "owner": "DOLI",
+   "url": "https://www.doli.virginia.gov/",
+   "urlRaw": "https://www.doli.virginia.gov/",
+   "accessMode": "Manual scrape",
+   "verificationStatus": "No",
+   "keyFields": "age thresholds; work permit requirement; prohibited occupations; hour limits",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:dataset:youthwork-richmond-richmond-education-fund",
+  "type": "Dataset",
+  "label": "YouthWork Richmond / Richmond Education Fund",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D04",
+    "excerpt": "YouthWork Richmond / Richmond Education Fund"
+   }
+  ],
+  "attrs": {
+   "inventoryId": "D04",
+   "owner": "Richmond Education Fund",
+   "url": null,
+   "urlRaw": "verify URL",
+   "accessMode": "Manual",
+   "verificationStatus": "No",
+   "keyFields": "program name; eligibility; contact",
+   "available": true
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-001",
+  "type": "Evidence",
+  "label": "E-001: GRTC GTFS feed is publicly downloadable as a ZIP file",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "GRTC GTFS feed is publicly downloadable as a ZIP file"
+   }
+  ],
+  "description": "GRTC GTFS feed is publicly downloadable as a ZIP file",
+  "attrs": {
+   "evidenceLogId": "E-001",
+   "logStatus": "confirmed",
+   "url": "https://www.ridegrtc.com/wp-content/uploads/2025/02/gtfs.zip",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-002",
+  "type": "Evidence",
+  "label": "E-002: GRTC website lists GTFS download link in footer",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "GRTC website lists GTFS download link in footer"
+   }
+  ],
+  "description": "GRTC website lists GTFS download link in footer",
+  "attrs": {
+   "evidenceLogId": "E-002",
+   "logStatus": "confirmed",
+   "url": "https://www.ridegrtc.com/",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-003",
+  "type": "Evidence",
+  "label": "E-003: OCWB YES program Youth Works RVA is open for FY26 applications",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "OCWB YES program Youth Works RVA is open for FY26 applications"
+   }
+  ],
+  "description": "OCWB YES program Youth Works RVA is open for FY26 applications",
+  "attrs": {
+   "evidenceLogId": "E-003",
+   "logStatus": "confirmed",
+   "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-004",
+  "type": "Evidence",
+  "label": "E-004: Youth Works RVA serves ages 14–24 across five tracks",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 20-20",
+    "excerpt": "Youth Works RVA serves ages 14–24 across five tracks"
+   }
+  ],
+  "description": "Youth Works RVA serves ages 14–24 across five tracks",
+  "attrs": {
+   "evidenceLogId": "E-004",
+   "logStatus": "confirmed",
+   "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-005",
+  "type": "Evidence",
+  "label": "E-005: OCWB YES Forward program serves ages 18–24",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 21-21",
+    "excerpt": "OCWB YES Forward program serves ages 18–24"
+   }
+  ],
+  "description": "OCWB YES Forward program serves ages 18–24",
+  "attrs": {
+   "evidenceLogId": "E-005",
+   "logStatus": "confirmed",
+   "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-006",
+  "type": "Evidence",
+  "label": "E-006: OCWB Youth L.E.A.D.S. program serves ages 14–19, runs October–April",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 22-22",
+    "excerpt": "OCWB Youth L.E.A.D.S. program serves ages 14–19, runs October–April"
+   }
+  ],
+  "description": "OCWB Youth L.E.A.D.S. program serves ages 14–19, runs October–April",
+  "attrs": {
+   "evidenceLogId": "E-006",
+   "logStatus": "confirmed",
+   "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-007",
+  "type": "Evidence",
+  "label": "E-007: OCWB Youth Empowerment Council serves ages 14–19, runs October–April",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 23-23",
+    "excerpt": "OCWB Youth Empowerment Council serves ages 14–19, runs October–April"
+   }
+  ],
+  "description": "OCWB Youth Empowerment Council serves ages 14–19, runs October–April",
+  "attrs": {
+   "evidenceLogId": "E-007",
+   "logStatus": "confirmed",
+   "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-008",
+  "type": "Evidence",
+  "label": "E-008: Girls For A Change Girl Action Teams serves grades 6–12",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 24-24",
+    "excerpt": "Girls For A Change Girl Action Teams serves grades 6–12"
+   }
+  ],
+  "description": "Girls For A Change Girl Action Teams serves grades 6–12",
+  "attrs": {
+   "evidenceLogId": "E-008",
+   "logStatus": "confirmed",
+   "url": "https://www.girlsforachange.org/programs",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-009",
+  "type": "Evidence",
+  "label": "E-009: Girls For A Change Girl Ambassador Program (GAP) serves grades 9–12",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 25-25",
+    "excerpt": "Girls For A Change Girl Ambassador Program (GAP) serves grades 9–12"
+   }
+  ],
+  "description": "Girls For A Change Girl Ambassador Program (GAP) serves grades 9–12",
+  "attrs": {
+   "evidenceLogId": "E-009",
+   "logStatus": "confirmed",
+   "url": "https://www.girlsforachange.org/programs",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-010",
+  "type": "Evidence",
+  "label": "E-010: Girls For A Change Immersion Lab serves grades 9–12",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 26-26",
+    "excerpt": "Girls For A Change Immersion Lab serves grades 9–12"
+   }
+  ],
+  "description": "Girls For A Change Immersion Lab serves grades 9–12",
+  "attrs": {
+   "evidenceLogId": "E-010",
+   "logStatus": "confirmed",
+   "url": "https://www.girlsforachange.org/programs",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-011",
+  "type": "Evidence",
+  "label": "E-011: Girls For A Change Camp Diva Leadership Academy serves grades 6–8",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 27-27",
+    "excerpt": "Girls For A Change Camp Diva Leadership Academy serves grades 6–8"
+   }
+  ],
+  "description": "Girls For A Change Camp Diva Leadership Academy serves grades 6–8",
+  "attrs": {
+   "evidenceLogId": "E-011",
+   "logStatus": "confirmed",
+   "url": "https://www.girlsforachange.org/programs",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-012",
+  "type": "Evidence",
+  "label": "E-012: Girls For A Change Peer Advisor program serves grades 9–12 with mon…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 28-28",
+    "excerpt": "Girls For A Change Peer Advisor program serves grades 9–12 with monthly stipend"
+   }
+  ],
+  "description": "Girls For A Change Peer Advisor program serves grades 9–12 with monthly stipend",
+  "attrs": {
+   "evidenceLogId": "E-012",
+   "logStatus": "confirmed",
+   "url": "https://www.girlsforachange.org/programs",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-013",
+  "type": "Evidence",
+  "label": "E-013: Girls For A Change after-school programs serve grades 1–8 with STEA…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 29-29",
+    "excerpt": "Girls For A Change after-school programs serve grades 1–8 with STEAM and tutoring"
+   }
+  ],
+  "description": "Girls For A Change after-school programs serve grades 1–8 with STEAM and tutoring",
+  "attrs": {
+   "evidenceLogId": "E-013",
+   "logStatus": "confirmed",
+   "url": "https://www.girlsforachange.org/programs",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-014",
+  "type": "Evidence",
+  "label": "E-014: Boys & Girls Clubs of Metro Richmond serves youth ages 11–24",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 30-30",
+    "excerpt": "Boys & Girls Clubs of Metro Richmond serves youth ages 11–24"
+   }
+  ],
+  "description": "Boys & Girls Clubs of Metro Richmond serves youth ages 11–24",
+  "attrs": {
+   "evidenceLogId": "E-014",
+   "logStatus": "confirmed",
+   "url": "https://www.bgcmr.org/programs",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-015",
+  "type": "Evidence",
+  "label": "E-015: Virginia work permit (Employment Certificate) required only for age…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 31-31",
+    "excerpt": "Virginia work permit (Employment Certificate) required only for ages 14–15"
+   }
+  ],
+  "description": "Virginia work permit (Employment Certificate) required only for ages 14–15",
+  "attrs": {
+   "evidenceLogId": "E-015",
+   "logStatus": "confirmed",
+   "url": "https://doli.virginia.gov/labor-law/youth-employment/",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-016",
+  "type": "Evidence",
+  "label": "E-016: Virginia Employment Certificate available via electronic system rev…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 32-32",
+    "excerpt": "Virginia Employment Certificate available via electronic system reviewed within 24 hours"
+   }
+  ],
+  "description": "Virginia Employment Certificate available via electronic system reviewed within 24 hours",
+  "attrs": {
+   "evidenceLogId": "E-016",
+   "logStatus": "confirmed",
+   "url": "https://doli.virginia.gov/labor-law/youth-employment/",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-017",
+  "type": "Evidence",
+  "label": "E-017: Manual work permit process requires two forms: Permission to Employ…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 33-33",
+    "excerpt": "Manual work permit process requires two forms: Permission to Employ and Employer Intent to Employ"
+   }
+  ],
+  "description": "Manual work permit process requires two forms: Permission to Employ and Employer Intent to Employ",
+  "attrs": {
+   "evidenceLogId": "E-017",
+   "logStatus": "confirmed",
+   "url": "https://doli.virginia.gov/labor-law/youth-employment/",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-018",
+  "type": "Evidence",
+  "label": "E-018: VDH publishes birth and maternal health statistics at HealthStats p…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 34-34",
+    "excerpt": "VDH publishes birth and maternal health statistics at HealthStats portal"
+   }
+  ],
+  "description": "VDH publishes birth and maternal health statistics at HealthStats portal",
+  "attrs": {
+   "evidenceLogId": "E-018",
+   "logStatus": "confirmed",
+   "url": "https://apps.vdh.virginia.gov/HealthStats/stats.htm",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-019",
+  "type": "Evidence",
+  "label": "E-019: ACS table B27001 (Health Insurance Coverage Status by Sex by Age) e…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 35-35",
+    "excerpt": "ACS table B27001 (Health Insurance Coverage Status by Sex by Age) exists and is accessible via Census API"
+   }
+  ],
+  "description": "ACS table B27001 (Health Insurance Coverage Status by Sex by Age) exists and is accessible via Census API",
+  "attrs": {
+   "evidenceLogId": "E-019",
+   "logStatus": "confirmed",
+   "url": "https://api.census.gov/data/2022/acs/acs5/variables/B27001_001E.json",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-020",
+  "type": "Evidence",
+  "label": "E-020: ACS table B01001 (Sex by Age) exists and is accessible via Census API",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "ACS table B01001 (Sex by Age) exists and is accessible via Census API"
+   }
+  ],
+  "description": "ACS table B01001 (Sex by Age) exists and is accessible via Census API",
+  "attrs": {
+   "evidenceLogId": "E-020",
+   "logStatus": "confirmed",
+   "url": "https://api.census.gov/data/2022/acs/acs5/variables/B01001_001E.json",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-021",
+  "type": "Evidence",
+  "label": "E-021: ACS table B17001 (Poverty Status in the Past 12 Months by Sex by Ag…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 37-37",
+    "excerpt": "ACS table B17001 (Poverty Status in the Past 12 Months by Sex by Age) exists via Census API"
+   }
+  ],
+  "description": "ACS table B17001 (Poverty Status in the Past 12 Months by Sex by Age) exists via Census API",
+  "attrs": {
+   "evidenceLogId": "E-021",
+   "logStatus": "confirmed",
+   "url": "https://api.census.gov/data/2022/acs/acs5/groups/B17001.json",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-022",
+  "type": "Evidence",
+  "label": "E-022: C17001 ACS table code does NOT exist in 2022 or 2023 ACS 5-year data",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 38-38",
+    "excerpt": "C17001 ACS table code does NOT exist in 2022 or 2023 ACS 5-year data"
+   }
+  ],
+  "description": "C17001 ACS table code does NOT exist in 2022 or 2023 ACS 5-year data",
+  "attrs": {
+   "evidenceLogId": "E-022",
+   "logStatus": "confirmed",
+   "url": "https://api.census.gov/data/2022/acs/acs5/groups.json",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-023",
+  "type": "Evidence",
+  "label": "E-023: Census API key signup is at api.census.gov/data/key_signup.html",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 39-39",
+    "excerpt": "Census API key signup is at api.census.gov/data/key_signup.html"
+   }
+  ],
+  "description": "Census API key signup is at api.census.gov/data/key_signup.html",
+  "attrs": {
+   "evidenceLogId": "E-023",
+   "logStatus": "confirmed",
+   "url": "https://api.census.gov/data/key_signup.html",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-024",
+  "type": "Evidence",
+  "label": "E-024: Kids Count Data Center moved to datacenter.aecf.org (redirect from …",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 40-40",
+    "excerpt": "Kids Count Data Center moved to datacenter.aecf.org (redirect from datacenter.kidscount.org)"
+   }
+  ],
+  "description": "Kids Count Data Center moved to datacenter.aecf.org (redirect from datacenter.kidscount.org)",
+  "attrs": {
+   "evidenceLogId": "E-024",
+   "logStatus": "confirmed",
+   "url": "https://datacenter.aecf.org/",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-025",
+  "type": "Evidence",
+  "label": "E-025: Kids Count Data Center claims CSV download by state, county, and city",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 41-41",
+    "excerpt": "Kids Count Data Center claims CSV download by state, county, and city"
+   }
+  ],
+  "description": "Kids Count Data Center claims CSV download by state, county, and city",
+  "attrs": {
+   "evidenceLogId": "E-025",
+   "logStatus": "likely",
+   "url": "https://datacenter.aecf.org/",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-026",
+  "type": "Evidence",
+  "label": "E-026: VDH Maternal & Child Health Dashboard provides 2023 maternal/child …",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 42-42",
+    "excerpt": "VDH Maternal & Child Health Dashboard provides 2023 maternal/child indicators for Virginia"
+   }
+  ],
+  "description": "VDH Maternal & Child Health Dashboard provides 2023 maternal/child indicators for Virginia",
+  "attrs": {
+   "evidenceLogId": "E-026",
+   "logStatus": "confirmed",
+   "url": "https://www.vdh.virginia.gov/data/maternal-child-health/",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-027",
+  "type": "Evidence",
+  "label": "E-027: VDOE School Climate Reports provide chronic absenteeism XLSX data f…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 43-43",
+    "excerpt": "VDOE School Climate Reports provide chronic absenteeism XLSX data from 2015–16 through 2024–25"
+   }
+  ],
+  "description": "VDOE School Climate Reports provide chronic absenteeism XLSX data from 2015–16 through 2024–25",
+  "attrs": {
+   "evidenceLogId": "E-027",
+   "logStatus": "confirmed",
+   "url": "https://www.doe.virginia.gov/data-policy-funding/data-reports/data-collection/special-education",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:evidence:e-028",
+  "type": "Evidence",
+  "label": "E-028: Census API rate limit is 500 queries per day per IP for unauthentic…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "externally_verified",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 44-44",
+    "excerpt": "Census API rate limit is 500 queries per day per IP for unauthenticated users"
+   }
+  ],
+  "description": "Census API rate limit is 500 queries per day per IP for unauthenticated users",
+  "attrs": {
+   "evidenceLogId": "E-028",
+   "logStatus": "confirmed",
+   "url": "https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html",
+   "source": null
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:annie-e-casey-foundation",
+  "type": "Organization",
+  "label": "Annie E. Casey Foundation",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D10",
+    "excerpt": "Kids Count Virginia"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:bgc-metro-richmond",
+  "type": "Organization",
+  "label": "BGC Metro Richmond",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D05",
+    "excerpt": "Boys & Girls Club Metro Richmond"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:city-of-richmond",
+  "type": "Organization",
+  "label": "City of Richmond",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D02",
+    "excerpt": "OCWB Youth Programs"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:doli",
+  "type": "Organization",
+  "label": "DOLI",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D01",
+    "excerpt": "Virginia Youth Labor Laws"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:girls-for-a-change",
+  "type": "Organization",
+  "label": "Girls For A Change",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D03",
+    "excerpt": "Girls For A Change Programs"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:grtc",
+  "type": "Organization",
+  "label": "GRTC",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D06",
+    "excerpt": "GRTC Transit GTFS"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:richmond-education-fund",
+  "type": "Organization",
+  "label": "Richmond Education Fund",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D04",
+    "excerpt": "YouthWork Richmond / Richmond Education Fund"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:us-census-bureau",
+  "type": "Organization",
+  "label": "US Census Bureau",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D09",
+    "excerpt": "ACS (American Community Survey)"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:virginia-doe",
+  "type": "Organization",
+  "label": "Virginia DOE",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D11",
+    "excerpt": "VDOE School Data"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:org:virginia-doh",
+  "type": "Organization",
+  "label": "Virginia DOH",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D08",
+    "excerpt": "VDH Maternal Health Data"
+   }
+  ],
+  "description": "Publisher or owner of inventoried data sources for this pillar.",
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:question:gap-1",
+  "type": "ResearchQuestion",
+  "label": "Youth Works RVA Summer 2026 application closing date (page says ope…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 73-73",
+    "excerpt": "Youth Works RVA Summer 2026 application closing date (page says open but no close date listed; contact ocwb-yes@rva.gov to confirm before March 27)"
+   }
+  ],
+  "description": "Youth Works RVA Summer 2026 application closing date (page says open but no close date listed; contact ocwb-yes@rva.gov to confirm before March 27)",
+  "attrs": {
+   "origin": "evidence log gap list",
+   "section": "Missing"
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:question:gap-2",
+  "type": "ResearchQuestion",
+  "label": "VDH maternal mortality rate for City of Richmond (current year) — V…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 74-74",
+    "excerpt": "VDH maternal mortality rate for City of Richmond (current year) — VDH MCH Dashboard (E-026) reports statewide 34.5 per 100,000 for 2019–2023; Richmond-city-specific maternal mortality not confirmed"
+   }
+  ],
+  "description": "VDH maternal mortality rate for City of Richmond (current year) — VDH MCH Dashboard (E-026) reports statewide 34.5 per 100,000 for 2019–2023; Richmond-city-specific maternal mortality not confirmed",
+  "attrs": {
+   "origin": "evidence log gap list",
+   "section": "Missing"
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:question:gap-3",
+  "type": "ResearchQuestion",
+  "label": "Exact column structure of VDH HealthStats Excel files and VDH MCH D…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 75-75",
+    "excerpt": "Exact column structure of VDH HealthStats Excel files and VDH MCH Dashboard CSV exports (requires manual download and inspection)"
+   }
+  ],
+  "description": "Exact column structure of VDH HealthStats Excel files and VDH MCH Dashboard CSV exports (requires manual download and inspection)",
+  "attrs": {
+   "origin": "evidence log gap list",
+   "section": "Missing"
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ },
+ {
+  "id": "n:question:gap-4",
+  "type": "ResearchQuestion",
+  "label": "Kids Count Virginia: whether Richmond city (independent city) is se…",
+  "repo": "pillar-thriving-families",
+  "evidenceStatus": "documented",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 76-76",
+    "excerpt": "Kids Count Virginia: whether Richmond city (independent city) is separately filterable from metro area — requires manual testing"
+   }
+  ],
+  "description": "Kids Count Virginia: whether Richmond city (independent city) is separately filterable from metro area — requires manual testing",
+  "attrs": {
+   "origin": "evidence log gap list",
+   "section": "Missing"
+  },
+  "extractedAt": "2026-08-02T10:10:34.965Z"
+ }
+]

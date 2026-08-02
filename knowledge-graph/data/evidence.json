@@ -1,0 +1,422 @@
+[
+ {
+  "id": "ev:E-001",
+  "claim": "GRTC GTFS feed is publicly downloadable as a ZIP file",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.ridegrtc.com/wp-content/uploads/2025/02/gtfs.zip",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "GRTC GTFS feed is publicly downloadable as a ZIP file"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-002",
+  "claim": "GRTC website lists GTFS download link in footer",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.ridegrtc.com/",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "GRTC website lists GTFS download link in footer"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-003",
+  "claim": "OCWB YES program Youth Works RVA is open for FY26 applications",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "OCWB YES program Youth Works RVA is open for FY26 applications"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-004",
+  "claim": "Youth Works RVA serves ages 14–24 across five tracks",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 20-20",
+    "excerpt": "Youth Works RVA serves ages 14–24 across five tracks"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-005",
+  "claim": "OCWB YES Forward program serves ages 18–24",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 21-21",
+    "excerpt": "OCWB YES Forward program serves ages 18–24"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-006",
+  "claim": "OCWB Youth L.E.A.D.S. program serves ages 14–19, runs October–April",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 22-22",
+    "excerpt": "OCWB Youth L.E.A.D.S. program serves ages 14–19, runs October–April"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-007",
+  "claim": "OCWB Youth Empowerment Council serves ages 14–19, runs October–April",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 23-23",
+    "excerpt": "OCWB Youth Empowerment Council serves ages 14–19, runs October–April"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-008",
+  "claim": "Girls For A Change Girl Action Teams serves grades 6–12",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.girlsforachange.org/programs",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 24-24",
+    "excerpt": "Girls For A Change Girl Action Teams serves grades 6–12"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-009",
+  "claim": "Girls For A Change Girl Ambassador Program (GAP) serves grades 9–12",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.girlsforachange.org/programs",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 25-25",
+    "excerpt": "Girls For A Change Girl Ambassador Program (GAP) serves grades 9–12"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-010",
+  "claim": "Girls For A Change Immersion Lab serves grades 9–12",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.girlsforachange.org/programs",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 26-26",
+    "excerpt": "Girls For A Change Immersion Lab serves grades 9–12"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-011",
+  "claim": "Girls For A Change Camp Diva Leadership Academy serves grades 6–8",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.girlsforachange.org/programs",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 27-27",
+    "excerpt": "Girls For A Change Camp Diva Leadership Academy serves grades 6–8"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-012",
+  "claim": "Girls For A Change Peer Advisor program serves grades 9–12 with monthly stipend",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.girlsforachange.org/programs",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 28-28",
+    "excerpt": "Girls For A Change Peer Advisor program serves grades 9–12 with monthly stipend"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-013",
+  "claim": "Girls For A Change after-school programs serve grades 1–8 with STEAM and tutoring",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.girlsforachange.org/programs",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 29-29",
+    "excerpt": "Girls For A Change after-school programs serve grades 1–8 with STEAM and tutoring"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-014",
+  "claim": "Boys & Girls Clubs of Metro Richmond serves youth ages 11–24",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.bgcmr.org/programs",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 30-30",
+    "excerpt": "Boys & Girls Clubs of Metro Richmond serves youth ages 11–24"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-015",
+  "claim": "Virginia work permit (Employment Certificate) required only for ages 14–15",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://doli.virginia.gov/labor-law/youth-employment/",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 31-31",
+    "excerpt": "Virginia work permit (Employment Certificate) required only for ages 14–15"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-016",
+  "claim": "Virginia Employment Certificate available via electronic system reviewed within 24 hours",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://doli.virginia.gov/labor-law/youth-employment/",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 32-32",
+    "excerpt": "Virginia Employment Certificate available via electronic system reviewed within 24 hours"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-017",
+  "claim": "Manual work permit process requires two forms: Permission to Employ and Employer Intent to Employ",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://doli.virginia.gov/labor-law/youth-employment/",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 33-33",
+    "excerpt": "Manual work permit process requires two forms: Permission to Employ and Employer Intent to Employ"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-018",
+  "claim": "VDH publishes birth and maternal health statistics at HealthStats portal",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://apps.vdh.virginia.gov/HealthStats/stats.htm",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 34-34",
+    "excerpt": "VDH publishes birth and maternal health statistics at HealthStats portal"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-019",
+  "claim": "ACS table B27001 (Health Insurance Coverage Status by Sex by Age) exists and is accessible via Census API",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://api.census.gov/data/2022/acs/acs5/variables/B27001_001E.json",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 35-35",
+    "excerpt": "ACS table B27001 (Health Insurance Coverage Status by Sex by Age) exists and is accessible via Census API"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-020",
+  "claim": "ACS table B01001 (Sex by Age) exists and is accessible via Census API",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://api.census.gov/data/2022/acs/acs5/variables/B01001_001E.json",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "ACS table B01001 (Sex by Age) exists and is accessible via Census API"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-021",
+  "claim": "ACS table B17001 (Poverty Status in the Past 12 Months by Sex by Age) exists via Census API",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://api.census.gov/data/2022/acs/acs5/groups/B17001.json",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 37-37",
+    "excerpt": "ACS table B17001 (Poverty Status in the Past 12 Months by Sex by Age) exists via Census API"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-022",
+  "claim": "C17001 ACS table code does NOT exist in 2022 or 2023 ACS 5-year data",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://api.census.gov/data/2022/acs/acs5/groups.json",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 38-38",
+    "excerpt": "C17001 ACS table code does NOT exist in 2022 or 2023 ACS 5-year data"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-023",
+  "claim": "Census API key signup is at api.census.gov/data/key_signup.html",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://api.census.gov/data/key_signup.html",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 39-39",
+    "excerpt": "Census API key signup is at api.census.gov/data/key_signup.html"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-024",
+  "claim": "Kids Count Data Center moved to datacenter.aecf.org (redirect from datacenter.kidscount.org)",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://datacenter.aecf.org/",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 40-40",
+    "excerpt": "Kids Count Data Center moved to datacenter.aecf.org (redirect from datacenter.kidscount.org)"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-025",
+  "claim": "Kids Count Data Center claims CSV download by state, county, and city",
+  "status": "likely",
+  "source": null,
+  "url": "https://datacenter.aecf.org/",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 41-41",
+    "excerpt": "Kids Count Data Center claims CSV download by state, county, and city"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-026",
+  "claim": "VDH Maternal & Child Health Dashboard provides 2023 maternal/child indicators for Virginia",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.vdh.virginia.gov/data/maternal-child-health/",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 42-42",
+    "excerpt": "VDH Maternal & Child Health Dashboard provides 2023 maternal/child indicators for Virginia"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-027",
+  "claim": "VDOE School Climate Reports provide chronic absenteeism XLSX data from 2015–16 through 2024–25",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.doe.virginia.gov/data-policy-funding/data-reports/data-collection/special-education",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 43-43",
+    "excerpt": "VDOE School Climate Reports provide chronic absenteeism XLSX data from 2015–16 through 2024–25"
+   }
+  ]
+ },
+ {
+  "id": "ev:E-028",
+  "claim": "Census API rate limit is 500 queries per day per IP for unauthenticated users",
+  "status": "confirmed",
+  "source": null,
+  "url": "https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html",
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 44-44",
+    "excerpt": "Census API rate limit is 500 queries per day per IP for unauthenticated users"
+   }
+  ]
+ }
+]
