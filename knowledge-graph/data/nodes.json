@@ -22,7 +22,7 @@
    "keyFields": "population; income; insurance; poverty; demographics",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:boys-girls-club-metro-richmond",
@@ -47,7 +47,7 @@
    "keyFields": "program name; age eligibility; location",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:girls-for-a-change-programs",
@@ -72,7 +72,7 @@
    "keyFields": "program name; age range; application info; contact",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:grtc-transit-gtfs",
@@ -97,7 +97,7 @@
    "keyFields": "route; stop; schedule; lat/lon",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:kids-count-virginia",
@@ -122,7 +122,7 @@
    "keyFields": "child wellbeing indicators; health; education; economic",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:ocwb-youth-programs",
@@ -147,7 +147,7 @@
    "keyFields": "program name; org; age eligibility; application window; location",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:richmond-open-data-portal",
@@ -172,7 +172,7 @@
    "keyFields": "varies",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:vdh-maternal-health-data",
@@ -197,7 +197,7 @@
    "keyFields": "birth outcomes; maternal mortality; prenatal care; race; geography",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:vdoe-school-data",
@@ -222,7 +222,7 @@
    "keyFields": "enrollment; FRL eligibility; demographics",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:virginia-youth-labor-laws",
@@ -247,7 +247,7 @@
    "keyFields": "age thresholds; work permit requirement; prohibited occupations; hour limits",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:dataset:youthwork-richmond-richmond-education-fund",
@@ -272,7 +272,7 @@
    "keyFields": "program name; eligibility; contact",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-001",
@@ -294,7 +294,7 @@
    "url": "https://www.ridegrtc.com/wp-content/uploads/2025/02/gtfs.zip",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-002",
@@ -316,7 +316,7 @@
    "url": "https://www.ridegrtc.com/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-003",
@@ -338,7 +338,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-004",
@@ -360,7 +360,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-005",
@@ -382,7 +382,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-006",
@@ -404,7 +404,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-007",
@@ -426,7 +426,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-008",
@@ -448,7 +448,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-009",
@@ -470,7 +470,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-010",
@@ -492,7 +492,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-011",
@@ -514,7 +514,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-012",
@@ -536,7 +536,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-013",
@@ -558,7 +558,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-014",
@@ -580,7 +580,7 @@
    "url": "https://www.bgcmr.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-015",
@@ -602,7 +602,7 @@
    "url": "https://doli.virginia.gov/labor-law/youth-employment/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-016",
@@ -624,7 +624,7 @@
    "url": "https://doli.virginia.gov/labor-law/youth-employment/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-017",
@@ -646,7 +646,7 @@
    "url": "https://doli.virginia.gov/labor-law/youth-employment/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-018",
@@ -668,7 +668,7 @@
    "url": "https://apps.vdh.virginia.gov/HealthStats/stats.htm",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-019",
@@ -690,7 +690,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/variables/B27001_001E.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-020",
@@ -712,7 +712,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/variables/B01001_001E.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-021",
@@ -734,7 +734,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/groups/B17001.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-022",
@@ -756,7 +756,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/groups.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-023",
@@ -778,7 +778,7 @@
    "url": "https://api.census.gov/data/key_signup.html",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-024",
@@ -800,7 +800,7 @@
    "url": "https://datacenter.aecf.org/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-025",
@@ -822,7 +822,7 @@
    "url": "https://datacenter.aecf.org/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-026",
@@ -844,7 +844,7 @@
    "url": "https://www.vdh.virginia.gov/data/maternal-child-health/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-027",
@@ -866,7 +866,7 @@
    "url": "https://www.doe.virginia.gov/data-policy-funding/data-reports/data-collection/special-education",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:evidence:e-028",
@@ -888,7 +888,7 @@
    "url": "https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:agency-data-lead",
@@ -904,7 +904,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:analysis-of-current-teen-workflow-and",
@@ -920,7 +920,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:cbo-director",
@@ -936,7 +936,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:cbo-grant-writer",
@@ -952,7 +952,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:frontline-worker",
@@ -968,7 +968,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:parent",
@@ -984,7 +984,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:parent-guardian",
@@ -1000,7 +1000,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:parents-guardians-persona",
@@ -1016,7 +1016,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:program-coordinators-employers",
@@ -1032,7 +1032,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:program-manager",
@@ -1048,7 +1048,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:public-health-analyst",
@@ -1064,7 +1064,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:student",
@@ -1080,7 +1080,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:summary-of-key",
@@ -1096,7 +1096,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:systemic",
@@ -1112,7 +1112,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:youth",
@@ -1128,7 +1128,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:group:youth-persona",
@@ -1144,7 +1144,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:administrative-documentation-burden-and-compliance-steps",
@@ -1182,7 +1182,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:anxiety-over-the-reliability-and-safety-of-transportation",
@@ -1220,7 +1220,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:burdensome-and-confusing-documentation-and-permit-process",
@@ -1258,7 +1258,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:complexity-in-scheduling-due-to-age-based-work-hour-limitations",
@@ -1286,7 +1286,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:concern-about-how-to-handle-exploitative-requests-or-unsafe-placements-from-an-e",
@@ -1324,7 +1324,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:confusing-and-multi-step-rules-for-age-based-work-permits",
@@ -1357,7 +1357,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:confusing-deadline-driven-landscape-across-programs",
@@ -1390,7 +1390,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:confusion-and-complexity-surrounding-the-work-permit-employment-certificate-proc",
@@ -1428,7 +1428,7 @@
    "confidence": "high",
    "citationCount": 12
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:confusion-around-documentation-and-logistics",
@@ -1466,7 +1466,7 @@
    "confidence": "low",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:critical-dependence-on-public-transportation-that-has-an-uncertain-future",
@@ -1504,7 +1504,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:difficulty-locating-the-correct-workforce-office-and-its-operational-hours",
@@ -1542,7 +1542,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:difficulty-understanding-and-tracking-age-based-work-restrictions",
@@ -1580,7 +1580,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:documentation-friction-specifically-the-requirement-and-cost-of-a-dmv-id-early-i",
@@ -1608,7 +1608,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:facing-hurdles-in-obtaining-the-required-documentation-and-identification",
@@ -1646,7 +1646,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:fear-of-incorrectly-completing-the-work-permit-process-or-starting-a-job-illegal",
@@ -1684,7 +1684,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:fragmented-information-and-deadlines-across-different-sites-and-programs",
@@ -1722,7 +1722,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:fragmented-information-and-process-inefficiency",
@@ -1760,7 +1760,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:fragmented-information-on-program-eligibility-tracks-and-deadlines",
@@ -1798,7 +1798,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:lack-of-clarity-on-the-legality-and-safety-of-a-job",
@@ -1836,7 +1836,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:limited-visibility-and-mismatched-placements",
@@ -1874,7 +1874,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:low-trust-and-security-concerns",
@@ -1912,7 +1912,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:systemic-coordination-failures",
@@ -1950,7 +1950,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:transportation-limitations-that-reduce-the-number-of-feasible-job-opportunities",
@@ -1978,7 +1978,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:trust-and-data-security-concerns-around-sharing-ssns-and-personal-documents",
@@ -2006,7 +2006,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:uncertainty-about-legal-working-hours-and-prohibited-job-types",
@@ -2044,7 +2044,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:uneven-digital-access-with-many-relying-on-mobile-only-internet",
@@ -2072,7 +2072,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-coordinating-placements-across-city-programs-yes-youth-works-rva-yes-forwar",
@@ -2110,7 +2110,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-i-am-asked-by-multiple-cbos-for-the-right-maternal-health-stats",
@@ -2148,7 +2148,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-i-m-a-city-workforce-coordinator-or-nonprofit-partner-planning-summer-place",
@@ -2186,7 +2186,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-i-m-a-parent-guardian-in-richmond-s-east-end-or-southside-and-my-teen-wants",
@@ -2224,7 +2224,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-i-m-presenting-maternal-health-findings-to-community-partners-and-funders",
@@ -2262,7 +2262,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-i-must-vouch-for-the-accuracy-and-equity-framing-of-our-proposals",
@@ -2300,7 +2300,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-i-need-to-assemble-a-maternal-health-fact-sheet-for-a-deadline-using-vdh-ce",
@@ -2338,7 +2338,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-it-s-march-may-and-i-m-a-richmond-public-schools-high-school-student-16-18-",
@@ -2376,7 +2376,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-it-s-spring-and-i-need-a-paid-summer-job-or-internship",
@@ -2414,7 +2414,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-my-teen-is-applying-for-summer-work",
@@ -2452,7 +2452,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-my-teen-is-looking-for-a-first-job",
@@ -2490,7 +2490,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-planning-summer-placements",
@@ -2528,7 +2528,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-recruiting-and-placing-youth",
@@ -2566,7 +2566,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-richmond-s-maternal-health-teams-across-rchd-henrico-vdh-programs-and-hospi",
@@ -2604,7 +2604,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-sharing-personal-information-to-apply-for-a-first-job-ssn-address-income-im",
@@ -2642,7 +2642,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-state-task-force-recommendations-or-local-initiatives-change-metrics-e-g-ma",
@@ -2680,7 +2680,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-summer-is-approaching-and-applications-open",
@@ -2718,7 +2718,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:need:when-summer-job-and-internship-applications-open-across-multiple-richmond-progra",
@@ -2756,7 +2756,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:annie-e-casey-foundation",
@@ -2772,7 +2772,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:bgc-metro-richmond",
@@ -2788,7 +2788,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:city-of-richmond",
@@ -2804,7 +2804,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:doli",
@@ -2820,7 +2820,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:girls-for-a-change",
@@ -2836,7 +2836,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:grtc",
@@ -2852,7 +2852,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:richmond-education-fund",
@@ -2868,7 +2868,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:us-census-bureau",
@@ -2884,7 +2884,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:virginia-doe",
@@ -2900,7 +2900,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:org:virginia-doh",
@@ -2916,7 +2916,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:a-core-transportation-problem-is-the-limited-access-to-personal-vehicles-for-man",
@@ -2954,7 +2954,7 @@
    "confidence": "high",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:barrier",
@@ -2992,7 +2992,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:critical-information-for-youth-employment-in-richmond-is-highly-fragmented-creat",
@@ -3030,7 +3030,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:id-requirement",
@@ -3053,7 +3053,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:limited-access-to-reliable-transportation-is-a-major-systemic-barrier-to-employm",
@@ -3091,7 +3091,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:low-income-families-and-youth-in-neighborhoods-with-concentrated-poverty-e-g-pub",
@@ -3129,7 +3129,7 @@
    "confidence": "high",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:low-income-youth-in-richmond-particularly-those-living-in-households-that-are-re",
@@ -3167,7 +3167,7 @@
    "confidence": "high",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:obtaining-and-submitting-required-documentation-is-a-major-barrier-in-richmond-s",
@@ -3205,7 +3205,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:the-digital-divide-in-virginia-presents-a-nuanced-but-significant-barrier-to-you",
@@ -3243,7 +3243,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:the-fragmented-youth-employment-ecosystem-in-richmond-creates-significant-equity",
@@ -3281,7 +3281,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:the-grtc-bus-system-is-the-main-mode-of-public-transit-available-to-youth-in-ric",
@@ -3319,7 +3319,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:the-process-for-obtaining-a-mandatory-virginia-employment-certificate-for-14-and",
@@ -3352,7 +3352,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:transportation-is-a-critical-and-persistent-barrier-to-youth-employment-in-richm",
@@ -3390,7 +3390,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:problem:virginia-electronic-employment-certificate-system-vaeecs",
@@ -3423,7 +3423,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:first-job-sms-kit",
@@ -3443,7 +3443,7 @@
    "origin": "post-event research",
    "project": "first-job-sms-kit"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:grant-pack-builder",
@@ -3463,7 +3463,7 @@
    "origin": "post-event research",
    "project": "grant-pack-builder"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:multi-pillar-ai",
@@ -3483,7 +3483,7 @@
    "origin": "post-event research",
    "project": "multi-pillar-ai"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:richmond-youth-hub",
@@ -3502,7 +3502,7 @@
    "origin": "post-event research",
    "project": "richmond-youth-hub"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:rva-people-data",
@@ -3522,7 +3522,7 @@
    "origin": "post-event research",
    "project": "rva-people-data"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:rva-works",
@@ -3542,7 +3542,7 @@
    "origin": "post-event research",
    "project": "rva-works"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:stepwise",
@@ -3562,7 +3562,7 @@
    "origin": "post-event research",
    "project": "stepwise"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:proposal:unboxed-rva",
@@ -3582,27 +3582,7 @@
    "origin": "post-event research",
    "project": "unboxed-rva"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:proposal:unknown-corrupted",
-  "type": "Proposal",
-  "label": "Unknown-Corrupted",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "proposed",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 1-1",
-    "excerpt": "## Pillar\n\nThriving Families\n\n## Problem Statement\n\nYouth Employment Pathways - Give Richmond youth one clear place to explore summer jobs, internships, and first-job guidance.\n\n## Project Context\n\nTh"
-   }
-  ],
-  "description": "## Pillar\n\nThriving Families\n\n## Problem Statement\n\nYouth Employment Pathways - Give Richmond youth one clear place to explore summer jobs, internships, and first-job guidance.\n\n## Project Context\n\nThe project is rooted in Richmond's 'Thriving Families' policy pillar, which mandates connecting students to post-K-12 opportunities and aims to reduce the rate of 16-19 year olds who are not in school or employed. Currently, the city's youth employment landscape is managed by Youth Engagement Services (YES), formerly the Mayor's Youth Academy (MYA), which operates programs like Youth Works RVA, an eight-week summer program with various tracks for individuals aged 14-24. Additionally, the YES Forward program targets 18-24 year olds who are not in school or employed. The ecosystem also involves employers who can partner or sponsor participants, covering costs like transportation and uniforms. The Office of Equitable Transit and Mobility (OETM) is piloting initiatives like free rides to work and bikeshare access to mitigate commute barriers. However, the primary challenge is information fragmentation; details about programs, eligibility, and timelines are dispersed across different RVA.gov pages, FAQs, PDFs, and partner social media posts. This project aims to create a centralized, trusted digital hub for discovery and coordination to reduce this friction, enhance equity, and align program reporting with the Mayoral Action Plan (MAP) metrics.\n\n## Location\n\nRichmond, VA",
-  "attrs": {
-   "origin": "post-event research",
-   "project": "unknown-corrupted"
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:are-there-open-data-or-dashboard-efforts-at-ocwb-we-can-support-for-shared-metri",
@@ -3635,45 +3615,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:are-there-regional-state-opportunities-commonwealth-internships-grtc-initiatives",
-  "type": "ResearchQuestion",
-  "label": "Are there regional/state opportunities (Commonwealth internships, GRTC initiatives) tha…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 290-290",
-    "excerpt": "Are there regional/state opportunities (Commonwealth internships, GRTC initiatives) that should be linked or federated into the hub?"
-   },
-   {
-    "sourceDoc": "https://www.jobs.virginia.gov/internship-opportunities",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The Commonwealth of Virginia Internship Programs offers students the opportunity to combine academic studies with on-the-job training and experience."
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond’s youth in career exploration through work-based learning."
-   },
-   {
-    "sourceDoc": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work–Based Learning program, we"
-   }
-  ],
-  "description": "Are there regional/state opportunities (Commonwealth internships, GRTC initiatives) that should be linked or federated into the hub? — Rationale: Limiting the platform to only City of Richmond programs would be a missed opportunity. This question explores how to broaden the scope and value for users by aggregating or linking to relevant opportunities at the regional and state level.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "prior_art_questions",
-   "confidence": "medium",
-   "citationCount": 4
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:at-what-geography-will-the-tool-default-richmond-city-henrico-county-combined-rh",
@@ -3711,7 +3653,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:beyond-city-programs-which-richmond-specific-non-city-providers-e-g-chamberrva-p",
@@ -3749,7 +3691,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:can-prams-local-stratification-rchd-only-brhd-be-included-with-appropriate-cavea",
@@ -3787,45 +3729,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:can-the-platform-surface-and-link-to-transit-supports-oetm-free-rides-to-work-pi",
-  "type": "ResearchQuestion",
-  "label": "Can the platform surface and link to transit supports (OETM free rides-to-work pilot, b…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 200-200",
-    "excerpt": "Can the platform surface and link to transit supports (OETM free rides-to-work pilot, bikeshare access) contextually based on user profile and placement address?"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants. By partnering with Youth Engagement Services, you will be part of developing a new emerging workforce and the leaders of tomorrow. There are many ways to participate, including:\nProviding structured Work-Based Learning internship opportunities for the city of Richmond's youth\nProviding financial sponsorships for various program components (ie, transportation, uniforms, etc.)\nMentorship and/or training opportunities\nCollaboration or Networking"
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "City of Richmond youth ages 14-19 who are currently enrolled in school are eligible for MYA Summer programming. Proof of residency may be requested."
-   },
-   {
-    "sourceDoc": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "If you are ready to begin the Partner Registration process, please use this link to register: [Bit.ly/MYAPartners](https://url.us.m.mimecastprotect.com/s/TbMiCKr7BLI4qlvCv1y4G?domain=bit.ly \"https://url.us.m.mimecastprotect.com/s/TbMiCKr7BLI4qlvCv1y4G?domain=bit.ly\")"
-   }
-  ],
-  "description": "Can the platform surface and link to transit supports (OETM free rides-to-work pilot, bikeshare access) contextually based on user profile and placement address? — Rationale: This question explores a key value-add: moving beyond a simple list of jobs to an integrated support system. Contextual integration with transit initiatives based on a user's specific needs and location would directly address a major equity barrier.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "integration_questions",
-   "confidence": "medium",
-   "citationCount": 3
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:can-unboxed-rva-integrate-with-rva-gov-ocwb-forms-e-g-the-fy26-youth-works-appli",
@@ -3858,7 +3762,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:can-unboxed-rva-safely-pre-screen-for-track-eligibility-14-15-virtual-earn-learn",
@@ -3891,45 +3795,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:for-teens-14-15-vs-16-19-vs-18-24-yes-forward-what-are-top-decision-factors-pay-",
-  "type": "ResearchQuestion",
-  "label": "For teens 14–15 vs 16–19 vs 18–24 (YES Forward), what are top decision factors (pay, pr…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 149-149",
-    "excerpt": "For teens 14–15 vs 16–19 vs 18–24 (YES Forward), what are top decision factors (pay, proximity, career interest, schedule, supervision)?"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "**In-Person Program**\nServes youth ages 16–24 through onsite internships tailored to their career interests. Participants gain professional mentorship, build valuable skills, and explore potential long-term career pathways."
-   },
-   {
-    "sourceDoc": "https://www.jobs.virginia.gov/internship-opportunities",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The Commonwealth of Virginia Internship Programs offers students the opportunity to combine academic studies with on-the-job training and experience."
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/public-works/transit-equity",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "It is a targeted program aimed at removing transportation-related barriers to accessing opportunity for some of the most vulnerable Richmond residents. Summer"
-   }
-  ],
-  "description": "For teens 14–15 vs 16–19 vs 18–24 (YES Forward), what are top decision factors (pay, proximity, career interest, schedule, supervision)? — Rationale: Understanding the varying priorities of different age groups is crucial for designing effective search filters and program descriptions that resonate with each segment, thereby increasing engagement and successful placements.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "user_questions",
-   "confidence": "medium",
-   "citationCount": 4
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:gap-1",
@@ -3949,7 +3815,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:gap-2",
@@ -3969,7 +3835,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:gap-3",
@@ -3989,7 +3855,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:gap-4",
@@ -4009,7 +3875,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-do-14-15-year-olds-versus-16-24-year-olds-differ-in-desired-content-career-e",
@@ -4047,7 +3913,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-do-we-address-documentation-barriers-banking-for-direct-deposit-id-with-wrap",
@@ -4085,7 +3951,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-does-unboxed-rva-complement-not-duplicate-youth-works-rva-s-portal-and-commu",
@@ -4123,7 +3989,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-might-we-sync-with-chamberrva-s-partner-onboarding-flows-to-reduce-duplicate",
@@ -4156,45 +4022,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:how-will-employer-payroll-vs-hosted-placements-be-indicated-and-communicated-to-",
-  "type": "ResearchQuestion",
-  "label": "How will employer payroll vs hosted placements be indicated and communicated to youth a…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 212-212",
-    "excerpt": "How will employer payroll vs hosted placements be indicated and communicated to youth and families?"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants. By partnering with Youth Engagement Services, you will be part of developing a new emerging workforce and the leaders of tomorrow. There are many ways to participate, including:\nProviding structured Work-Based Learning internship opportunities for the city of Richmond's youth\nProviding financial sponsorships for various program components (ie, transportation, uniforms, etc.)\nMentorship and/or training opportunities\nCollaboration or Networking"
-   },
-   {
-    "sourceDoc": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "City of Richmond youth ages 14-19 who are currently enrolled in school are eligible for MYA Summer programming. Proof of residency may be requested."
-   }
-  ],
-  "description": "How will employer payroll vs hosted placements be indicated and communicated to youth and families? — Rationale: The current system creates confusion about payment sources ('hired placements' vs 'hosted placements'). Clear technical integration and communication about payroll are necessary to manage expectations, build trust, and reduce administrative burden on families and program staff.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "integration_questions",
-   "confidence": "medium",
-   "citationCount": 3
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-will-race-ethnicity-be-handled-to-mirror-vdh-maternal-race-at-birth-hispanic",
@@ -4222,78 +4050,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:how-will-the-platform-ingest-update-authoritative-dates-application-open-close-t",
-  "type": "ResearchQuestion",
-  "label": "How will the platform ingest/update authoritative dates (application open/close, traini…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 122-122",
-    "excerpt": "How will the platform ingest/update authoritative dates (application open/close, training, July–August placement windows) and track notifications (e.g., second week of April) across cohorts?"
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Youth will receive notification by email the second week of April."
-   },
-   {
-    "sourceDoc": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "MAYORAL ACTION PLAN\nThriving Families\nSupport the education, health, and development of children and families — in and out of the classroom — so that\nstudents graduate from Richmond Public Schools well-prepared for success and connected to opportunities for further\nlearning and career development."
-   }
-  ],
-  "description": "How will the platform ingest/update authoritative dates (application open/close, training, July–August placement windows) and track notifications (e.g., second week of April) across cohorts? — Rationale: One of the core pain points for users is managing shifting timelines and deadlines. This question addresses the need for a reliable system to manage and communicate critical dates, ensuring users don't miss opportunities due to fragmented information.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "data_questions",
-   "confidence": "high",
-   "citationCount": 2
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:how-will-the-platform-prioritize-or-flag-supports-for-tanf-eligible-users-foster",
-  "type": "ResearchQuestion",
-  "label": "How will the platform prioritize or flag supports for TANF-eligible users, foster care …",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 227-227",
-    "excerpt": "How will the platform prioritize or flag supports for TANF-eligible users, foster care youth, out-of-school youth (18–24), and neighborhoods identified in Path to Equity/Richmond Connects?"
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/public-works/transit-equity",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The Office of Equitable Transit and Mobility announced in November 2022 a free-rides-to-work van program for the City’s most vulnerable populations. Beginning immediately, the City will be teaming up with local van service providers to offer TANF eligible individuals rides from public housing to employment centers and education institutions, and even day-care drop-offs along the way."
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The Youth Engagement Services team (YES), formally known as the Mayor’s Youth Academy (MYA), was launched by former Mayor Dwight C. In 2010, Jones designed a program to develop Richmond’s Future Leaders and workforce. (YES). It is a workforce development program designed to engage youth in a productive career exploration program by using a work-based learning approach."
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "City of Richmond youth ages 14-19 who are currently enrolled in school are eligible for MYA Summer programming. Proof of residency may be requested."
-   }
-  ],
-  "description": "How will the platform prioritize or flag supports for TANF-eligible users, foster care youth, out-of-school youth (18–24), and neighborhoods identified in Path to Equity/Richmond Connects? — Rationale: To be truly equitable, the platform must do more than provide equal access; it must actively connect high-need populations with targeted supports and opportunities, directly aligning with the city's stated equity goals.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "equity_questions",
-   "confidence": "high",
-   "citationCount": 5
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-will-the-tool-foreground-richmond-s-racial-ethnic-disparities-e-g-higher-ris",
@@ -4331,7 +4088,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-will-the-tool-reconcile-differences-across-vdh-mch-indicators-maternal-morta",
@@ -4364,7 +4121,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:how-will-we-ensure-equitable-access-for-youth-in-rrha-communities-and-neighborho",
@@ -4402,45 +4159,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:how-will-we-handle-digital-divide-issues-mobile-first-sms-updates-offline-help-a",
-  "type": "ResearchQuestion",
-  "label": "How will we handle digital divide issues (mobile-first, SMS updates, offline help at Ca…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 251-251",
-    "excerpt": "How will we handle digital divide issues (mobile-first, SMS updates, offline help at Career Stations)?"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The Youth Engagement Services team (YES), formally known as the Mayor’s Youth Academy (MYA), was launched by former Mayor Dwight C. In 2010, Jones designed a program to develop Richmond’s Future Leaders and workforce. (YES). It is a workforce development program designed to engage youth in a productive career exploration program by using a work-based learning approach."
-   },
-   {
-    "sourceDoc": "https://nextuprva.org/blog/category/positive-youth-development/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Richmond youth ages 11–19 can have greater access to free afterschool and summer programs through the Positive Youth Development (PYD) initiative. Managed by"
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "City of Richmond youth ages 14-19 who are currently enrolled in school are eligible for MYA Summer programming. Proof of residency may be requested."
-   }
-  ],
-  "description": "How will we handle digital divide issues (mobile-first, SMS updates, offline help at Career Stations)? — Rationale: An online-only platform would exclude youth with limited internet or device access. This question focuses on creating a multi-channel strategy (including mobile, SMS, and in-person support) to ensure the platform is accessible to all Richmond youth, regardless of their digital resources.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "equity_questions",
-   "confidence": "medium",
-   "citationCount": 5
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:should-the-builder-ingest-rhhd-community-health-assessment-cha-excerpts-or-link-",
@@ -4473,7 +4192,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-accessibility-language-features-are-required-spanish-other-languages-per-ci",
@@ -4506,7 +4225,7 @@
    "confidence": "low",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-are-the-authoritative-data-sources-to-validate-richmond-residency-and-age-e",
@@ -4539,7 +4258,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-canonical-data-fields-does-yes-youth-works-require-age-residency-school-enr",
@@ -4572,7 +4291,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-coordination-is-feasible-with-rps-counselors-and-career-specialists-to-surf",
@@ -4610,7 +4329,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-do-richmond-youth-parents-guardians-and-counselors-name-as-the-top-3-blocke",
@@ -4648,7 +4367,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-fixed-sections-do-richmond-cbo-grant-writers-want-in-the-pdf-e-g-executive-",
@@ -4671,7 +4390,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-is-the-authoritative-year-range-for-each-metric-e-g-2019-2023-for-maternal-",
@@ -4709,45 +4428,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:what-is-the-minimal-integration-required-with-rva-gov-forms-youth-works-rva-appl",
-  "type": "ResearchQuestion",
-  "label": "What is the minimal integration required with RVA.gov forms (Youth Works RVA applicatio…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 188-188",
-    "excerpt": "What is the minimal integration required with RVA.gov forms (Youth Works RVA application), legacy MYA assets (FAQs), and partner registration bit.ly links to avoid duplication while improving UX?"
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "**[Applications](http://www.richmondgov.com/MayorsYouthAcademy/HowToApply.aspx)** are available each year on March 1st. All applicants must have a copy of their most recent report card, one form of proof of residency, and a photo ID upon request."
-   },
-   {
-    "sourceDoc": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "If you are ready to begin the Partner Registration process, please use this link to register: [Bit.ly/MYAPartners](https://url.us.m.mimecastprotect.com/s/TbMiCKr7BLI4qlvCv1y4G?domain=bit.ly \"https://url.us.m.mimecastprotect.com/s/TbMiCKr7BLI4qlvCv1y4G?domain=bit.ly\")"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants. By partnering with Youth Engagement Services, you will be part of developing a new emerging workforce and the leaders of tomorrow. There are many ways to participate, including:\nProviding structured Work-Based Learning internship opportunities for the city of Richmond's youth\nProviding financial sponsorships for various program components (ie, transportation, uniforms, etc.)\nMentorship and/or training opportunities\nCollaboration or Networking"
-   }
-  ],
-  "description": "What is the minimal integration required with RVA.gov forms (Youth Works RVA application), legacy MYA assets (FAQs), and partner registration bit.ly links to avoid duplication while improving UX? — Rationale: To create a centralized, user-friendly experience, the platform must consolidate or seamlessly link to existing, disparate application forms and information sources. This question seeks the most efficient path to improving the user journey without a costly, full-scale replacement of all backend systems.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "integration_questions",
-   "confidence": "medium",
-   "citationCount": 3
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-is-the-minimal-set-of-user-inputs-organization-service-area-target-populati",
@@ -4770,7 +4451,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-language-access-and-accessibility-features-are-required-for-families-in-ric",
@@ -4808,40 +4489,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:what-languages-and-accessibility-features-are-needed-per-the-city-s-language-acc",
-  "type": "ResearchQuestion",
-  "label": "What languages and accessibility features are needed per the City’s Language Access Pla…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 161-161",
-    "excerpt": "What languages and accessibility features are needed per the City’s Language Access Plan to reach immigrant families?"
-   },
-   {
-    "sourceDoc": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The number of City employees who have completed\nLanguage Access Plan training. Training staff\nemphasizes that all residents deserve to access City\nservices through a language that is familiar to them."
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/public-works/transit-equity",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "It is a targeted program aimed at removing transportation-related barriers to accessing opportunity for some of the most vulnerable Richmond residents. Summer"
-   }
-  ],
-  "description": "What languages and accessibility features are needed per the City’s Language Access Plan to reach immigrant families? — Rationale: To ensure equitable access and address the emotional/trust needs of all families, the platform must be accessible to non-English speakers. This aligns with city policy and removes a significant barrier for a key demographic.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "user_questions",
-   "confidence": "medium",
-   "citationCount": 2
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-learnings-from-prior-years-youth-works-e-g-employer-desire-to-hire-interns-",
@@ -4879,45 +4527,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:what-lessons-from-nextup-rva-s-afterschool-summer-coordination-and-provider-netw",
-  "type": "ResearchQuestion",
-  "label": "What lessons from NextUp RVA’s afterschool/summer coordination and provider network app…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 278-278",
-    "excerpt": "What lessons from NextUp RVA’s afterschool/summer coordination and provider network apply to internships/work-based learning discovery?"
-   },
-   {
-    "sourceDoc": "https://nextuprva.org/blog/category/positive-youth-development/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Richmond youth ages 11–19 can have greater access to free afterschool and summer programs through the Positive Youth Development (PYD) initiative. Managed by"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond’s youth in career exploration through work-based learning."
-   },
-   {
-    "sourceDoc": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "By partnering with the Youth Engagement Services, you will be part of the development of a new emerging workforce and the leaders of tomorrow."
-   }
-  ],
-  "description": "What lessons from NextUp RVA’s afterschool/summer coordination and provider network apply to internships/work-based learning discovery? — Rationale: NextUp RVA has successfully created a coordinated system for out-of-school time programs. Analyzing their model for managing a diverse network of providers can offer valuable insights for building a similar system for employment and internship opportunities.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "prior_art_questions",
-   "confidence": "medium",
-   "citationCount": 4
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-safeguards-ensure-equitable-matching-by-geography-grtc-routes-age-ability-a",
@@ -4955,139 +4565,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:what-safeguards-ensure-youth-without-photo-id-or-immediate-proof-can-start-appli",
-  "type": "ResearchQuestion",
-  "label": "What safeguards ensure youth without photo ID or immediate proof can start applications…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 239-239",
-    "excerpt": "What safeguards ensure youth without photo ID or immediate proof can start applications and upload later, with guidance?"
-   },
-   {
-    "sourceDoc": "https://nextuprva.org/blog/category/positive-youth-development/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Richmond youth ages 11–19 can have greater access to free afterschool and summer programs through the Positive Youth Development (PYD) initiative. Managed by"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The Youth Engagement Services team (YES), formally known as the Mayor’s Youth Academy (MYA), was launched by former Mayor Dwight C. In 2010, Jones designed a program to develop Richmond’s Future Leaders and workforce. (YES). It is a workforce development program designed to engage youth in a productive career exploration program by using a work-based learning approach."
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "City of Richmond youth ages 14-19 who are currently enrolled in school are eligible for MYA Summer programming. Proof of residency may be requested."
-   }
-  ],
-  "description": "What safeguards ensure youth without photo ID or immediate proof can start applications and upload later, with guidance? — Rationale: Documentation requirements can be a significant barrier for vulnerable youth. This question addresses the need for a flexible application process that allows users to begin exploring opportunities while providing clear guidance on how to complete requirements later.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "equity_questions",
-   "confidence": "medium",
-   "citationCount": 3
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:what-transportation-fields-are-needed-grtc-access-bikeshare-van-pilot-eligibilit",
-  "type": "ResearchQuestion",
-  "label": "What transportation fields are needed (GRTC access, bikeshare/van pilot eligibility, co…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 134-134",
-    "excerpt": "What transportation fields are needed (GRTC access, bikeshare/van pilot eligibility, commute time) to surface supports automatically?"
-   },
-   {
-    "sourceDoc": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The MAP spells out specific goals within each pillar, as well as numerous metrics that the City will"
-   },
-   {
-    "sourceDoc": "https://www.rva.gov/community-wealth-building/faq",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Youth will receive notification by email the second week of April."
-   }
-  ],
-  "description": "What transportation fields are needed (GRTC access, bikeshare/van pilot eligibility, commute time) to surface supports automatically? — Rationale: Transportation is a significant barrier to employment for youth. Integrating transportation data allows the platform to proactively surface relevant supports (like free rides-to-work pilots) to users, making opportunities more accessible.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "data_questions",
-   "confidence": "medium",
-   "citationCount": 2
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:what-trust-signals-city-branding-staff-contacts-partner-lists-testimonials-most-",
-  "type": "ResearchQuestion",
-  "label": "What trust signals (city branding, staff contacts, partner lists, testimonials) most in…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 173-173",
-    "excerpt": "What trust signals (city branding, staff contacts, partner lists, testimonials) most increase parent confidence?"
-   },
-   {
-    "sourceDoc": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Provide professional mentors and instructors"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "**In-Person Program**\nServes youth ages 16–24 through onsite internships tailored to their career interests. Participants gain professional mentorship, build valuable skills, and explore potential long-term career pathways."
-   }
-  ],
-  "description": "What trust signals (city branding, staff contacts, partner lists, testimonials) most increase parent confidence? — Rationale: Parents and guardians are key stakeholders who need to feel confident about the safety and legitimacy of the opportunities. Identifying the most effective trust signals is essential for addressing their core emotional JTBD and encouraging them to support their child's participation.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "user_questions",
-   "confidence": "high",
-   "citationCount": 2
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:what-unified-data-schema-will-capture-age-bands-14-15-vs-16-19-vs-18-24-residenc",
-  "type": "ResearchQuestion",
-  "label": "What unified data schema will capture age bands (14–15 vs 16–19 vs 18–24), residency, s…",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 110-110",
-    "excerpt": "What unified data schema will capture age bands (14–15 vs 16–19 vs 18–24), residency, school enrollment, foster care status, track selection, placement, hours, wages/stipends, and completion aligned to MAP “Thriving Families” metrics?"
-   },
-   {
-    "sourceDoc": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "What are some metrics that will help us know\nwe’re making progress?"
-   }
-  ],
-  "description": "What unified data schema will capture age bands (14–15 vs 16–19 vs 18–24), residency, school enrollment, foster care status, track selection, placement, hours, wages/stipends, and completion aligned to MAP “Thriving Families” metrics? — Rationale: A unified schema is essential for accurately tracking participant demographics and outcomes, ensuring the platform can measure its success against the specific goals laid out in the city's Mayoral Action Plan, such as reducing the number of youth not in school or employed.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "data_questions",
-   "confidence": "medium",
-   "citationCount": 1
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:what-wage-hours-and-duration-details-are-public-vs-variable-by-placement-current",
@@ -5120,7 +4598,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:which-discovery-channels-do-youth-actually-use-in-richmond-instagram-tiktok-scho",
@@ -5158,45 +4636,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
- },
- {
-  "id": "n:question:which-elements-of-current-yes-mayor-s-youth-academy-processes-cit-opportunity-fa",
-  "type": "ResearchQuestion",
-  "label": "Which elements of current YES/Mayor’s Youth Academy processes (CIT, Opportunity Fairs, …",
-  "repo": "pillar-thriving-families",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/unknown-corrupted/jtbd_analysis.md",
-    "sourceLocation": "lines 266-266",
-    "excerpt": "Which elements of current YES/Mayor’s Youth Academy processes (CIT, Opportunity Fairs, partner sponsorships) should be preserved vs redesigned?"
-   },
-   {
-    "sourceDoc": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work–Based Learning program, we"
-   },
-   {
-    "sourceDoc": "https://rva.gov/community-wealth-building/youth-engagement-services",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond’s youth in career exploration through work-based learning."
-   },
-   {
-    "sourceDoc": "https://www.jobs.virginia.gov/internship-opportunities",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "The Commonwealth of Virginia Internship Programs offers students the opportunity to combine academic studies with on-the-job training and experience."
-   }
-  ],
-  "description": "Which elements of current YES/Mayor’s Youth Academy processes (CIT, Opportunity Fairs, partner sponsorships) should be preserved vs redesigned? — Rationale: Instead of replacing the entire system, it's crucial to identify and retain successful, high-value components of the existing YES program. This ensures continuity, leverages existing social capital, and focuses design efforts on the areas with the most friction.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "question",
-   "section": "prior_art_questions",
-   "confidence": "high",
-   "citationCount": 4
-  },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:which-existing-resources-vdh-dashboards-prams-facts-cha-virginia-mercury-explain",
@@ -5234,7 +4674,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:which-funders-are-primary-targets-e-g-rhhd-mini-grants-local-foundations-dmas-in",
@@ -5257,7 +4697,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:which-maternal-outcomes-are-in-scope-for-first-release-maternal-mortality-42-day",
@@ -5295,7 +4735,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  },
  {
   "id": "n:question:which-vdh-dashboards-have-stable-csv-endpoints-or-apis-suitable-for-automation-w",
@@ -5328,6 +4768,6 @@
    "confidence": "low",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T19:59:52.652Z"
+  "extractedAt": "2026-08-02T21:03:36.065Z"
  }
 ]

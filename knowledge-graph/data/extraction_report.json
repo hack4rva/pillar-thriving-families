@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T19:59:52.652Z",
+ "generatedAt": "2026-08-02T21:03:36.065Z",
  "repo": "pillar-thriving-families",
  "filesExamined": [
   "/goto?url=CAEShAEBO6uMpcPk9qfu5_Y4zFN3mUFNNJ6ni819ZB3detCM4HxCW330m2bswy9Wj-BIVQWFu-AD7NXLMMhmYDWPxAiIsnw7FOBWPevNEEiWsMn_7J--pcgO7zL9tiXAr57lLF-DnhSzSG3Fd-5gG9RDcQhG8CoWW14Od0hiUo80wXpwgyS1Ndc=",
@@ -19,8 +19,7 @@
   "post-event-research/stepwise/jtbd_analysis.md",
   "post-event-research/stepwise/pain_points.md",
   "post-event-research/unboxed-rva/jtbd_analysis.md",
-  "post-event-research/unboxed-rva/pain_points.md",
-  "post-event-research/unknown-corrupted/jtbd_analysis.md"
+  "post-event-research/unboxed-rva/pain_points.md"
  ],
  "provenanceVerification": {
   "exact": 0,
@@ -31,8 +30,8 @@
  },
  "warnings": [],
  "metrics": {
-  "totalNodes": 183,
-  "totalEdges": 152,
+  "totalNodes": 167,
+  "totalEdges": 137,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -96,7 +95,7 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 133,
+  "reportedButUnverifiedRelationships": 118,
   "brokenReferences": 0,
   "duplicateCandidates": 0,
   "reviewQueueSize": 0,
