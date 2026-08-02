@@ -22,7 +22,7 @@
    "keyFields": "population; income; insurance; poverty; demographics",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:boys-girls-club-metro-richmond",
@@ -47,7 +47,7 @@
    "keyFields": "program name; age eligibility; location",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:girls-for-a-change-programs",
@@ -72,7 +72,7 @@
    "keyFields": "program name; age range; application info; contact",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:grtc-transit-gtfs",
@@ -97,7 +97,7 @@
    "keyFields": "route; stop; schedule; lat/lon",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:kids-count-virginia",
@@ -122,7 +122,7 @@
    "keyFields": "child wellbeing indicators; health; education; economic",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:ocwb-youth-programs",
@@ -147,7 +147,7 @@
    "keyFields": "program name; org; age eligibility; application window; location",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:richmond-open-data-portal",
@@ -172,7 +172,7 @@
    "keyFields": "varies",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:vdh-maternal-health-data",
@@ -197,7 +197,7 @@
    "keyFields": "birth outcomes; maternal mortality; prenatal care; race; geography",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:vdoe-school-data",
@@ -222,7 +222,7 @@
    "keyFields": "enrollment; FRL eligibility; demographics",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:virginia-youth-labor-laws",
@@ -247,7 +247,7 @@
    "keyFields": "age thresholds; work permit requirement; prohibited occupations; hour limits",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:dataset:youthwork-richmond-richmond-education-fund",
@@ -272,7 +272,7 @@
    "keyFields": "program name; eligibility; contact",
    "available": true
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-001",
@@ -294,7 +294,7 @@
    "url": "https://www.ridegrtc.com/wp-content/uploads/2025/02/gtfs.zip",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-002",
@@ -316,7 +316,7 @@
    "url": "https://www.ridegrtc.com/",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-003",
@@ -338,7 +338,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-004",
@@ -360,7 +360,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-005",
@@ -382,7 +382,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-006",
@@ -404,7 +404,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-007",
@@ -426,7 +426,7 @@
    "url": "https://www.rva.gov/community-wealth-building/youth-engagement-services",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-008",
@@ -448,7 +448,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-009",
@@ -470,7 +470,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-010",
@@ -492,7 +492,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-011",
@@ -514,7 +514,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-012",
@@ -536,7 +536,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-013",
@@ -558,7 +558,7 @@
    "url": "https://www.girlsforachange.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-014",
@@ -580,7 +580,7 @@
    "url": "https://www.bgcmr.org/programs",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-015",
@@ -602,7 +602,7 @@
    "url": "https://doli.virginia.gov/labor-law/youth-employment/",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-016",
@@ -624,7 +624,7 @@
    "url": "https://doli.virginia.gov/labor-law/youth-employment/",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-017",
@@ -646,7 +646,7 @@
    "url": "https://doli.virginia.gov/labor-law/youth-employment/",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-018",
@@ -668,7 +668,7 @@
    "url": "https://apps.vdh.virginia.gov/HealthStats/stats.htm",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-019",
@@ -690,7 +690,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/variables/B27001_001E.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-020",
@@ -712,7 +712,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/variables/B01001_001E.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-021",
@@ -734,7 +734,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/groups/B17001.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-022",
@@ -756,7 +756,7 @@
    "url": "https://api.census.gov/data/2022/acs/acs5/groups.json",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-023",
@@ -778,7 +778,7 @@
    "url": "https://api.census.gov/data/key_signup.html",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-024",
@@ -800,7 +800,7 @@
    "url": "https://datacenter.aecf.org/",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-025",
@@ -822,7 +822,7 @@
    "url": "https://datacenter.aecf.org/",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-026",
@@ -844,7 +844,7 @@
    "url": "https://www.vdh.virginia.gov/data/maternal-child-health/",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-027",
@@ -866,7 +866,7 @@
    "url": "https://www.doe.virginia.gov/data-policy-funding/data-reports/data-collection/special-education",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:evidence:e-028",
@@ -888,7 +888,7 @@
    "url": "https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html",
    "source": null
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:agency-data-lead",
@@ -904,7 +904,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:analysis-of-current-teen-workflow-and",
@@ -920,7 +920,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:cbo-director",
@@ -936,7 +936,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:cbo-grant-writer",
@@ -952,7 +952,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:frontline-worker",
@@ -968,7 +968,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:parent",
@@ -984,7 +984,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:parent-guardian",
@@ -1000,7 +1000,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:parents-guardians-persona",
@@ -1016,7 +1016,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:program-coordinators-employers",
@@ -1032,7 +1032,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:program-manager",
@@ -1048,7 +1048,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:public-health-analyst",
@@ -1064,7 +1064,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:student",
@@ -1080,7 +1080,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:summary-of-key",
@@ -1096,7 +1096,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:systemic",
@@ -1112,7 +1112,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:youth",
@@ -1128,7 +1128,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:group:youth-persona",
@@ -1144,7 +1144,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:administrative-documentation-burden-and-compliance-steps",
@@ -1182,7 +1182,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:anxiety-over-the-reliability-and-safety-of-transportation",
@@ -1220,7 +1220,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:burdensome-and-confusing-documentation-and-permit-process",
@@ -1258,7 +1258,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:complexity-in-scheduling-due-to-age-based-work-hour-limitations",
@@ -1286,7 +1286,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:concern-about-how-to-handle-exploitative-requests-or-unsafe-placements-from-an-e",
@@ -1324,7 +1324,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:confusing-and-multi-step-rules-for-age-based-work-permits",
@@ -1357,7 +1357,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:confusing-deadline-driven-landscape-across-programs",
@@ -1390,7 +1390,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:confusion-and-complexity-surrounding-the-work-permit-employment-certificate-proc",
@@ -1428,7 +1428,7 @@
    "confidence": "high",
    "citationCount": 12
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:confusion-around-documentation-and-logistics",
@@ -1466,7 +1466,7 @@
    "confidence": "low",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:critical-dependence-on-public-transportation-that-has-an-uncertain-future",
@@ -1504,7 +1504,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:difficulty-locating-the-correct-workforce-office-and-its-operational-hours",
@@ -1542,7 +1542,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:difficulty-understanding-and-tracking-age-based-work-restrictions",
@@ -1580,7 +1580,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:documentation-friction-specifically-the-requirement-and-cost-of-a-dmv-id-early-i",
@@ -1608,7 +1608,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:facing-hurdles-in-obtaining-the-required-documentation-and-identification",
@@ -1646,7 +1646,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:fear-of-incorrectly-completing-the-work-permit-process-or-starting-a-job-illegal",
@@ -1684,7 +1684,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:fragmented-information-and-deadlines-across-different-sites-and-programs",
@@ -1722,7 +1722,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:fragmented-information-and-process-inefficiency",
@@ -1760,7 +1760,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:fragmented-information-on-program-eligibility-tracks-and-deadlines",
@@ -1798,7 +1798,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:lack-of-clarity-on-the-legality-and-safety-of-a-job",
@@ -1836,7 +1836,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:limited-visibility-and-mismatched-placements",
@@ -1874,7 +1874,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:low-trust-and-security-concerns",
@@ -1912,7 +1912,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:systemic-coordination-failures",
@@ -1950,7 +1950,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:transportation-limitations-that-reduce-the-number-of-feasible-job-opportunities",
@@ -1978,7 +1978,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:trust-and-data-security-concerns-around-sharing-ssns-and-personal-documents",
@@ -2006,7 +2006,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:uncertainty-about-legal-working-hours-and-prohibited-job-types",
@@ -2044,7 +2044,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:uneven-digital-access-with-many-relying-on-mobile-only-internet",
@@ -2072,7 +2072,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-coordinating-placements-across-city-programs-yes-youth-works-rva-yes-forwar",
@@ -2110,7 +2110,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-i-am-asked-by-multiple-cbos-for-the-right-maternal-health-stats",
@@ -2148,7 +2148,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-i-m-a-city-workforce-coordinator-or-nonprofit-partner-planning-summer-place",
@@ -2186,7 +2186,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-i-m-a-parent-guardian-in-richmond-s-east-end-or-southside-and-my-teen-wants",
@@ -2224,7 +2224,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-i-m-presenting-maternal-health-findings-to-community-partners-and-funders",
@@ -2262,7 +2262,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-i-must-vouch-for-the-accuracy-and-equity-framing-of-our-proposals",
@@ -2300,7 +2300,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-i-need-to-assemble-a-maternal-health-fact-sheet-for-a-deadline-using-vdh-ce",
@@ -2338,7 +2338,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-it-s-march-may-and-i-m-a-richmond-public-schools-high-school-student-16-18-",
@@ -2376,7 +2376,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-it-s-spring-and-i-need-a-paid-summer-job-or-internship",
@@ -2414,7 +2414,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-my-teen-is-applying-for-summer-work",
@@ -2452,7 +2452,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-my-teen-is-looking-for-a-first-job",
@@ -2490,7 +2490,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-planning-summer-placements",
@@ -2528,7 +2528,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-recruiting-and-placing-youth",
@@ -2566,7 +2566,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-richmond-s-maternal-health-teams-across-rchd-henrico-vdh-programs-and-hospi",
@@ -2604,7 +2604,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-sharing-personal-information-to-apply-for-a-first-job-ssn-address-income-im",
@@ -2642,7 +2642,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-state-task-force-recommendations-or-local-initiatives-change-metrics-e-g-ma",
@@ -2680,7 +2680,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-summer-is-approaching-and-applications-open",
@@ -2718,7 +2718,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:need:when-summer-job-and-internship-applications-open-across-multiple-richmond-progra",
@@ -2756,7 +2756,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:annie-e-casey-foundation",
@@ -2772,7 +2772,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:bgc-metro-richmond",
@@ -2788,7 +2788,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:city-of-richmond",
@@ -2804,7 +2804,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:doli",
@@ -2820,7 +2820,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:girls-for-a-change",
@@ -2836,7 +2836,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:grtc",
@@ -2852,7 +2852,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:richmond-education-fund",
@@ -2868,7 +2868,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:us-census-bureau",
@@ -2884,7 +2884,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:virginia-doe",
@@ -2900,7 +2900,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:org:virginia-doh",
@@ -2916,7 +2916,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:a-core-transportation-problem-is-the-limited-access-to-personal-vehicles-for-man",
@@ -2954,7 +2954,7 @@
    "confidence": "high",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:barrier",
@@ -2992,7 +2992,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:critical-information-for-youth-employment-in-richmond-is-highly-fragmented-creat",
@@ -3030,7 +3030,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:id-requirement",
@@ -3053,7 +3053,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:limited-access-to-reliable-transportation-is-a-major-systemic-barrier-to-employm",
@@ -3091,7 +3091,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:low-income-families-and-youth-in-neighborhoods-with-concentrated-poverty-e-g-pub",
@@ -3129,7 +3129,7 @@
    "confidence": "high",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:low-income-youth-in-richmond-particularly-those-living-in-households-that-are-re",
@@ -3167,7 +3167,7 @@
    "confidence": "high",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:obtaining-and-submitting-required-documentation-is-a-major-barrier-in-richmond-s",
@@ -3205,7 +3205,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:the-digital-divide-in-virginia-presents-a-nuanced-but-significant-barrier-to-you",
@@ -3243,7 +3243,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:the-fragmented-youth-employment-ecosystem-in-richmond-creates-significant-equity",
@@ -3281,7 +3281,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:the-grtc-bus-system-is-the-main-mode-of-public-transit-available-to-youth-in-ric",
@@ -3319,7 +3319,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:the-process-for-obtaining-a-mandatory-virginia-employment-certificate-for-14-and",
@@ -3352,7 +3352,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:transportation-is-a-critical-and-persistent-barrier-to-youth-employment-in-richm",
@@ -3390,7 +3390,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:problem:virginia-electronic-employment-certificate-system-vaeecs",
@@ -3423,7 +3423,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:first-job-sms-kit",
@@ -3443,7 +3443,7 @@
    "origin": "post-event research",
    "project": "first-job-sms-kit"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:grant-pack-builder",
@@ -3463,7 +3463,7 @@
    "origin": "post-event research",
    "project": "grant-pack-builder"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:multi-pillar-ai",
@@ -3483,7 +3483,7 @@
    "origin": "post-event research",
    "project": "multi-pillar-ai"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:richmond-youth-hub",
@@ -3502,7 +3502,7 @@
    "origin": "post-event research",
    "project": "richmond-youth-hub"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:rva-people-data",
@@ -3522,7 +3522,7 @@
    "origin": "post-event research",
    "project": "rva-people-data"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:rva-works",
@@ -3542,7 +3542,7 @@
    "origin": "post-event research",
    "project": "rva-works"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:stepwise",
@@ -3562,7 +3562,7 @@
    "origin": "post-event research",
    "project": "stepwise"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:unboxed-rva",
@@ -3582,7 +3582,7 @@
    "origin": "post-event research",
    "project": "unboxed-rva"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:proposal:unknown-corrupted",
@@ -3602,7 +3602,7 @@
    "origin": "post-event research",
    "project": "unknown-corrupted"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:are-there-open-data-or-dashboard-efforts-at-ocwb-we-can-support-for-shared-metri",
@@ -3635,7 +3635,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:are-there-regional-state-opportunities-commonwealth-internships-grtc-initiatives",
@@ -3673,7 +3673,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:at-what-geography-will-the-tool-default-richmond-city-henrico-county-combined-rh",
@@ -3711,7 +3711,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:beyond-city-programs-which-richmond-specific-non-city-providers-e-g-chamberrva-p",
@@ -3749,7 +3749,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:can-prams-local-stratification-rchd-only-brhd-be-included-with-appropriate-cavea",
@@ -3787,7 +3787,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:can-the-platform-surface-and-link-to-transit-supports-oetm-free-rides-to-work-pi",
@@ -3825,7 +3825,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:can-unboxed-rva-integrate-with-rva-gov-ocwb-forms-e-g-the-fy26-youth-works-appli",
@@ -3858,7 +3858,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:can-unboxed-rva-safely-pre-screen-for-track-eligibility-14-15-virtual-earn-learn",
@@ -3891,7 +3891,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:for-teens-14-15-vs-16-19-vs-18-24-yes-forward-what-are-top-decision-factors-pay-",
@@ -3929,7 +3929,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:gap-1",
@@ -3949,7 +3949,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:gap-2",
@@ -3969,7 +3969,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:gap-3",
@@ -3989,7 +3989,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:gap-4",
@@ -4009,7 +4009,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-do-14-15-year-olds-versus-16-24-year-olds-differ-in-desired-content-career-e",
@@ -4047,7 +4047,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-do-we-address-documentation-barriers-banking-for-direct-deposit-id-with-wrap",
@@ -4085,7 +4085,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-does-unboxed-rva-complement-not-duplicate-youth-works-rva-s-portal-and-commu",
@@ -4123,7 +4123,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-might-we-sync-with-chamberrva-s-partner-onboarding-flows-to-reduce-duplicate",
@@ -4156,7 +4156,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-employer-payroll-vs-hosted-placements-be-indicated-and-communicated-to-",
@@ -4194,7 +4194,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-race-ethnicity-be-handled-to-mirror-vdh-maternal-race-at-birth-hispanic",
@@ -4222,7 +4222,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-the-platform-ingest-update-authoritative-dates-application-open-close-t",
@@ -4255,7 +4255,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-the-platform-prioritize-or-flag-supports-for-tanf-eligible-users-foster",
@@ -4293,7 +4293,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-the-tool-foreground-richmond-s-racial-ethnic-disparities-e-g-higher-ris",
@@ -4331,7 +4331,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-the-tool-reconcile-differences-across-vdh-mch-indicators-maternal-morta",
@@ -4364,7 +4364,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-we-ensure-equitable-access-for-youth-in-rrha-communities-and-neighborho",
@@ -4402,7 +4402,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:how-will-we-handle-digital-divide-issues-mobile-first-sms-updates-offline-help-a",
@@ -4440,7 +4440,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:should-the-builder-ingest-rhhd-community-health-assessment-cha-excerpts-or-link-",
@@ -4473,7 +4473,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-accessibility-language-features-are-required-spanish-other-languages-per-ci",
@@ -4506,7 +4506,7 @@
    "confidence": "low",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-are-the-authoritative-data-sources-to-validate-richmond-residency-and-age-e",
@@ -4539,7 +4539,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-canonical-data-fields-does-yes-youth-works-require-age-residency-school-enr",
@@ -4572,7 +4572,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-coordination-is-feasible-with-rps-counselors-and-career-specialists-to-surf",
@@ -4610,7 +4610,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-do-richmond-youth-parents-guardians-and-counselors-name-as-the-top-3-blocke",
@@ -4648,7 +4648,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-fixed-sections-do-richmond-cbo-grant-writers-want-in-the-pdf-e-g-executive-",
@@ -4671,7 +4671,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-is-the-authoritative-year-range-for-each-metric-e-g-2019-2023-for-maternal-",
@@ -4709,7 +4709,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-is-the-minimal-integration-required-with-rva-gov-forms-youth-works-rva-appl",
@@ -4747,7 +4747,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-is-the-minimal-set-of-user-inputs-organization-service-area-target-populati",
@@ -4770,7 +4770,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-language-access-and-accessibility-features-are-required-for-families-in-ric",
@@ -4808,7 +4808,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-languages-and-accessibility-features-are-needed-per-the-city-s-language-acc",
@@ -4841,7 +4841,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-learnings-from-prior-years-youth-works-e-g-employer-desire-to-hire-interns-",
@@ -4879,7 +4879,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-lessons-from-nextup-rva-s-afterschool-summer-coordination-and-provider-netw",
@@ -4917,7 +4917,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-safeguards-ensure-equitable-matching-by-geography-grtc-routes-age-ability-a",
@@ -4955,7 +4955,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-safeguards-ensure-youth-without-photo-id-or-immediate-proof-can-start-appli",
@@ -4993,7 +4993,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-transportation-fields-are-needed-grtc-access-bikeshare-van-pilot-eligibilit",
@@ -5026,7 +5026,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-trust-signals-city-branding-staff-contacts-partner-lists-testimonials-most-",
@@ -5059,7 +5059,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-unified-data-schema-will-capture-age-bands-14-15-vs-16-19-vs-18-24-residenc",
@@ -5087,7 +5087,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:what-wage-hours-and-duration-details-are-public-vs-variable-by-placement-current",
@@ -5120,7 +5120,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:which-discovery-channels-do-youth-actually-use-in-richmond-instagram-tiktok-scho",
@@ -5158,7 +5158,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:which-elements-of-current-yes-mayor-s-youth-academy-processes-cit-opportunity-fa",
@@ -5196,7 +5196,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:which-existing-resources-vdh-dashboards-prams-facts-cha-virginia-mercury-explain",
@@ -5234,7 +5234,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:which-funders-are-primary-targets-e-g-rhhd-mini-grants-local-foundations-dmas-in",
@@ -5257,7 +5257,7 @@
    "confidence": null,
    "citationCount": 0
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:which-maternal-outcomes-are-in-scope-for-first-release-maternal-mortality-42-day",
@@ -5295,7 +5295,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  },
  {
   "id": "n:question:which-vdh-dashboards-have-stable-csv-endpoints-or-apis-suitable-for-automation-w",
@@ -5328,6 +5328,6 @@
    "confidence": "low",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T14:50:47.215Z"
+  "extractedAt": "2026-08-02T19:59:52.652Z"
  }
 ]
