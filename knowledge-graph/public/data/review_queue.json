@@ -3,7 +3,7 @@
   "id": "r:dup-youth-works-rva-summer-2026-applications-now-open-richmond-redevelopment-housing",
   "itemType": "node",
   "proposed": "n:source:rrha-com-e0c0202e vs n:source:rrha-com-d73d4db0",
-  "sourceExcerpt": "Youth Works RVA: Summer 2026 Applications Now Open! | Richmond Redevelopment & Housing Authority",
+  "sourceExcerpt": "Youth Works RVA: Summer 2026 Applications Now Open! | Richmond Redevelopment & Housing Authority (/news/youth-works-rva-summer-2026)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -14,10 +14,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-healthy-childbirth-and-infancy-richmond-city-health-department",
+  "id": "r:dup-healthy-childbirth-and-infancy-richmond-city-health-department-ond-city-healthy-",
   "itemType": "node",
   "proposed": "n:source:vdh-virginia-gov-d9c20416 vs n:source:vdh-virginia-gov-c9fc374f",
-  "sourceExcerpt": "Healthy Childbirth and Infancy - Richmond City Health Department",
+  "sourceExcerpt": "Healthy Childbirth and Infancy - Richmond City Health Department (…ond-city/healthy-childbirth-and-infancy)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -28,10 +28,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-doli-virginia-department-of-labor-and-industry-youth-employment",
+  "id": "r:dup-doli-virginia-department-of-labor-and-industry-youth-employment-programs-labor-l",
   "itemType": "node",
   "proposed": "n:source:doli-virginia-gov-68036cc9 vs n:source:doli-virginia-gov-57866882",
-  "sourceExcerpt": "DOLI – Virginia Department of Labor and Industry  - Youth Employment",
+  "sourceExcerpt": "DOLI – Virginia Department of Labor and Industry  - Youth Employment (/programs/labor-law/youth-employment)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -56,24 +56,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-capital-region-workforce-partnership",
-  "itemType": "node",
-  "proposed": "n:source:henrico-gov-160dc1ee vs n:source:henrico-gov-fcf6df52",
-  "sourceExcerpt": "CAPITAL REGION WORKFORCE PARTNERSHIP",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-maternal-child-health-data",
+  "id": "r:dup-maternal-child-health-data-data-maternal-child-health",
   "itemType": "node",
   "proposed": "n:source:vdh-virginia-gov-d1fec742 vs n:source:vdh-virginia-gov-43079e2b",
-  "sourceExcerpt": "Maternal & Child Health - Data",
+  "sourceExcerpt": "Maternal & Child Health - Data (/data/maternal-child-health)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -84,10 +70,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-strengthening-maternal-and-infant-care-in-virginia-vhi",
+  "id": "r:dup-strengthening-maternal-and-infant-care-in-virginia-vhi-s-maternal-and-infant-car",
   "itemType": "node",
   "proposed": "n:source:vhi-org-abe3cd89 vs n:source:vhi-org-63906394",
-  "sourceExcerpt": "Strengthening Maternal and Infant Care in Virginia ⎸ VHI",
+  "sourceExcerpt": "Strengthening Maternal and Infant Care in Virginia ⎸ VHI (…s-maternal-and-infant-care-through-data)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -98,24 +84,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-40-1-115-school-attendance",
-  "itemType": "node",
-  "proposed": "n:source:law-lis-virginia-gov-db7d9100 vs n:source:law-lis-virginia-gov-9d7e70e8",
-  "sourceExcerpt": "§ 40.1-115. School attendance",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-maternal-child-health-indicators-data",
+  "id": "r:dup-maternal-child-health-indicators-data-ta-maternal-child-health-mch-indicators",
   "itemType": "node",
   "proposed": "n:source:vdh-virginia-gov-496f566a vs n:source:vdh-virginia-gov-9b2d0a18",
-  "sourceExcerpt": "Maternal & Child Health Indicators - Data",
+  "sourceExcerpt": "Maternal & Child Health Indicators - Data (…ta/maternal-child-health/mch-indicators)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -126,52 +98,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-b27010-types-of-health-insurance-census-bureau-table",
-  "itemType": "node",
-  "proposed": "n:source:data-census-gov-65b475a6 vs n:source:data-census-gov-fb46b699",
-  "sourceExcerpt": "B27010: Types of Health Insurance ... - Census Bureau Table",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-maternal-mortality-data",
+  "id": "r:dup-maternal-mortality-data-aternal-child-health-maternal-mortality",
   "itemType": "node",
   "proposed": "n:source:vdh-virginia-gov-8fe8ff6e vs n:source:vdh-virginia-gov-bf3db9bd",
-  "sourceExcerpt": "Maternal Mortality - Data",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-national-vital-statistics-reports",
-  "itemType": "node",
-  "proposed": "n:source:cdc-gov-afcbae20 vs n:source:cdc-gov-13a427ad",
-  "sourceExcerpt": "National Vital Statistics Reports",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-hack-for-rva-2026-building-a-thriving-economy",
-  "itemType": "node",
-  "proposed": "n:source:rvahacks-org-1ae98f9d vs n:source:rvahacks-org-073d4f0d",
-  "sourceExcerpt": "Hack for RVA 2026 | Building a Thriving Economy",
+  "sourceExcerpt": "Maternal Mortality - Data (…aternal-child-health/maternal-mortality)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",

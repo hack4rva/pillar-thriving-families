@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03T01:24:04.191Z",
+ "generatedAt": "2026-08-03T02:19:53.297Z",
  "repo": "pillar-thriving-families",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -193,8 +193,8 @@
   "disputedRelationships": 0,
   "reportedButUnverifiedRelationships": 415,
   "brokenReferences": 0,
-  "duplicateCandidates": 29,
-  "reviewQueueSize": 29,
+  "duplicateCandidates": 24,
+  "reviewQueueSize": 24,
   "evidenceRecords": 650,
   "provenanceCoverage": 100,
   "provenanceVerification": {
