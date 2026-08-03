@@ -1,1 +1,408 @@
-[]
+[
+ {
+  "id": "r:dup-youth-works-rva-summer-2026-applications-now-open-richmond-redevelopment-housing",
+  "itemType": "node",
+  "proposed": "n:source:rrha-com-e0c0202e vs n:source:rrha-com-d73d4db0",
+  "sourceExcerpt": "Youth Works RVA: Summer 2026 Applications Now Open! | Richmond Redevelopment & Housing Authority",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-healthy-childbirth-and-infancy-richmond-city-health-department",
+  "itemType": "node",
+  "proposed": "n:source:vdh-virginia-gov-d9c20416 vs n:source:vdh-virginia-gov-c9fc374f",
+  "sourceExcerpt": "Healthy Childbirth and Infancy - Richmond City Health Department",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-doli-virginia-department-of-labor-and-industry-youth-employment",
+  "itemType": "node",
+  "proposed": "n:source:doli-virginia-gov-68036cc9 vs n:source:doli-virginia-gov-57866882",
+  "sourceExcerpt": "DOLI – Virginia Department of Labor and Industry  - Youth Employment",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-s2801-types-of-computers-and-census-bureau-table",
+  "itemType": "node",
+  "proposed": "n:source:data-census-gov-b8ac04a7 vs n:source:data-census-gov-c53cd413",
+  "sourceExcerpt": "S2801: Types of Computers and ... - Census Bureau Table",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-capital-region-workforce-partnership",
+  "itemType": "node",
+  "proposed": "n:source:henrico-gov-160dc1ee vs n:source:henrico-gov-fcf6df52",
+  "sourceExcerpt": "CAPITAL REGION WORKFORCE PARTNERSHIP",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-maternal-child-health-data",
+  "itemType": "node",
+  "proposed": "n:source:vdh-virginia-gov-d1fec742 vs n:source:vdh-virginia-gov-43079e2b",
+  "sourceExcerpt": "Maternal & Child Health - Data",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-strengthening-maternal-and-infant-care-in-virginia-vhi",
+  "itemType": "node",
+  "proposed": "n:source:vhi-org-abe3cd89 vs n:source:vhi-org-63906394",
+  "sourceExcerpt": "Strengthening Maternal and Infant Care in Virginia ⎸ VHI",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-40-1-115-school-attendance",
+  "itemType": "node",
+  "proposed": "n:source:law-lis-virginia-gov-db7d9100 vs n:source:law-lis-virginia-gov-9d7e70e8",
+  "sourceExcerpt": "§ 40.1-115. School attendance",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-maternal-child-health-indicators-data",
+  "itemType": "node",
+  "proposed": "n:source:vdh-virginia-gov-496f566a vs n:source:vdh-virginia-gov-9b2d0a18",
+  "sourceExcerpt": "Maternal & Child Health Indicators - Data",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-b27010-types-of-health-insurance-census-bureau-table",
+  "itemType": "node",
+  "proposed": "n:source:data-census-gov-65b475a6 vs n:source:data-census-gov-fb46b699",
+  "sourceExcerpt": "B27010: Types of Health Insurance ... - Census Bureau Table",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-maternal-mortality-data",
+  "itemType": "node",
+  "proposed": "n:source:vdh-virginia-gov-8fe8ff6e vs n:source:vdh-virginia-gov-bf3db9bd",
+  "sourceExcerpt": "Maternal Mortality - Data",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-national-vital-statistics-reports",
+  "itemType": "node",
+  "proposed": "n:source:cdc-gov-afcbae20 vs n:source:cdc-gov-13a427ad",
+  "sourceExcerpt": "National Vital Statistics Reports",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-hack-for-rva-2026-building-a-thriving-economy",
+  "itemType": "node",
+  "proposed": "n:source:rvahacks-org-1ae98f9d vs n:source:rvahacks-org-073d4f0d",
+  "sourceExcerpt": "Hack for RVA 2026 | Building a Thriving Economy",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-grtc",
+  "itemType": "node",
+  "proposed": "n:org:grtc vs n:governmentagency:grtc",
+  "sourceExcerpt": "GRTC",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-consumer-data-protection-act",
+  "itemType": "node",
+  "proposed": "n:source:oag-state-va-us-ec3a6cef vs n:legislation:virginia-consumer-data-protection-act",
+  "sourceExcerpt": "Virginia Consumer Data Protection Act",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-city-of-richmond",
+  "itemType": "node",
+  "proposed": "n:org:city-of-richmond vs n:geographicregion:city-of-richmond",
+  "sourceExcerpt": "City of Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-department-of-labor-and-industry",
+  "itemType": "node",
+  "proposed": "n:source:townhall-virginia-gov-29c011a3 vs n:governmentagency:virginia-department-of-labor-and-industry",
+  "sourceExcerpt": "Virginia Department of Labor and Industry",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-cdc-wonder",
+  "itemType": "node",
+  "proposed": "n:source:wonder-cdc-gov-1da0d791 vs n:dataset:cdc-wonder",
+  "sourceExcerpt": "CDC WONDER",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-girls-for-a-change",
+  "itemType": "node",
+  "proposed": "n:org:girls-for-a-change vs n:nonprofit:girls-for-a-change",
+  "sourceExcerpt": "Girls For A Change",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-pathways-to-prosperity",
+  "itemType": "node",
+  "proposed": "n:source:jff-org-583dd6e9 vs n:program:pathways-to-prosperity",
+  "sourceExcerpt": "Pathways to Prosperity",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-youth",
+  "itemType": "node",
+  "proposed": "n:group:youth vs n:population:youth",
+  "sourceExcerpt": "Youth",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-2024-community-health-assessment",
+  "itemType": "node",
+  "proposed": "n:source:vdh-virginia-gov-638f77d6 vs n:dataset:2024-community-health-assessment",
+  "sourceExcerpt": "2024 Community Health Assessment",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-chicago-health-atlas",
+  "itemType": "node",
+  "proposed": "n:source:chicagohealthatlas-org-46239a22 vs n:dataset:chicago-health-atlas",
+  "sourceExcerpt": "Chicago Health Atlas",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-parent-guardian",
+  "itemType": "node",
+  "proposed": "n:group:parent-guardian vs n:constituentgroup:parent-guardian",
+  "sourceExcerpt": "Parent/Guardian",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-digital-opportunity-plan",
+  "itemType": "node",
+  "proposed": "n:source:dhcd-virginia-gov-80fe47f7 vs n:proposal:virginia-digital-opportunity-plan",
+  "sourceExcerpt": "Virginia Digital Opportunity Plan",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-doli",
+  "itemType": "node",
+  "proposed": "n:org:doli vs n:governmentagency:doli",
+  "sourceExcerpt": "DOLI",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-pillar-vc",
+  "itemType": "node",
+  "proposed": "n:source:pillar-vc-38cd8623 vs n:organization:pillar-vc",
+  "sourceExcerpt": "Pillar VC",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond-ed-fund",
+  "itemType": "node",
+  "proposed": "n:source:rps-fund-f776d926 vs n:nonprofit:richmond-ed-fund",
+  "sourceExcerpt": "Richmond Ed Fund",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond-education-fund",
+  "itemType": "node",
+  "proposed": "n:org:richmond-education-fund vs n:organization:richmond-education-fund",
+  "sourceExcerpt": "Richmond Education Fund",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ }
+]

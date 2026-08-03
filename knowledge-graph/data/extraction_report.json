@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-08-02T21:03:36.065Z",
+ "generatedAt": "2026-08-02T23:12:20.961Z",
  "repo": "pillar-thriving-families",
  "filesExamined": [
-  "/goto?url=CAEShAEBO6uMpcPk9qfu5_Y4zFN3mUFNNJ6ni819ZB3detCM4HxCW330m2bswy9Wj-BIVQWFu-AD7NXLMMhmYDWPxAiIsnw7FOBWPevNEEiWsMn_7J--pcgO7zL9tiXAr57lLF-DnhSzSG3Fd-5gG9RDcQhG8CoWW14Od0hiUo80wXpwgyS1Ndc=",
-  "/goto?url=CAESngEBO6uMpaO1txT7tNBq5rw_IbFZZxIwXxJ5BWoTZjVjNy3HNDyocMvfUkZeMvcx5M2VAE3ikIY_GKhPZjTEnySyIdr89fbeSOgqBpv7rNDUxdqCJvlw9yklgbNtp9ugKfK7TVF9nbLvX3E2N_tE-XfEvxVJsd9UZ539k5brVoCRq12j-lBxhYdk_cIYlf2eQn5Rl1svmVIGWkKirsPF0w==",
   "admin/evidence_log.md",
   "data/source_inventory.csv",
   "post-event-research/first-job-sms-kit/jtbd_analysis.md",
@@ -19,8 +17,130 @@
   "post-event-research/stepwise/jtbd_analysis.md",
   "post-event-research/stepwise/pain_points.md",
   "post-event-research/unboxed-rva/jtbd_analysis.md",
-  "post-event-research/unboxed-rva/pain_points.md"
+  "post-event-research/unboxed-rva/pain_points.md",
+  "research/00_pillar_summary_context.md",
+  "research/91_top_10_hypotheses_to_test.md",
+  "research/92_red_flags.md",
+  "research/A3_problem_landscape_compare_statements.md",
+  "research/A4_problem_landscape_workforce_pathways.md",
+  "research/B1_users_youth_jobseeker.md",
+  "research/B2_users_employer.md",
+  "research/B3_users_maternal_health_researcher.md",
+  "research/B5_users_digital_equity.md",
+  "research/C1_services_youth_workforce_programs.md",
+  "research/C2_services_workforce_landscape.md",
+  "research/C4_services_gaps.md",
+  "research/D1_data_youth_labor.md",
+  "research/D2_data_vdh_maternal.md",
+  "research/D3_data_census_acs.md",
+  "research/D4_data_kids_count.md",
+  "research/D5_data_grtc_transit.md",
+  "research/E1_prior_art_youth_employment.md",
+  "research/E2_prior_art_health_dashboards.md",
+  "research/E3_prior_art_workforce_navigators.md",
+  "research/E4_prior_art_failures.md",
+  "research/E5_prior_art_weekend_viable.md",
+  "research/F1_opportunities_ranked.md",
+  "research/F2_opportunities_youth_employment.md",
+  "research/F3_opportunities_maternal_health.md",
+  "research/G1_risks_minor_data_privacy.md",
+  "research/G2_risks_health_claims.md",
+  "research/H2_mvp_youth_employment.md",
+  "research/H3_mvp_maternal_health.md",
+  "research/H5_mvp_scope_boundaries.md",
+  "research/I2_demo_youth_employment_pitch.md",
+  "research/I3_demo_maternal_health_pitch.md",
+  "research/I5_demo_framing.md"
  ],
+ "researchCorpus": {
+  "reportsRead": 33,
+  "reportsOffBrief": [
+   {
+    "file": "research/A1_problem_landscape_youth_employment.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/A2_problem_landscape_maternal_health_data.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/A5_problem_landscape_health_equity.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B4_users_stakeholders_map.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C3_services_maternal_health_orgs.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C5_services_digital.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F4_opportunities_where_software.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F5_opportunities_do_not_build.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G3_risks_inclusion.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G4_risks_data_quality.md",
+    "localMentionsPerKWord": 0.45
+   },
+   {
+    "file": "research/G5_risks_guardrails.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/H1_mvp_48hr_framework.md",
+    "localMentionsPerKWord": 0.4
+   },
+   {
+    "file": "research/H4_mvp_data_constraints.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I1_demo_archetypes.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I4_demo_credibility.md",
+    "localMentionsPerKWord": 0
+   }
+  ],
+  "reportsWithoutReferences": [
+   {
+    "file": "research/01_master_research_prompt.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/93_missing_information_gaps.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/INDEX.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/README.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/validation_report.md",
+    "reason": "corpus scaffolding, not findings"
+   }
+  ],
+  "claimsIndexed": 582,
+  "primarySourcesCited": 308
+ },
  "provenanceVerification": {
   "exact": 0,
   "moved": 0,
@@ -28,10 +148,14 @@
   "missing": 0,
   "external": 0
  },
- "warnings": [],
+ "warnings": [
+  "[demote] 39 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[corpus] dropped 0 stale-anchor, 83 unresolved-endpoint, 0 not-an-organization and 81 not-a-name records",
+  "[merge] duplicate node id n:geographicregion:richmond: provenance merged"
+ ],
  "metrics": {
-  "totalNodes": 167,
-  "totalEdges": 137,
+  "totalNodes": 904,
+  "totalEdges": 1949,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -41,53 +165,25 @@
   "flowsWithUnknownDestination": 0,
   "flowsWithUnknownSource": 0,
   "fundingWithUnknownDestinationUSD": 0,
-  "intendedBeneficiaryNodes": 16,
-  "needsTotal": 44,
+  "intendedBeneficiaryNodes": 32,
+  "needsTotal": 16,
   "needsWithNoFunding": [
    "n:need:administrative-documentation-burden-and-compliance-steps",
    "n:need:anxiety-over-the-reliability-and-safety-of-transportation",
    "n:need:burdensome-and-confusing-documentation-and-permit-process",
-   "n:need:complexity-in-scheduling-due-to-age-based-work-hour-limitations",
-   "n:need:concern-about-how-to-handle-exploitative-requests-or-unsafe-placements-from-an-e",
    "n:need:confusing-and-multi-step-rules-for-age-based-work-permits",
    "n:need:confusing-deadline-driven-landscape-across-programs",
-   "n:need:confusion-and-complexity-surrounding-the-work-permit-employment-certificate-proc",
    "n:need:confusion-around-documentation-and-logistics",
-   "n:need:critical-dependence-on-public-transportation-that-has-an-uncertain-future",
-   "n:need:difficulty-locating-the-correct-workforce-office-and-its-operational-hours",
    "n:need:difficulty-understanding-and-tracking-age-based-work-restrictions",
-   "n:need:documentation-friction-specifically-the-requirement-and-cost-of-a-dmv-id-early-i",
-   "n:need:facing-hurdles-in-obtaining-the-required-documentation-and-identification",
-   "n:need:fear-of-incorrectly-completing-the-work-permit-process-or-starting-a-job-illegal",
-   "n:need:fragmented-information-and-deadlines-across-different-sites-and-programs",
    "n:need:fragmented-information-and-process-inefficiency",
    "n:need:fragmented-information-on-program-eligibility-tracks-and-deadlines",
-   "n:need:lack-of-clarity-on-the-legality-and-safety-of-a-job",
    "n:need:limited-visibility-and-mismatched-placements",
    "n:need:low-trust-and-security-concerns",
    "n:need:systemic-coordination-failures",
-   "n:need:transportation-limitations-that-reduce-the-number-of-feasible-job-opportunities",
-   "n:need:trust-and-data-security-concerns-around-sharing-ssns-and-personal-documents",
-   "n:need:uncertainty-about-legal-working-hours-and-prohibited-job-types",
-   "n:need:uneven-digital-access-with-many-relying-on-mobile-only-internet",
-   "n:need:when-coordinating-placements-across-city-programs-yes-youth-works-rva-yes-forwar",
-   "n:need:when-i-am-asked-by-multiple-cbos-for-the-right-maternal-health-stats",
-   "n:need:when-i-m-a-city-workforce-coordinator-or-nonprofit-partner-planning-summer-place",
-   "n:need:when-i-m-a-parent-guardian-in-richmond-s-east-end-or-southside-and-my-teen-wants",
-   "n:need:when-i-m-presenting-maternal-health-findings-to-community-partners-and-funders",
-   "n:need:when-i-must-vouch-for-the-accuracy-and-equity-framing-of-our-proposals",
-   "n:need:when-i-need-to-assemble-a-maternal-health-fact-sheet-for-a-deadline-using-vdh-ce",
-   "n:need:when-it-s-march-may-and-i-m-a-richmond-public-schools-high-school-student-16-18-",
-   "n:need:when-it-s-spring-and-i-need-a-paid-summer-job-or-internship",
    "n:need:when-my-teen-is-applying-for-summer-work",
-   "n:need:when-my-teen-is-looking-for-a-first-job",
    "n:need:when-planning-summer-placements",
    "n:need:when-recruiting-and-placing-youth",
-   "n:need:when-richmond-s-maternal-health-teams-across-rchd-henrico-vdh-programs-and-hospi",
-   "n:need:when-sharing-personal-information-to-apply-for-a-first-job-ssn-address-income-im",
-   "n:need:when-state-task-force-recommendations-or-local-initiatives-change-metrics-e-g-ma",
-   "n:need:when-summer-is-approaching-and-applications-open",
-   "n:need:when-summer-job-and-internship-applications-open-across-multiple-richmond-progra"
+   "n:need:when-summer-is-approaching-and-applications-open"
   ],
   "fundingFlowsWithNoDocumentedOutcome": 0,
   "outcomeNote": "No outcome measurements are documented anywhere in the corpus (see q:outcome-measurements).",
@@ -95,11 +191,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 118,
+  "reportedButUnverifiedRelationships": 416,
   "brokenReferences": 0,
-  "duplicateCandidates": 0,
-  "reviewQueueSize": 0,
-  "evidenceRecords": 28,
+  "duplicateCandidates": 29,
+  "reviewQueueSize": 29,
+  "evidenceRecords": 649,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,
@@ -108,6 +204,8 @@
    "missing": 0,
    "external": 0
   },
+  "questionsDeduplicated": 0,
+  "questionsResolvedSinceLogged": 0,
   "externalResearch": {
    "researchedAt": null,
    "evidenceRecords": 0,
