@@ -11430,6 +11430,32 @@
  },
  {
   "id": "ev:P-31",
+  "claim": "The process creates a significant coordination burden as it can only be initiated after a firm job offer is received. It then requires a three-party online workflow where the youth, the employer, and a parent/guardian must all complete their respective parts before the certificate is issued, potentially delaying the start of work.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-families",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/stepwise/pain_points.md",
+    "sourceLocation": "lines 242-242",
+    "excerpt": "The process creates a significant coordination burden as it can only be initiated after a firm job offer is received. It then requires a three-party online workflow where the youth, the employer, and a parent/guardian must all complete their respective parts before the certificate is issued, potentially delaying the start of work."
+   },
+   {
+    "sourceDoc": "https://www.doli.virginia.gov/wp-content/uploads/2020/02/Virginia-Electronic-Employment-Certificate-System-Instruction-Sheet.pdf",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "THE YOUTH MUST HAVE A FORMAL OFFER OF EMPLOYMENT BEFORE STARTING THE PROCESS. • The youth is required to enter basic information, including a valid e-mail"
+   },
+   {
+    "sourceDoc": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration."
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-32",
   "claim": "The GRTC bus system is the main mode of public transit available to youth in Richmond.",
   "status": "unverified",
   "source": "post-event research",
@@ -11460,8 +11486,8 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-32",
-  "claim": "Low-income families and youth in neighborhoods with concentrated poverty (e.g., public housing communities, Southwood, Belt Atlantic) and those with limited internet access.",
+  "id": "ev:P-33",
+  "claim": "The combined financial and digital barriers, including the cost of required DMV IDs ($10–$26) and the reliance on a multi-party, email-driven workflow to obtain a mandatory work permit.",
   "status": "unverified",
   "source": "post-event research",
   "url": null,
@@ -11470,7 +11496,7 @@
    {
     "sourceDoc": "post-event-research/stepwise/pain_points.md",
     "sourceLocation": "lines 295-295",
-    "excerpt": "Low-income families and youth in neighborhoods with concentrated poverty (e.g., public housing communities, Southwood, Belt Atlantic) and those with limited internet access."
+    "excerpt": "The combined financial and digital barriers, including the cost of required DMV IDs ($10–$26) and the reliance on a multi-party, email-driven workflow to obtain a mandatory work permit."
    },
    {
     "sourceDoc": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
@@ -11491,7 +11517,7 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-33",
+  "id": "ev:P-34",
   "claim": "When summer job and internship applications open across multiple Richmond programs (Youth Works RVA, RPS work-based learning, local nonprofits).",
   "status": "unverified",
   "source": "post-event research",
@@ -11522,7 +11548,7 @@
   "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-34",
+  "id": "ev:P-35",
   "claim": "When sharing personal information to apply for a first job (SSN, address, income, immigration status concerns) and asking questions about pay, schedules, and transportation.",
   "status": "unverified",
   "source": "post-event research",
@@ -11553,7 +11579,7 @@
   "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-35",
+  "id": "ev:P-36",
   "claim": "When coordinating placements across city programs (YES/Youth Works RVA, YES Forward), employer partners (ChamberRVA network), and school-based supports (RPS).",
   "status": "unverified",
   "source": "post-event research",
@@ -11584,7 +11610,7 @@
   "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-36",
+  "id": "ev:P-37",
   "claim": "Trust and data-security concerns around sharing SSNs and personal documents — Evidence: The Office of Community Wealth Building (OCWB) FAQ for the Mayor's Youth Academy explicitly requires 'Original, signed social security card; State issued Photo ID' for Work Experience participants. This formal requirement to hand over sensitive, original documents is a major source of the trust and security pain point for families.",
   "status": "unverified",
   "source": "post-event research",
@@ -11605,7 +11631,7 @@
   "notes": "Recorded as a need statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-37",
+  "id": "ev:P-38",
   "claim": "The fragmented youth employment ecosystem in Richmond creates significant equity challenges, disproportionately affecting and excluding specific groups. Youth from low-income households are heavily impacted by upfront costs for government-issued IDs and the time scarcity their families face in navigating complex application processes. Newly arrived and immigrant youth, along with their families, face particular uncertainty and anxiety around requirements for Social Security Numbers (SSNs), especially when program requirements conflict with broader state guidance (e.g., WIOA). The system also places a higher burden on 14-15-year-olds, who must navigate a complex, multi-party electronic Employment Certificate process after receiving a job offer, a hurdle not faced by older teens. Furthermore, access to opportunities is limited for youth in 'transit deserts' or those whose families cannot p",
   "status": "unverified",
   "source": "post-event research",
@@ -11636,7 +11662,7 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-38",
+  "id": "ev:P-39",
   "claim": "Obtaining and submitting required documentation is a major barrier in Richmond's youth employment system. The process creates hurdles related to cost, access, and privacy. Youth are required to produce original, physical documents, which can be difficult to access. There is a specific, burdensome administrative process for 14-15 year olds involving an Employment Certificate. Furthermore, families express significant privacy and data security concerns about sharing sensitive information like Social Security Numbers, especially given the fragmented nature of the application ecosystem.",
   "status": "unverified",
   "source": "post-event research",
@@ -11667,7 +11693,7 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-39",
+  "id": "ev:P-40",
   "claim": "Transportation is a critical and persistent barrier to youth employment in Richmond. While programs like the Mayor's Youth Academy attempt to mitigate this by utilizing the GRTC bus system and issuing Go Cards, this solution is incomplete. A significant gap exists for youth who cannot or will not use public transportation, for whom the responsibility and cost of daily transport shifts entirely to their families. This creates a major inequity for youth living in areas poorly served by public transit or whose families lack the resources to provide rides, effectively limiting their access to opportunities.",
   "status": "unverified",
   "source": "post-event research",

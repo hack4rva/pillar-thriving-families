@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T23:12:20.961Z",
+ "generatedAt": "2026-08-03T01:24:04.191Z",
  "repo": "pillar-thriving-families",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -149,13 +149,13 @@
   "external": 0
  },
  "warnings": [
-  "[demote] 39 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[demote] 40 sentence-shaped Problem/Need nodes moved to the evidence layer",
   "[corpus] dropped 0 stale-anchor, 83 unresolved-endpoint, 0 not-an-organization and 81 not-a-name records",
   "[merge] duplicate node id n:geographicregion:richmond: provenance merged"
  ],
  "metrics": {
-  "totalNodes": 904,
-  "totalEdges": 1949,
+  "totalNodes": 903,
+  "totalEdges": 1948,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -191,11 +191,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 416,
+  "reportedButUnverifiedRelationships": 415,
   "brokenReferences": 0,
   "duplicateCandidates": 29,
   "reviewQueueSize": 29,
-  "evidenceRecords": 649,
+  "evidenceRecords": 650,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,

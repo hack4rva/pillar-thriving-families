@@ -1,0 +1,38 @@
+{
+  "first-job-sms-kit": {
+    "name": "First Job SMS Kit",
+    "fullTitle": "First Job SMS Kit"
+  },
+  "grant-pack-builder": {
+    "name": "Grant Pack Builder",
+    "fullTitle": "Grant Pack Builder"
+  },
+  "multi-pillar-ai": {
+    "name": "Multi-Pillar AI Platform",
+    "fullTitle": "Multi-Pillar AI Platform"
+  },
+  "richmond-youth-hub": {
+    "name": "Richmond Youth Hub",
+    "fullTitle": "Richmond Youth Hub"
+  },
+  "rva-people-data": {
+    "name": "RVA People Data",
+    "fullTitle": "RVA People Data — Unified Public Health & Equity Data Portal"
+  },
+  "rva-works": {
+    "name": "RVA Works",
+    "fullTitle": "RVA Works — Youth Internship Portal"
+  },
+  "stepwise": {
+    "name": "Stepwise",
+    "fullTitle": "Stepwise — Youth Employment Platform"
+  },
+  "unboxed-rva": {
+    "name": "Unboxed RVA",
+    "fullTitle": "Unboxed RVA — Youth Project Marketplace"
+  },
+  "unknown-corrupted": {
+    "name": "Unknown Project",
+    "fullTitle": "Unknown Project"
+  }
+}
