@@ -1,0 +1,1830 @@
+{
+  "run_id": "trun_1848795af0f24b809baa95a82b1a6e3c",
+  "interaction_id": "trun_1848795af0f24b809baa95a82b1a6e3c",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b809baa95a82b1a6e3c",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "parents_guardians_persona_pain_points",
+        "reasoning": "The most directly relevant parts describe explicit documentation requirements for participants: an original, signed Social Security card and a state-issued photo ID, along with verification of school enrollment. These details illustrate why parents/guardians would worry about privacy, data security, and the handling of highly sensitive information in youth employment programs. Additional excerpts note proof of residency and general enrollment proof, which further delineate what information is being collected and why, underscoring concerns about who has access to this information and how it is stored. Collectively, this supports the described pain point about trust and data-security around sharing SSNs and personal documents, and shows the procedural context (documents required, enrollment verification) that heightens such concerns.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "cross_cutting_equity_analysis",
+        "reasoning": "The most relevant content directly addresses the specific equity levers mentioned in the field value: youth documentation requirements (employment certificates, SSN, ID costs) and how they impede participation; the availability of assistance for obtaining IDs; transportation access barriers and fare policies; and broader barriers like childcare and digital access that compound exclusion. The cited excerpts provide concrete data points or statements (e.g., issuance of youth employment certificates via an online system; SSN/document requirements; costs for state IDs; DMV pop-up events to assist with IDs; fare-free transit and transportation barriers; and annual reporting on barriers to employment) that substantiate the equity challenges described. Less direct but still supportive are excerpts describing eligibility, enrollment, and residency requirements, which frame who is eligible and how administrative steps may exclude some groups. Collectively, these excerpts support the field value by showing concrete mechanisms (costs, documentation, transit, digital access, HR capacity) that create disproportionate barriers for low-income, immigrant/newly arrived youth, younger teens, and others with limited resources.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "Social Security Number\nA U.S. Social Security card is not required if a U.S. birth certificate is submitted. However, youth must know their Social Security number, as it is required on some forms."
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.ridegrtc.com/community/transit-access-partnership-2/",
+            "excerpts": [
+              "TAP offers a way for the community to help keep Zero Fare transportation available to everyone. Your tax-deductible donation directly supports fare-free access.",
+              "GRTC is proud to be a national leader in providing **Zero Fare** transit to our community.",
+              "The majority of GRTC riders are low-income and transit dependent. In fact, 74% of riders live in households earning less than $40,000 a year."
+            ],
+            "title": "Transit Access Partnership"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+            "excerpts": [
+              "Staff help\nremove barriers to employment like childcare and transportation, ensuring\nresidents can access opportunities."
+            ],
+            "title": "2025 ANNUAL IMPACT REPORT"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_cities_evidence",
+        "reasoning": "The most relevant content directly quotes concrete program details for Baltimore\u2019s YouthWorks, including the fixed application window from January 2 to March 7, 2026 and the requirement to know one\u2019s Social Security number or other identifying documents. This directly corroborates the field value\u2019s claims about deadlines and documentation in Baltimore\u2019s YouthWorks, and it also mentions the timing in a way that highlights the pressure points for applicants. Additional excerpts reinforce this with a parallel Baltimore reference that the YouthWorks application window is open and time-bound, underscoring the cadence and urgency described in the field value. For Durham, the most relevant items report a strict February 21, 2026 deadline and note that participation may be determined by lottery, with an emphasis on having a work-appropriate email address that is regularly checked. This aligns with the field value\u2019s assertion of a tight deadline and potential lottery-based selection, as well as digital readiness considerations. Collectively, these excerpts substantiate the field value\u2019s comparisons between Baltimore and Durham and provide explicit, citable data points (deadlines, required information, lottery possibility) that support the finegrained field. Excerpts mentioning other cities or generic statements about YouthWorks offer contextual support but do not directly substantiate the Baltimore and Durham specifics as strongly as the clearly cited Baltimore and Durham items.",
+        "citations": [
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14",
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th.",
+              "Social Security Number\nA U.S. Social Security card is not required if a U.S. birth certificate is submitted. However, youth must know their Social Security number, as it is required on some forms."
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "https://www.baltimorecityschools.org/article/2607297",
+            "excerpts": [
+              "Save the Date: YouthWorks applications open January 2, 2026. City Schools. December 18, 2025. YouthWorks is a program within the Baltimore City"
+            ],
+            "title": "Save the Date: YouthWorks applications open January 2, 2026"
+          },
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update.",
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead"
+            ],
+            "title": "Durham YouthWorks"
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWC586Dp-C/",
+            "excerpts": [
+              "Feb 4, 2026 \u00b7 Deadline: March 7. While best efforts will be made to match students with employment opportunities, jobs are not guaranteed. youthworks.oedworks\u00a0..."
+            ],
+            "title": "Calling all, ages 14-21 to apply now! The 2026 Durham YouthWorks ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "program_coordinators_employers_pain_points",
+        "reasoning": "The core finegrained field value highlights administrative/documentation burdens and complex compliance steps, including multi-party registrations to obtain Employment Certificates for younger youth and the need to maintain detailed records for inspection. Information stating that a youth worker must have an Employment Certificate and that registration is handled online or through a formal process directly supports the burden and multi-party nature of compliance. Excerpts describing that Employment Certificates must be requested via an electronic system, and that the process involves youth, employer, and parent/guardian registrations, provide concrete evidence of the administrative overhead and regulatory steps described. Additional excerpts listing required documents (such as Social Security cards, state IDs, and school enrollment verification) illustrate the documentation that coordinators and employers must collect and manage, further evidencing the documentation burden. A related excerpt noting that some forms require a signed certificate and time records that are subject to inspection reinforces the compliance overhead and ongoing recordkeeping responsibilities central to the field value. Collectively, these excerpts substantiate the claim of a significant documentation and administrative burden tied to regulatory compliance for youth employment programs.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration.",
+              "You WILL NOT be issued an employment certificate until you have an employer."
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment - DOLI"
+          },
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://virginiacareerworks.com/wp-content/uploads/VWL-15-02-Change1-Attachment-J-WIOA-Eligibility-Checklist-for-In-School-Youth.pdf",
+            "excerpts": [
+              "A Social Security Number is not required, however, if it is not obtained during the eligibility process then the customer and staff should be made aware the"
+            ],
+            "title": "WIOA In-School Youth Eligibility Reference List"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_persona_pain_points",
+        "reasoning": "The core finegrained field value highlights a fragmented, time-sensitive landscape where youth must navigate multiple programs with distinct deadlines and tracks. Excerpts that mention a concrete deadline (March 31, 2026) provide direct evidence of a fixed, time-bound window that complicates the application process. Additional excerpts that announce that Youth Works RVA applications are open, and that outline multiple program tracks (Virtual Earn and Learn, In-Person, Founders Mark) illustrate the fragmentation and complexity across portals and offerings. References to YES (Youth Engagement Services) and their FY26 application being open further support the presence of multiple entry points and programs in the same ecosystem. Collectively, these excerpts corroborate the described confusion, the time-sensitive navigation across a landscape of related but distinct opportunities, and the pressure of deadlines, which underpin the pain point about a confusing and fragmented job opportunities landscape for Richmond youth.\n\nFrom the strongest to lesser-supported context: the explicit deadline and the open-window announcements are strongest evidence of a deadline-driven landscape; the notes detailing multiple tracks reinforce fragmentation; the broader YES and Youth Works RVA references exemplify the ecosystem\u2019s multiplicity of portals contributing to the confusion. The combination of fixed deadlines and diverse program tracks directly aligns with the described pain point and its provided evidence.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "The application is now available and will remain opened until March 31st, 2026",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Y**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**Virtual Earn and Learn Program**\nFor youth ages 14\u201315, this program focuses on career training and workforce readiness. Participants explore diverse careers through the \u201cA Day in the Life\u201d series and build financial literacy with sessions led by Virginia Credit Union."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "parents_guardians_persona_pain_points.pain_point",
+        "reasoning": "The field value centers on trust and data-security issues related to sharing sensitive personal information like SSNs and documents. The excerpts describe exact documentation requirements for participation (Original, signed social security card; State issued Photo ID; proof of school enrollment; residency proof). This directly ties to concerns about what data is requested, by whom, and under what conditions, which are core components of perceived data security and trust. The presence of SSN-related requirements and residency/school enrollment verifications demonstrates the kinds of data that would raise privacy and security considerations for users and guardians, thereby supporting the field value. The emphasis on required documents highlights potential risks around data handling, storage, and consent, which are central to trust/journey points for the target persona in this context.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "executive_summary",
+        "reasoning": "The most compelling support comes from excerpts that discuss formal steps to obtain youth employment documentation and the associated administrative requirements. One excerpt explains that when a youth receives a job offer, they initiate a certificate application online, highlighting an Employment Certificate process and its relevance to youth eligibility and employer coordination. Another excerpt details that a Social Security Number is required on some forms, and that a birth certificate may substitute in some cases, directly illustrating identity/documentation hurdles that contribute to fragmentation. Additional excerpts emphasize the costs and logistics of obtaining a state ID, which ties into the broader pain point of access and onboarding friction. There are also references to Youth Works RVA and related application windows, which underscore the fragmented landscape of opportunities and the need for a centralized discovery experience. Several excerpts describe the mission and existence of Youth Engagement Services (YES) and the explicit open application status, which reinforces the broader context of multiple programs and the complexity of navigating them. Finally, a broader excerpt from the annual report underscores persistent barriers like transportation and childcare, aligning with the transportation and access challenges described in the field value. Together, these excerpts collectively support the core claims: a fragmented, multi-program ecosystem with significant documentation and cost barriers, a need for centralized discovery and translation of opportunities, and transport-related access issues that together create the strategic opportunity for unboxed-rva to act as a privacy-forward hub that clarifies eligibility and reduces fragmentation. ",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "Social Security Number\nA U.S. Social Security card is not required if a U.S. birth certificate is submitted. However, youth must know their Social Security number, as it is required on some forms.",
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14"
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26.",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond's youth \u00b7 Providing financial sponsorships for various program",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond's youth"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+            "excerpts": [
+              "Staff help\nremove barriers to employment like childcare and transportation, ensuring\nresidents can access opportunities."
+            ],
+            "title": "2025 ANNUAL IMPACT REPORT"
+          },
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "parents_guardians_persona_pain_points.evidence",
+        "reasoning": "The field value hinges on a formal documentation requirement that could undermine trust and raise security concerns for families. The most directly supporting information is a statement showing that for Work Experience participants, the process requires an original, signed social security card and a state-issued photo ID, which are sensitive documents. This directly demonstrates a significant data-handling and privacy consideration (trust and security pain point). The accompanying excerpt reinforces this by listing the same concrete documents explicitly. A third excerpt adds related requirements (proof of residency and school enrollment) which, while not as directly tied to the trust/security pain of handing over highly sensitive IDs, still contributes to the broader context of documentation burden and eligibility constraints that influence perceived safety and privacy. Collectively, these excerpts substantiate the claim that formal document requirements are a major source of trust and security concerns for families involved in youth employment programs in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_workarounds_and_costs",
+        "reasoning": "The most relevant content directly addresses the concrete workarounds and costs that users face in the Richmond youth-employment landscape. Specifically, references to DMV ID requirements and the stated costs of obtaining an ID establish a tangible financial burden tied to the application process. Mentions of virtual info sessions, pop-up events, and the need to consult multiple sources (e.g., RVA.gov pages, Youth Works RVA, and other partners) illustrate fragmentation and fragmented discovery, where youth must piece together opportunities from several channels. Information on centralized sessions and partnerships shows efforts to mitigate fragmentation, which aligns with the field value describing program coordinators\u2019 attempts to reduce duplication and streamline processes. The excerpts describing application openings, timelines, eligibility, and outreach contexts help explain the surrounding ecosystem, including how delays and multiple steps contribute to the overall fragmentation and the time/cost burdens described. Several excerpts also discuss required documents (IDs, SSN, school enrollment verification) that contribute to the logistical and cost burden for youth and guardians. Collectively, these excerpts support the claim that the current system is fragmented, with youth and parents incurring time and monetary costs to navigate multiple sources and requirements, and with coordinators spending substantial effort to coordinate across partners.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Richmond\u2019s Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career exploration, and professional development opportunities across the city.",
+              "The application is now available and will remain opened until March 31st, 2026"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond's youth \u00b7 Providing financial sponsorships for various program",
+              ".\nOur mission is to develop Richmond's future leaders and workforce by providing youth aged 14\u201324 with opportunities for career exploration, skills development, and mentorship. T",
+              "**Our Vision**\nTo develop Richmond's future workforce with the hopes of supporting access to quality employment and related supports that help decrease poverty in the city of Richmond.",
+              "Y**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**Virtual Earn and Learn Program**\nFor youth ages 14\u201315, this program focuses on career training and workforce readiness. Participants explore diverse careers through the \u201cA Day in the Life\u201d series and build financial literacy with sessions led by Virginia Credit Union.",
+              "**In-Person Program**\nServes youth ages 16\u201324 through onsite internships tailored to their career interests.",
+              "**Founders Mark Program**\nFor youth ages 16\u201324, this program focuses on entrepreneurship and leadership development."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day.",
+              "What are the age and residency requirements?\nYouth/Parent must be a city of Richmond resident. Proof of residency may be required.\nYouth must be enrolled in school. Proof of school enrollment is required.\nYouth must be age 14 by July 1 to be eligible for Counselors In Training.\nYouth must be age 16 by July 1 to be eligible for Work Experience and not turn 19 before the program ends."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.ridegrtc.com/six-years-of-connection-celebrating-open-access-transit-in-richmond/",
+            "excerpts": [
+              "Mar 16, 2026 \u2014 In March 2020, GRTC launched Zero Fare bus service across the Richmond region. What began as a public ... school, and everyday destinations."
+            ],
+            "title": "Celebrating Open Access Transit in Richmond"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+            "excerpts": [
+              "Staff help\nremove barriers to employment like childcare and transportation, ensuring\nresidents can access opportunities."
+            ],
+            "title": "2025 ANNUAL IMPACT REPORT"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "project_context_and_mission",
+        "reasoning": "The central premise is a civic-tech effort in Richmond that aggregates opportunities from existing programs (rather than replacing them) and clarifies eligibility, timelines, and processes to reduce fragmentation in the youth-employment ecosystem. The most supportive excerpt explicitly notes that Youth Engagement Services (YES) and the FY26 Youth Works RVA application are now open, illustrating active integration points and the ongoing administration of local youth-employment initiatives. Additional excerpts describe structured work-based learning opportunities and city-sponsored programs in Richmond, underscoring the ecosystem that a central hub would connect and translate. The excerpts discussing the Richmond Office of Community Wealth Building and the Mayor\u2019s Youth Academy provide organizational and funding context, reinforcing the alignment with Thriving Families and city-led workforce development. Collectively, these excerpts substantiate a landscape where a central discovery/translation hub would synthesize opportunities, clarify eligibility, and streamline workflows across multiple programs in Richmond.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond's youth"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond\u2019s Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career exploration, and professional development opportunities across the city."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth; Providing financial sponsorships for various program"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "parents_guardians_persona_pain_points.description",
+        "reasoning": "The targeted field value centers on parents' and guardians' worries about sharing highly sensitive identifiers (like Social Security numbers) and state-issued IDs, and questions about how such documents are stored and protected. Excerpts clearly depict the specific documents required for program participation (original SSN card, state ID, school enrollment verification) and note residency or enrollment prerequisites. The presence of these concrete document requirements directly substantiates privacy and data-security concerns from guardians: it shows what information is requested, which creates potential anxiety about who can access it, how it is stored, and how securely it is handled across city and nonprofit entities. Although the excerpts do not spell out privacy policies, they establish a concrete basis for guardians\u2019 data-security concerns by detailing the sensitive data involved in the application process.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "transportation_and_digital_divide_barriers",
+        "reasoning": "The digital divide claim is supported by passages describing online application requirements and digital access needs: a statewide plan discusses the digital divide and its pervasiveness, while YouthWorks-related pages emphasize online applications and digital documentation. Specifically, a source on Virginia\u2019s Digital Opportunity Plan highlights systemic digital gaps, and YouthWorks-related pages note that the application opens with online submission requirements and the need to know one\u2019s Social Security number for forms. These passages jointly substantiate the digital access barrier and the dependence on online processes. For transportation barriers, multiple excerpts document transit-related support and its limitations: the Mayor\u2019s Office of Community Wealth Building indicates the program uses GRTC Go Cards, yet families may bear daily transportation responsibilities if youth do not ride the bus; transit agencies describe zero-fare initiatives and the share of riders from low-income households, underscoring inequities and reliance on public transit. Additional programmatic references show that transportation and related supports (like Go Cards and fare-free transit) are central to youth access and participation. Collectively, these excerpts directly map to the field\u2019s components: transportation barriers and mitigations (Go Cards, zero-fare) and digital divide barriers (online applications, digital access requirements). The strongest support comes from sources that explicitly discuss both the transportation aid and the digital-access requirements within youth employment programs, followed by sources that generalize these barriers to the broader system and comparable regions.",
+        "citations": [
+          {
+            "url": "/goto?url=CAEShAEBO6uMpcPk9qfu5_Y4zFN3mUFNNJ6ni819ZB3detCM4HxCW330m2bswy9Wj-BIVQWFu-AD7NXLMMhmYDWPxAiIsnw7FOBWPevNEEiWsMn_7J--pcgO7zL9tiXAr57lLF-DnhSzSG3Fd-5gG9RDcQhG8CoWW14Od0hiUo80wXpwgyS1Ndc=",
+            "excerpts": [
+              "RICHMOND\u2014A new statewide survey is working to bridge the digital divide among Virginia communities and offer all residents the necessary tools for learning,"
+            ],
+            "title": "Survey aims to combat digital divide among Virginia ... - News"
+          },
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14",
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th.",
+              "Social Security Number\nA U.S. Social Security card is not required if a U.S. birth certificate is submitted. However, youth must know their Social Security number, as it is required on some forms."
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "/goto?url=CAESngEBO6uMpaO1txT7tNBq5rw_IbFZZxIwXxJ5BWoTZjVjNy3HNDyocMvfUkZeMvcx5M2VAE3ikIY_GKhPZjTEnySyIdr89fbeSOgqBpv7rNDUxdqCJvlw9yklgbNtp9ugKfK7TVF9nbLvX3E2N_tE-XfEvxVJsd9UZ539k5brVoCRq12j-lBxhYdk_cIYlf2eQn5Rl1svmVIGWkKirsPF0w==",
+            "excerpts": [
+              "The Virginia Digital Opportunity Plan is a first-of-its-kind undertaking to assess all facets of the digital divide in the Commonwealth and develop a"
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://virginiacareerworks.com/wp-content/uploads/VWL-15-02-Change1-Attachment-J-WIOA-Eligibility-Checklist-for-In-School-Youth.pdf",
+            "excerpts": [
+              "A Social Security Number is not required, however, if it is not obtained during the eligibility process then the customer and staff should be made aware the"
+            ],
+            "title": "WIOA In-School Youth Eligibility Reference List"
+          },
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day.",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.ridegrtc.com/community/transit-access-partnership-2/",
+            "excerpts": [
+              "TAP offers a way for the community to help keep Zero Fare transportation available to everyone. Your tax-deductible donation directly supports fare-free access."
+            ],
+            "title": "Transit Access Partnership"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+            "excerpts": [
+              "Staff help\nremove barriers to employment like childcare and transportation, ensuring\nresidents can access opportunities."
+            ],
+            "title": "2025 ANNUAL IMPACT REPORT"
+          },
+          {
+            "url": "https://www.facebook.com/venture.richmond/posts/six-years-of-fare-free-transit-and-a-more-connected-richmond-region-since-2020-g/1529309062533226/",
+            "excerpts": [
+              "Six years of fare-free transit and a more connected Richmond region Since 2020, GRTC's fare-free program has helped remove barriers and expand"
+            ],
+            "title": "Six years of fare-free transit and a more connected ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence",
+        "reasoning": "The finegrained field value lists four programs and related details: (1) Youth Works RVA with its Summer 2026 application and deadline March 31, 2026, plus eligibility context; (2) OCWB Work Experience general requirements (Mayor\u2019s Youth Academy-related) including documentation like a social security card, state ID, and enrollment verification; (3) Virginia DOLI Employment Certificate requirement for minors 14\u201315; and (4) Partnership for the Future with specific student eligibility and deadlines. The most directly supportive excerpts are those that explicitly state that Youth Works RVA applications are open and provide the deadline, including the note that the office aims to serve a large number of Richmond youth and details about timelines. Additional direct support comes from excerpts that specify the Virginia DOLI certificate process and the electronic registration system for youth employment certificates. For Partnership for the Future, excerpts about becoming a student with defined application windows provide the closest alignment to the field value\u2019s described eligibility and deadlines. The cited quotes below show direct alignment with each component of the finegrained field value: - Youth Works RVA: \u201cApplications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.\u201d and \u201cThe application is now available and will remain opened until March 31st, 2026\u201d give name, opening status, and deadline. - OCWB/Mayor\u2019s Youth Academy-related eligibility: \u201cFound in the broader OCWB/YES/Mayor\u2019s Youth Academy materials\u201d indicating required documents like a Social Security card, Photo ID, and verification of school enrollment. - Virginia DOLI Employment Certificate: \u201cYou can go online to initiate their certificate application \u2026 Once completed, the potential employer\u201d describes the online process for obtaining a youth employment certificate. - Partnership for the Future: the pages describe becoming a student with February\u2013March 2026 windows and GPA/grade prerequisites, which map to the field value\u2019s eligibility and deadline indicators. The non-direct items (e.g., broader OCWB impact and partnerships) provide context but are secondary to the explicit program entries in the field value.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Students must be a freshman (9th grade) who wants to go to college"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_persona_pain_points.description",
+        "reasoning": "The finegrained field value describes a fragmented and time-sensitive landscape for Richmond youth seeking their first paid work experience, with multiple programs (e.g., Youth Works RVA) operating on distinct timelines and through different portals, creating a risk of missed deadlines. The most directly supportive excerpts describe concrete timelines, application windows, and program details: one excerpt notes that sessions cover important program details, timelines, and eligibility, which aligns with the fragmentation and time-sensitivity of the process; another excerpt states that the Youth Works RVA application is open with a clear deadline, illustrating the time-bound nature of opportunities; another confirms official opening of the summer applications, signaling a similar timeframe structure across programs. Additional excerpts reference the broader ecosystem (YES program pages and related communications) that point to multiple sources and portals, reinforcing the fragmentation and multi-source navigation challenge described in the field value. The remaining excerpts further illustrate related facets of the ecosystem (e.g., outreach events, accessibility steps like DMV ID support) that contribute to the overall context of a fragmented discovery and application process. Taken together, these excerpts consistently support the described pain point: a confusing, multi-portal, time-constrained landscape that makes it easy for youth to miss opportunities or deadlines.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "The application is now available and will remain opened until March 31st, 2026",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Y**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**Virtual Earn and Learn Program**\nFor youth ages 14\u201315, this program focuses on career training and workforce readiness. Participants explore diverse careers through the \u201cA Day in the Life\u201d series and build financial literacy with sessions led by Virginia Credit Union."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "program_coordinators_employers_pain_points.description",
+        "reasoning": "The finegrained field value describes heavy administrative tasks and compliance complexity faced by program coordinators and employers, including handling documentation across multiple partners and a multi-party registration process to obtain an Employment Certificate for younger participants, along with maintaining records for inspection. The most supportive content explicitly notes: (a) there is an online system to initiate certificate applications when a youth receives a job offer, implying regulated, form-heavy processes that coordinators and employers must manage; (b) an Employment Certificate is not issued until an employer is involved, highlighting an interdependent workflow that increases coordination burden; (c) the registration architecture is divided into distinct sections for Youth, Employer, and Parent/Guardian, underscoring the fragmentation and need to manage multiple registrations; and (d) eligibility/compliance steps for in-school youth suggest additional required documentation and checks that contribute to administrative overhead. Collectively, these excerpts directly substantiate the described administrative load, cross-partner documentation, and required compliance steps that contribute to overhead for coordinators and employers.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration.",
+              "You WILL NOT be issued an employment certificate until you have an employer."
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment - DOLI"
+          },
+          {
+            "url": "https://virginiacareerworks.com/wp-content/uploads/VWL-15-02-Change1-Attachment-J-WIOA-Eligibility-Checklist-for-In-School-Youth.pdf",
+            "excerpts": [
+              "A Social Security Number is not required, however, if it is not obtained during the eligibility process then the customer and staff should be made aware the"
+            ],
+            "title": "WIOA In-School Youth Eligibility Reference List"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_persona_pain_points.pain_point",
+        "reasoning": "The target field describes a landscape that is fragmented across multiple programs with tight deadlines. Directly, one excerpt states that the Youth Works RVA applications are now open with a specific deadline, illustrating a defined but potentially conflicting or looming time window across programs. Another excerpt mentions that sessions cover program details, timelines, and eligibility, underscoring the complexity of coordinating deadlines and requirements. Additional excerpts describe related components of Youth Works RVA and yes-program structures, which together reinforce the notion of multiple concurrent programs operating with their own timelines and criteria, contributing to a confusing, deadline-driven landscape. The combination of explicit application windows, timelines, and eligibility notes across related initiatives provides concrete support for characterizing the landscape as fragmented and deadline-driven rather than a single, unified process.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "The application is now available and will remain opened until March 31st, 2026",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Y**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "documentation_and_privacy_barriers",
+        "reasoning": "The most relevant excerpts provide explicit or strongly implied details about documentation, ID requirements, and program-level processes that align with the field value. For example, excerpts describing Youth Works RVA and Youth Engagement Services indicate that applications are open and that the programs require certain documents or identification steps, which ties directly to the documented barrier of obtaining and submitting required documents. Specific references to the Virginia ID cost, the need for a Social Security number on forms, and the Employment Certificate process for minors (including the electronic multi-party flow) map directly to the barrier summary and required_documents sections. FAQ-style excerpts detail proof of residency, school enrollment, and the need for original SSN cards or IDs, reinforcing privacy concerns around sharing sensitive personal data across multiple programs. The Employment Certificate and DOLI-related notes further anchor the official credentialing barrier for younger workers, as described in the field value. Contextual program descriptions and related city-wide references provide supporting background on the ecosystem but do not depict the core barrier items themselves, so they are included to bolster understanding but are less central to the field value.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "March 31st, 2026\n",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond's youth \u00b7 Providing financial sponsorships for various program",
+              ".\nOur mission is to develop Richmond's future leaders and workforce by providing youth aged 14\u201324 with opportunities for career exploration, skills development, and mentorship. T",
+              "**Our Vision**\nTo develop Richmond's future workforce with the hopes of supporting access to quality employment and related supports that help decrease poverty in the city of Richmond.",
+              "Y**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day.",
+              "What are the age and residency requirements?\nYouth/Parent must be a city of Richmond resident. Proof of residency may be required.\nYouth must be enrolled in school. Proof of school enrollment is required.\nYouth must be age 14 by July 1 to be eligible for Counselors In Training.\nYouth must be age 16 by July 1 to be eligible for Work Experience and not turn 19 before the program ends."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "program_coordinators_employers_pain_points.evidence",
+        "reasoning": "The broad pain point concerns the complexity and coordination burden of youth employment certificates managed through an electronic system. The most relevant excerpts confirm this structure: one excerpt describes a new online system to initiate certificate applications, which directly aligns with the need for an electronic, centralized process. Another excerpt outlines the system\u2019s three registration components (Youth, Employer, and Parent/Guardian), which matches the field value\u2019s detail of separate registrations. A third excerpt states that a certificate will not be issued until an employer is involved, reflecting the prerequisite and the shared responsibility between youth and employer. A fourth excerpt discusses a related eligibility/checklist context indicating that such processes are closely tied to regulatory oversight and recordkeeping, further supporting the administrative burden on coordinators and employers. Collectively, these excerpts provide direct, corroborating evidence for the described certificate workflow, the required registrations, and the employer-dependent issuance, which are core to the stated field value.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration.",
+              "You WILL NOT be issued an employment certificate until you have an employer."
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment - DOLI"
+          },
+          {
+            "url": "https://virginiacareerworks.com/wp-content/uploads/VWL-15-02-Change1-Attachment-J-WIOA-Eligibility-Checklist-for-In-School-Youth.pdf",
+            "excerpts": [
+              "A Social Security Number is not required, however, if it is not obtained during the eligibility process then the customer and staff should be made aware the"
+            ],
+            "title": "WIOA In-School Youth Eligibility Reference List"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_persona_pain_points.evidence",
+        "reasoning": "The provided research notes a fixed application deadline for Youth Works RVA (March 31, 2026) and describes multiple program tracks, including a Virtual Earn and Learn Program for younger youth and an in-person track for older youth, which together imply a structured, time-sensitive navigation for applicants. The excerpts directly corroborating the deadline show the closing date of applications, establishing the time constraint central to the field value. Additional excerpts corroborate program breadth (yes, the program is ongoing and has a notable scope, including youth counts and age ranges) and the existence of structured timelines and eligibility discussions, which align with a complex navigation landscape. While one excerpt explicitly discusses the existence and timing of sessions detailing program requirements and timelines, others describe general program descriptions and accessibility (application open, start here), all of which reinforce the interpretation of multiple tracks and the importance of deadlines. Taken together, these excerpts support the claim of a fixed deadline, multiple tracks, and a navigation complexity for applicants, though the exact phrasing of all tracks (including any named Founders Mark Program) is not uniformly echoed across excerpts.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "The application is now available and will remain opened until March 31st, 2026",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "**Virtual Earn and Learn Program**\nFor youth ages 14\u201315, this program focuses on career training and workforce readiness. Participants explore diverse careers through the \u201cA Day in the Life\u201d series and build financial literacy with sessions led by Virginia Credit Union.",
+              "Y**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparable_cities_evidence.1",
+        "reasoning": "The most relevant excerpt explicitly states an application deadline of February 21, 2026 for Durham YouthWorks, directly supporting the field value\u2019s key finding about a strict deadline. It also hints at the broader context of the Durham YouthWorks program and its 2026 cycle, which aligns with the program name and time frame in the field value. A secondary excerpt confirms the existence and update status of the Durham YouthWorks program for 2026, providing contextual support that the program is active and relevant to the research focus. While the field value mentions a potential lottery-based determination and a requirement for a work-appropriate email address, those specific points are not clearly demonstrated in the provided excerpts; the deadline detail is the strongest explicit support, with program existence corroborated by the second excerpt. Together, these excerpts substantiate the key elements of the field value (program identity and deadline) but offer limited evidence for the lottery mechanism and email requirement, hence the inference strength is moderate rather than high.",
+        "citations": [
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparable_cities_evidence.0",
+        "reasoning": "The most directly relevant information is that the YouthWorks application opens January 2, 2026 and closes March 7, 2026, and there are specific submission requirements tied to dates (such as handling a work permit by March 13th). This aligns with the finegrained field value\u2019s emphasis on a fixed application window and the procedural steps applicants must take, including timing-related constraints. The statement that a Social Security number may be required on some forms, and the note about document submission, further corroborate the documented documentation burden and data collection highlighted in the field value. A related excerpt confirms the broader Baltimore context for YouthWorks, anchoring the program in the same city, which supports the interpretation of the field value as describing Baltimore YouthWorks program specifics. Additional excerpts referencing similar dates or the existence of YouthWorks within Baltimore City Schools, as well as other cities\u2019 programs, provide contextual relevance but do not add new specifics about the Baltimore YouthWorks window or document requirements, so they rank slightly lower in direct relevance. Overall, the combination of precise dates, document requirements, and the documented linkage to Baltimore YouthWorks directly supports the finegrained field value; surrounding context from other cities or programs strengthens understanding but is less critical to the exact Baltimore YouthWorks details.",
+        "citations": [
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th.",
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14",
+              "Social Security Number\nA U.S. Social Security card is not required if a U.S. birth certificate is submitted. However, youth must know their Social Security number, as it is required on some forms."
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "https://www.baltimorecityschools.org/article/2607297",
+            "excerpts": [
+              "Save the Date: YouthWorks applications open January 2, 2026. City Schools. December 18, 2025. YouthWorks is a program within the Baltimore City"
+            ],
+            "title": "Save the Date: YouthWorks applications open January 2, 2026"
+          },
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWC586Dp-C/",
+            "excerpts": [
+              "Feb 4, 2026 \u00b7 Deadline: March 7. While best efforts will be made to match students with employment opportunities, jobs are not guaranteed. youthworks.oedworks\u00a0..."
+            ],
+            "title": "Calling all, ages 14-21 to apply now! The 2026 Durham YouthWorks ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "program_coordinators_employers_pain_points.pain_point",
+        "reasoning": "The finegrained field value concerns administrative/documentation burden and the steps required for compliance in the coordinator/Employer workflow. Excerpts that describe the structure of registrations and the required sequence of steps directly illuminate where administrative effort is concentrated and where compliance rules live. Specifically, the discussion of a three-section registration system highlights the fragmentation and multiple touchpoints coordinators must manage, which maps to documentation and process burden. The statement that employment certificates are contingent on having an employer points to a prerequisite flow that coordinators manage to ensure compliance. Documents and form requirements for youth participants (such as original SSN card, state ID, school enrollment verification) illustrate concrete paperwork that contributes to administrative load and compliance checks. Eligibility and compliance-related guidance, including the WIOA eligibility checklist and notes about what information is required or not (e.g., SSN not required, but awareness of implications), further connect to the steps coordinators must verify and track. Related entries that discuss proof of residency and school enrollment requirements also reflect the ongoing verification work that contributes to the administrative burden in practice. Taken together, these excerpts delineate the administrative pathways, the prerequisite conditions for program participation, and the documentation that must be collected and verified by coordinators and employers. This collectively supports the finegrained field value by demonstrating where administrative effort, documentation requirements, and compliance steps are concentrated in the Richmond youth-employment ecosystem context.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration.",
+              "You WILL NOT be issued an employment certificate until you have an employer."
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment - DOLI"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://virginiacareerworks.com/wp-content/uploads/VWL-15-02-Change1-Attachment-J-WIOA-Eligibility-Checklist-for-In-School-Youth.pdf",
+            "excerpts": [
+              "A Social Security Number is not required, however, if it is not obtained during the eligibility process then the customer and staff should be made aware the"
+            ],
+            "title": "WIOA In-School Youth Eligibility Reference List"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "transportation_and_digital_divide_barriers.transportation_summary",
+        "reasoning": "The finegrained field value highlights transportation as a persistent barrier to youth employment and notes efforts like Go Cards and public transit use (GRTC) that are intended to mitigate barriers, while acknowledging gaps for those who cannot rely on public transportation and the resulting inequities. The most relevant excerpt explicitly describes that the Mayor's Youth Academy uses transit (GRTC) to transport youth and mentions Go Cards, which aligns directly with public-transport-based mitigation strategies. The next-supported excerpts discuss broader barriers to employment related to transportation and the existence of programs to remove such barriers, reinforcing the overall problem and the type of interventions described in the field value. Additional excerpts touch on fare-free transit initiatives and transportation partnerships, which provide context about system-level efforts to reduce transportation costs and improve access, further supporting the transportation access theme. Finally, excerpts that address the digital divide and general mobility/access discussions provide contextual resonance but are less directly tied to the specific transportation barrier narrative described in the field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+            "excerpts": [
+              "Staff help\nremove barriers to employment like childcare and transportation, ensuring\nresidents can access opportunities."
+            ],
+            "title": "2025 ANNUAL IMPACT REPORT"
+          },
+          {
+            "url": "https://www.facebook.com/venture.richmond/posts/six-years-of-fare-free-transit-and-a-more-connected-richmond-region-since-2020-g/1529309062533226/",
+            "excerpts": [
+              "Six years of fare-free transit and a more connected Richmond region Since 2020, GRTC's fare-free program has helped remove barriers and expand"
+            ],
+            "title": "Six years of fare-free transit and a more connected ..."
+          },
+          {
+            "url": "https://www.ridegrtc.com/community/transit-access-partnership-2/",
+            "excerpts": [
+              "TAP offers a way for the community to help keep Zero Fare transportation available to everyone. Your tax-deductible donation directly supports fare-free access."
+            ],
+            "title": "Transit Access Partnership"
+          },
+          {
+            "url": "/goto?url=CAESngEBO6uMpaO1txT7tNBq5rw_IbFZZxIwXxJ5BWoTZjVjNy3HNDyocMvfUkZeMvcx5M2VAE3ikIY_GKhPZjTEnySyIdr89fbeSOgqBpv7rNDUxdqCJvlw9yklgbNtp9ugKfK7TVF9nbLvX3E2N_tE-XfEvxVJsd9UZ539k5brVoCRq12j-lBxhYdk_cIYlf2eQn5Rl1svmVIGWkKirsPF0w==",
+            "excerpts": [
+              "The Virginia Digital Opportunity Plan is a first-of-its-kind undertaking to assess all facets of the digital divide in the Commonwealth and develop a"
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "/goto?url=CAEShAEBO6uMpcPk9qfu5_Y4zFN3mUFNNJ6ni819ZB3detCM4HxCW330m2bswy9Wj-BIVQWFu-AD7NXLMMhmYDWPxAiIsnw7FOBWPevNEEiWsMn_7J--pcgO7zL9tiXAr57lLF-DnhSzSG3Fd-5gG9RDcQhG8CoWW14Od0hiUo80wXpwgyS1Ndc=",
+            "excerpts": [
+              "RICHMOND\u2014A new statewide survey is working to bridge the digital divide among Virginia communities and offer all residents the necessary tools for learning,"
+            ],
+            "title": "Survey aims to combat digital divide among Virginia ... - News"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "documentation_and_privacy_barriers.impacted_groups",
+        "reasoning": "The field value describes concrete documentation barriers: needing a social security card, state ID, proof of school enrollment, and the costs of obtaining identification, as well as the complexity of the employment certificate process for younger youth. Excerpts that specify required documents (Original, signed social security card; State issued Photo ID; proof of school enrollment) directly illustrate the documentation burden. The FAQ items also discuss residency verification and age-related eligibility, which relate to privacy and administrative hurdles. A separate excerpt notes an online system for youth employment certificates, which aligns with the barrier created by a complex certification process. Additional excerpts reference ID-related support and costs (e.g., DMV ID assistance and price ranges), reinforcing the economic and procedural dimensions of the barriers. While other excerpts describe program structure and opportunities (e.g., Youth Works RVA age ranges, job placements, and transportation), they do not directly address the documentation and privacy barriers as strongly, but they provide necessary context for who faces these barriers within the program ecosystem. Taken together, the most relevant content centers on IDs, SSN, enrollment proofs, age-based eligibility, and the certificate process, which substantiate the claimed barriers for impacted groups such as newly arrived or immigrant youth and low-income families.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day.",
+              "What are the age and residency requirements?\nYouth/Parent must be a city of Richmond resident. Proof of residency may be required.\nYouth must be enrolled in school. Proof of school enrollment is required.\nYouth must be age 14 by July 1 to be eligible for Counselors In Training.\nYouth must be age 16 by July 1 to be eligible for Work Experience and not turn 19 before the program ends."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26.",
+              "March 31st, 2026\n"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!",
+              "Y**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**Our Vision**\nTo develop Richmond's future workforce with the hopes of supporting access to quality employment and related supports that help decrease poverty in the city of Richmond.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond's youth \u00b7 Providing financial sponsorships for various program",
+              ".\nOur mission is to develop Richmond's future leaders and workforce by providing youth aged 14\u201324 with opportunities for career exploration, skills development, and mentorship. T"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "documentation_and_privacy_barriers.required_documents",
+        "reasoning": "The most relevant excerpts directly enumerate required documents for youth work experiences: a social security card, a state-issued photo ID, and a report card or school enrollment verification. These align precisely with the first portion of the finegrained field value. The cited certificate system for 14- to 15-year-olds parallels the second portion of the value, which describes an Employment Certificate process involving multiple parties after a firm job offer. Additional excerpts provide contextual support: age-related eligibility (youth must meet certain age criteria), residency or enrollment proof requirements, and related ID needs (e.g., Virginia ID) and logistical considerations (transportation or fees) that can impact document requirements and how they are presented or obtained. Taken together, these excerpts substantiate the documented prerequisites and the multi-party certificate workflow referenced in the field value, with the strongest direct matches being the explicit enumerations of the documents and the employment certificate system.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "What are the age and residency requirements?\nYouth/Parent must be a city of Richmond resident. Proof of residency may be required.\nYouth must be enrolled in school. Proof of school enrollment is required.\nYouth must be age 14 by July 1 to be eligible for Counselors In Training.\nYouth must be age 16 by July 1 to be eligible for Work Experience and not turn 19 before the program ends.",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.2",
+        "reasoning": "The finegrained field value details a mandatory employment certificate for young workers (14- to 15-year-olds) and specifies that the certificate is obtained after a firm job offer through a multi-party electronic registration system involving the youth, the employer, and the parent/guardian. The most relevant excerpt explicitly discusses a DOLI initiative to launch a new online system for Virginians to request youth employment certificates, which directly aligns with the described mandatory certificate process and the multi-party registration concept. This excerpt provides a direct source reference and describes the system change that enables the certificate workflow, thereby supporting the field value. Other excerpts describe related youth employment programs and application processes but do not address the certificate requirement or the DOLI-enabled electronic registration mechanism, making them supportive context but not directly validation of the finegrained field.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_cities_evidence.1.key_findings",
+        "reasoning": "The target field value highlights a fixed application deadline and, in addition, concerns about access and digital readiness (lottery-based participation and the need for a work-appropriate email). The first excerpt explicitly states a February 21, 2026 deadline for the Durham YouthWorks program, which directly supports the deadline component of the field value. The second excerpt states that the 2026 Durham YouthWorks application has closed, which reinforces the existence and potential strictness of the deadline but does not introduce new information about lottery systems or required email addresses. Neither excerpt mentions a lottery mechanism or an email/address requirement, so those parts of the field value are not directly evidenced by the excerpts. Overall, the content most strongly supports the deadline aspect and offers partial alignment with the idea of a closed window, while the lottery and digital-readiness elements lack explicit backing in the provided excerpts.",
+        "citations": [
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "documentation_and_privacy_barriers.privacy_concerns",
+        "reasoning": "The finegrained field value centers on privacy and data security concerns around sharing sensitive personal documents, specifically highlighting the requirement for an Original, signed social security card as a primary anxiety source. The most relevant excerpts explicitly reference the exact document requirement for Work Experience Participants, listing 'Original, signed social security card' alongside other identity documents. This directly supports the notion that SSN-related documentation is a concrete privacy friction point for families, particularly in contexts where immigration status could compound concerns about how information will be used and stored. Additional surrounding content in these excerpts describes the standard documents and eligibility checks used in the program, which contextualizes why such a privacy concern would arise (centralized handling of sensitive data across multiple programs). While other excerpts discuss application processes and logistics (e.g., application openings and IDs) they do not address the core privacy anxiety around sharing SSN and immigration-related concerns as directly as the explicit documentation requirement described in these excerpts.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment"
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparable_cities_evidence.1.source_citation",
+        "reasoning": "The field value is a specific web address for the Durham YouthWorks program. The first excerpt explicitly references the Durham YouthWorks program and, in its content, links to the Durham YouthWorks source, making it highly relevant as it anchors the citation to the exact program URL. The second excerpt also centers on the Durham YouthWorks program, noting program status updates and thereby confirming the existence and relevance of the Durham YouthWorks source as a citation target. Both excerpts collectively verify the Durham YouthWorks URL as a cited source for comparable cities evidence, with the first providing direct URL association and the second reinforcing its relevance through program-specific context.",
+        "citations": [
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.3",
+        "reasoning": "The most directly relevant excerpt provides the application deadline for applications, stating that they open on February 2, 2026 and close on March 16, 2026 at 11:59 pm, which aligns with the deadline in the finegrained field value. The next most relevant excerpt specifies that students must be freshmen (9th grade), which matches the grade-level eligibility portion of the field value. A closely related excerpt confirms the application window and general student-facing program context, reinforcing the existence of a structured application period for a student-focused program. However, the GPA eligibility criterion mentioned in the finegrained field value is not represented in any of the excerpts, so that portion cannot be supported by the provided sources. The source citations in these excerpts further corroborate the program context being discussed in the same family of materials about student programs for Richmond/nearby contexts.",
+        "citations": [
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Students must be a freshman (9th grade) who wants to go to college",
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "documentation_and_privacy_barriers.barrier_summary",
+        "reasoning": "The most relevant content directly states concrete documentation requirements and their burdens: for example, the need for an original, signed social security card and a state-issued photo ID highlights the cost and access barriers tied to obtaining physical documents. Residency proof and school enrollment verification further illustrate administrative friction that can deter participation. Employment-related certificates for younger teens (14-15) reveal an age-specific administrative hurdle, underscoring how regulatory steps compound the barrier landscape. References to privacy concerns around sharing sensitive information such as Social Security Numbers emphasize the data-security anxieties that complicate participation in a fragmented application ecosystem. Additionally, notes about providing IDs or certificates in program FAQs and related guidance reinforce the existence of a multi-site, potentially inconsistent process that adds to confusion and delays. Together, these excerpts map to the barrier summary by detailing what documents are required, who must provide them, potential costs, access challenges, and privacy considerations that hamper youth engagement in Richmond\u2019s employment ecosystem.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "Work Experience Participants: Original, signed social security card; State issued Photo ID; Report card or verification of school enrollment. Additional",
+              "Proof of residency may be required. Youth must be enrolled in school. Proof of school enrollment is required. Youth must be age 14 by July 1 to be eligible for",
+              "Work Experience Participants:\nOriginal, signed social security card\nState issued Photo ID\nReport card or verification of school enrollment",
+              "What are the age and residency requirements?\nYouth/Parent must be a city of Richmond resident. Proof of residency may be required.\nYouth must be enrolled in school. Proof of school enrollment is required.\nYouth must be age 14 by July 1 to be eligible for Counselors In Training.\nYouth must be age 16 by July 1 to be eligible for Work Experience and not turn 19 before the program ends."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "transportation_and_digital_divide_barriers.digital_divide_summary",
+        "reasoning": "The field value asserts a significant digital divide affecting youth employment opportunities, driven by unequal access to devices, internet, and digital literacy needed to complete online applications and document uploads. Excerpt content directly addressing the digital divide among Virginians shows the existence of a gap in access to digital tools and skills, which underpins barriers to employment opportunities. The Virginia Digital Opportunity Plan is described as a first-of-its-kind effort to assess the digital divide and then address it, which directly supports the notion of systematic efforts to bridge the gap identified in the field value. An annual impact report noting that staff work to remove barriers to employment, including transportation, aligns with a broader interpretation of access barriers\u2014digital and logistical\u2014that can impede youth from engaging with employment opportunities. Taken together, these excerpts corroborate the core claim of a significant digital divide hindering youth employment access, and they illustrate both the existence of the problem and the strategic response to address it.",
+        "citations": [
+          {
+            "url": "/goto?url=CAEShAEBO6uMpcPk9qfu5_Y4zFN3mUFNNJ6ni819ZB3detCM4HxCW330m2bswy9Wj-BIVQWFu-AD7NXLMMhmYDWPxAiIsnw7FOBWPevNEEiWsMn_7J--pcgO7zL9tiXAr57lLF-DnhSzSG3Fd-5gG9RDcQhG8CoWW14Od0hiUo80wXpwgyS1Ndc=",
+            "excerpts": [
+              "RICHMOND\u2014A new statewide survey is working to bridge the digital divide among Virginia communities and offer all residents the necessary tools for learning,"
+            ],
+            "title": "Survey aims to combat digital divide among Virginia ... - News"
+          },
+          {
+            "url": "/goto?url=CAESngEBO6uMpaO1txT7tNBq5rw_IbFZZxIwXxJ5BWoTZjVjNy3HNDyocMvfUkZeMvcx5M2VAE3ikIY_GKhPZjTEnySyIdr89fbeSOgqBpv7rNDUxdqCJvlw9yklgbNtp9ugKfK7TVF9nbLvX3E2N_tE-XfEvxVJsd9UZ539k5brVoCRq12j-lBxhYdk_cIYlf2eQn5Rl1svmVIGWkKirsPF0w==",
+            "excerpts": [
+              "The Virginia Digital Opportunity Plan is a first-of-its-kind undertaking to assess all facets of the digital divide in the Commonwealth and develop a"
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+            "excerpts": [
+              "Staff help\nremove barriers to employment like childcare and transportation, ensuring\nresidents can access opportunities."
+            ],
+            "title": "2025 ANNUAL IMPACT REPORT"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_va_evidence.0",
+        "reasoning": "The most directly relevant excerpts confirm the existence and scope of the Youth Works RVA program and the intended applicant pool. Specifically, excerpts describing Youth Works RVA: Summer 2026 applications now open establish the program name and that the application cycle is active for Summer 2026, which aligns with the field value describing an ongoing program and related application activity. Several excerpts explicitly state the target youth age range as 14 through 24, which matches the eligibility segment in the field value. Additionally, the presence of information about timelines and eligibility requirements in these sources supports understanding of the program structure and access points for applicants. Some excerpts touch on ancillary details like the existence of an identification requirement and payments, which are tangential to the core finegrained field (program name and age eligibility) but still contextualize application prerequisites and overall program logistics. The combination of these elements\u2014program identity, age eligibility, and active application status\u2014provides coherent, corroborating evidence that partially supports the stated deadline-related field value while primarily validating program name and eligibility aspects. The less directly related excerpts expand on related administrative elements (e.g., ID requirements, payment notes, and other program pages) that enrich context but do not add new information about the core field value beyond what is already supported by the strongest excerpts.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Students must be a freshman (9th grade) who wants to go to college"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparable_cities_evidence.1.program_name",
+        "reasoning": "The first excerpt explicitly names the Durham YouthWorks Program and highlights its application deadline, directly confirming the exact program name and its relevance to youth employment initiatives in Durham. The second excerpt notes the Durham YouthWorks program and provides an update regarding its status, further corroborating the program\u2019s existence and ongoing relevance. Together, these excerpts support the finegrained field value of Durham YouthWorks Program by clearly referencing the program name in authoritative context and providing corroborating status information. The field value is a precise match to the program name shown in both excerpts, and neither excerpt contradicts this value; at most, the second excerpt adds contextual status.",
+        "citations": [
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_cities_evidence.1.city_name",
+        "reasoning": "The field value to verify is the city name for the comparable_cities_evidence entry. Both excerpts explicitly mention Durham YouthWorks, tying the evidence to the city of Durham. The first excerpt references the Durham YouthWorks program with a concrete deadline, establishing a direct link to Durham as the locale of the program. The second excerpt states that the 2026 Durham YouthWorks program has closed, reinforcing the association with Durham and providing additional corroboration of the program and its locality. Together, these passages directly support identifying Durham as the city in the comparable_cities_evidence entry. The emphasis on Durham-based YouthWorks programs in both excerpts makes them highly relevant for confirming the city name in the targeted field.",
+        "citations": [
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_cities_evidence.0.source_citation",
+        "reasoning": "The most directly supportive excerpt states the explicit page URL for YouthWorks: 'The Youth application opens January 2, 2026 and closes March 7, 2026' together with the source URL 'https://youthworks.oedworks.com/customPage.cfm?PageId=1'. This provides a precise citation that matches the requested source citation value. The accompanying context confirms the page identity as the YouthWorks Youth Page, reinforcing that the URL belongs to the YouthWorks page referenced. The second excerpt repeats the same opening/closing dates and the same page URL, further corroborating the exact source citation value. In contrast, other excerpts mention related YouthWorks information or other cities but do not present the exact YouthWorks page URL, so they offer contextual support but not direct validation of the specific citation value.",
+        "citations": [
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th.",
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14"
+            ],
+            "title": "YouthWorks Youth Page"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "transportation_and_digital_divide_barriers.key_evidence",
+        "reasoning": "The most relevant content directly documents transportation-related strategies and barriers in the Richmond context. Excerpt describing the Mayor's Youth Academy providing GRTC Go Cards, with families responsible for transport if the youth does not ride the bus, aligns with the field value\u2019s assertion about transportation support and the conditional burden on families. This substantiates the barrier-reducing mechanism and its dependence on program funding and eligibility. The follow-on excerpt notes that policies or programs aim to remove barriers (such as transportation and child care) to empower employment opportunities, reinforcing the broader barrier narrative in the field value. Another excerpt highlights digital barriers by describing examples from YouthWorks programs in other cities (Baltimore) that require online document uploads and active email addresses; these concrete digital requirements illustrate the kinds of barriers the field value calls out as evidence for the digital divide. Additional supporting content comes from the Virginia Digital Opportunity Plan and related discussions of digital access, which contextualize the broader digital-divide landscape in which transportation and digital barriers interplay with opportunity access. Finally, a related excerpt emphasizes zero-fare transit programs and transit partnerships as mechanisms to reduce transportation barriers, which conceptually supports the field value\u2019s focus on access barriers and operational funding considerations. Collectively, these excerpts build a coherent picture of both transportation-related and digital-divide barriers, along with policy/funding responses in the Richmond area and comparable programs elsewhere.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/community-wealth-building/faq",
+            "excerpts": [
+              "The Mayor's Youth Academy utilizes GRTC to provide transportation for youth participants to and from their placement sites each day by issuing GRTC Go Cards on a weekly basis. If your child does not ride public transportation, you will be responsible for transporting them each day."
+            ],
+            "title": "FAQ | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/OCWB%202025%20Annual%20Report%20Draft%203.pdf",
+            "excerpts": [
+              "Staff help\nremove barriers to employment like childcare and transportation, ensuring\nresidents can access opportunities."
+            ],
+            "title": "2025 ANNUAL IMPACT REPORT"
+          },
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th."
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "/goto?url=CAESngEBO6uMpaO1txT7tNBq5rw_IbFZZxIwXxJ5BWoTZjVjNy3HNDyocMvfUkZeMvcx5M2VAE3ikIY_GKhPZjTEnySyIdr89fbeSOgqBpv7rNDUxdqCJvlw9yklgbNtp9ugKfK7TVF9nbLvX3E2N_tE-XfEvxVJsd9UZ539k5brVoCRq12j-lBxhYdk_cIYlf2eQn5Rl1svmVIGWkKirsPF0w==",
+            "excerpts": [
+              "The Virginia Digital Opportunity Plan is a first-of-its-kind undertaking to assess all facets of the digital divide in the Commonwealth and develop a"
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "/goto?url=CAEShAEBO6uMpcPk9qfu5_Y4zFN3mUFNNJ6ni819ZB3detCM4HxCW330m2bswy9Wj-BIVQWFu-AD7NXLMMhmYDWPxAiIsnw7FOBWPevNEEiWsMn_7J--pcgO7zL9tiXAr57lLF-DnhSzSG3Fd-5gG9RDcQhG8CoWW14Od0hiUo80wXpwgyS1Ndc=",
+            "excerpts": [
+              "RICHMOND\u2014A new statewide survey is working to bridge the digital divide among Virginia communities and offer all residents the necessary tools for learning,"
+            ],
+            "title": "Survey aims to combat digital divide among Virginia ... - News"
+          },
+          {
+            "url": "https://www.facebook.com/venture.richmond/posts/six-years-of-fare-free-transit-and-a-more-connected-richmond-region-since-2020-g/1529309062533226/",
+            "excerpts": [
+              "Six years of fare-free transit and a more connected Richmond region Since 2020, GRTC's fare-free program has helped remove barriers and expand"
+            ],
+            "title": "Six years of fare-free transit and a more connected ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "comparable_cities_evidence.0.city_name",
+        "reasoning": "The target field value is the city name Baltimore within the comparable_cities_evidence array. The most directly supporting content is where the text explicitly ties YouthWorks to Baltimore City by stating that Baltimore City youth aged 14\u201321 are eligible to apply for YouthWorks, along with application dates. This provides concrete, city-linked context for Baltimore as a comparable city in the youth employment ecosystem. The second excerpt reinforces this by reiterating the same Baltimore City eligibility window, strengthening the city-specific evidence. The third excerpt further anchors Baltimore by noting that YouthWorks is a program within the Baltimore City context (through a mention of Baltimore City Schools), which ties the program to the city\u2019s municipal framework. Together, these excerpts establish Baltimore as a concrete, relevant city reference for the JTBD comparison and validation. The other excerpts either discuss different cities or contain information not directly tied to Baltimore, hence offer little direct support for the city_name field value.\n",
+        "citations": [
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th.",
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14"
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "https://www.baltimorecityschools.org/article/2607297",
+            "excerpts": [
+              "Save the Date: YouthWorks applications open January 2, 2026. City Schools. December 18, 2025. YouthWorks is a program within the Baltimore City"
+            ],
+            "title": "Save the Date: YouthWorks applications open January 2, 2026"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_cities_evidence.0.program_name",
+        "reasoning": "The fine-grained field value represents the program name YouthWorks within a comparable cities evidence dataset. Direct references to YouthWorks as a program or as the program name strongly support this value: excerpts that state that YouthWorks has specific application dates, eligibility, or is a named program (e.g., YouthWorks applications opening with clear dates) provide explicit alignment with the field. Excerpts that mention YouthWorks in the title or body, such as the YouthWorks Youth Page entries and the Save the Date notice, most directly support the field value. Excerpts that reference Durham YouthWorks or include the phrase \u2018YouthWorks\u2019 in a longer description but refer to a different city or a different program context still contain the program name and thus offer relevant, though slightly less direct, support. Excerpts that do not mention YouthWorks at all would be irrelevant, but in this set, the strongest support comes from items that plainly state YouthWorks or clearly label the program as YouthWorks. Excerpts that reference related pages or timelines without naming YouthWorks as the program (or that only cite a social-security-related detail) contribute minimal direct support to the field value and are placed lower in relevance. The ordering reflects direct program-name alignment first, followed by related mentions within the YouthWorks context, and then related but less direct mentions of similarly named programs (e.g., Durham YouthWorks).",
+        "citations": [
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th.",
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14",
+              "Social Security Number\nA U.S. Social Security card is not required if a U.S. birth certificate is submitted. However, youth must know their Social Security number, as it is required on some forms."
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "https://www.baltimorecityschools.org/article/2607297",
+            "excerpts": [
+              "Save the Date: YouthWorks applications open January 2, 2026. City Schools. December 18, 2025. YouthWorks is a program within the Baltimore City"
+            ],
+            "title": "Save the Date: YouthWorks applications open January 2, 2026"
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWC586Dp-C/",
+            "excerpts": [
+              "Feb 4, 2026 \u00b7 Deadline: March 7. While best efforts will be made to match students with employment opportunities, jobs are not guaranteed. youthworks.oedworks\u00a0..."
+            ],
+            "title": "Calling all, ages 14-21 to apply now! The 2026 Durham YouthWorks ..."
+          },
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.2.program_name",
+        "reasoning": "The field value refers to a program name for a certification process managed by the Virginia Department of Labor and Industry. The excerpt explicitly identifies a Virginia DOLI system for youth employment certificates and describes the online initiation of a certificate application when a youth receives a job offer. This directly supports the existence and naming of the Virginia DOLI Employment Certificate program. The description of online initiation and employer involvement further corroborates this program in the Richmond, VA context. Therefore, the excerpt provides direct, coherent evidence for the requested field value.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.3.program_name",
+        "reasoning": "The field value is the program name 'Partnership for the Future' associated with Richmond VA evidence. The most relevant excerpts explicitly reference the Partnership for the Future domain in their source URL and context, indicating an official program reference: one excerpt shows a page on partnershipforthefuture.org and mentions the title/context of becoming a student within that program, and another excerpt includes the same domain and close alignment with application timing and confirmation around that program. The remaining excerpt discusses the same program area under the heading 'Become a Student' but does not explicitly mention the program name in its text; however, its inclusion supports the overall program materials and context related to the Partnership for the Future initiative. Collectively, these excerpts corroborate that the program name behind the field value appears in the provided material, with the strongest support coming from explicit domain-based references and context tying to the Partnership for the Future initiative.",
+        "citations": [
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "Students must be a freshman (9th grade) who wants to go to college"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.3.application_deadline",
+        "reasoning": "The target field is the application_deadline for a Richmond, VA program, with the specific value March 16th, 2026. The most directly relevant excerpt states that applications open on February 2, 2026 and close on March 16, 2026 at 11:59 pm, clearly validating the deadline date. A second excerpt reiterates a concrete deadline identical to the target date, reinforcing the closing date for applications. The third excerpt, while not mentioning the exact closing date, provides related timing context about application periods and registration, which supports understanding of deadlines and intake windows around the same timeframe. Together, these excerpts precisely support the field value and its implications for the JTBD context, such as timelines for youth opportunity applications and the need to avoid missed deadlines.",
+        "citations": [
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "Students must be a freshman (9th grade) who wants to go to college"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "comparable_cities_evidence.0.key_findings",
+        "reasoning": "The finegrained field value states that there is a fixed application window from January 2 to March 7, 2026, applicants must know their Social Security Number and upload documents, and that applying early does not guarantee placement. The most directly supportive information comes from excerpts that explicitly state the opening and closing dates of the YouthWorks program within this context, confirming the fixed window. Additional support comes from excerpts noting that a Social Security Number is required on certain forms, which aligns with the documented document/documentation requirements. Another supportive angle is the implication that even with deadlines, there is no guaranteed placement, as evidenced by statements that even with best efforts, jobs are not guaranteed. Contextual references to similar deadlines in comparable cities help corroborate that deadline-driven workflows are a common pattern in the sector, though they are less central to the exact field value. Collectively, these excerpts substantiate the core claims about the fixed window, the need for documentation, and the non-guarantee of placement that are described in the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://youthworks.oedworks.com/customPage.cfm?PageId=1",
+            "excerpts": [
+              "**The Youth application opens January 2, 2026 and closes March 7, 2026** . Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14 by March 13th must submit their YouthWorks application by March 7th and obtain their work permit from the Department of Labor, sign and upload it to their application by March 13th.",
+              "The Youth application opens January 2, 2026 and closes March 7, 2026. Baltimore City youth ages 14 \u2013 21 are eligible to apply for YouthWorks. Youth who turn 14",
+              "Social Security Number\nA U.S. Social Security card is not required if a U.S. birth certificate is submitted. However, youth must know their Social Security number, as it is required on some forms."
+            ],
+            "title": "YouthWorks Youth Page"
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWC586Dp-C/",
+            "excerpts": [
+              "Feb 4, 2026 \u00b7 Deadline: March 7. While best efforts will be made to match students with employment opportunities, jobs are not guaranteed. youthworks.oedworks\u00a0..."
+            ],
+            "title": "Calling all, ages 14-21 to apply now! The 2026 Durham YouthWorks ..."
+          },
+          {
+            "url": "https://www.baltimorecityschools.org/article/2607297",
+            "excerpts": [
+              "Save the Date: YouthWorks applications open January 2, 2026. City Schools. December 18, 2025. YouthWorks is a program within the Baltimore City"
+            ],
+            "title": "Save the Date: YouthWorks applications open January 2, 2026"
+          },
+          {
+            "url": "https://www.durhamnc.gov/598/Durham-YouthWorks-Program",
+            "excerpts": [
+              "Interested youth must apply by **February 21, 2026** , which is the **application dead",
+              "Thank you for your interest in the 2026 Durham YouthWorks program. The 2026 Durham YouthWorks application has closed. Durham YouthWorks 2026 \u2014 Program Update."
+            ],
+            "title": "Durham YouthWorks"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.1",
+        "reasoning": "The fine-grained field specifies that participants must provide specific documents (an original, signed social security card, a state-issued ID, and a school verification document) and cites a program FAQ as the source. Excerpt describing DMV Virginia Identification Card as an important requirement for program participation directly supports the ID component of the document list. Additionally, mention of the cost and processing of a Virginia ID provides contextual support for practical barriers tied to obtaining that required ID. Other excerpts discuss general eligibility, program details, or open applications; while they reinforce the existence of eligibility criteria, they do not quote the exact documents, so they are supportive but less directly tied to the exact document list. Collectively, these excerpts map onto the core eligibility items (ID, documentation) and the notion that eligibility is a prerequisite for participation, aligning with the fine-grained field value that emphasizes documentation requirements and a cited source.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_va_evidence.2.source_citation",
+        "reasoning": "The target field value is a citation URL to a Virginia youth employment program page. The most relevant excerpt describes the Virginia Department of Labor and Industry launching a system for youth employment certificates and explains that youth workers can start their certificate application online once they receive a job offer. This directly corroborates the existence of an online process for youth employment certifications under Virginia\u2019s labor department, which would be the type of source the URL points to. The content of the excerpt thus supports the idea that there is an official, online youth employment process in Virginia, making it a strong match for the requested citation field. The connection is specifically about online initiation of youth employment certificates and the governing body (DOLI), matching the concept implied by the provided URL in the field value.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.0.source_citation",
+        "reasoning": "The field value is a specific web URL that appears repeatedly as a source citation in multiple excerpts. Excerpts that explicitly include the URL https://www.rrha.com/news/youth-works-rva-summer-2026/ directly corroborate the exact field value, making them the most relevant. These excerpts describe Summer 2026 applications, program details, eligibility, and related announcements, which aligns with the core citation being the Youth Works RVA Summer 2026 page. Excerpts that reference broader program context or related sources (such as the Virginia Department of Labor and Industry or other Youth program pages) provide supportive context about the Richmond youth employment ecosystem but do not directly confirm the exact URL, hence they are less directly relevant. Therefore, the most relevant passages are those that include the exact URL, followed by passages that discuss the same program and its implications without restating the URL itself. The field value is a precise citation, and the supporting excerpts that reproduce that citation give the strongest evidence for the field value.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Students must be a freshman (9th grade) who wants to go to college"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.3.source_citation",
+        "reasoning": "The target field value is a specific citation URL for a page titled \"Become a Student\". Each excerpt that includes the exact URL and identifies the page (\"Become a Student\" from Partnership for the Future) directly supports this field value as evidence of the source citation. The first excerpt notes the page and the URL context, the second confirms the page title and source, and the third repeats the URL along with open/close dates for the application period, all of which corroborate that this is the correct citation. There are no excerpts suggesting a different URL or conflicting citation, so these excerpts collectively provide direct and unambiguous support for the requested finegrained field value. ",
+        "citations": [
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Students must be a freshman (9th grade) who wants to go to college",
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.0.program_name",
+        "reasoning": "The finegrained field value asserts that the program_name at the specified path is 'Youth Works RVA'. The most directly supportive excerpts are those that explicitly name the program and tie it to Summer 2026 applications, confirming the program identity. For example, an excerpt that announces 'Youth Works RVA: Summer 2026 Applications Now Open!' directly validates the program name and its current application cycle. Related excerpts reinforce the same program identity by describing the program\u2019s scope (serving youth through paid work experiences) and the ongoing application process, thereby corroborating the presence and status of Youth Works RVA as the program in question. Additional excerpts mentioning the 'FY26 Youth Works RVA application is now open' further corroborate the program name and its active application period. Excerpts that reference other programs or generic statements about youth employment opportunities do not directly confirm the program name and are therefore less relevant to the specific field value, though they provide contextual backdrop about the broader ecosystem.\n",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.0.eligibility_summary",
+        "reasoning": "The finegrained field describes the scope of service to Richmond youth within a broad age band (14-24) and mentions multiple tracks (a virtual program for younger teens and in-person/entrepreneurship tracks for older youth). The most directly supportive excerpt explicitly states that Richmond youth ages 14 through 24 are served through paid work experiences, aligning with the age range in the field value. Additional excerpts reference Youth Works RVA activities and the presence of Youth Engagement Services, which corroborate a multi-track youth employment ecosystem in Richmond but do not specify the exact age breakdown. Taken together, the strongest evidence confirms the overarching service to 14-24-year-olds, while other excerpts provide contextual support about program activities and timelines without contradicting the stated age range.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Students must be a freshman (9th grade) who wants to go to college"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_va_evidence.2.eligibility_summary",
+        "reasoning": "The field value asserts a mandatory certificate for all 14- and 15-year-old workers in Virginia, which must be obtained after a firm job offer and via a multi-party electronic registration system involving the youth, employer, and parent/guardian. The excerpt describes an online certificate application process triggered when a youth receives a job offer, and notes that the potential employer is involved in this process. This directly supports the idea of an online certificate application following a job offer and acknowledges employer participation, which are key components of the field value. However, the excerpt does not specify the exact ages (14-15) or the explicit three-party electronic registration scheme in one unified description, so the connection to the precise age requirement and the multi-party system is inferred but not fully explicit in the excerpt.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_va_evidence.0.application_deadline",
+        "reasoning": "The finegrained field is a specific application deadline for Richmond VA evidence related to Youth Works RVA. None of the excerpts explicitly state the deadline as March 31, 2026. The most relevant excerpts are those that discuss open applications and the timeline for Youth Works RVA in 2026, including explicit dates or date ranges for when applications are or were opened (e.g., a March 8, 2026 reference and notes that the Summer 2026 cycle is underway). These excerpts directly touch on application windows and deadlines in the Richmond context, which are the closest matches to a posted deadline. Other excerpts mention related aspects of the program (e.g., eligibility, payment, identification cards, certificates) or note general open/availability information, which are contextually related but do not address the deadline itself. Therefore, while these excerpts help establish the broader timing and process around the Youth Works RVA cycle, they do not confirm the exact deadline of March 31, 2026, resulting in a primarily speculative alignment with the requested fine-grained field value. The ordering prioritizes items that reference a concrete application window or date within the 2026 cycle, then those that mention open status without a specific date, and finally peripheral details that are less directly connected to the deadline claim.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://doli.virginia.gov/2024/08/14/doli-launches-new-system-for-virginians-to-request-youth-employment-certificates/",
+            "excerpts": [
+              "When a youth worker receives a job offer, they can go online to initiate their certificate application. Once completed, the potential employer"
+            ],
+            "title": "DOLI \u2013 Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm",
+              "Students must be a freshman (9th grade) who wants to go to college"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "richmond_va_evidence.3.eligibility_summary",
+        "reasoning": "The finegrained field value asserts two criteria: (1) applicants must be in the 9th grade (freshman) and (2) a minimum GPA of 3.0. The excerpts explicitly confirming the first criterion state that applicants must be freshmen (9th grade), which directly supports the core eligibility condition. Another excerpt reiterates application timing and the workflow (opening and closing dates, and that a confirmation email is sent after registering), which supports understanding of the eligibility workflow but does not introduce any GPA information. None of the excerpts mention GPA or a minimum grade point average, so the GPA part of the field value is not substantiated by the provided excerpts. Consequently, the content most relevant to the finegrained field value is the explicit grade-level eligibility; the GPA portion remains unsupported by these excerpts.",
+        "citations": [
+          {
+            "url": "https://www.partnershipforthefuture.org/become-a-student/",
+            "excerpts": [
+              "Students must be a freshman (9th grade) who wants to go to college",
+              "Applications for this year open on February 2nd, 2026 and close on March 16th, 2026 at 11:59 pm. After registering, you will receive a confirmation email",
+              "ations for this year open on February 2nd, 2026** **and close on** **March 16th, 2026 at 11:59 pm"
+            ],
+            "title": "Become a Student"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_va_evidence.1.program_name",
+        "reasoning": "The most relevant excerpt directly references the specific agency of interest, noting that Richmond's Office of Community Wealth Building aims to serve youth through paid work experiences, which closely corresponds to a program focused on work experiences under the OCWB umbrella. This provides the strongest alignment with the target program name representing OCWB Work Experience (General Requirement). A closely related excerpt reinforces the OCWB involvement and its aim to provide paid work experiences, strengthening the connection to the concept of OCWB Work Experience. Other excerpts discuss Youth Works RVA and related application details; while they establish the ecosystem and opportunities, they do not explicitly name OCWB or match the exact program naming convention, so they provide contextual support but weaker direct evidence. Taken together, the pair of OCWB-specific excerpts form the core support, with YWRVA-related items offering situational context about the broader Richmond youth employment landscape.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Mar 8, 2026 \u2014 Richmond's Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_va_evidence.1.eligibility_summary",
+        "reasoning": "The most directly supportive content is the excerpt noting that there are efforts to help youth secure a Virginia Identification Card, which aligns with the stated need for a state-issued Photo ID in the eligibility summary. Additional support comes from the excerpt mentioning that there are eligibility requirements for the program, which corroborates that a structured set of criteria governs participation. The excerpt stating that the cost and availability of a Virginia ID are relevant to understanding barriers or logistics associated with obtaining the required ID, which connects to the overall eligibility process. Finally, the excerpt indicating that the FY26 Youth Works RVA application is open provides context that applications are ongoing and connected to the eligibility framework, though it does not specify the documents themselves. Taken together, these excerpts support the concept that official identification and enrollment-related verification are part of the eligibility landscape for Richmond youth employment programs, even if they do not enumerate every item in the exact field value.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_va_evidence.1.application_deadline",
+        "reasoning": "The most relevant excerpt directly states that applications are officially open for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026, which addresses the existence and timing of the application window. This is the strongest support for any field about application deadlines or timing. The second most relevant excerpt also relates to the application process by reaffirming that the FY26 Youth Works RVA application is now open, reinforcing the deadline/opening context. The third excerpt mentions timelines and eligibility requirements, which connects to deadline planning and the scheduling aspect of applications, providing supportive but indirect evidence about how deadlines are handled. Together, these excerpts inform whether a deadline exists, when the window opened, and what timing considerations accompany the application process, which is relevant to assessing the Not Applicable value of the field. None of the excerpts directly provide a Not Applicable conclusion, but they do confirm that there is an application window with an opening date, suggesting that a deadline context does exist in practice.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open.",
+              "Theses sessions cover important program details, timelines, eligibility requirements, and any questions you may have. Apply to join upcoming"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES). Youth Engagement Services. The FY26 Youth Works RVA application is now open! Feel free to start your application here!"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level summary of the core pain points within Richmond's youth employment ecosystem for youth, families, and program administrators, and the strategic opportunity for the unboxed-rva project."
+        },
+        "project_context_and_mission": {
+          "type": "string",
+          "description": "An overview of the unboxed-rva project, including its description, the problem it aims to solve, its strategic pillar (Thriving Families), and its intended role as a central discovery hub."
+        },
+        "youth_persona_pain_points": {
+          "type": "object",
+          "properties": {
+            "pain_point": {
+              "type": "string",
+              "description": "A specific pain point experienced by the youth persona."
+            },
+            "description": {
+              "type": "string",
+              "description": "A detailed description of the pain point."
+            },
+            "evidence": {
+              "type": "string",
+              "description": "Supporting evidence or examples for this pain point."
+            }
+          },
+          "required": [
+            "pain_point",
+            "description",
+            "evidence"
+          ],
+          "additionalProperties": false
+        },
+        "parents_guardians_persona_pain_points": {
+          "type": "object",
+          "properties": {
+            "pain_point": {
+              "type": "string",
+              "description": "A specific pain point experienced by the parent/guardian persona."
+            },
+            "description": {
+              "type": "string",
+              "description": "A detailed description of the pain point, such as anxiety over data security."
+            },
+            "evidence": {
+              "type": "string",
+              "description": "Supporting evidence or examples for this pain point."
+            }
+          },
+          "required": [
+            "pain_point",
+            "description",
+            "evidence"
+          ],
+          "additionalProperties": false
+        },
+        "program_coordinators_employers_pain_points": {
+          "type": "object",
+          "properties": {
+            "pain_point": {
+              "type": "string",
+              "description": "A specific pain point experienced by program coordinators and employers."
+            },
+            "description": {
+              "type": "string",
+              "description": "A detailed description of the pain point, such as administrative duplication."
+            },
+            "evidence": {
+              "type": "string",
+              "description": "Supporting evidence or examples for this pain point."
+            }
+          },
+          "required": [
+            "pain_point",
+            "description",
+            "evidence"
+          ],
+          "additionalProperties": false
+        },
+        "current_workarounds_and_costs": {
+          "type": "string",
+          "description": "Describes the current workarounds users employ (e.g., manually checking multiple sites, word-of-mouth) and the high cost of the status quo, such as missed deadlines, stress, and inequitable access to opportunities."
+        },
+        "cross_cutting_equity_analysis": {
+          "type": "string",
+          "description": "A detailed analysis of the equity dimensions of the problem. Identifies who is most affected and excluded by the current fragmented system, focusing on youth from low-income households, those with limited social capital, and families facing systemic barriers."
+        },
+        "documentation_and_privacy_barriers": {
+          "type": "object",
+          "properties": {
+            "barrier_summary": {
+              "type": "string",
+              "description": "A summary of the documentation and privacy barriers."
+            },
+            "required_documents": {
+              "type": "string",
+              "description": "A list of commonly required documents like SSN, state ID, and proof of residency."
+            },
+            "privacy_concerns": {
+              "type": "string",
+              "description": "Specific privacy concerns related to sharing personal information."
+            },
+            "impacted_groups": {
+              "type": "string",
+              "description": "Groups disproportionately affected by these barriers, such as undocumented youth."
+            }
+          },
+          "required": [
+            "barrier_summary",
+            "required_documents",
+            "privacy_concerns",
+            "impacted_groups"
+          ],
+          "additionalProperties": false
+        },
+        "transportation_and_digital_divide_barriers": {
+          "type": "object",
+          "properties": {
+            "transportation_summary": {
+              "type": "string",
+              "description": "Analysis of transportation as a barrier, including reliance on the GRTC bus system."
+            },
+            "digital_divide_summary": {
+              "type": "string",
+              "description": "Analysis of the digital divide as a barrier, including access to devices and internet."
+            },
+            "key_evidence": {
+              "type": "string",
+              "description": "Specific evidence or programs related to these barriers, such as the GRTC zero-fare program."
+            }
+          },
+          "required": [
+            "transportation_summary",
+            "digital_divide_summary",
+            "key_evidence"
+          ],
+          "additionalProperties": false
+        },
+        "richmond_va_evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "program_name": {
+                "type": "string",
+                "description": "The name of the youth employment program in Richmond, VA."
+              },
+              "application_deadline": {
+                "type": "string",
+                "description": "The application deadline for the program."
+              },
+              "eligibility_summary": {
+                "type": "string",
+                "description": "A summary of the eligibility requirements, such as age and residency."
+              },
+              "source_citation": {
+                "type": "string",
+                "description": "The source of the information for this program."
+              }
+            },
+            "required": [
+              "program_name",
+              "application_deadline",
+              "eligibility_summary",
+              "source_citation"
+            ],
+            "additionalProperties": false
+          },
+          "description": "An array of strings presenting specific evidence from Richmond, VA. Each string will detail a local program (e.g., YouthWorks RVA, RPS Work-Based Learning, Partnership for the Future), its application process, deadlines, and requirements, citing sources."
+        },
+        "comparable_cities_evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "city_name": {
+                "type": "string",
+                "description": "The name of the comparable US city."
+              },
+              "program_name": {
+                "type": "string",
+                "description": "The name of the youth employment program in that city."
+              },
+              "key_findings": {
+                "type": "string",
+                "description": "Key findings from the city's program, highlighting similar challenges or solutions."
+              },
+              "source_citation": {
+                "type": "string",
+                "description": "The source of the information for this program."
+              }
+            },
+            "required": [
+              "city_name",
+              "program_name",
+              "key_findings",
+              "source_citation"
+            ],
+            "additionalProperties": false
+          },
+          "description": "An array of strings presenting evidence from comparable US cities (Baltimore, Pittsburgh, Louisville, Durham, Chattanooga). Each string will summarize the findings from a city's youth employment program, highlighting similar challenges and providing context."
+        }
+      },
+      "required": [
+        "executive_summary",
+        "project_context_and_mission",
+        "youth_persona_pain_points",
+        "parents_guardians_persona_pain_points",
+        "program_coordinators_employers_pain_points",
+        "current_workarounds_and_costs",
+        "cross_cutting_equity_analysis",
+        "documentation_and_privacy_barriers",
+        "transportation_and_digital_divide_barriers",
+        "richmond_va_evidence",
+        "comparable_cities_evidence"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "pain_points.md"
+  }
+}

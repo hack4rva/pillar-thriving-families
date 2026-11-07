@@ -1,0 +1,13 @@
+Services Landscape C3 — Maternal Health Organizations in Richmond
+
+Research the landscape of maternal health organizations, programs, and services in Richmond, Virginia. Focus on organizations that compile, analyze, or use maternal health data for advocacy, grant-writing, or program planning.
+
+Include: Virginia Department of Health (VDH), Richmond City Health District, nonprofit organizations focused on maternal and infant health, Planned Parenthood health center presence, March of Dimes Virginia chapter, and any other documented Richmond-area maternal health advocates or data users.
+
+For each organization: describe their role in the maternal health ecosystem, whether they publish data or reports, and whether they are likely users of a shared maternal health data coordination tool.
+
+Output
+- Organization inventory with role and data activity description
+- Who are likely users of a coordination tool (primary vs. secondary users)
+- Inferences (clearly labeled)
+- Unknowns

@@ -1,0 +1,13 @@
+Problem Landscape A5 — Maternal Health Equity Disparities in Richmond
+
+Investigate the documented maternal health equity disparities in Richmond, Virginia. Focus especially on racial disparities in maternal mortality, infant mortality, preterm birth, prenatal care access, and insurance coverage. Use only verifiable public sources.
+
+Cover: how Richmond compares to Virginia statewide rates and national benchmarks, what the documented racial disparities are (particularly Black-white disparities), which zip codes or neighborhoods face the greatest burden, what the known contributing factors are, and what organizations are working on this issue.
+
+This research supports building a data tool for stakeholders — not a clinical tool for patients. The goal is to understand the scale and shape of the problem so teams can prioritize which indicators matter most.
+
+Output
+- Facts (with source titles)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- Key indicators that a shared dashboard should prioritize

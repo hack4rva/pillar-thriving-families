@@ -1,0 +1,18 @@
+Cross-Cutting — Red Flags and Risk Inventory
+
+Identify the most serious risks and red flags for civic-tech teams working on the Thriving Families pillar in Richmond. Cover both youth employment and maternal health data coordination.
+
+Critical risk categories to cover:
+1. Minor privacy and data protection (COPPA, FERPA implications for tools serving teens under 18)
+2. Unsafe youth employment records (risk of creating unofficial records that could be misused)
+3. Health claims (harm from incorrect or misleading maternal health guidance)
+4. Employer-teen matching (legal and safety risks if the tool is perceived as facilitating employment contracts)
+5. Data staleness (risk of displaying outdated program availability or health statistics)
+6. Digital equity (risk of excluding youth without smartphones or reliable internet)
+7. Overclaiming (risk of presenting the tool as authoritative without validation)
+
+Output
+- Flagged risk per category with severity (high / medium / low)
+- Specific guardrail language to add to the tool
+- Inferences (clearly labeled)
+- Unknowns

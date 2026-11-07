@@ -1,0 +1,15 @@
+MVP Feasibility H2 — Building a Useful Youth Employment MVP with No Pre-Existing Data
+
+Develop a concrete build strategy for a Richmond youth employment pathway MVP in 48 hours, given that no pre-existing structured dataset exists (D3=1). The team must curate all content manually.
+
+Cover: what content must be curated before Saturday build time begins, how to curate a program directory from public websites in 2–3 hours, how to write a plain-language work permit guide from DOLI sources in 1–2 hours, what the minimum data structure looks like (JSON schema for a program directory), and what UI framework requires the least build time for a credible mobile-friendly demo.
+
+Include: what to do if a program's website is out of date or a phone number is wrong, how to handle the "programs close or fill" problem, and what disclaimer language to include.
+
+Output
+- Build strategy with prioritized content curation tasks
+- Minimum JSON schema for program directory
+- Recommended UI approach
+- Disclaimer language templates
+- Inferences (clearly labeled)
+- Unknowns

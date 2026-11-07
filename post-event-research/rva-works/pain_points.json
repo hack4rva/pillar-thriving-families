@@ -1,0 +1,202 @@
+{
+  "run_id": "trun_1848795af0f24b80bab14627f9a1e5a7",
+  "interaction_id": "trun_1848795af0f24b80bab14627f9a1e5a7",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b80bab14627f9a1e5a7",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "output_report",
+        "reasoning": "The core pain points described\u2014fragmented information across multiple platforms, substantial documentation hurdles (I-9, birth certificates, Social Security cards, state IDs), transportation planning challenges, and concerns about safety and financial setup\u2014are directly evidenced in excerpts detailing application timelines and eligibility (e.g., notices that Youth Works RVA applications open with deadlines), explicit documentation requirements and events (DMV pop-up initiatives to obtain Virginia IDs, I-9 documentation lists, and work permit procedures), and transportation considerations (fare-free transit noting limited reach and planning implications). Excerpts that describe the broader program structure (Youth Works RVA, Work-Based Learning) establish why information is fragmented and why a centralized platform like rva-works would be valuable. Excerpts that quantify or discuss the digital divide and unbanked households provide supportive context for equity-focused pain points. The combination of concrete onboarding requirements, regulatory steps, and transport/logistics considerations aligns with the detailed pain point analysis, including both youth and parent perspectives and the cross-cutting equity dimensions.\"",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "Mar 8, 2026 \u00b7 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open. Richmond's",
+              "We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open. Richmond's",
+              "The application is now available and will remain opened until March 31st, 2026:",
+              "Additionally, there will be DMV Pop-Up Events to assist youth in securing their Virginia Identification Card, an important requirement for program participation.",
+              "Please note that payment is required at the time of service, and the cost of a Virginia ID ranges from $10 to $26."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "**The FY26 Youth Works RVA application is now open!**",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)\nBe a resident of the City of Richmond or actively enrolled in foster care services through Richmond Social Services at the program's start",
+              "**PROGRAM SUMMARY**\nYouth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**Virtual Earn and Learn Program**\nFor youth ages 14\u201315, this program focuses on career training and workforce readiness. Participants explore diverse careers through the \u201cA Day in the Life\u201d series and build financial literacy with sessions led by Virginia Credit Union.",
+              "**In-Person Program**\nServes youth ages 16\u201324 through onsite internships tailored to their career interests. Participants gain professional mentorship, build valuable skills, and explore potential long-term career pathways.",
+              "**Founders Mark Program**\nFor youth ages 16\u201324, this program focuses on entrepreneurship and leadership development. Participants cultivate a business mindset, explore ownership opportunities, and expand their professional networks as emerging young leaders."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents",
+            "excerpts": [
+              "Documents that Establish Employment Authorization \u00b7 1. U.S. Social Security Card \u00b7 2. Certification of report of birth issued by the Department of",
+              "Nov 19, 2025 \u2014 1. US Passport or US Passport Card 2. Permanent Resident Card or Alien Registration Receipt Card (Form I-551) 3. Foreign passport that contains a temporary I-",
+              "Nov 19, 2025 \u2014 Documents that Establish Both Identity and Employment Authorization \u00b7 1. U.S. Passport or U.S. Passport Card \u00b7 2. Permanent Resident Card or Alien"
+            ],
+            "title": "Form I-9 Acceptable Documents"
+          },
+          {
+            "url": "https://www.ssa.gov/ssnumber/ss5doc.htm",
+            "excerpts": [
+              "What original documents do I need? \u00b7 Birth certificate with the correct name \u00b7 Final adoption decree \u00b7 Court determination of paternity \u00b7 Foreign passport."
+            ],
+            "title": "Learn what documents you will need to get a ..."
+          },
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "All 14 and 15 year old workers in Virginia are required to obtain an Employment Certificate prior to performing any work. The Employment Certificate application",
+              "Generally, 14 years of age. What hours can a 14 or 15 year-old work? May not work more than 3 hours a day on a school day .",
+              "All 14 and 15 year old workers in Virginia are required to obtain an Employment Certificate prior to performing any work.",
+              "Youth MUST BE age 14 or age 15 to apply for an employment certificate.\nYouth DO NOT begin the registration process for an employment certificate until you have a firm offer of employment.\nYou WILL NOT be issued an employment certificate until you have an employer.\n",
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration."
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          },
+          {
+            "url": "https://selfserviceportal.doli.virginia.gov/LaborLaw/ChildLaborPermits/",
+            "excerpts": [
+              "Youth Application. 2. Employer Registration. 3. Legal Guardian Approval. Youth Employment Certificate Instructions Overview. Youth Employment Law FAQ. Child",
+              "Youth Employment Certificate Instructions Overview",
+              "The Employer must complete their portion of the Application before a Parent can complete their portion.",
+              "Please verify your Youth ID, this Employment Certificate has already been issued."
+            ],
+            "title": "Child Labor Permits VDOLI Portal"
+          },
+          {
+            "url": "https://cdnsm5-ss19.sharpschool.com/UserFiles/Servers/Server_2822194/File/Counseling/Working%20Permit%20(1)%20(1).pdf",
+            "excerpts": [
+              "Teenagers who are 14 and 15 years old are required by Virginia Law to obtain an Employment Certificate (work permit) before they can start working."
+            ],
+            "title": "How Do I Get a Work Permit in Virginia?"
+          },
+          {
+            "url": "https://www.richmonder.org/catching-up-grtc-isnt-out-of-money-but-it-is-fundraising/",
+            "excerpts": [
+              "Funding for zero-fare is still covered in fiscal year 2026, which ends in June 2026, according to GRTC spokesperson Ashley Potter. It costs $6.8 million a year for GRTC to subsidize the fares that riders would normally pay."
+            ],
+            "title": "Catching up: GRTC isn't out of money, but it is fundraising"
+          },
+          {
+            "url": "https://www.ridegrtc.com/six-years-of-connection-celebrating-open-access-transit-in-richmond/",
+            "excerpts": [
+              "March 16, 2026. GRTC News. Join GRTC and RideFinders on March 27 as we celebrate six years of fareless service across the Richmond region. Mar 16, 2026 \u2014 March 16, 2026. GRTC News. Join GRTC and RideFinders on March 27 as we celebrate six years of fareless service across the Richmond region.",
+              "celebrate six years of transit connecting the Richmond region."
+            ],
+            "title": "Celebrating Open Access Transit in Richmond - GRTC"
+          },
+          {
+            "url": "https://www.facebook.com/RichmondMag/posts/despite-a-short-lived-funding-panic-grtc-transit-system-buses-will-remain-fare-f/1343595027767856/",
+            "excerpts": [
+              "Despite a short-lived funding panic, GRTC Transit System buses will remain fare-free through July 2026, but the program's financial backing"
+            ],
+            "title": "Despite a short-lived funding panic, GRTC Transit System buses will ..."
+          },
+          {
+            "url": "https://www.wric.com/wp-content/uploads/sites/74/2019/07/ENGLISH-permission-slip.pdf",
+            "excerpts": [
+              "Students will be able to use the pass to travel on routes throughout the. City of Richmond year around, even during the summer months, if the pass is not"
+            ],
+            "title": "GRTC/RPS Ridership Program"
+          },
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "Sep 17, 2024 \u2014 Richmond City Council wants to increase internet speeds , close 'digital divide'. By: Capital News Service - September 17, 2024 5:22 am. Approximately 9.7% of Richmond residents do not have an internet subscription, according to the 2023 American Community Survey one-year"
+            ],
+            "title": "Richmond City Council wants to increase internet speeds ..."
+          },
+          {
+            "url": "https://www.census.gov/quickfacts/fact/table/richmondcityvirginia/INT100224",
+            "excerpts": [
+              "Households with a computer, percent, 2020-2024 \u00b7 Households with a broadband Internet subscription, percent, 2020-2024 ; 94.4% \u00b7 86.2%",
+              "| Households with a broadband Internet subscription, percent, 2020-2024 | 86.2% |"
+            ],
+            "title": "U.S. Census Bureau QuickFacts: Richmond city, Virginia"
+          },
+          {
+            "url": "https://household-survey.fdic.gov/place-data?type=msa&area=Richmond_VA",
+            "excerpts": [
+              "Unbanked Rates by Year. Download Page As ... 2021 2023 NA NA 1.5% Unbanked. Source: Multiyear FDIC National Surveys of Unbanked and Underbanked Households."
+            ],
+            "title": "2023 Survey Results for Richmond, VA"
+          },
+          {
+            "url": "https://youthworks.oedworks.com/doclib/getfile.cfm?fileid=E0CEA639D9C28C1A308D6F023D770C71",
+            "excerpts": [
+              "Mar 7, 2026 \u2014 US Social Security card , US Birth certificate, or US Citizen ID. Card. US Passport, Permanent Resident card, Employment. Authorization Document"
+            ],
+            "title": "youthworks youth application is now open!"
+          },
+          {
+            "url": "https://www.baltimorecountymd.gov/files/Documents/HumanResources/I-9-employment-eligibility-verification.pdf",
+            "excerpts": [
+              "U.S. Passport or U.S. Passport Card . 1. Driver's license or ID card issued by a State or outlying possession of the. United States provided it contains a."
+            ],
+            "title": "I-9 Employment Eligibility Verification Acceptable Documents"
+          },
+          {
+            "url": "https://www.pittsburghpa.gov/files/assets/city/v/1/hr/documents/26-learn-earn-information-packet.pdf",
+            "excerpts": [
+              "4 days ago \u00b7 Applicants will need some basic information to verify age, address, household income, work permit, and identity. A complete list of required."
+            ],
+            "title": "[PDF] 2026 Learn & Earn Information Packet - Pittsburgh, PA"
+          },
+          {
+            "url": "https://www.partner4work.org/uploads/learn-and-earn-2025-resource-packet.pdf",
+            "excerpts": [
+              "Social Security. Number (SSN). Youth's social security card (recommended). OR a signed printout from the social security office showing youth's SSN. OR youth or\u00a0..."
+            ],
+            "title": "[PDF] 2025 Learn & Earn Information Packet - Partner4Work"
+          },
+          {
+            "url": "https://raleighnc.gov/youth/news/apply-now-raleigh-summer-youth-employment-program",
+            "excerpts": [
+              "Jan 21, 2026 \u2014 Be between the ages of 15 and 18 (graduating or current senior in high school) as of May 31, 2026; \u00b7 Live within Raleigh city limits; \u00b7 Attend the"
+            ],
+            "title": "Apply Now! Raleigh Summer Youth Employment Program"
+          },
+          {
+            "url": "https://raleighnc.gov/careers-jobs-and-volunteering/services/raleigh-summer-youth-employment",
+            "excerpts": [
+              "The Raleigh Summer Youth Employment Program (RSYEP) helps teens between the ages of 15 and 18 build real-world skills and prepare for future success by"
+            ],
+            "title": "Raleigh Summer Youth Employment"
+          },
+          {
+            "url": "https://virginiarules.org/varules_topics/teens-and-employment/",
+            "excerpts": [
+              "For those age 14 or 15 , work hours depend on school schedule, day of the week, and occupation. School Year, Summer (defined as June 1 to Labor Day). Between the"
+            ],
+            "title": "Teens and Employment \u2013 Virginia Rules"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "output_report": {
+          "type": "string",
+          "description": "A detailed report in markdown format analyzing the pain points for users of the 'rva-works' project. The report must be organized by persona and include the following sections with markdown headings: 1. **Executive Summary**: A brief overview of the key findings. 2. **Pain Points: Richmond Youth (Age 16-17)**: A detailed analysis of 3-5 concrete pain points for the student persona, including evidence, current workarounds, and the cost of the status quo. Topics must cover information fragmentation, documentation hurdles (I-9, banking), and transportation. 3. **Pain Points: Richmond Parent/Guardian**: A detailed analysis of 3-5 concrete pain points for the parent persona, focusing on trust/safety, the burden of administrative guidance, and financial clarity. 4. **Cross-Cutting Equity Dimensions**: An analysis of how these barriers disproportionately affect vulnerable youth, addressing the digital divide, unbanked status, documentation challenges for specific groups, and transportation limitations. 5. **Insights from Comparable Cities**: A summary of similar challenges found in youth employment programs in cities like Baltimore, Pittsburgh, and Raleigh. All evidence and data must be cited inline within the text."
+        }
+      },
+      "required": [
+        "output_report"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "pain_points.md"
+  }
+}

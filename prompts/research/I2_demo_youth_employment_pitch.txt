@@ -1,0 +1,16 @@
+Demo Strategy I2 — Youth Employment Demo and Pitch Guide
+
+Develop a specific demo script and pitch guide for a Richmond youth employment pathway tool. The audience is hackathon judges who understand civic tech, may include City representatives, and will evaluate clarity, credibility, and realistic impact.
+
+The demo should: open with a specific Richmond teen user scenario (not a statistic), show a believable 4–5 step tool walkthrough, explain what makes the content credible (sources, links to official guidance), name a real partner organization that could continue the work, and address the data limitation (no pre-existing dataset) honestly and confidently.
+
+Cover: how to handle judge skepticism about data freshness, how to explain the privacy design, and how to make the continuation case without overclaiming.
+
+Output
+- Opening hook (30–45 seconds)
+- Tool walkthrough script (2–3 minutes)
+- Credibility and limits statement (30 seconds)
+- Continuation pitch (30 seconds)
+- Anticipated judge questions and responses
+- Inferences (clearly labeled)
+- Unknowns

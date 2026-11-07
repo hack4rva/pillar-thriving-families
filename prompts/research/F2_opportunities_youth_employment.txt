@@ -1,0 +1,12 @@
+Opportunities F2 — Youth Employment Opportunity Spaces
+
+Identify the most promising software-shaped opportunities within the youth employment problem area for Richmond. Focus on opportunities that are: (a) solvable with public information and manual content curation, (b) valuable to teens without strong adult support networks, and (c) demonstrable by Sunday.
+
+For each opportunity: describe the specific user pain it addresses, the content or data required, the simplest useful implementation, and what success looks like in a 48-hour demo.
+
+Include at least one opportunity focused on discovery, one on preparation, and one on employer friction.
+
+Output
+- Opportunity descriptions with user, pain, content/data, implementation approach, and demo success criteria
+- Inferences (clearly labeled)
+- Unknowns

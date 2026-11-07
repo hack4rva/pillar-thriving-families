@@ -1,0 +1,16 @@
+Data Inventory D2 — Virginia Department of Health Maternal Health Data
+
+Research the Virginia Department of Health (VDH) maternal health data that is publicly available. Focus on what is available for Richmond specifically (or at the planning district / locality level).
+
+Cover: which data tables or reports VDH publishes (maternal mortality, infant mortality, preterm birth, prenatal care, birth outcomes by race), at what geographic granularity, with what update frequency, and in what format (web tables, CSV, Excel, PDF).
+
+Identify the specific VDH pages or data portals where this data lives, what the most recent data vintage is, and whether the data has a consistent schema across years.
+
+This data will be used in a maternal health indicator dashboard for researchers, not for patient-facing guidance.
+
+Output
+- Verified facts with VDH source titles (no URLs in text; runner will extract from search_results)
+- Schema description: key fields, geographic granularity, temporal coverage
+- Data quality notes (known gaps, inconsistencies, suppressed cells)
+- Inferences (clearly labeled)
+- Unknowns

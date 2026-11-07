@@ -1,0 +1,16 @@
+Demo Strategy I3 — Maternal Health Data Demo and Pitch Guide
+
+Develop a specific demo script and pitch guide for a Richmond maternal health data coordination tool. The audience is hackathon judges who may include health policy advocates, City representatives, and civic tech evaluators.
+
+The demo should: open with a specific researcher user scenario (the "fifth time recreating this spreadsheet" problem), show a believable 4–5 step tool walkthrough, explain what makes the data credible (named sources, methodology notes, vintage dates), name a real potential partner organization, and address the "why haven't organizations done this already" question honestly.
+
+Cover: how to handle judge questions about data accuracy, how to explain what the tool does NOT do (no clinical guidance), and how to frame the value proposition in terms of researcher time saved and grant application consistency.
+
+Output
+- Opening hook (30–45 seconds)
+- Tool walkthrough script (2–3 minutes)
+- Credibility and limits statement (30 seconds)
+- Continuation pitch (30 seconds)
+- Anticipated judge questions and responses
+- Inferences (clearly labeled)
+- Unknowns

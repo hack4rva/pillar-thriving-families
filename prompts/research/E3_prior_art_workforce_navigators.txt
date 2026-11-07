@@ -1,0 +1,14 @@
+Prior Art E3 — Workforce Pathway Navigator Tools
+
+Research the landscape of workforce pathway navigator tools — tools that help users (especially inexperienced users) understand multi-step processes for entering employment or a career pathway. Include examples from youth-focused tools, adult workforce tools, and civic-tech projects.
+
+For each tool: describe the navigation approach (wizard, checklist, decision tree, chatbot), the content model (curated vs. live data), what the user outcome is, and whether the tool has been evaluated for effectiveness.
+
+Assess: what makes a pathway navigator usable by someone with no prior knowledge of the system, what the minimum viable content set is for a youth employment navigator, and how tools handle the problem of stale information.
+
+Output
+- Tool inventory with navigation approach and content model
+- Lessons for a Richmond youth employment navigator
+- Minimum viable content set (what you absolutely need for a credible demo)
+- Inferences (clearly labeled)
+- Unknowns

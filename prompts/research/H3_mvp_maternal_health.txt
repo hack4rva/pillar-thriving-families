@@ -1,0 +1,17 @@
+MVP Feasibility H3 — Aggregating Public Health Data in 48 Hours
+
+Develop a concrete build strategy for a Richmond maternal health data aggregator MVP in 48 hours. Cover both the data access path and the UI build path.
+
+Data path: how to obtain a Census API key (timing requirements), which ACS tables to pull for Richmond, how to download VDH data (what to do if the format is inconsistent), how to download Kids Count Virginia CSV data, and how to normalize the data into a standard schema.
+
+UI path: what technology stack requires the least setup for a data dashboard demo (Streamlit, Observable, static HTML with Chart.js), what the minimum dashboard looks like (6–8 indicator cards with source citation), and how to handle the demo if live API calls fail.
+
+Include: what to do if VDH data access takes longer than expected, and what a content-only fallback looks like (indicator dictionary without live data).
+
+Output
+- Data access step-by-step with time estimates
+- Recommended tech stack with rationale
+- Minimum dashboard specification
+- Fallback plan if data access fails
+- Inferences (clearly labeled)
+- Unknowns

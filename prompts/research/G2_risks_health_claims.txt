@@ -1,0 +1,15 @@
+Risks G2 — Health Claims and Harm from Maternal Health Data Tools
+
+Research the risks of incorrect, misleading, or overclaimed maternal health data in a civic-tech tool targeting Richmond researchers and advocates.
+
+Cover: what kinds of errors in health data presentation lead to real-world harm (incorrect resource allocation, flawed grant applications, misleading advocacy claims), what standards exist for presenting public health data accurately, what disclaimers and caveats are standard practice, and what happens when indicator definitions differ across sources.
+
+Also address: the risk of a data tool being interpreted as clinical guidance when it is not intended as such, and how to design against this risk.
+
+Output
+- Harm scenarios with likelihood and severity assessment
+- Standard disclaimer language for health data tools
+- Design patterns that reduce misinterpretation risk
+- Source citation requirements for each indicator type
+- Inferences (clearly labeled)
+- Unknowns

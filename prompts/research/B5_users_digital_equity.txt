@@ -1,0 +1,17 @@
+User & Stakeholder B5 — Digital Equity: Teen Access to Technology in Richmond
+
+Investigate the digital equity landscape for Richmond teens ages 14–18. Identify: what share of teens have reliable smartphone access, what share have home internet access, what disparities exist by neighborhood or income, and what barriers exist to using web-based tools for job searching and application.
+
+Also investigate: language accessibility needs for Richmond teen populations (Spanish, other languages), and what low-bandwidth or offline-friendly approaches exist for youth-facing tools.
+
+Use only verifiable public sources (Census, ACS, FCC, school district data, nonprofit research). Clearly label inferences.
+
+This research informs accessibility decisions for an MVP targeting Richmond youth employment access.
+
+Output
+- Facts on device and internet access for Richmond teens (with source titles)
+- Disparities by income/neighborhood (if documented)
+- Language access considerations
+- Implications for MVP design choices (mobile-first, offline fallback, etc.)
+- Inferences (clearly labeled)
+- Unknowns

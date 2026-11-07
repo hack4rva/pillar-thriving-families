@@ -1,0 +1,12 @@
+Opportunities F3 — Maternal Health Data Opportunity Spaces
+
+Identify the most promising software-shaped opportunities within the maternal health data coordination problem area for Richmond. Focus on opportunities that: (a) use publicly available data sources (VDH, ACS, Kids Count, VDOE), (b) reduce duplicated effort for researchers, and (c) can be demonstrated by Sunday.
+
+For each opportunity: describe the specific organizational pain it addresses, the data sources required, the simplest useful implementation (dashboard, indicator dictionary, aggregation script, etc.), and what success looks like in a 48-hour demo.
+
+Include at least one opportunity that works even if live API access is not established during the hackathon.
+
+Output
+- Opportunity descriptions with user, pain, data sources, implementation approach, and demo success criteria
+- Inferences (clearly labeled)
+- Unknowns

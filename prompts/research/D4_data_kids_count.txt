@@ -1,0 +1,14 @@
+Data Inventory D4 — Annie E. Casey Kids Count Virginia
+
+Research the Annie E. Casey Foundation Kids Count data center for Virginia. Focus on indicators available for Richmond specifically (at the city or locality level) that are relevant to maternal health and family wellbeing.
+
+Cover: which indicators are available for Richmond (infant mortality, low birth weight, preterm birth, poverty, health insurance coverage, school readiness), what the most recent data vintage is, how to download data (CSV, API, web), and whether the data can be filtered to Richmond specifically.
+
+Also assess: how consistent the Kids Count indicator definitions and methodology are across years, and whether they align with VDH definitions for the same indicators (e.g., do they use the same infant mortality definition?).
+
+Output
+- Indicator inventory with Richmond availability, vintage, and access method
+- Methodology comparison with VDH for overlapping indicators
+- Download instructions or access method
+- Inferences (clearly labeled)
+- Unknowns

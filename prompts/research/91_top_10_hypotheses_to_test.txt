@@ -1,0 +1,11 @@
+Cross-Cutting — Top 10 Hypotheses to Test
+
+Generate the 10 most testable hypotheses for civic-tech teams working on the Thriving Families pillar in Richmond, Virginia. Hypotheses should be specific enough to inform MVP design and evaluation criteria.
+
+Include hypotheses spanning both youth employment and maternal health data coordination. Include at least 2 hypotheses that could be invalidated by user research during the hackathon.
+
+Output
+- 10 numbered hypotheses
+- For each: what would confirm or disconfirm it, what evidence already supports it, and what risk it poses if the hypothesis is wrong
+- Inferences (clearly labeled)
+- Unknowns

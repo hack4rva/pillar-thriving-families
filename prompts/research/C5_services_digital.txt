@@ -1,0 +1,15 @@
+Services Landscape C5 — Digital Service Delivery for Youth and Health in Richmond
+
+Investigate the current digital touchpoints for youth workforce and health service delivery in Richmond. Focus on what exists today: websites, apps, portals, and online tools used by teens seeking employment, by employers hiring youth, and by health organizations accessing data.
+
+For youth employment: what web presence do the major programs have? Is there a mobile app? Can teens apply online? Is there a single place that aggregates opportunities?
+
+For maternal health: what digital tools do Richmond health organizations currently use to access VDH, ACS, and other public data? Do any organizations use dashboards or shared workspaces?
+
+Identify where digital delivery is working and where it is absent or inadequate.
+
+Output
+- Digital touchpoints inventory for each problem area
+- Assessment of gaps in digital coverage
+- Inferences about user digital experience (clearly labeled)
+- Unknowns

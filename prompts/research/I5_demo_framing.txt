@@ -1,0 +1,13 @@
+Demo Strategy I5 — Framing the Thriving Families Demo for Maximum Impact
+
+Develop a framing guide for Thriving Families teams presenting at the Richmond Civic Hackathon. Focus on how to frame a weekend prototype as a credible, responsible, and impactful civic contribution — without overclaiming.
+
+Cover: how to frame the problem as a Richmond-specific issue with specific communities affected, how to connect the tool to the MAP (Master Action Plan) framework if relevant, how to position the prototype as a starting point that validates a concept rather than a finished product, how to make the "what's next" case compelling without promising things you cannot deliver, and how to present ethical constraints as design strengths rather than apologies.
+
+Output
+- Framing language guide
+- Connection to MAP and City priorities
+- "Starting point" framing vs. "finished product" language
+- Ethical constraints as design strengths
+- Inferences (clearly labeled)
+- Unknowns

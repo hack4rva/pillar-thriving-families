@@ -1,0 +1,13 @@
+User & Stakeholder B3 — Personas: Maternal Health Researcher at a Richmond Nonprofit
+
+Identify the likely primary user personas for a Richmond maternal health data coordination tool. Focus on staff at nonprofits, City agencies, and advocacy organizations who compile and analyze maternal health data for reports, grant applications, and program planning.
+
+Describe: what each persona is trying to accomplish, what data sources they currently use, what manual steps they take to compile and reconcile data, what frustrates them about the current process, and what a "good enough" shared tool would look like for them.
+
+Include variation across experience levels (seasoned analyst vs. program coordinator who occasionally does data work) and organization types (City agency, advocacy nonprofit, health org).
+
+Output
+- 3–4 personas with goals, current workflow, pain points, and success criteria
+- What each persona would need to trust a shared data tool
+- Inferences (clearly labeled)
+- Unknowns

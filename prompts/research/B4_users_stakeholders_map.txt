@@ -1,0 +1,13 @@
+User & Stakeholder B4 — Stakeholder Map: Youth Workforce Ecosystem in Richmond
+
+Map the full stakeholder ecosystem around youth employment in Richmond, Virginia. Identify: which organizations run youth employment programs, which City agencies have a role, which schools and community centers are involved, which employers are known to hire youth, and which intermediaries (such as workforce boards or foundations) coordinate between them.
+
+For each stakeholder category, describe: their role in the youth employment pathway, whether they are currently coordinating with other stakeholders, and where they have gaps or pain points that a technology tool could address.
+
+Reference any Richmond-specific programs, organizations, or contacts mentioned in public sources.
+
+Output
+- Stakeholder map by category (programs, employers, City, schools, community)
+- Coordination gaps between stakeholder categories
+- Inferences (clearly labeled)
+- Unknowns (who is missing from the public record)

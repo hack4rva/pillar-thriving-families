@@ -1,0 +1,359 @@
+[
+  {
+    "id": "00_pillar_summary_context",
+    "section": "context",
+    "title": "Closing Richmond's Data Gaps: Tech Paths to Youth Jobs & Maternal Health Wins",
+    "summary": "Executive summary of Richmond's Thriving Families problem space: fragmented youth employment ecosystem and siloed maternal health data. Covers Youth Works RVA, DOLI work permits, GRTC Zero Fare transit, and VDH/KIDS COUNT data gaps.",
+    "key_terms": ["youth employment", "maternal health", "Youth Works RVA", "DOLI", "GRTC", "data coordination"]
+  },
+  {
+    "id": "01_master_research_prompt",
+    "section": "master",
+    "title": "Thriving Families, Faster: Closing Richmond's First-Job and Maternal Data Gaps in 48 Hours",
+    "summary": "Comprehensive research framework spanning both Thriving Families problem statements: youth employment pathways and maternal health data coordination. Covers the full arc from problem landscape to demo strategy.",
+    "key_terms": ["hackathon", "youth employment", "maternal health data", "48-hour", "MVP", "Richmond"]
+  },
+  {
+    "id": "90_top_10_research_questions",
+    "section": "cross-cutting",
+    "title": "Thriving Families RVA MVP: The 10 Unknowns That Will Make or Break It",
+    "summary": "Ten prioritized research questions whose answers determine hackathon MVP viability for both problem domains. Covers data availability, user needs, compliance risks, and demo requirements.",
+    "key_terms": ["research questions", "unknowns", "MVP viability", "data readiness", "user needs", "compliance"]
+  },
+  {
+    "id": "91_top_10_hypotheses_to_test",
+    "section": "cross-cutting",
+    "title": "Building MVPs That Matter: Testable Paths to Thriving Families in Richmond",
+    "summary": "Ten testable hypotheses for youth employment and maternal health MVPs, with validation approaches and risk flags for each. Grounds team decisions in evidence rather than assumptions.",
+    "key_terms": ["hypotheses", "testable", "MVP validation", "youth employment", "maternal health", "risk flags"]
+  },
+  {
+    "id": "92_red_flags",
+    "section": "cross-cutting",
+    "title": "Build Safely: Red Flags That Can Derail Richmond's Thriving Families Tech",
+    "summary": "Warning signs and anti-patterns for both problem domains: minor data privacy risks, medical claim liability, over-reliance on unavailable data, and integration dependencies that block demos.",
+    "key_terms": ["red flags", "anti-patterns", "minor data privacy", "medical claims", "integration risk", "demo blockers"]
+  },
+  {
+    "id": "93_missing_information_gaps",
+    "section": "cross-cutting",
+    "title": "Unblocking Richmond's Thriving Families MVP: High-impact data gaps, 48-hour bridges, and risk-proof choices",
+    "summary": "Catalog of critical information gaps that affect both problem statements, with practical bridging strategies for each gap that can be executed within a 48-hour hackathon window.",
+    "key_terms": ["information gaps", "data gaps", "48-hour bridges", "workarounds", "risk-proof", "youth employment"]
+  },
+  {
+    "id": "A1_problem_landscape_youth_employment",
+    "section": "A",
+    "title": "Breaking the First-Job Bottleneck: How Richmond Teens Actually Reach Work (or Don't)",
+    "summary": "Root cause analysis of youth employment barriers in Richmond: fragmented program discovery, DOLI work permit sequencing, document barriers, GRTC transit dependency, and lack of a unified job marketplace for teens.",
+    "key_terms": ["youth employment", "first job", "bottleneck", "DOLI work permit", "program discovery", "Youth Works RVA"]
+  },
+  {
+    "id": "A2_problem_landscape_maternal_health_data",
+    "section": "A",
+    "title": "Richmond's Maternal Data Maze: Who Holds What, Why It Conflicts, and How to Fix It",
+    "summary": "Analysis of maternal health data fragmentation in Richmond: multiple agencies holding overlapping datasets (VDH, ACS, KIDS COUNT), duplicate analysis burden on nonprofits, and the coordination gap that a shared schema could close.",
+    "key_terms": ["maternal health", "data fragmentation", "VDH", "KIDS COUNT", "shared schema", "data coordination"]
+  },
+  {
+    "id": "A3_problem_landscape_compare_statements",
+    "section": "A",
+    "title": "Two Paths to Thriving Families—Which Ships by Sunday, Which Scales by Policy",
+    "summary": "Side-by-side comparison of Youth Employment (D3=1, data scarce) versus Maternal Health Data Coordination (D3=3, data exists) for hackathon viability. Recommends maternal health for data-dependent teams and youth employment for content curation teams.",
+    "key_terms": ["problem comparison", "youth employment", "maternal health", "D3 score", "hackathon viability", "data readiness"]
+  },
+  {
+    "id": "A4_problem_landscape_workforce_pathways",
+    "section": "A",
+    "title": "Breaking the Richmond Teen Job Funnel: Where Motivated Youth Stall—and How to Unblock Each Step",
+    "summary": "Step-by-step analysis of the Richmond teen job funnel from discovery through onboarding, identifying the stall points at each stage: awareness, eligibility, documentation, compliance, and placement.",
+    "key_terms": ["teen job funnel", "workforce pathways", "stall points", "onboarding", "documentation barriers", "eligibility"]
+  },
+  {
+    "id": "A5_problem_landscape_health_equity",
+    "section": "A",
+    "title": "Richmond's Maternal Health Equity Gaps: Where to Aim the Next Dollar",
+    "summary": "Equity-focused landscape of maternal health disparities in Richmond: racial and geographic disparities in outcomes, which data sources capture them, and where software tools can support targeted resource allocation.",
+    "key_terms": ["maternal health equity", "racial disparities", "geographic disparities", "Richmond", "health outcomes", "resource allocation"]
+  },
+  {
+    "id": "B1_users_youth_jobseeker",
+    "section": "B",
+    "title": "Designing for Real Teens: Richmond's 14–18 Job Seekers, Their Barriers, and the Supports That Actually Move Them to Work",
+    "summary": "User persona and journey for Richmond youth job seekers ages 14–18: digital access patterns, documentation barriers, trust factors, communication preferences, and what support structures actually result in job placements.",
+    "key_terms": ["youth jobseeker", "teen user", "14-18", "digital access", "barriers", "user persona"]
+  },
+  {
+    "id": "B2_users_employer",
+    "section": "B",
+    "title": "Richmond SMB Youth Hiring Personas: Compliance-Smart, Confidence-Ready Matches",
+    "summary": "User personas for Richmond small and mid-size employers who hire youth: compliance anxiety around child labor laws, documentation requirements, and what tools would reduce friction enough to expand youth hiring.",
+    "key_terms": ["employer", "small business", "youth hiring", "compliance", "child labor", "employer persona"]
+  },
+  {
+    "id": "B3_users_maternal_health_researcher",
+    "section": "B",
+    "title": "Who Uses Richmond's Maternal Data—and What a Trusted Tool Must Do",
+    "summary": "User persona for maternal health data users in Richmond: nonprofit researchers, grant writers, and program directors who currently duplicate data analysis. Describes what a trusted shared tool must provide to earn adoption.",
+    "key_terms": ["maternal health", "data user", "researcher", "nonprofit", "grant writing", "data trust"]
+  },
+  {
+    "id": "B4_users_stakeholders_map",
+    "section": "B",
+    "title": "From Classrooms to Paychecks: Mapping Richmond's Youth Employment Ecosystem and Fixing the Gaps",
+    "summary": "Stakeholder map of Richmond's youth employment ecosystem: city agencies, schools, nonprofits, employers, and intermediaries. Identifies coordination gaps and which stakeholders are positioned to champion a digital solution.",
+    "key_terms": ["stakeholder map", "youth employment", "ecosystem", "coordination gaps", "champions", "intermediaries"]
+  },
+  {
+    "id": "B5_users_digital_equity",
+    "section": "B",
+    "title": "Richmond Teens, Real Access: Designing a Mobile-First, Offline-Safe MVP",
+    "summary": "Digital equity analysis for Richmond youth: smartphone vs. desktop access, data plan constraints, offline needs, and design requirements for reaching teens who lack reliable broadband. Guides MVP architecture decisions.",
+    "key_terms": ["digital equity", "mobile-first", "offline", "smartphone access", "broadband", "accessibility"]
+  },
+  {
+    "id": "C1_services_youth_workforce_programs",
+    "section": "C",
+    "title": "Richmond Teen Workforce Programs 2026 — Where to Place, When to Apply, What to Fix",
+    "summary": "Inventory of Richmond youth workforce programs for 2026: Youth Works RVA, RPS work-based learning, Girls For A Change, Boys & Girls Club, Freedom School, CHAT. Includes eligibility windows, application deadlines, and known gaps.",
+    "key_terms": ["workforce programs", "Youth Works RVA", "Girls For A Change", "Boys and Girls Club", "application deadlines", "program inventory"]
+  },
+  {
+    "id": "C2_services_workforce_landscape",
+    "section": "C",
+    "title": "Richmond Youth Employment: Who Serves Whom, How They Coordinate, and Where to Build Next",
+    "summary": "Landscape of who serves which youth populations, how programs currently coordinate (or don't), and where technology could improve referral, tracking, or capacity matching across the ecosystem.",
+    "key_terms": ["services landscape", "coordination", "referral", "capacity matching", "program gaps", "youth workforce"]
+  },
+  {
+    "id": "C3_services_maternal_health_orgs",
+    "section": "C",
+    "title": "Richmond Maternal Health Data Users — Who Publishes What, Who Needs What, and Where a Shared Tool Fits Now",
+    "summary": "Map of Richmond maternal health organizations and their data publishing/consuming roles: VDH, health systems, nonprofits, and community health workers. Identifies where a shared data dashboard would eliminate duplicated analysis.",
+    "key_terms": ["maternal health organizations", "VDH", "data publishers", "community health", "shared dashboard", "data consumers"]
+  },
+  {
+    "id": "C4_services_gaps",
+    "section": "C",
+    "title": "Closing the Gaps in Richmond: Youth Jobs Access and Maternal Data Coordination",
+    "summary": "Service gap analysis for both problem domains: what exists versus what is missing in Richmond's youth employment and maternal health data service landscape, with gap severity ratings.",
+    "key_terms": ["service gaps", "youth jobs", "maternal data", "gap analysis", "missing services", "Richmond"]
+  },
+  {
+    "id": "C5_services_digital",
+    "section": "C",
+    "title": "Closing the Digital Gap: Youth Jobs and Maternal Health Data Tools in Richmond",
+    "summary": "Assessment of existing digital tools and portals in Richmond's youth employment and maternal health spaces: what tools exist, what they fail to do, and where a hackathon prototype fills a real gap.",
+    "key_terms": ["digital tools", "portals", "youth jobs", "maternal health", "tool gaps", "prototype opportunity"]
+  },
+  {
+    "id": "D1_data_youth_labor",
+    "section": "D",
+    "title": "Virginia Teen Work Compliance 2026: Permits, Hours, Hazards, and Curfew—Ages 14–18",
+    "summary": "Detailed reference on Virginia child labor law and DOLI work permit requirements for teens ages 14–18: permit process, hour restrictions by age, prohibited occupations, curfew rules, and I-9 documentation requirements.",
+    "key_terms": ["DOLI", "work permit", "child labor law", "Virginia", "employment certificate", "teen work compliance"]
+  },
+  {
+    "id": "D2_data_vdh_maternal",
+    "section": "D",
+    "title": "Virginia Maternal Health Data Playbook: Pinpointing Richmond-Ready Indicators",
+    "summary": "Guide to Virginia Department of Health maternal health datasets: which indicators are available at city/locality level, data update cadence, download formats, and which metrics are Richmond-ready for a hackathon dashboard.",
+    "key_terms": ["VDH", "maternal health data", "indicators", "Richmond", "locality data", "data download"]
+  },
+  {
+    "id": "D3_data_census_acs",
+    "section": "D",
+    "title": "ACS building blocks for a Richmond maternal health equity dashboard",
+    "summary": "American Community Survey table codes and geographies for a Richmond maternal health equity dashboard: poverty rate, uninsured rate, maternal age demographics, race/ethnicity breakdowns, and how to pull them via Census API.",
+    "key_terms": ["ACS", "Census", "maternal health", "equity", "table codes", "Richmond demographics"]
+  },
+  {
+    "id": "D4_data_kids_count",
+    "section": "D",
+    "title": "KIDS COUNT for Richmond: Maternal Health and Family Wellbeing, Ready for Action",
+    "summary": "Annie E. Casey KIDS COUNT Data Center as a data source for Richmond family and maternal wellbeing indicators: available metrics, geography support, API access, and how to integrate with a hackathon dashboard.",
+    "key_terms": ["KIDS COUNT", "Annie E. Casey", "family wellbeing", "Richmond", "data API", "maternal indicators"]
+  },
+  {
+    "id": "D5_data_grtc_transit",
+    "section": "D",
+    "title": "GRTC GTFS, Fast: From Open Feeds to 'Nearest Bus Stop' in 48 Hours",
+    "summary": "Technical guide to GRTC's GTFS transit feed for Richmond: how to download, parse, and overlay bus routes on a youth employment map. Covers Zero Fare routes, GTFS stops schema, and a 48-hour implementation path.",
+    "key_terms": ["GRTC", "GTFS", "transit data", "Zero Fare", "bus stops", "transit overlay"]
+  },
+  {
+    "id": "E1_prior_art_youth_employment",
+    "section": "E",
+    "title": "Urban Youth Employment Tech — What Works and What Richmond Needs Now",
+    "summary": "Survey of youth employment technology tools in other US cities: job portals, compliance wizards, navigator apps. Identifies patterns that transferred successfully and patterns that failed, with relevance ratings for Richmond.",
+    "key_terms": ["prior art", "youth employment tech", "comparable tools", "job portals", "navigator apps", "national examples"]
+  },
+  {
+    "id": "E2_prior_art_health_dashboards",
+    "section": "E",
+    "title": "Building Trustworthy Maternal & Community Health Dashboards for Richmond Stakeholders",
+    "summary": "Survey of maternal and community health dashboard implementations nationally: design patterns that build trust, data governance models, update mechanisms, and lessons learned for Richmond's context.",
+    "key_terms": ["health dashboards", "maternal health", "data trust", "dashboard design", "prior art", "community health"]
+  },
+  {
+    "id": "E3_prior_art_workforce_navigators",
+    "section": "E",
+    "title": "Pathways That Work: Evidence-Based Navigator Patterns for First-Time Jobseekers",
+    "summary": "Evidence base for workforce navigator tools aimed at first-time youth jobseekers: what interaction patterns reduce dropout, which features produce employment outcomes, and which design choices backfire.",
+    "key_terms": ["workforce navigators", "first-time jobseekers", "navigator patterns", "evidence-based", "job outcomes", "youth tools"]
+  },
+  {
+    "id": "E4_prior_art_failures",
+    "section": "E",
+    "title": "Build What Sticks: Avoiding Civic-Tech Pitfalls for Thriving Families",
+    "summary": "Case studies of civic tech failures in youth employment and health data domains: over-engineered platforms, data governance breakdowns, adoption failures, and maintenance cliff edges that killed otherwise sound prototypes.",
+    "key_terms": ["civic tech failures", "anti-patterns", "adoption failure", "maintenance cliff", "pitfalls", "Thriving Families"]
+  },
+  {
+    "id": "E5_prior_art_weekend_viable",
+    "section": "E",
+    "title": "From Weekend Hack to Civic Impact: What Actually Works",
+    "summary": "Analysis of civic hackathon projects that achieved real-world adoption: what made them succeed (narrow scope, real users, public data, handoff plan) versus projects that vanished after demo day.",
+    "key_terms": ["weekend hackathon", "civic impact", "adoption", "narrow scope", "public data", "handoff"]
+  },
+  {
+    "id": "F1_opportunities_ranked",
+    "section": "F",
+    "title": "48-Hour Civic Tech Wins: Ranked, Low-Risk Opportunity Spaces in Youth Employment and Maternal Health",
+    "summary": "Ranked list of solution opportunities across both Thriving Families domains, scored on data readiness, user clarity, demo feasibility, and risk level. Primary reference for team opportunity selection.",
+    "key_terms": ["opportunities ranked", "solution spaces", "data readiness", "demo feasibility", "risk level", "opportunity selection"]
+  },
+  {
+    "id": "F2_opportunities_youth_employment",
+    "section": "F",
+    "title": "Richmond Teens to Paychecks: Fast, Software-Shaped Wins by Sunday",
+    "summary": "Specific software-shaped opportunities in the youth employment domain that are buildable in 48 hours: program directory, compliance wizard, transit overlay, and employer readiness tools. Includes scope boundaries for each.",
+    "key_terms": ["youth employment opportunities", "software-shaped", "48-hour", "program directory", "compliance wizard", "transit overlay"]
+  },
+  {
+    "id": "F3_opportunities_maternal_health",
+    "section": "F",
+    "title": "Richmond Maternal Data: Fast, Open, and Actionable in 48 Hours",
+    "summary": "Specific software-shaped opportunities in maternal health data coordination: shared indicator dashboard, data aggregator, and reporting template generator. Uses VDH, ACS, and KIDS COUNT as open data sources.",
+    "key_terms": ["maternal health opportunities", "data dashboard", "VDH", "ACS", "KIDS COUNT", "48-hour"]
+  },
+  {
+    "id": "F4_opportunities_where_software",
+    "section": "F",
+    "title": "Software That Actually Moves the Needle: A hard-nosed map of where code helps (and doesn't) in youth jobs and maternal health data",
+    "summary": "Honest assessment of where software can and cannot make a difference in the two Thriving Families domains: distinguishing software-shaped problems from policy-shaped ones and integration-dependent ones.",
+    "key_terms": ["where software helps", "software limits", "policy-shaped", "integration-dependent", "honest assessment", "problem-fit"]
+  },
+  {
+    "id": "F5_opportunities_do_not_build",
+    "section": "F",
+    "title": "Thriving Families Hackathon: Avoiding Regulatory Tripwires with Safer Builds",
+    "summary": "Explicit list of solution directions to avoid: eligibility determination tools, medical advice features, systems requiring official integration, and anything touching minor PII. Explains the regulatory and ethical tripwires for each.",
+    "key_terms": ["do not build", "regulatory tripwires", "eligibility tools", "minor PII", "medical advice", "integration dependencies"]
+  },
+  {
+    "id": "G1_risks_minor_data_privacy",
+    "section": "G",
+    "title": "Build Youth Jobs Tools That Skip the Privacy Minefield",
+    "summary": "Privacy risk analysis specific to youth-facing tools: COPPA implications for under-13, FERPA for school-linked data, what data can be displayed publicly versus must be anonymized, and safe design patterns.",
+    "key_terms": ["minor data privacy", "COPPA", "FERPA", "youth data", "privacy risks", "safe design"]
+  },
+  {
+    "id": "G2_risks_health_claims",
+    "section": "G",
+    "title": "Designing Truth: Preventing Harm from Maternal Health Data Misuse in Richmond's Civic-Tech Tools",
+    "summary": "Risk analysis for maternal health data tools: what constitutes a harmful health claim, how to display statistics without implying medical advice, visual design guardrails, and disclaimer requirements.",
+    "key_terms": ["health claims", "maternal health risks", "harmful claims", "data display", "medical advice", "visual guardrails"]
+  },
+  {
+    "id": "G3_risks_inclusion",
+    "section": "G",
+    "title": "Designing for the Teens Who Need It Most: An inclusion risk playbook for a Richmond youth jobs navigator",
+    "summary": "Inclusion risk analysis for a Richmond youth jobs navigator: digital access gaps, language barriers, disability accessibility, and how design choices can inadvertently exclude the teens with the highest need.",
+    "key_terms": ["inclusion", "digital access", "language barriers", "accessibility", "youth navigator", "exclusion risk"]
+  },
+  {
+    "id": "G4_risks_data_quality",
+    "section": "G",
+    "title": "Thriving Families: Data Quality Risks and No-API Mitigations",
+    "summary": "Data quality risks in both problem domains: stale program listings, unreliable scraping targets, VDH data update lags, and practical mitigations for teams that cannot wait for clean data before building.",
+    "key_terms": ["data quality", "stale data", "scraping risks", "VDH data lag", "no-API mitigations", "data reliability"]
+  },
+  {
+    "id": "G5_risks_guardrails",
+    "section": "G",
+    "title": "Building Safe-by-Design Thriving Families Tools: Guardrails That Ship",
+    "summary": "Comprehensive guardrails checklist for Thriving Families tools: content limits, user flow constraints, AI behavior limits, data display rules, and review checkpoints that can be implemented within a hackathon timeline.",
+    "key_terms": ["guardrails", "safe-by-design", "content limits", "AI constraints", "data display rules", "hackathon checklist"]
+  },
+  {
+    "id": "H1_mvp_48hr_framework",
+    "section": "H",
+    "title": "48-Hour Civic Build Playbook: Minimum-Credible MVPs for Thriving Families (Youth Employment Edition)",
+    "summary": "Framework for determining MVP credibility within 48 hours: what a minimum-credible prototype requires, how to scope features against data availability, and the demo-ready definition of done for youth employment tools.",
+    "key_terms": ["MVP framework", "48-hour", "minimum-credible", "prototype", "demo-ready", "youth employment"]
+  },
+  {
+    "id": "H2_mvp_youth_employment",
+    "section": "H",
+    "title": "48-Hour Richmond Youth Jobs MVP — Manual Curation to Mobile Demo",
+    "summary": "Concrete MVP build plan for a Richmond youth jobs navigator: manual content curation strategy, GRTC transit overlay, DOLI compliance wizard, mobile-first UI, and a step-by-step 48-hour build timeline.",
+    "key_terms": ["youth jobs MVP", "manual curation", "mobile demo", "GRTC overlay", "compliance wizard", "build timeline"]
+  },
+  {
+    "id": "H3_mvp_maternal_health",
+    "section": "H",
+    "title": "48-hour Richmond Maternal Health MVP — Fast, Resilient Data + Dashboard Plan",
+    "summary": "Concrete MVP build plan for a Richmond maternal health data dashboard: which VDH, ACS, and KIDS COUNT datasets to use, schema normalization steps, dashboard wireframe, and a 48-hour build timeline.",
+    "key_terms": ["maternal health MVP", "data dashboard", "VDH", "ACS", "KIDS COUNT", "build plan"]
+  },
+  {
+    "id": "H4_mvp_data_constraints",
+    "section": "H",
+    "title": "From Zero to Useful: Shipping a Youth Jobs MVP in Richmond Without a Dataset",
+    "summary": "Strategies for shipping a useful youth employment MVP when compiled datasets do not exist (D3=1): manual curation approach, seed data from public sources, and how to frame data gaps honestly in the demo.",
+    "key_terms": ["data constraints", "D3=1", "manual curation", "seed data", "no dataset", "youth jobs"]
+  },
+  {
+    "id": "H5_mvp_scope_boundaries",
+    "section": "H",
+    "title": "Thriving Families MVP Boundaries: Build-Now Decisions That Ship",
+    "summary": "Explicit scope boundary decisions for both MVP types: what must be in the demo, what can be mocked, what must be deferred, and how to defend scope decisions to judges.",
+    "key_terms": ["scope boundaries", "MVP decisions", "demo must-haves", "mockable features", "deferred features", "judge framing"]
+  },
+  {
+    "id": "I1_demo_archetypes",
+    "section": "I",
+    "title": "Winning Civic-Tech Demos: 5 Proven Archetypes Judges Reward",
+    "summary": "Five demo archetypes that civic tech judges consistently reward: problem-then-solution narrative, user journey walkthrough, data surfacing demo, before-and-after contrast, and the honest-about-limits close.",
+    "key_terms": ["demo archetypes", "judge behavior", "civic tech demos", "narrative structure", "presentation patterns", "winning demos"]
+  },
+  {
+    "id": "I2_demo_youth_employment_pitch",
+    "section": "I",
+    "title": "Richmond Youth Jobs Navigator — Credible, Privacy-Safe Pathways That Work",
+    "summary": "Pitch guide for a Richmond youth jobs navigator demo: opening hook, data credibility evidence, user journey walkthrough, privacy and compliance framing, and the handoff statement for judges.",
+    "key_terms": ["youth jobs pitch", "demo guide", "credibility", "privacy framing", "user journey", "handoff"]
+  },
+  {
+    "id": "I3_demo_maternal_health_pitch",
+    "section": "I",
+    "title": "Grant-Ready Richmond Maternal Health: Credible Data, 5-Step Demo",
+    "summary": "Five-step demo guide for a Richmond maternal health data dashboard: framing the data coordination problem, showing the dashboard, explaining the data sources, demonstrating equity features, and closing with a post-hackathon path.",
+    "key_terms": ["maternal health pitch", "demo guide", "data dashboard", "equity features", "grant-ready", "5-step demo"]
+  },
+  {
+    "id": "I4_demo_credibility",
+    "section": "I",
+    "title": "Winning Civic-Tech Demos: A Credibility Playbook for Public Health and Youth-Services Judges",
+    "summary": "Credibility playbook for demos presented to public health and youth-services judges: what evidence they expect, what claims to avoid, how to cite sources during a demo, and how to answer hard questions.",
+    "key_terms": ["demo credibility", "public health judges", "youth services", "evidence", "source citation", "hard questions"]
+  },
+  {
+    "id": "I5_demo_framing",
+    "section": "I",
+    "title": "Winning with Humility: Framing Thriving Families Prototypes for Real Richmond Impact",
+    "summary": "Framing strategy for presenting Thriving Families prototypes honestly: how to claim impact without overclaiming, how to present limitations as strengths, and how to connect the prototype to Richmond's actual community needs.",
+    "key_terms": ["demo framing", "humility", "honest claims", "limitations as strengths", "community impact", "Richmond context"]
+  }
+]

@@ -1,0 +1,15 @@
+Opportunities F4 — Where Software Actually Helps vs. Where It Does Not
+
+Analyze the Thriving Families problem areas and identify precisely where software can make a meaningful difference versus where the problem is primarily one of policy, funding, capacity, or human relationships that software cannot fix.
+
+For youth employment: where does software help (navigation, preparation guidance, information aggregation) and where does it fail (transportation access, adult mentorship, employer relationships, work permit enforcement)?
+
+For maternal health data: where does software help (data aggregation, indicator standardization, shared access) and where does it fail (organizational incentives to share, expert interpretation, funding decisions, clinical interventions)?
+
+Be honest about the limits of weekend-hackathon software in addressing systemic problems.
+
+Output
+- Matrix: problem dimension × software helpfulness (high / medium / low / counterproductive)
+- Rationale for each assessment
+- Inferences (clearly labeled)
+- Unknowns

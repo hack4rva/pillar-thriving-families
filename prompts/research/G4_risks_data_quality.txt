@@ -1,0 +1,14 @@
+Risks G4 — Data Quality Risks for Both Problem Areas
+
+Research the data quality risks most relevant to the Thriving Families pillar, covering both youth employment and maternal health data coordination.
+
+For youth employment: what is the risk of displaying outdated program listings (programs that have ended, changed eligibility, or filled capacity), what is the risk of incorrect work permit guidance (teens who follow incorrect instructions may fail to obtain legal employment), and how can these risks be mitigated without live data infrastructure?
+
+For maternal health: what is the risk of VDH or ACS data being revised or suppressed after initial download (small cell suppression, data revisions), what is the risk of methodological inconsistency between sources, and how should a data tool communicate uncertainty and data vintage?
+
+Output
+- Data quality risk inventory per problem area with severity and mitigation
+- Specific language for staleness disclaimers in each context
+- Design patterns for communicating data uncertainty
+- Inferences (clearly labeled)
+- Unknowns

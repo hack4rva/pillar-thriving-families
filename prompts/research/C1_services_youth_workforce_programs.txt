@@ -1,0 +1,18 @@
+Services Landscape C1 — Richmond Youth Workforce Programs
+
+Research the current landscape of youth workforce programs in Richmond, Virginia. Focus on programs that serve teens ages 14–18 and provide employment, internship, job shadowing, or career readiness experiences.
+
+For each program you can identify: document the operating organization, program type (summer job, year-round, internship, job shadowing, pre-employment training), age eligibility, application window or timing, location or service area, and any public contact information or website.
+
+Known programs to investigate (verify details from public sources):
+- Office of Community Wealth Building (OCWB) youth programs
+- Girls For A Change
+- Boys & Girls Club of Metro Richmond
+- Richmond Education Fund / YouthWork Richmond
+- Any additional programs discoverable from public sources
+
+Output
+- Program inventory with available details per program
+- Gaps (programs mentioned but details unavailable)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified from public sources)

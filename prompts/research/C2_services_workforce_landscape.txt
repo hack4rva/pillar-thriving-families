@@ -1,0 +1,14 @@
+Services Landscape C2 — Full Youth Employment Support Landscape in Richmond
+
+Map the complete landscape of organizations providing youth employment support in Richmond, Virginia — going beyond the four named programs to include any additional public, nonprofit, or community organizations serving this need.
+
+Include: workforce development boards, school-based career programs (VBCPS-style or Richmond-equivalent), faith-based employment initiatives, trade apprenticeship pathways for youth, and any City-funded summer employment initiatives.
+
+For each category, assess: how these organizations coordinate (or don't), whether they share a common referral system, and where the largest service gaps are.
+
+Output
+- Landscape overview by organization type
+- Coordination assessment (who talks to whom)
+- Service gap analysis
+- Inferences (clearly labeled)
+- Unknowns

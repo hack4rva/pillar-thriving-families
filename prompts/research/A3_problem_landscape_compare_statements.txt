@@ -1,0 +1,13 @@
+Problem Landscape A3 — Comparing the Two Thriving Families Problem Statements
+
+Compare the two targeted problem statements in the Thriving Families pillar: (1) Expanding Youth Employment Pathways and (2) Maternal Health Data Coordination. Both received a 23/32 rubric score ("Needs work") but for different reasons.
+
+Analyze: where each problem is software-shaped vs. policy-shaped, which problem has more tractable data constraints in a 48-hour window, which user population is more clearly defined, and which problem has a clearer demo path by Sunday.
+
+Also assess: which problem has more risk of harm if the prototype is wrong or misleading, and which has a clearer path to a real continuation partner.
+
+Output
+- Side-by-side comparison on key dimensions (data, user clarity, demo path, harm risk, continuation)
+- Inferences (clearly labeled)
+- Recommendation for a team with mixed skills (1 developer, 1 researcher, 1 product)
+- Unknowns

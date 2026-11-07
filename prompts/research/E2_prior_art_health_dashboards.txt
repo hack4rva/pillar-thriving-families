@@ -1,0 +1,14 @@
+Prior Art E2 — Maternal and Community Health Data Dashboards
+
+Research the landscape of maternal health and community health data dashboards that aggregate public data for researchers, advocates, and policymakers. Focus on tools designed for stakeholders (not patients) that show indicators with clear sourcing.
+
+Cover: March of Dimes Peristats, County Health Rankings (RWJF), CDC WONDER, Virginia Department of Health community profiles, and any city-level or regional health dashboards. For each: describe what the tool shows, who uses it, what data it pulls from, and how indicators are defined and sourced.
+
+Assess: what makes a health dashboard trusted by researchers, what design patterns reduce "which number should I use" confusion, and what Richmond stakeholders would need to trust a shared tool.
+
+Output
+- Dashboard inventory with description, user, data source, and design notes
+- Design patterns for credible health data tools
+- What Richmond specifically lacks
+- Inferences (clearly labeled)
+- Unknowns

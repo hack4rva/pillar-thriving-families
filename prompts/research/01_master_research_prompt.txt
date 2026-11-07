@@ -1,0 +1,16 @@
+Master Research Prompt — Thriving Families Pillar
+
+Conduct a comprehensive research pass on the two problem areas in the Richmond Civic Hackathon Thriving Families pillar: (1) youth employment pathways for Richmond teens ages 14–18, and (2) maternal health data coordination across Richmond agencies and nonprofits.
+
+For youth employment: identify the current landscape of programs, barriers, and technology tools in Richmond and comparable cities. Focus on the gap between teen interest and successful first employment — including the preparation friction (documents, work permits, labor law compliance, transportation) and the discovery friction (which programs exist, who qualifies, how to apply).
+
+For maternal health data: identify the current fragmentation of data analysis, the named public sources (VDH, ACS, Kids Count Virginia, VDOE), what coordination tools exist nationally, and what Richmond-specific disparities and stakeholders are documented.
+
+For both: identify what data is publicly available, what is missing, what tools exist nationally, what has been tried in Richmond, and where technology can realistically help in a 48-hour hackathon.
+
+Output
+- Facts (with source titles)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- Top 3 research questions that remain open after this pass
+- Top 3 MVP opportunities supported by evidence

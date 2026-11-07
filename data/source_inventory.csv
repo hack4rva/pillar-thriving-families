@@ -1,0 +1,12 @@
+id,name,problem_area,owner,url_expected,format,access_method,verified,verification_date,key_fields,readiness_notes
+D01,Virginia Youth Labor Laws,Youth Employment,DOLI,https://www.doli.virginia.gov/,Web/PDF,Manual scrape,No,,age thresholds; work permit requirement; prohibited occupations; hour limits,Stable public law; verify child labor section URL
+D02,OCWB Youth Programs,Youth Employment,City of Richmond,https://www.rva.gov/community-wealth-building,Web/PDF,Manual curation,No,,program name; org; age eligibility; application window; location,No structured dataset; requires manual compilation from web
+D03,Girls For A Change Programs,Youth Employment,Girls For A Change,https://girlsforachange.org/,Website,Manual,No,,program name; age range; application info; contact,Web content available; no API
+D04,YouthWork Richmond / Richmond Education Fund,Youth Employment,Richmond Education Fund,verify URL,Website,Manual,No,,program name; eligibility; contact,URL unverified; requires research
+D05,Boys & Girls Club Metro Richmond,Youth Employment,BGC Metro Richmond,https://bgcmr.org/,Website,Manual,No,,program name; age eligibility; location,Web content available
+D06,GRTC Transit GTFS,Youth Employment,GRTC,https://ridegrtc.com/,GTFS (zip),Download,No,,route; stop; schedule; lat/lon,High readiness; standard GTFS format
+D07,Richmond Open Data Portal,Cross-cutting,City of Richmond,https://rvaopendata.org/,CSV/API,Socrata API,No,,varies,No youth employment section documented
+D08,VDH Maternal Health Data,Maternal Health,Virginia DOH,https://www.vdh.virginia.gov/data/,CSV/Excel,Download,No,,birth outcomes; maternal mortality; prenatal care; race; geography,Exists; format and granularity need verification
+D09,ACS (American Community Survey),Maternal Health,US Census Bureau,https://data.census.gov/,API/CSV,Census API (free key),No,,population; income; insurance; poverty; demographics,High readiness; well-documented API
+D10,Kids Count Virginia,Maternal Health,Annie E. Casey Foundation,https://datacenter.kidscount.org/,Web/CSV,Download,No,,child wellbeing indicators; health; education; economic,Stable platform; CSV download available
+D11,VDOE School Data,Maternal Health,Virginia DOE,https://www.doe.virginia.gov/data-policy-funding/data-reporting,CSV/Excel,Download,No,,enrollment; FRL eligibility; demographics,Exists; format varies by report

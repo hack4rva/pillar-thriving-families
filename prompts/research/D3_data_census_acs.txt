@@ -1,0 +1,14 @@
+Data Inventory D3 — American Community Survey (ACS) Data for Richmond Maternal Health
+
+Research which American Community Survey (ACS) tables are most useful for a Richmond maternal health indicator dashboard. Focus on tables covering: health insurance coverage (especially for women of childbearing age), poverty rates, educational attainment, employment status, and demographic breakdowns relevant to maternal health equity.
+
+Identify: the specific ACS table IDs (e.g., B27001, C17001, B01001), whether they are available at the city/county level for Richmond, what the most recent 5-year estimates cover, and how to access them (Census API or data.census.gov download).
+
+Also note: what API key is needed, approximate time to obtain a free Census API key, and whether the data is available without an API key via direct download.
+
+Output
+- ACS table inventory with table ID, description, and Richmond applicability
+- Access method and key requirements
+- Schema highlights (key variables)
+- Inferences (clearly labeled)
+- Unknowns

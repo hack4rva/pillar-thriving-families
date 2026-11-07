@@ -1,0 +1,1482 @@
+{
+  "run_id": "trun_1848795af0f24b80a86d0e5370df8b92",
+  "interaction_id": "trun_1848795af0f24b80a86d0e5370df8b92",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b80a86d0e5370df8b92",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "youth_program_application_statistics",
+        "reasoning": "The most relevant information directly addresses 2026 Youth Works RVA applications and capacity, which provides context for whether there are published numbers for applicants or acceptance rates. Excerpt describing a 2026 capacity target of 750 Richmond youth aged 14-24 directly informs the upper bound of program scale but does not give actual application counts or acceptance rates. Excerpts announcing that the FY26 Youth Works RVA application is open confirm that applications are being received for 2026, which is relevant to the timing of potential counts but still does not provide the required disaggregated numbers. An excerpt specifying the age range for participants (14-24) clarifies the intended scope, which helps interpret any counts that may exist for narrower subgroups (13- or 17-year-olds specifically). Additional context from partner announcements about dates, sessions, and ongoing outreach shows that information is being circulated publicly, but none of these excerpts provide the exact figures for 2025 or 2026 disaggregated to ages 14-17 or the acceptance rate. Therefore, the best-supported conclusion, drawn from the cited capacity and program-opening notices, is that precise data on applications and acceptance rates for 14-17-year-olds is not publicly available, even though related capacity and opening information exists. The connection between the requested field and the excerpts is that the excerpts collectively show public information about Youth Works RVA for 2025/2026 and participant age ranges, while lacking the specific application counts and acceptance rates requested.",
+        "citations": [
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "ntent:\nWe are excited to announce that applications for [Youth Engagement Services \u2014 Youth Works RVA: Summer 2026](https://www.rva.gov/form/youth-works-rva-application-26) are officially open. Richmond\u2019s Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career exploration, and professional development opportunities across the city.\nTh",
+              "The City of Richmond will host [Virtual Information Sessions](https://us01.z.antigena.com/l/7bd3xh8LsmdjbGH7~vKNI8PbAWhwbYi3FJG1aqa7SQav83zYd4XJpH2nr~uLX9iC-o1U_jGs24zyVODBh5HPn6ZgBs~~Pbg87220Fbi0nJ~tkBH1K42U1UGJobXpeNSvypVP3AWbue_k15hhrDxnVwPjZVzlZZkkQwNaKVoRQCgzXGC9ypxg6_Pp20r~e23xVZVG~sdzrZwnMiu3EaVXEhLO8oAsWHqpfCCiGWNECL6EAarM-8XPB83AJA-HWhk8LC--6Z8vdSWCcCWY6w7d7smmZ5r3yiSAZWI0DASm-3Wvh6KxHIiZcqKIAY09wknVjDpWtYV3P2JaJjDYdL) about the program on **March 11** and **March 16.**",
+              "Mar 8, 2026 \u2014 We are excited to announce that applications for Youth Engagement Services \u2014 Youth Works RVA: Summer 2026 are officially open."
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Jul 24, 2025 \u2014 Data Request ... This program combines job training, skills development, and preparation for employment to help youth successfully re-enter the workforce. Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Jul 24, 2025 \u2014 Youth Works RVA offers five distinct programs, each designed to support our student interns' diverse career interests and goals. ... Offers hands-on experience in",
+              "*Stay connected to learn more about how to join our next cohort in Fall 2025.*",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)",
+              "Be a resident of the City of Richmond or actively enrolled in foster care services through Richmond Social Services at the program's start",
+              "**Teens in Richmond & Parks (TRIP)**\nOffers hands-on experience in trades, arts, and recreation, fostering skill-building, civic pride, and teamwork. Participants engage in community gardening, park enhancements, videography, public art, and sports activities to positively impact their neighborhoods.\n",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.instagram.com/reel/DV05GL_DPOD/",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based"
+            ],
+            "title": "Your future starts this summer. \u2600\ufe0f Youth Works RVA is the ..."
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "Mar 2, 2022 \u2014 The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/photos/-calling-all-richmond-organizations-want-to-help-shape-our-citys-future-workforc/1472944378171707/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Calling all Richmond organizations! ..."
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWhvxcgaLN/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Youth Works RVA is hosting virtual partner ..."
+          },
+          {
+            "url": "https://www.facebook.com/cityofrichmondbc/posts/youth-jobseekers-this-ones-for-you-the-city-of-richmond-richmond-public-library-/1268187805416100/",
+            "excerpts": [
+              "The City of Richmond, Richmond Public Library and Richmond's Employment Resource Network invite youth ages 15\u201324 to: Employment Connections: Programs and"
+            ],
+            "title": "Youth jobseekers \u2014 This one's for you! The City of Richmond ..."
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Providing financial sponsorships for various program components (i.e. transportation, uniforms, meals for youth, etc.)",
+              "Mentorship and/or training opportunities",
+              "Collaboration or Networking",
+              "EMAIL Chamber@ChamberRVA.com",
+              "PHONE (804) 648-1234",
+              "ADDRESS 919 East Main Street Suite 1700 Richmond, VA 23219"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "youth_employment_programs_overview",
+        "reasoning": "The finegrained field value describes a concise overview of two key Richmond youth employment programs: Youth Works RVA (target ages 14-24) managed by the City of Richmond\u2019s Office of Community Wealth Building, and Mayor\u2019s Youth Academy/Youth Engagement Services (YES) targeting ages 16-24. Direct excerpts confirm program names, managing organizations, and age ranges. For example, the Youth Works RVA program is repeatedly described as the City of Richmond\u2019s eight-week summer workforce development program focused on youth aged 14\u201324, with YES described as the Youth Engagement Services unit (formerly Mayor\u2019s Youth Academy) under OCWB. Additional excerpts expand on YES/Youth Works RVA roles, scope, and connections between the programs (YES as the umbrella unit; Youth Works RVA as a specific summer program). Some excerpts provide operational details about program openings and applications, which support the existence and administration of these programs in the same governance context. Taken together, these excerpts robustly support an overview that the City of Richmond runs Youth Works RVA (14\u201324) and Mayor\u2019s Youth Academy/YES (16\u201324) through the Office of Community Wealth Building, forming the core of the youth employment program landscape in Richmond. The overlap in ages and the explicit naming of the managing organization corroborate the requested field value. The remaining excerpts contribute supplementary context (application timelines, program descriptions) that aligns with the overview but are not strictly necessary to validate the core field value.)",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Jul 24, 2025 \u2014 Data Request ... This program combines job training, skills development, and preparation for employment to help youth successfully re-enter the workforce. Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Jul 24, 2025 \u00b7 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Jul 24, 2025 \u2014 Youth Works RVA offers five distinct programs, each designed to support our student interns' diverse career interests and goals. ... Offers hands-on experience in",
+              "Jul 24, 2025 \u2014 Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based Jul 24, 2025 \u2014 The Youth Empowerment Council is a 13-week advanced leadership program for City of Richmond youth who have prior leadership experience and a strong interest in",
+              "Jul 24, 2025 \u00b7 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES), Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "*Stay connected to learn more about how to join our next cohort in Fall 2025.*",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)",
+              "Be a resident of the City of Richmond or actively enrolled in foster care services through Richmond Social Services at the program's start",
+              "**Teens in Richmond & Parks (TRIP)**\nOffers hands-on experience in trades, arts, and recreation, fostering skill-building, civic pride, and teamwork. Participants engage in community gardening, park enhancements, videography, public art, and sports activities to positively impact their neighborhoods.\n",
+              "**Counselors in Training (CIT)**\nDesigned for youth aged 14\u201316 to develop leadership and communication skills in recreational settings. Participants support camp staff, help manage field trips, and assist in planning engaging activities for younger campers.\n",
+              "**Virtual Earn and Learn Program**\nFor youth ages 14\u201315, this program focuses on career training and workforce readiness. Participants explore diverse careers through the \u201cA Day in the Life\u201d series and build financial literacy with sessions led by Virginia Credit Union.\n",
+              "**In-Person Program**\nServes youth ages 16\u201324 through onsite internships tailored to their career interests. Participants gain professional mentorship, build valuable skills, and explore potential long-term career pathways.\n",
+              "**Founders Mark Program**\nFor youth ages 16\u201324, this program focuses on entrepreneurship and leadership development. Participants cultivate a business mindset, explore ownership opportunities, and expand their professional networks as emerging young leaders.\n"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "work_permit_process_details",
+        "reasoning": "The most relevant parts spell out the end-to-end flow: an electronic system divided into three sections (youth registration, employer registration, and parent/guardian registration) and that after completing all three sections the application is submitted for review, with a typical review by a Compliance Officer within 24 hours. This directly supports the field value describing the system name, the three-part electronic process, and the review timeline. The statement that Employment Certificates are issued electronically to the employer and become valid only once the youth signs it aligns with the field value\u2019s validity condition, linking issuance and sign-off to certificate validity. Additional excerpts reinforce that the process is electronic, and that work cannot begin until the certificate is issued, which corroborates the end-to-end nature and sequencing from job offer to certificate. References to VAeECS online information and the existence of the work permit documentation provide corroborating sources for the described process. The more general mentions of the electronic system and related guidance supplement the core claims without introducing conflicting details.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration. Upon completion of all three sections, the system will submit the application to the Department for review by a Compliance Officer, generally within 24 hours of submission. Approved electronic Employment Certificates will be issued to the employer electronically and will only become valid once signed by the youth worker.",
+              ".\nYou MUST NOT begin to work until you have been issued an employment certificate by the Department of Labor and Industry.",
+              "All 14 and 15 year old workers in Virginia are required to obtain an Employment Certificate prior to performing any work. The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System.",
+              "Mar 9, 2024 \u2014 The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System. Click the button",
+              "**For any questions about the Employment Certificate process or difficulties with the VA Electronic Employment Certificate System, please call the Child Labor unit at (804) 371-3104 ext. 242.**"
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/d812c832-d7cb-476d-a418-bdccc00a3643/work_permit_3.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Employment certificates can be obtained online through our Virginia Electronic Employment Certificate. System (see page 3), or through a mail-in process."
+            ],
+            "title": "Virginia Department of Labor and Industry"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "employer_partnership_information",
+        "reasoning": "The central claim in the target field is that employers can partner with Youth Works RVA by volunteering as partner employers and by providing structured job placements and hands-on, work-based learning experiences for youth during the eight-week program. The most directly supportive information is a passage describing that employers throughout the City of Richmond make the program possible by volunteering to serve as partner employers and by providing structured job placements for youth participants. This quote directly aligns with the field\u2019s partnership mechanism and the existence of structured placements.\n\nTo provide additional corroboration and context, other excerpts describe Youth Works RVA as the City of Richmond\u2019s eight-week summer workforce development program that engages youth in career exploration, which reinforces the programmatic setting in which employer partnerships occur. They establish that the program includes internships and work-based experiences, which are the practical components of the partnership model described in the field value.\n\nA further supporting excerpt notes that the FY26 Youth Works RVA application is open, which situates the partnership within the ongoing program delivery cycle and indicates active participation by partner organizations in staffing or hosting youth opportunities (even though it is not a direct statement about partnerships, it complements the partnership narrative by showing program continuity).\n\nOverall, the most compelling, direct support comes from the explicit statement about employers volunteering as partner employers and providing structured job placements. The other supporting excerpts help confirm the program\u2019s structure (eight-week, youth participants, internships/work-based learning) and the ongoing nature of partnerships, which together reinforce the field value. No excerpts directly contradict the stated partnership mechanism.\n",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Jul 24, 2025 \u2014 Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based Jul 24, 2025 \u2014 The Youth Empowerment Council is a 13-week advanced leadership program for City of Richmond youth who have prior leadership experience and a strong interest in",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_works_rva_details",
+        "reasoning": "The fine-grained field value defines Youth Works RVA as the City of Richmond\u2019s official eight-week summer workforce development program, run by Youth Engagement Services (YES), also known as the Mayor\u2019s Youth Academy. It emphasizes career exploration through work-based learning, with paid internships and professional development across the city, and notes that the program relies on partner employers volunteering to provide structured placements. The excerpts most directly support this by stating that Youth Works RVA is the City of Richmond\u2019s eight-week summer workforce development program administered by YES, describes YES as the unit formerly known as the Mayor\u2019s Youth Academy, and explains that the program integrates job placements with career exploration, paid experiences, and professional development across the city. Additional excerpts corroborate organizational leadership (YES/MYA), the FY26 iteration, and the role of partner employers, which reinforces the field value\u2019s assertions about governance, structure, and collaboration. Other excerpts add supportive context (e.g., age ranges and program scope) but are somewhat less central to the core definition, though still align with the described program features and governance. Taken together, these excerpts cohesively substantiate the field value, with stronger support from explicit program identity, management, and purpose statements, and additional corroboration from application and organizational name references.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Providing financial sponsorships for various program components (i.e. transportation, uniforms, meals for youth, etc.)",
+              "Mentorship and/or training opportunities",
+              "Collaboration or Networking",
+              "EMAIL Chamber@ChamberRVA.com",
+              "PHONE (804) 648-1234",
+              "ADDRESS 919 East Main Street Suite 1700 Richmond, VA 23219"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "mayors_youth_academy_details",
+        "reasoning": "The field value identifies the Mayor's Youth Academy as a collaborative Richmond initiative now referred to as Youth Engagement Services and describes it as offering summer work-based learning experiences for city youth aged 16 to 24. The most supporting excerpts explicitly name the Mayor's Youth Academy and its rebranding to Youth Engagement Services, and describe it as a city program that partners with government agencies, private employers, and community groups to provide structured internships or work-based learning in the summer. Specific statements confirm that the program is city-driven, involves partner employers, and targets youth within the 16\u201324 age range, which directly aligns with the field value. Additional excerpts reinforce the evolution and branding (MYA/YES) and mention the age span and collaborative model, further corroborating the field value. A couple of excerpts mention the existence of Youth Works RVA (a separate program) and youth employment activities, which provide helpful contextual support but are not as directly tied to the MYA/YES description as the explicit MYA/YES references and age-range details.",
+        "citations": [
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "program_discovery_methods",
+        "reasoning": "The most relevant passages directly discuss how teens learn about Youth Works RVA and related programs. Statements describing information sessions hosted for potential applicants show a formal discovery channel through which teens encounter program opportunities. Mentions of partner outreach and citywide program pages indicate official channels used to disseminate program information. Social media announcements and virtual information sessions are clearly identified as dissemination methods to reach youth, aligning with the described channels in the field value. Additional passages that describe partner organizations amplifying program information (e.g., RRHA) further support the existence of a multi-channel outreach ecosystem. Passages that define program details or timelines without referencing discovery channels provide context but are less directly supporting the discovery methods field. Overall, the gathered evidence supports a multi-channel discovery approach (official program pages, social media announcements, virtual information sessions, and partner outreach), with explicit examples in excerpts describing information sessions and partner-driven outreach as mechanisms through which Richmond teens learn about opportunities.",
+        "citations": [
+          {
+            "url": "https://www.facebook.com/RVAGov/posts/-calling-all-richmond-organizations-want-to-help-shape-our-citys-future-workforc/1472944391505039/",
+            "excerpts": [
+              "\u2728 The Youth Career Program (YCP) is now accepting applications for Summer 2025 in Newport News! This paid career program offers hands-on experience Applications Are NOW OPEN for Youth Works RVA! Are you between the ages of 14\u201324 and live in the City of Richmond? This is your opportunity to gain",
+              "Want to help shape our city's future workforce? Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you",
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional Feb 4, 2026 \u00b7 Want to help shape our city's future workforce? Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you",
+              "Feb 4, 2026 \u00b7 Applications Are NOW OPEN for Youth Works RVA! Are you between the ... 2025 Application Deadline: May 1, 2025 \u2013 Don't wait! Whether it's OCWB Youth Engagement Services. 4w \u00b7 Public. Applications Are NOW OPEN for Youth Works RVA! Are you between the ages of 14\u201324 and live in the City of"
+            ],
+            "title": "Calling all Richmond organizations! Want to help shape our city's ..."
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "The City of Richmond will host [Virtual Information Sessions](https://us01.z.antigena.com/l/7bd3xh8LsmdjbGH7~vKNI8PbAWhwbYi3FJG1aqa7SQav83zYd4XJpH2nr~uLX9iC-o1U_jGs24zyVODBh5HPn6ZgBs~~Pbg87220Fbi0nJ~tkBH1K42U1UGJobXpeNSvypVP3AWbue_k15hhrDxnVwPjZVzlZZkkQwNaKVoRQCgzXGC9ypxg6_Pp20r~e23xVZVG~sdzrZwnMiu3EaVXEhLO8oAsWHqpfCCiGWNECL6EAarM-8XPB83AJA-HWhk8LC--6Z8vdSWCcCWY6w7d7smmZ5r3yiSAZWI0DASm-3Wvh6KxHIiZcqKIAY09wknVjDpWtYV3P2JaJjDYdL) about the program on **March 11** and **March 16.**",
+              "ntent:\nWe are excited to announce that applications for [Youth Engagement Services \u2014 Youth Works RVA: Summer 2026](https://www.rva.gov/form/youth-works-rva-application-26) are officially open. Richmond\u2019s Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career exploration, and professional development opportunities across the city.\nTh"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/photos/-calling-all-richmond-organizations-want-to-help-shape-our-citys-future-workforc/1472944378171707/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Calling all Richmond organizations! ..."
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWhvxcgaLN/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Youth Works RVA is hosting virtual partner ..."
+          },
+          {
+            "url": "https://www.instagram.com/reel/DV05GL_DPOD/",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based"
+            ],
+            "title": "Your future starts this summer. \u2600\ufe0f Youth Works RVA is the ..."
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "youth_works_rva_eligibility_requirements",
+        "reasoning": "The most directly relevant excerpt describes participants as aged 14\u201324, which directly supports the age component of the eligibility requirements. It also notes that participants gain learning experiences through Youth Works RVA, tying the age criterion to the specific program context. The residency criterion is explicitly stated in another excerpt, which specifies that participants must be a resident of the City of Richmond, aligning with the residency requirement in the field value. Additionally, another excerpt confirms a closely related age statement (Be between 14 and 24 years old as of a specific date), reinforcing the age boundary. Taken together, these excerpts precisely map onto the required age range and residency condition for Youth Works RVA eligibility, showing clear direct relevance to the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "executive_summary",
+        "reasoning": "The most relevant information directly confirms the end-to-end process and timing for Virginia electronic employment certificates. One excerpt states that the electronic system consists of three registrations and that upon completion it is submitted for review, with approvals issued electronically and made valid only after the youth signs. This supports the described end-to-end flow and the 24-hour review window noted elsewhere, and the requirement that work cannot begin until the certificate is issued. Additional excerpts reiterate that the process is electronic and specify that a certificate becomes valid only after signing by the youth, reinforcing the end-to-end nature and the signing prerequisite. Another excerpt provides the explicit contact channel for VAeECS questions, implying support processes around the system. A separate excerpt confirms the existence of the VAeECS information and online access points, which corroborates the digital submission and issuance pathway described. Beyond the VAeECS specifics, several excerpts describe the Youth Works RVA program and the Mayor\u2019s Youth Academy (YES)\u2014the Richmond programs targeted by the field value\u2014offering context about program existence, application cycles, and program descriptions. These excerpts collectively establish that the City of Richmond supports youth employment programs (YES/Youth Works RVA) and that their existence and online application processes are public knowledge. Additional excerpts reference data portals and open data capabilities, which align with the field value\u2019s note about data availability, and discovery channels through which teens learn about programs (YES website, social media, community announcements). While the field value asserts no publicly available numeric metrics (e.g., counts, acceptance rates, or dropout rates) for 2025 or 2026, the supplied excerpts do not provide such numbers, which is consistent with the claim of lacking public metrics in the provided sources.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              ".\nYou MUST NOT begin to work until you have been issued an employment certificate by the Department of Labor and Industry.",
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration. Upon completion of all three sections, the system will submit the application to the Department for review by a Compliance Officer, generally within 24 hours of submission. Approved electronic Employment Certificates will be issued to the employer electronically and will only become valid once signed by the youth worker.",
+              "**For any questions about the Employment Certificate process or difficulties with the VA Electronic Employment Certificate System, please call the Child Labor unit at (804) 371-3104 ext. 242.**"
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          },
+          {
+            "url": "https://cdnsm5-ss19.sharpschool.com/UserFiles/Servers/Server_2822194/File/Counseling/Working%20Permit%20(1)%20(1).pdf",
+            "excerpts": [
+              "Mar 3, 2023 \u2014 Steps to getting an Employment Certificate: 1. Find a job. 2. Go to the Virginia Department of Labor and Industry website www.doli.virginia.gov where you."
+            ],
+            "title": "How Do I Get a Work Permit in Virginia?"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/d812c832-d7cb-476d-a418-bdccc00a3643/work_permit_3.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Employment certificates can be obtained online through our Virginia Electronic Employment Certificate. System (see page 3), or through a mail-in process."
+            ],
+            "title": "Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "Mar 2, 2022 \u2014 The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "employer_worksite_data_availability",
+        "reasoning": "Excerpts describing theYES program emphasize that employers contribute as partner employers and provide structured placements for youth participants, which confirms that a network of worksites exists through the program. However, these passages do not state that there is a published, machine-readable list of those worksites available to the public. The references to public data channels (the City\u2019s Open Data Portal and related transparency efforts) show that data exist and can be shared, but they do not identify a specific dataset containing the requested list of employer worksites. Therefore, the evidence supports the idea that a network of host employers exists and that there are public data avenues, while not confirming the existence of a publicly accessible machine-readable roster of worksites. This leads to a cautious conclusion that such a dataset is likely not publicly published in a machine-readable form, based on the absence of explicit confirmation in the excerpts and the emphasis on partner-employer participation rather than a published registry.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "Mar 2, 2022 \u2014 The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://rva.gov/press-releases-and-announcements/news/city-administration-expands-transparency-releases-procurement",
+            "excerpts": [
+              "Oct 21, 2025 \u2014 These data sources, including the RVA Open Data Portal, the Minority Business Development Vendor Registry, and OpenGov, are critical to improving trust"
+            ],
+            "title": "City Administration Expands Transparency, Releases ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "youth_works_rva_program_tracks",
+        "reasoning": "- Excerpts describing Youth Works RVA as having multiple distinct programs or components directly support the concept of program tracks within Youth Works RVA. When a source states that the program offers five distinct programs or outlines multiple components designed to support students, it provides concrete evidence of track-like divisions that could populate youth_works_rva_program_tracks. The excerpt stating that Youth Works RVA offers five distinct programs and is designed to support interns\u2019 diverse career interests explicitly indicates a track-like organization of offerings, which maps to the idea of a list of program tracks. \n- Excerpts that describe Youth Works RVA as the city\u2019s eight-week summer workforce development program with career exploration and work-based learning, and that reference the Youth Engagement Services team (YES) as the overarching unit, affirm the program architecture under which tracks would exist. These sources establish the hierarchical context (YES/Youth Works RVA) within which discrete tracks or program components would be defined. \n- Excerpts addressing FY26 Youth Works RVA application openings, timelines, and ongoing program information sessions corroborate that organized, track-like structures exist in practice, even if they do not enumerate every track by name in the excerpt. The presence of an open, multi-year application and multiple program formats suggests that there are defined tracks or sub-programs that applicants can engage with. \n- Additional references to related YES programs (Counselors in Training, Teens in Richmond & Parks, Virtual Earn and Learn, Founders Mark, and other named elements) illustrate discrete sub-programs within the broader Youth Engagement Services ecosystem, which would contribute to the list of tracks under Youth Works RVA if compiled. These pieces collectively imply multiple, named program formats that could be enumerated as program tracks, even though the exact track names and counts are not exhaustively listed in a single source. \n- Some sources focus on partner involvement, application processes, or general descriptions of YES rather than enumerating tracks, which makes them supportive context but less directly confirmatory of a tracked list. They are still relevant for understanding the overall program structure that underpins potential track definitions, but they are ranked lower in directness.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Jul 24, 2025 \u2014 Youth Works RVA offers five distinct programs, each designed to support our student interns' diverse career interests and goals. ... Offers hands-on experience in",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Jul 24, 2025 \u2014 Data Request ... This program combines job training, skills development, and preparation for employment to help youth successfully re-enter the workforce. Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Providing financial sponsorships for various program components (i.e. transportation, uniforms, meals for youth, etc.)",
+              "Mentorship and/or training opportunities",
+              "Collaboration or Networking",
+              "EMAIL Chamber@ChamberRVA.com",
+              "PHONE (804) 648-1234",
+              "ADDRESS 919 East Main Street Suite 1700 Richmond, VA 23219"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://www.rrha.com/news/youth-works-rva-summer-2026/",
+            "excerpts": [
+              "ntent:\nWe are excited to announce that applications for [Youth Engagement Services \u2014 Youth Works RVA: Summer 2026](https://www.rva.gov/form/youth-works-rva-application-26) are officially open. Richmond\u2019s Office of Community Wealth Building aims to serve 750 Richmond youth, ages 14 through 24, through paid work experiences, career exploration, and professional development opportunities across the city.\nTh",
+              "The City of Richmond will host [Virtual Information Sessions](https://us01.z.antigena.com/l/7bd3xh8LsmdjbGH7~vKNI8PbAWhwbYi3FJG1aqa7SQav83zYd4XJpH2nr~uLX9iC-o1U_jGs24zyVODBh5HPn6ZgBs~~Pbg87220Fbi0nJ~tkBH1K42U1UGJobXpeNSvypVP3AWbue_k15hhrDxnVwPjZVzlZZkkQwNaKVoRQCgzXGC9ypxg6_Pp20r~e23xVZVG~sdzrZwnMiu3EaVXEhLO8oAsWHqpfCCiGWNECL6EAarM-8XPB83AJA-HWhk8LC--6Z8vdSWCcCWY6w7d7smmZ5r3yiSAZWI0DASm-3Wvh6KxHIiZcqKIAY09wknVjDpWtYV3P2JaJjDYdL) about the program on **March 11** and **March 16.**",
+              "The application is now available and will remain opened until March 31st, 2026:\n**[Apply for Youth Works: Summer 2026](https://www.rva.gov/form/youth-works-rva-application-26)**"
+            ],
+            "title": "Youth Works RVA: Summer 2026 Applications Now Open!"
+          },
+          {
+            "url": "https://www.instagram.com/reel/DV05GL_DPOD/",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based"
+            ],
+            "title": "Your future starts this summer. \u2600\ufe0f Youth Works RVA is the ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "e_verify_participation_analysis",
+        "reasoning": "The most relevant excerpt explains that E-Verify is administered by the relevant agencies and is part of the job application process, which establishes the existence of the program and its governance but does not provide locality-specific participation rates. This supports the idea that while E-Verify exists and is used, there is no inherent expectation of published city- or region-level participation percentages within the general enrollment framework. The second excerpt directly addresses the enrollment process for E-Verify, underscoring that employers participate in a formal system and that the process is managed at a broad level, not necessarily by locality statistics. This reinforces the notion that the program operates through standardized procedures rather than public, locality-specific tallies that would be required to state a Richmond-specific percentage. The third excerpt discusses monitoring and reverification in the context of the E-Verify tool, which again confirms the program\u2019s mechanisms and updates but does not provide any city-specific participation rates or statistics. Taken together, these excerpts corroborate that while E-Verify exists and has formal procedures nationwide, there is no explicit published percentage for Richmond employers or a defined subset of employers that participate at the city level, aligning with the finegrained field value\u2019s claim that locality-level data or participation percentages are not published.",
+        "citations": [
+          {
+            "url": "https://henrico.gov/services/jobs/",
+            "excerpts": [
+              "Jan 6, 2024 \u2014 E-Verify is administered by SSA and U.S Citizenship and Immigration Services (USCIS). Contact Us. Human Resources. Address 4301 East Parham Road Henrico, VA"
+            ],
+            "title": "Apply for a Job"
+          },
+          {
+            "url": "https://www.e-verify.gov/employers/enrolling-in-e-verify/the-enrollment-process",
+            "excerpts": [
+              "May 21, 2025 \u2014 For E-Verify Employer Agents of Federal Contractors \u00b7 Subcontractors ... csv file, click Download CSV Template to open a pre-formatted .csv file. Add the"
+            ],
+            "title": "The Enrollment Process"
+          },
+          {
+            "url": "https://letscatapult.org/employers-must-monitor-ead-revocations-with-new-e-verify-tool/",
+            "excerpts": [
+              "Download the report in CSV format for internal use. Reverify Affected Employees Immediately: Use Form I-9 Supplement B for reverification. Collect unexpired"
+            ],
+            "title": "Employers Must Monitor EAD Revocations with New E-Verify Tool"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "youth_employment_programs_overview.1",
+        "reasoning": "The most relevant content directly identifies the program name as Mayor\u2019s Youth Academy and ties it to the Youth Engagement Services organization that administers or administers related youth programs. Specifically, references describe the Youth Engagement Services unit (YES), previously known as the Mayor\u2019s Youth Academy, and outline the summer work-based learning structure it provides to City of Richmond youth. This directly corroborates the program_name and its managing_organization. Additional excerpts discuss the YES program lineage, confirming that Mayor\u2019s Youth Academy was a prior/alternate name and that YES is the administering body, which strengthens the linkage between the program and the organization. The age range context is reinforced by excerpts describing youth program participants as broadly aged within the teens to young adult spectrum, including explicit mentions of ages 16-24 or inclusive ranges that cover 16-24, which aligns with the target_age_group. A few excerpts discuss related programs or age ranges (e.g., 14-24 or 14-16 participants in adjacent programs), providing contextual support for the overall age scope, but are secondary to the direct Mayor\u2019s Youth Academy YES connection. The combined evidence from these passages confirms the intended mapping of program_name to Mayor\u2019s Youth Academy, maintaining YES as the managing entity, with a target age range that encompasses 16-24.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)",
+              "Be a resident of the City of Richmond or actively enrolled in foster care services through Richmond Social Services at the program's start",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts",
+        "reasoning": "The most relevant content directly names and describes the organizations in the field value. For example, excerpts describing the Office of Community Wealth Building (OCWB) as the department that manages Youth Works RVA establish OCWB as a central organizing body and connect it to Youth Works RVA. Excerpts about Youth Works RVA\u2019s program description (including city involvement and program scope) corroborate the relationship between OCWB and Youth Works RVA. Excerpts referencing the Virginia Department of Labor and Industry (DOLI) and the Virginia Electronic Employment Certificate System (VAeECS) link the organization to employment certificates and the end-to-end process, aligning with the contact and data flow aspect of the field value. Content mentioning the Richmond Redevelopment and Housing Authority (RRHA) as a community partner and ChamberRVA as a promoter/information conduit reinforces the network of organizational actors and their roles in outreach and program administration. Excerpts providing direct access details or application openings for Youth Works RVA (e.g., the FY26 application) add concrete contact points or channels, which is pertinent to the contacts portion of the field value. Finally, excerpts about E-Verify data tools from USCIS create a link to verification-related contacts, further expanding the organizational network. The quotes clearly map to the organizations and contact pathways listed in the field value, showing how each organization participates in the Richmond youth employment ecosystem.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/posts/update-the-community-partner-application-for-youthworks-rva-summer-program-has-b/1456432953156183/",
+            "excerpts": [
+              "Update: The community partner application for YouthWorks RVA summer program has been extended to February 20 ... Applications close January 31, 2025. Take"
+            ],
+            "title": "City of Richmond, VA Government - Facebook"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/photos/-calling-all-richmond-organizations-want-to-help-shape-our-citys-future-workforc/1472944378171707/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Calling all Richmond organizations! ..."
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWhvxcgaLN/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Youth Works RVA is hosting virtual partner ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "employer_partnership_information.partnership_method",
+        "reasoning": "The core claim of the field value is that employers partner with the Youth Works RVA program by volunteering as partner employers and providing structured job placements and hands-on work-based learning during the eight-week summer program. The most direct evidence states that employers join as partner employers and provide structured job placements for youth participants. Additional context confirms the program format (an eight-week summer experience with internships and job placements), reinforcing that employer involvement is integral to delivering those work-based experiences. Notes about the program\u2019s application status for ongoing years corroborate that the partnership framework is active and operational, though they are supplementary to the central mechanism of employer volunteering and structured placements. Collectively, these excerpts align with and support the field value by detailing both the mode of partnership (volunteering as partner employers) and the outcome (structured job placements and hands-on learning during the eight-week program).",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Jul 24, 2025 \u2014 Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based Jul 24, 2025 \u2014 The Youth Empowerment Council is a 13-week advanced leadership program for City of Richmond youth who have prior leadership experience and a strong interest in"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "work_permit_process_details.contact_phone",
+        "reasoning": "The specific field seeks a contact_phone value. The excerpt states a contact method for the Child Labor unit: \"please call the Child Labor unit at (804) 371-3104 ext. 242.\" This directly provides a phone number associated with the work-permit related contacts, thereby contradicting the stated field value that no contact phone is provided. No other excerpts mention a contact phone. Therefore, the most relevant information is the explicit phone contact, which undermines the claim of no phone number existing in the sources. ",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "**For any questions about the Employment Certificate process or difficulties with the VA Electronic Employment Certificate System, please call the Child Labor unit at (804) 371-3104 ext. 242.**"
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "work_permit_process_details.review_timeline",
+        "reasoning": "The most relevant excerpt directly states that the electronic system submits the completed three registrations to a Compliance Officer within roughly 24 hours, and that approved certificates are issued electronically and become valid only after the youth signs. This aligns with the end-to-end timeline from final submission to certificate validity, describing both the review window and the sign-off condition, which are the critical parts of the requested timeline. Other excerpts corroborate the electronic nature of the process or the requirement to have a certificate before work begins, providing supportive context about process steps and timelines, but do not specify the 24-hour review window or the sign-off validity in detail. The remaining excerpts mention electronic access or alternative submission paths, reinforcing that the process is electronic but adding limited direct timing information, thus serving as secondary context rather than primary evidence for the exact timeline.\"",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration. Upon completion of all three sections, the system will submit the application to the Department for review by a Compliance Officer, generally within 24 hours of submission. Approved electronic Employment Certificates will be issued to the employer electronically and will only become valid once signed by the youth worker.",
+              "Mar 9, 2024 \u2014 The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System. Click the button",
+              ".\nYou MUST NOT begin to work until you have been issued an employment certificate by the Department of Labor and Industry.",
+              "All 14 and 15 year old workers in Virginia are required to obtain an Employment Certificate prior to performing any work. The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System.",
+              "**For any questions about the Employment Certificate process or difficulties with the VA Electronic Employment Certificate System, please call the Child Labor unit at (804) 371-3104 ext. 242.**"
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/d812c832-d7cb-476d-a418-bdccc00a3643/work_permit_3.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Employment certificates can be obtained online through our Virginia Electronic Employment Certificate. System (see page 3), or through a mail-in process."
+            ],
+            "title": "Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "relevant_data_systems_and_portals",
+        "reasoning": "The Open Data Portal is described as providing data in open formats and without registration, establishing that the City of Richmond maintains a portal intended for open data sharing. This supports the premise that there is a data portal infrastructure in place for public data. The transparency-focused excerpt also references data sources like the RVA Open Data Portal as part of city transparency efforts, reinforcing the portal\u2019s existence and purpose as a public data hub. However, within the cited materials, there is no mention of a dataset that lists employer worksites that have hostedYouth Works RVA or YES programs. The YES program descriptions confirm that employer partnerships exist and that structured job placements are part of the program, but they do not publish or link to any downloadable or machine-readable list of the worksites. Taken together, these pieces of evidence support the claim that, while a public Open Data Portal exists and employer partnerships are documented, there is no publicly available machine-readable list of employer worksites published in the cited sources.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "Mar 2, 2022 \u2014 The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://rva.gov/press-releases-and-announcements/news/city-administration-expands-transparency-releases-procurement",
+            "excerpts": [
+              "Oct 21, 2025 \u2014 These data sources, including the RVA Open Data Portal, the Minority Business Development Vendor Registry, and OpenGov, are critical to improving trust"
+            ],
+            "title": "City Administration Expands Transparency, Releases ..."
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "data_availability_summary",
+        "reasoning": "Evidence shows that VAeECS applications are accessed online, with the process divided into sections and a review period by a Compliance Officer, and that approved certificates are issued electronically and become valid once signed by the youth. This supports the assertion that the end-to-end timing depends on action by the three involved parties (youth, employer, parent/guardian) and that the final validity hinges on the youth signing. The existence of policies requiring that work cannot begin until the certificate is issued further supports the timing and sequencing of steps in the end-to-end process. In parallel, multiple program pages and social posts emphasize outreach and information sessions (virtual information sessions, partner information sessions, and announcements about open applications), which aligns with the stated discovery channels. However, there is no explicit quantified data in these excerpts for applicant counts, acceptance rates, or dropout rates, nor a publicly available machine-readable list of host worksites, which explains the data gaps noted in the field value. The combination of process-detail excerpts and outreach-content excerpts provides a strong basis for the parts of the field value that concern VAeECS workflow and discovery methods, while supporting the characterization of data gaps through absence of numeric figures and machine-readable datasets in the sources.",
+        "citations": [
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          },
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration. Upon completion of all three sections, the system will submit the application to the Department for review by a Compliance Officer, generally within 24 hours of submission. Approved electronic Employment Certificates will be issued to the employer electronically and will only become valid once signed by the youth worker.",
+              ".\nYou MUST NOT begin to work until you have been issued an employment certificate by the Department of Labor and Industry.",
+              "**For any questions about the Employment Certificate process or difficulties with the VA Electronic Employment Certificate System, please call the Child Labor unit at (804) 371-3104 ext. 242.**"
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/posts/-calling-all-richmond-organizations-want-to-help-shape-our-citys-future-workforc/1472944391505039/",
+            "excerpts": [
+              "\u2728 The Youth Career Program (YCP) is now accepting applications for Summer 2025 in Newport News! This paid career program offers hands-on experience Applications Are NOW OPEN for Youth Works RVA! Are you between the ages of 14\u201324 and live in the City of Richmond? This is your opportunity to gain",
+              "Want to help shape our city's future workforce? Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you",
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional Feb 4, 2026 \u00b7 Want to help shape our city's future workforce? Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you",
+              "Feb 4, 2026 \u00b7 Applications Are NOW OPEN for Youth Works RVA! Are you between the ... 2025 Application Deadline: May 1, 2025 \u2013 Don't wait! Whether it's OCWB Youth Engagement Services. 4w \u00b7 Public. Applications Are NOW OPEN for Youth Works RVA! Are you between the ages of 14\u201324 and live in the City of"
+            ],
+            "title": "Calling all Richmond organizations! Want to help shape our city's ..."
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "*Stay connected to learn more about how to join our next cohort in Fall 2025.*",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "work_permit_process_details.system_name",
+        "reasoning": "The finegrained field value corresponds to the official system name for the work permit/employment certificate platform. The most directly relevant excerpt explicitly states the system name in parentheses as VAeECS (Virginia Electronic Employment Certificate System), clearly confirming the exact label of the system in question. Excerpts that describe the electronic Employment Certificate System more generally (without using the VAeECS acronym) corroborate the existence and role of the digital system for processing employment certificates and work permits, thereby supporting the context that this is the online platform used for applications and issuance. Additional excerpts discuss the broader workflow, such as the electronic submission, review, and issuance processes, reinforcing that there is a dedicated electronic system for employment certificates in Virginia. An excerpt that provides contact information for questions about the process further situates the VAeECS within the Virginia Department of Labor and Industry\u2019s Youth Employment framework, while another excerpt confirms that employment certificates can be obtained online or via mail-in options, consistent with the online system and its purpose. Collectively, the most direct match establishes the exact system name, while the others provide contextual support about its function and usage in the work permit process.",
+        "citations": [
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/d812c832-d7cb-476d-a418-bdccc00a3643/work_permit_3.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Employment certificates can be obtained online through our Virginia Electronic Employment Certificate. System (see page 3), or through a mail-in process."
+            ],
+            "title": "Virginia Department of Labor and Industry"
+          },
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration. Upon completion of all three sections, the system will submit the application to the Department for review by a Compliance Officer, generally within 24 hours of submission. Approved electronic Employment Certificates will be issued to the employer electronically and will only become valid once signed by the youth worker.",
+              "Mar 9, 2024 \u2014 The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System. Click the button",
+              "All 14 and 15 year old workers in Virginia are required to obtain an Employment Certificate prior to performing any work. The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System.",
+              ".\nYou MUST NOT begin to work until you have been issued an employment certificate by the Department of Labor and Industry.",
+              "**For any questions about the Employment Certificate process or difficulties with the VA Electronic Employment Certificate System, please call the Child Labor unit at (804) 371-3104 ext. 242.**"
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_works_rva_eligibility_requirements.age_range",
+        "reasoning": "The target field value specifies an eligibility age range for Youth Works RVA as inclusive of ages 14 to 24. Excerpt describing Youth Works RVA states that participants are aged 14\u201324, directly corroborating the field value. Another excerpt similarly states that the eligibility is between 14 and 24 years old as of a specific date, reinforcing the same age bracket. These quotes precisely map to the age-range requirement in the finegrained field path, confirming that the program targets youth within that 14\u201324 window. No excerpt contradicts this range, and both excerpts provide clear, explicit age-range information that matches the field value.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_employment_programs_overview.0",
+        "reasoning": "The target field identifies a specific program, Youth Works RVA, with the City of Richmond's Office of Community Wealth Building as the organizing body and a youth target group of 14-24. Excerpt describing Youth Works RVA as the City of Richmond\u2019s eight-week summer workforce development program directly establishes the program name and city affiliation. Other excerpts reinforce the program\u2019s continuity and governance: the FY26 application is open, which confirms ongoing program activity and branding around Youth Works RVA; references to the Youth Engagement Services (YES) group tie the program to the city\u2019s youth services umbrella, and the note that YES is the youth-serving unit within the Office of Community Wealth Building supports the intended managing_organization. Collectively, these excerpts corroborate the field value by anchoring the program name, the city-level management through YES and the Office of Community Wealth Building, and the target age range presented as 14\u201324.\n",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Jul 24, 2025 \u2014 Data Request ... This program combines job training, skills development, and preparation for employment to help youth successfully re-enter the workforce. Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Jul 24, 2025 \u00b7 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Jul 24, 2025 \u2014 Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based Jul 24, 2025 \u2014 The Youth Empowerment Council is a 13-week advanced leadership program for City of Richmond youth who have prior leadership experience and a strong interest in"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_employment_programs_overview.1.managing_organization",
+        "reasoning": "The field value identified is the organization that manages the youth employment programs. Direct confirmations are present in excerpts that explicitly name Youth Engagement Services as a program component or unit within the city\u2019s youth employment structure, including notes that YES is the youth-engagement unit and that it oversees programing for City of Richmond youths. Additional excerpts connect Youth Engagement Services to the Mayor\u2019s Youth Academy (YES formerly known as the Mayor\u2019s Youth Academy) and describe the program as bringing together city agencies, employers, and community partners to provide structured work experiences for youth, which reinforces the identity and role of the managing organization. These connections directly support the requested field value by establishing the entity responsible for managing and coordinating youth employment initiatives in Richmond. Contextual mentions of YES as the youth-engagement unit and its relation to the Mayor\u2019s Youth Academy provide corroborating background that strengthens the alignment between the field value and the referenced organization, even when the text frames it through related program branding or historical naming. Overall, the strongest support comes from explicit mentions of Youth Engagement Services and its role, with robust supporting context from related descriptions of the Mayor\u2019s Youth Academy and the program\u2019s structure.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)",
+              "Be a resident of the City of Richmond or actively enrolled in foster care services through Richmond Social Services at the program's start",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts.0",
+        "reasoning": "The target field describes the Office of Community Wealth Building as the department that manages the City of Richmond\u2019s Youth Works RVA program and provides a contact link via the Youth Engagement Services page. The most relevant excerpts are those that discuss Youth Engagement Services (YES) and Youth Works RVA, since they map to the same program ecosystem and governance around youth employment. Specifically, passages that define YES/Mayor\u2019s Youth Academy and Youth Works RVA indicate the organizational context and the platform through which youth employment opportunities are administered, including the role of partner employers and the link to the official program page. While the OCWB name is not explicitly stated in the excerpts, the YES/Youth Works RVA descriptions provide direct evidence of the administrative structure and contact pathway (the Youth Engagement Services page). The remaining excerpts contribute context about program framing (YES, Mayor\u2019s Youth Academy) and outreach activities (application timelines, partner sessions) that further illuminate how the program is operated and communicated to youth and stakeholders, which is relevant for understanding the OCWB\u2019s likely involvement and contact channels, even if OCWB is not named in the text.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/posts/update-the-community-partner-application-for-youthworks-rva-summer-program-has-b/1456432953156183/",
+            "excerpts": [
+              "Update: The community partner application for YouthWorks RVA summer program has been extended to February 20 ... Applications close January 31, 2025. Take"
+            ],
+            "title": "City of Richmond, VA Government - Facebook"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/photos/-calling-all-richmond-organizations-want-to-help-shape-our-citys-future-workforc/1472944378171707/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Calling all Richmond organizations! ..."
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWhvxcgaLN/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Youth Works RVA is hosting virtual partner ..."
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "work_permit_process_details.process_description",
+        "reasoning": "The finegrained field value describes a precise, end-to-end workflow: a three-part electronic registration that begins after a firm job offer, followed by completion of the youth, employer, and parent/guardian sections, and then submission of the completed application to the Department of Labor & Industry for review. The most directly relevant excerpt explicitly outlines this exact sequence, naming the three registration sections (Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration) and noting that submission to the Department for review occurs after all three parts are completed. A closely related excerpt reinforces the electronic nature of the process, stating that the Employment Certificate application can be completed electronically using the Virginia Electronic Employment Certificate System. Additional excerpts reference online access and VAeECS, which corroborate the electronic, system-based nature of the process and provide corroborating details about where to access the system. Other excerpts mention related requirements (e.g., not beginning work until an employment certificate is issued) and support channels, which help contextualize the process but do not directly redefine the step-by-step flow. Collectively, these excerpts map well onto the described three-part registration flow, its electronic execution, and the sequencing that leads to submission for review.",
+        "citations": [
+          {
+            "url": "https://doli.virginia.gov/programs/labor-law/youth-employment/",
+            "excerpts": [
+              "The electronic system is divided into three sections: Youth Registration, Employer Registration, and Parent/Guardian/Custodian Registration. Upon completion of all three sections, the system will submit the application to the Department for review by a Compliance Officer, generally within 24 hours of submission. Approved electronic Employment Certificates will be issued to the employer electronically and will only become valid once signed by the youth worker.",
+              "All 14 and 15 year old workers in Virginia are required to obtain an Employment Certificate prior to performing any work. The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System.",
+              "Mar 9, 2024 \u2014 The Employment Certificate application process can be completed electronically using the Virginia Electronic Employment Certificate System. Click the button",
+              ".\nYou MUST NOT begin to work until you have been issued an employment certificate by the Department of Labor and Industry.",
+              "**For any questions about the Employment Certificate process or difficulties with the VA Electronic Employment Certificate System, please call the Child Labor unit at (804) 371-3104 ext. 242.**"
+            ],
+            "title": "Virginia Department of Labor and Industry - Youth Employment"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          },
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/d812c832-d7cb-476d-a418-bdccc00a3643/work_permit_3.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Employment certificates can be obtained online through our Virginia Electronic Employment Certificate. System (see page 3), or through a mail-in process."
+            ],
+            "title": "Virginia Department of Labor and Industry"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_employment_programs_overview.0.program_name",
+        "reasoning": "The most relevant excerpts directly state the program name and describe its role in youth workforce development in Richmond. Excerpt describing Youth Works RVA as the City of Richmond's eight-week summer workforce development program explicitly connects the program to youth employment and work-based learning, which directly supports the fine-grained field value. Excerpts that mention that the FY26 Youth Works RVA application is open provide concrete evidence of current program activity and ongoing access, reinforcing the program name in the current context. Additional excerpts that repeat or reference Youth Works RVA while situating it within the broader Youth Engagement Services framework offer corroborating context about how the program fits into the city\u2019s youth employment ecosystem. All of these collectively support the precise field value that the program is Youth Works RVA, with the strongest support from explicit program-description statements, followed by current application-status notes, and then contextual framing via YES. The reasoning here focuses on tying the explicit program name to its described function and status, rather than discussing other programs unless they directly relate to or contextualize Youth Works RVA.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Jul 24, 2025 \u2014 Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based Jul 24, 2025 \u2014 The Youth Empowerment Council is a 13-week advanced leadership program for City of Richmond youth who have prior leadership experience and a strong interest in",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Jul 24, 2025 \u00b7 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Jul 24, 2025 \u2014 Data Request ... This program combines job training, skills development, and preparation for employment to help youth successfully re-enter the workforce. Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_employment_programs_overview.1.program_name",
+        "reasoning": "The target field value is the program name 'Mayor\u2019s Youth Academy'. Several excerpts directly refer to this program as the source of youth engagement opportunities, notably in the context of summer work-based learning and CITY youth services: excerpts describing the Mayor's Youth Academy as providing structured work experiences and partnering with employers clearly support that the program name in question is Mayor\u2019s Youth Academy. Other excerpts discuss Youth Engagement Services (YES) as the current umbrella unit, with explicit statements that YES was formerly known as the Mayor\u2019s Youth Academy; these show a direct lineage and association with the same program lineage. Even when the term 'YES' is used, it is described as the youth-serving unit within the Office of Community Wealth Building that formerly carried the Mayor\u2019s Youth Academy branding, which still ties back to the same program family. Therefore, these excerpts collectively support the field value by confirming the program identity and its evolution, with the most direct matches naming the Mayor\u2019s Youth Academy or describing its direct transition to YES while retaining the same program origin and purpose.",
+        "citations": [
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)",
+              "Be a resident of the City of Richmond or actively enrolled in foster care services through Richmond Social Services at the program's start",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_organizations_and_contacts.1",
+        "reasoning": "The targeted field value describes the Virginia Department of Labor and Industry (DOLI) as the state agency responsible for reviewing youth employment applications and issuing electronic Employment Certificates through the Virginia Electronic Employment Certificate System (VAeECS). The most relevant excerpt explicitly discusses the VAeECS portal and the Employment Certificates process, including the online application portal. This supports the existence of the VAeECS system and the general process of issuing electronic certificates, which is the core function described in the field value. Although the excerpt does not name DOLI directly, it confirms the employment certificate workflow administered via VAeECS, aligning with the described role in the field value. Other excerpts describe YouthWorks RVA and Mayor's Youth Academy, which do not directly substantiate the DOLI/VAeECS roles and are therefore less relevant to this specific field value.\n",
+        "citations": [
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "youth_employment_programs_overview.0.managing_organization",
+        "reasoning": "The explicit link that establishes the managing organization is found in the excerpt describing Youth Engagement Services as the youth-serving unit within the Office of Community Wealth Building. This directly maps the program governance to the City of Richmond\u2019s OCWB, which matches the requested field value. Additional excerpts describe the Youth Works RVA program and related elements, providing context about the programs themselves but not overriding or contradicting the identified managing organization. Therefore, the most relevant content is the explicit organizational placement within OCWB, while other excerpts corroborate the broader program ecosystem without altering the governance attribution.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Jul 24, 2025 \u2014 Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career exploration through work-based Jul 24, 2025 \u2014 The Youth Empowerment Council is a 13-week advanced leadership program for City of Richmond youth who have prior leadership experience and a strong interest in",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Jul 24, 2025 \u2014 Data Request ... This program combines job training, skills development, and preparation for employment to help youth successfully re-enter the workforce. Jul 24, 2025 \u2014 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),",
+              "Jul 24, 2025 \u00b7 The FY26 Youth Works RVA application is now open! Feel free to start your application here! About Us. Our History. The Youth Engagement Services team (YES),"
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts.3",
+        "reasoning": "The target field value identifies ChamberRVA as a business organization that provides information and promotion for local workforce initiatives, including the Mayor's Youth Academy, and provides a contact detail link to the ChamberRVA page. Excerpts from the ChamberRVA Mayor's Youth Academy materials explicitly describe a collaboration that brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide summer work experiences for city youth, which aligns with ChamberRVA\u2019s role in promoting and supporting workforce initiatives. One excerpt describes Youth Engagement Services (Mayor\u2019s Youth Academy) and mentions its connection to the program and the broader ecosystem of employers, programs, and partners, which supports ChamberRVA\u2019s promotional and informational role within this network. Another excerpt explicitly notes that the program is supported by partner employers and that the organization provides structured internships, reinforcing the idea of a network that ChamberRVA would promote and inform about. A third excerpt reinforces the existence of the Mayor's Youth Academy and its work-based learning framework, which again contextualizes ChamberRVA\u2019s involvement as a coordinating and promotional entity within this ecosystem. A fourth excerpt highlights the Youth Works RVA opportunities, which are part of the same family of youth employment programs and are described in the ChamberRVA context, further supporting the idea that ChamberRVA acts as an information/promotional hub for these programs.\n",
+        "citations": [
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_employment_programs_overview.1.target_age_group",
+        "reasoning": "The target age group specified is 16-24. Excerpts that state the exact age range 16-24 directly support this field value, confirming that the Richmond youth employment programs target late teens and young adults. Several excerpts describe the Mayor's Youth Academy and Youth Engagement Services as programs serving City of Richmond youth within that age range, establishing a clear alignment between the program descriptions and the field value. A nearby excerpt describes an age bracket of 14-24, which includes 16-24 and thus provides supporting context, though it slightly broadens the stated range. Additional excerpts focus on the program structure and participation but do not specify an age range, providing contextual support for the existence and nature of the programs without directly anchoring the exact age band. In combination, the explicitly stated 16-24 range in multiple excerpts provides strong evidence, while related program descriptions reinforce the context of who participates and how these programs operate within the city.",
+        "citations": [
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Be between 14 and 24 years old as of June 11, 2024 (born between June 11, 2010, and June 10, 2000)",
+              "Be a resident of the City of Richmond or actively enrolled in foster care services through Richmond Social Services at the program's start",
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Engagement Services (YES), formerly known as the Mayor's Youth Academy, is the youth-serving unit within the Office of Community Wealth Building (OCWB).",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "youth_employment_programs_overview.0.target_age_group",
+        "reasoning": "The target field is the age group of participants for the youth employment programs overview. The most directly relevant content is the excerpt describing participants as aged 14\u2013324, which, given the context, clearly corresponds to the intended 14\u201324 age range for the program (the typical youth employment program audience). This directly supports the specific field value of 14\u201324. Other excerpts mention the Youth Works RVA program and general youth engagement, but they do not provide explicit age information for the participant population, so they are less relevant to the exact age field.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts.1.organization_name",
+        "reasoning": "The field value specifies the organization Virginia Department of Labor and Industry (DOLI). The excerpt explicitly references the Virginia Department of Labor and Industry as the portal to the Employment Certificates system, directing users to the DOLI website for the Employment Certificates section. This directly corroborates that the organization name in the finegrained field is indeed DOLI, and it places DOLI as the state agency responsible for employment certificates in Virginia. No contradictory information is present in the excerpt, and the connection is explicit through the organizational name and the referenced webpage. Therefore, this excerpt is highly relevant to confirming the field value.",
+        "citations": [
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts.1.role",
+        "reasoning": "The fine-grained field refers to the state agency that reviews youth employment applications and issues electronic Employment Certificates through the VAeECS. The excerpt identifies the VAeECS system and specifically points to an online portal hosted on the Virginia Department of Labor and Industry site under the Labor Law tab labeled \u201cEmployment Certificates.\u201d This connection strongly suggests that the Virginia Department of Labor and Industry (the state labor department) oversees the VAeECS process. While the excerpt does not explicitly state the agency name in a standalone sentence, the hosting domain and context imply that the agency responsible is the Virginia Department of Labor and Industry, which administers employment certificates through VAeECS. Therefore, the field value is supported by the excerpt insofar as it ties VAeECS and electronic certificates to the state labor department\u2019s employment certificates portal.",
+        "citations": [
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_organizations_and_contacts.1.contact_details",
+        "reasoning": "The targeted field value is a specific URL under the Virginia Department of Labor and Industry (DOLI) related to youth employment. The excerpt identifies the VA Electronic Employment Certificate System (VAeECS) and points to the DOLI site, highlighting the Employment Certificates page within the Labor Law section. This demonstrates that Virginia\u2019s official resources for youth employment certifications and work permits are organized under the DOLI domain, aligning with the requested field value\u2019s domain and likely location. Therefore, this excerpt provides direct, domain-relevant evidence supporting the existence and location of official youth-employment-related information, even if it does not quote the exact URL verbatim.",
+        "citations": [
+          {
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/3631/Shs/27020a60-b3ec-435e-a95e-45ca594cb71e/Work_Permit_Info.pdf?disposition=inline",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 The online web application is available at http://www.doli.virginia.gov, follow the link on the right under the Labor Law tab titled \u201cEmployment Certificates\u201d."
+            ],
+            "title": "Virginia Electronic Employment Certificate System (VAeECS)"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts.3.organization_name",
+        "reasoning": "The organization name in question appears to be associated with the Mayor's Youth Academy program content, which is shown as a partner activity within the City of Richmond youth employment ecosystem. The most directly relevant excerpts reference the ChamberRVA domain in the source of the Mayor's Youth Academy material, signaling that ChamberRVA is the organizational host or sponsor for the program. The remaining excerpts describe the program structure and participation broadly and confirm the existence of City of Richmond youth employment initiatives and employer partnerships, but without additional explicit mention of ChamberRVA beyond the program context. Therefore, excerpts mentioning the ChamberRVA source domain and the Mayor's Youth Academy context most strongly support the field value, while others provide contextual support about the program landscape in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_organizations_and_contacts.3.contact_details",
+        "reasoning": "The fine-grained field value is a URL pointing to the Mayor's Youth Academy/ Summer Work-Based Learning page. Excerpts describe the Mayor's Youth Academy as a program run in partnership with City of Richmond agencies, private sector employers, and community organizations, and explicitly reference the same chamberrva URL. These excerpts collectively establish the program\u2019s existence, scope (summer work experiences, partner organizations, structured placements), and the likely source for contact/details, aligning with the expected contact_details field for the fourth organization entry. No excerpt contradicts the URL or the program\u2019s existence, and all provide directly supporting context about the Mayor's Youth Academy and its web presence.",
+        "citations": [
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts.0.role",
+        "reasoning": "The most relevant excerpt introduces the Youth Engagement Services (YES) as the team behind the program, noting its formal naming (YES) and its link to the Mayor\u2019s Youth Academy, which positions YES as the local City of Richmond entity responsible for youth engagement and related summer work programs. The next excerpt expands on the Mayor\u2019s Youth Academy (which YES is aligned with), describing how it brings together city agencies and employers to provide summer work experiences for City of Richmond youth. This directly supports the idea of a city department or programmatic unit that manages Youth Works RVA. The following excerpts further corroborate by describing Youth Works RVA as the city\u2019s eight-week summer workforce development program and by highlighting the role of partner employers, which aligns with the department\u2019s or program\u2019s administration of the initiative. Additional supporting context comes from excerpts describing YES and Mayor\u2019s Youth Academy as the coordinating body for youth employment experiences, including structured work-based learning. Overall, these excerpts collectively identify the managing body (Youth Engagement Services / Mayor\u2019s Youth Academy) and its role in administering Youth Works RVA, which matches the described finegrained field value.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_organizations_and_contacts.0.contact_details",
+        "reasoning": "The field value points to the Youth Engagement Services page, which RVA.gov presents as the hub for Richmond youth employment initiatives, including Youth Works RVA and the Mayor\u2019s Youth Academy (the YES program family). Excerpts that explicitly describe Youth Engagement Services and its related programs show that this page coordinates and supports youth employment activities in Richmond. For example, the page description identifies YES (formerly the Mayor\u2019s Youth Academy) as the program in which city agencies, private employers, and community organizations collaborate to provide work-based learning opportunities for youth, which aligns with the requested URL as the central hub. Additional excerpts describe Youth Works RVA as the city\u2019s eight-week summer workforce program connected to the YES ecosystem, including application details and how employers participate, illustrating the page\u2019s role as a central reference point for the program. Other excerpts discuss Mayor\u2019s Youth Academy content and partnerships, reinforcing the same program network under the YES umbrella. Social media references to YouthWorks RVA sessions and partner information sessions further corroborate the ecosystem and the practical deployment of these programs, though they are secondary sources compared with the official YES page. The AI should connect the fine-grained field value to these descriptions by noting that the page content centers on Youth Engagement Services and its related youth employment programs (Youth Works RVA and Mayor\u2019s Youth Academy) and that the cited excerpts collectively describe the same program family and its partnerships, which is consistent with the provided URL. The content does not contradict the field value; it reinforces that the URL corresponds to the official hub for the Richmond youth employment program ecosystem.",
+        "citations": [
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "The Youth Engagement Services team (YES), formally known as the Mayor\u2019s Youth Academy (MYA), was launched by former Mayor Dwight C.",
+              "Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond\u2019s youth in career exploration through work-based learning. Participants, aged 14\u201324, gain virtual learning and hands-on experience through internships and job placements while strengthening academic, durable (soft), and technical skills.",
+              "**The FY26 Youth Works RVA application is now open!**\nFeel free to start your application [here](https://rva.gov/form/youth-works-rva-application-26) !",
+              "Applications Open Now! ... Youth Works RVA is the City of Richmond's eight-week summer workforce development program that engages Richmond's youth in career",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth"
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/posts/update-the-community-partner-application-for-youthworks-rva-summer-program-has-b/1456432953156183/",
+            "excerpts": [
+              "Update: The community partner application for YouthWorks RVA summer program has been extended to February 20 ... Applications close January 31, 2025. Take"
+            ],
+            "title": "City of Richmond, VA Government - Facebook"
+          },
+          {
+            "url": "https://www.facebook.com/RVAGov/photos/-calling-all-richmond-organizations-want-to-help-shape-our-citys-future-workforc/1472944378171707/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Calling all Richmond organizations! ..."
+          },
+          {
+            "url": "https://www.instagram.com/p/DUWhvxcgaLN/",
+            "excerpts": [
+              "Youth Works RVA is hosting virtual partner information sessions throughout January and February. Learn how you can provide paid internships and professional"
+            ],
+            "title": "Youth Works RVA is hosting virtual partner ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_organizations_and_contacts.3.role",
+        "reasoning": "The most relevant excerpt clearly references a business-oriented organization (Chamber RVA) hosting or describing the Mayor's Youth Academy-related activity and its role in connecting local governance, private sector, and community-based organizations to offer youth work experiences. This directly aligns with the field value describing a business organization that provides information and promotion for local workforce initiatives, including the Mayor's Youth Academy. The next excerpts describe the Mayor's Youth Academy in the context of collaboration among city agencies, private sector employers, and organizations, reinforcing the notion of a coordinated information/promotional ecosystem around youth employment initiatives. Subsequent excerpts emphasize that employers throughout Richmond support the program by providing structured work placements, further illustrating the ecosystem an information/promotional entity would highlight. Overall, these excerpts collectively substantiate the existence of a business-oriented information/promotional hub (the chamber/business association) involved with the Mayor's Youth Academy and related workforce initiatives in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.chamberrva.com/mayors-youth-academy-summer-work-based-learning/",
+            "excerpts": [
+              "City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences. Through our seven-week YES Summer Work\u2013Based Learning program, we",
+              "Each summer, Youth Engagement Services (a.k.a. Mayor\u2019s Youth Academy) brings together local government agencies, private sector employers, community-based organizations, and small businesses to provide City of Richmond youth, between the ages of 16 -24, with an array of summer work experiences.",
+              "Providing structured Work-Based Learning internship opportunities for the city of Richmond youth",
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Mayor's Youth Academy - Summer Work-Based Learning"
+          },
+          {
+            "url": "https://rva.gov/community-wealth-building/youth-engagement-services",
+            "excerpts": [
+              "Employers throughout the City of Richmond make this annual program possible by volunteering to serve as partner employers and providing structured job placements for youth participants."
+            ],
+            "title": "Youth Engagement Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level overview of the findings regarding Richmond, VA's youth employment programs, data systems, and the availability of specific metrics requested by the user."
+        },
+        "data_availability_summary": {
+          "type": "string",
+          "description": "A summary of which of the user's specific questions could be answered with the provided research and which could not due to the absence of specific data points like application numbers, acceptance rates, and dropout rates."
+        },
+        "work_permit_process_details": {
+          "type": "object",
+          "properties": {
+            "system_name": {
+              "type": "string",
+              "description": "The name of the electronic system used for the work permit process."
+            },
+            "process_description": {
+              "type": "string",
+              "description": "A description of the three-part registration process involving the youth, employer, and parent/guardian."
+            },
+            "review_timeline": {
+              "type": "string",
+              "description": "The typical time it takes for the Department to review a submitted application."
+            },
+            "contact_phone": {
+              "type": "string",
+              "description": "The phone number for the Child Labor unit for questions about the process."
+            }
+          },
+          "required": [
+            "system_name",
+            "process_description",
+            "review_timeline",
+            "contact_phone"
+          ],
+          "additionalProperties": false
+        },
+        "youth_program_application_statistics": {
+          "type": "string",
+          "description": "Findings on the number of applications and acceptance rates for Richmond teens aged 14-17 for Youth Works RVA and the Mayor's Youth Employment Summit in 2025 and 2026. This section will note if specific numbers were not found in the research."
+        },
+        "employer_worksite_data_availability": {
+          "type": "string",
+          "description": "An answer to whether the City of Richmond or the Capital Region Workforce Partnership maintains a publicly available, machine-readable list of employer worksites that have hosted youth program participants."
+        },
+        "e_verify_participation_analysis": {
+          "type": "string",
+          "description": "Analysis of the participation rate in E-Verify among Richmond employers who commonly hire teens. Includes information on how to search for E-Verify employers, and a conclusion on whether a pre-compiled percentage is available."
+        },
+        "program_discovery_methods": {
+          "type": "string",
+          "description": "Information on the primary channels through which Richmond teens discover youth employment programs, such as school counselors, social media campaigns, family networks, and community organization outreach."
+        },
+        "employment_funnel_dropout_analysis": {
+          "type": "string",
+          "description": "An assessment of the availability of data on the dropout rate at each stage of the teen employment funnel (application, interview, placement, completion) in Richmond or comparable cities."
+        },
+        "youth_employment_programs_overview": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "program_name": {
+                "type": "string",
+                "description": "The name of the youth employment program."
+              },
+              "managing_organization": {
+                "type": "string",
+                "description": "The organization that manages or runs the program."
+              },
+              "target_age_group": {
+                "type": "string",
+                "description": "The age range of youth the program is designed for."
+              }
+            },
+            "required": [
+              "program_name",
+              "managing_organization",
+              "target_age_group"
+            ],
+            "additionalProperties": false
+          },
+          "description": "An overview of the key youth employment programs identified in Richmond, VA. Each entry will include the program name, managing organization, and target age group. Examples include Youth Works RVA and the Mayor's Youth Academy."
+        },
+        "youth_works_rva_details": {
+          "type": "string",
+          "description": "A detailed description of the Youth Works RVA program, including its history, mission, goals, and the structure of its eight-week summer workforce development program."
+        },
+        "youth_works_rva_eligibility_requirements": {
+          "type": "object",
+          "properties": {
+            "age_range": {
+              "type": "string",
+              "description": "The specific age range required for participation, as of a certain date."
+            },
+            "residency_requirement": {
+              "type": "string",
+              "description": "The residency or enrollment requirements for participants."
+            }
+          },
+          "required": [
+            "age_range",
+            "residency_requirement"
+          ],
+          "additionalProperties": false
+        },
+        "youth_works_rva_program_tracks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "track_name": {
+                "type": "string",
+                "description": "The name of the specific program track within Youth Works RVA."
+              },
+              "description": {
+                "type": "string",
+                "description": "A brief description of the program track's focus and activities."
+              },
+              "target_age_group": {
+                "type": "string",
+                "description": "The specific age group targeted by this program track."
+              }
+            },
+            "required": [
+              "track_name",
+              "description",
+              "target_age_group"
+            ],
+            "additionalProperties": false
+          },
+          "description": "A list and description of the distinct program tracks offered within Youth Works RVA, such as 'Teens in Richmond & Parks (TRIP)', 'Counselors in Training (CIT)', 'Virtual Earn and Learn', 'In-Person Program', and 'Founders Mark Program'."
+        },
+        "mayors_youth_academy_details": {
+          "type": "string",
+          "description": "Information about the Mayor's Youth Academy (MYA), its relationship to the current Youth Engagement Services (YES), its target age group (16-24), and its focus on summer work-based learning experiences."
+        },
+        "employer_partnership_information": {
+          "type": "object",
+          "properties": {
+            "partnership_method": {
+              "type": "string",
+              "description": "Describes the various ways employers can partner with the youth programs."
+            },
+            "contact_person_name": {
+              "type": "string",
+              "description": "The name of the program coordinator for employer partnerships."
+            },
+            "contact_email": {
+              "type": "string",
+              "description": "The email address for the program coordinator."
+            }
+          },
+          "required": [
+            "partnership_method",
+            "contact_person_name",
+            "contact_email"
+          ],
+          "additionalProperties": false
+        },
+        "relevant_data_systems_and_portals": {
+          "type": "string",
+          "description": "Information about relevant data systems, such as the City of Richmond's Open Data Portal, and whether they contain datasets related to youth employment, program participation, or employer worksites."
+        },
+        "key_organizations_and_contacts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "organization_name": {
+                "type": "string",
+                "description": "The full name of the key organization involved in youth employment."
+              },
+              "role": {
+                "type": "string",
+                "description": "The role or function of the organization in the youth employment ecosystem."
+              },
+              "contact_person": {
+                "type": "string",
+                "description": "The name of a key contact person within the organization, if available."
+              },
+              "contact_details": {
+                "type": "string",
+                "description": "Contact information for the organization or person, such as a phone number or email address."
+              }
+            },
+            "required": [
+              "organization_name",
+              "role",
+              "contact_person",
+              "contact_details"
+            ],
+            "additionalProperties": false
+          },
+          "description": "A list of key organizations involved in youth employment in Richmond, VA, including their names, roles, and any available contact information. Examples: Office of Community Wealth Building (OCWB), Virginia Department of Labor and Industry (DOLI)."
+        }
+      },
+      "required": [
+        "executive_summary",
+        "data_availability_summary",
+        "work_permit_process_details",
+        "youth_program_application_statistics",
+        "employer_worksite_data_availability",
+        "e_verify_participation_analysis",
+        "program_discovery_methods",
+        "employment_funnel_dropout_analysis",
+        "youth_employment_programs_overview",
+        "youth_works_rva_details",
+        "youth_works_rva_eligibility_requirements",
+        "youth_works_rva_program_tracks",
+        "mayors_youth_academy_details",
+        "employer_partnership_information",
+        "relevant_data_systems_and_portals",
+        "key_organizations_and_contacts"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "ye_q1_system_data.md"
+  }
+}

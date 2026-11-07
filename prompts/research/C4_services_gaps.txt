@@ -1,0 +1,15 @@
+Services Landscape C4 — Service Gaps: Youth Workforce and Maternal Health
+
+Identify the documented service gaps in both problem areas in Richmond, Virginia.
+
+For youth employment: where do young people fall through the cracks? Which age groups are underserved? Which neighborhoods have the least program access? What is the estimated unmet demand for youth employment programs in Richmond?
+
+For maternal health: where are the coordination gaps between data-producing and data-using organizations? Which organizations lack capacity to do their own data analysis? What indicators are frequently reported inconsistently?
+
+For both: identify whether the gaps are primarily information gaps (people don't know what exists), access gaps (people can't get to what exists), or capacity gaps (organizations can't process information efficiently).
+
+Output
+- Gap inventory by type (information, access, capacity) for each problem area
+- Evidence or estimates of scale where available
+- Inferences (clearly labeled)
+- Unknowns

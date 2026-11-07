@@ -1,0 +1,14 @@
+Prior Art E5 — Weekend-Viable Civic Tech Projects (Comparable Scope)
+
+Research civic-tech projects that were built in 24–48 hours at hackathons and went on to be useful or adopted. Focus especially on projects in youth services, workforce, health data, or social services navigation.
+
+For each project: describe what was built, what data it used, what the team size and skills were, and what happened after the hackathon (abandoned, adopted, scaled, handed off).
+
+Assess: what scoping decisions made weekend-viable projects succeed, what the minimum credible demo looks like for each type of project (pathway guide, data dashboard, program directory), and what the highest-risk scope decisions are.
+
+Output
+- Project inventory with scope, data, team, and outcome
+- Scoping lessons for Thriving Families teams
+- What "minimum credible demo" looks like for each MVP shape
+- Inferences (clearly labeled)
+- Unknowns

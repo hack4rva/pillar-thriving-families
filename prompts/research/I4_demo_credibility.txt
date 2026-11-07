@@ -1,0 +1,13 @@
+Demo Strategy I4 — Building Demo Credibility
+
+Research what makes a civic-tech hackathon demo credible to judges — especially judges with domain expertise in youth services or public health. Focus on what increases and decreases perceived credibility.
+
+Cover: source citation practices (when and how to show sources in the demo), language choices that signal careful scoping vs. overclaiming, how to present curated content as reliable without misrepresenting it as official, how to handle the rubric dimensions (clarity, scope, data readiness, champion, population, operating environment, success criteria, accessibility) in a 3–5 minute presentation, and how to respond to hard questions about limitations.
+
+Output
+- Credibility-building checklist for the demo
+- Language patterns that increase and decrease credibility
+- How to address each rubric dimension in the presentation
+- Hard question preparation guide
+- Inferences (clearly labeled)
+- Unknowns

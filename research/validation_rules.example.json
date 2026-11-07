@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy to validation_rules.json and adjust regexes for conflict checks.",
+  "fact_patterns": [
+    {
+      "key": "poverty_rate_year",
+      "regex": "(?i)poverty rate.*?\b(?P<val>\d{4})\b"
+    }
+  ]
+}
+
